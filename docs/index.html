@@ -8,6 +8,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@500&display=swap" rel="stylesheet">
+<script src="https://accounts.google.com/gsi/client" async defer></script>
 <style>
   :root {
     --bg: #f6f7fb;
@@ -104,11 +105,45 @@
       var(--bg);
   }
 
+  /* ---------- Top bar (sign-in) ---------- */
+  .top-bar {
+    max-width: 1180px;
+    margin: 0 auto;
+    padding: 20px 28px 0;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 12px;
+  }
+  #gsiButton { line-height: 0; }
+  .user-chip {
+    display: none;
+    align-items: center;
+    gap: 8px;
+    padding: 6px 14px 6px 6px;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    font-size: 0.82rem;
+    color: var(--text-dim);
+    box-shadow: var(--shadow-sm);
+  }
+  .user-chip img { width: 24px; height: 24px; border-radius: 50%; }
+  .user-chip strong { color: var(--text); }
+  .signout-link {
+    color: var(--text-faint);
+    font-size: 0.78rem;
+    text-decoration: none;
+    font-weight: 600;
+    cursor: pointer;
+  }
+  .signout-link:hover { color: var(--low); }
+
   /* ---------- Header ---------- */
   header {
     max-width: 1180px;
     margin: 0 auto;
-    padding: 56px 28px 28px;
+    padding: 24px 28px 28px;
   }
   .eyebrow {
     display: inline-flex;
@@ -161,6 +196,119 @@
   .meta-chip strong { color: var(--text); font-weight: 600; }
   .meta-chip a { color: var(--accent); text-decoration: none; font-weight: 600; }
   .meta-chip a:hover { text-decoration: underline; }
+
+  /* ---------- Live match panel ---------- */
+  .live-panel {
+    display: none;
+    max-width: 1180px;
+    margin: 0 auto;
+    padding: 0 28px 24px;
+  }
+  .live-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-lg);
+    padding: 22px 24px;
+    box-shadow: var(--shadow-sm);
+  }
+  .live-card h2 {
+    margin: 0 0 4px;
+    font-size: 1.1rem;
+    font-weight: 700;
+    letter-spacing: -0.02em;
+  }
+  .live-card .live-sub {
+    margin: 0 0 16px;
+    color: var(--text-dim);
+    font-size: 0.86rem;
+    line-height: 1.5;
+  }
+  .live-card textarea {
+    width: 100%;
+    min-height: 130px;
+    resize: vertical;
+    padding: 12px 14px;
+    background: var(--surface-2);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-sm);
+    color: var(--text);
+    font-family: inherit;
+    font-size: 0.88rem;
+    line-height: 1.5;
+  }
+  .live-card textarea:focus {
+    outline: none;
+    border-color: var(--accent);
+    box-shadow: 0 0 0 3px color-mix(in srgb, var(--accent) 18%, transparent);
+  }
+  .live-actions {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-top: 14px;
+    flex-wrap: wrap;
+  }
+  .find-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    background: linear-gradient(135deg, var(--accent), var(--accent-2));
+    color: #fff;
+    border: none;
+    font-family: inherit;
+    font-weight: 700;
+    font-size: 0.9rem;
+    padding: 11px 22px;
+    border-radius: 999px;
+    cursor: pointer;
+    transition: transform 0.15s ease, opacity 0.15s ease;
+  }
+  .find-btn:hover:not(:disabled) { transform: translateY(-1px); opacity: 0.92; }
+  .find-btn:disabled { opacity: 0.55; cursor: not-allowed; }
+  .live-status {
+    font-size: 0.83rem;
+    color: var(--text-dim);
+  }
+  .live-status.is-error { color: var(--low); }
+  .live-status.is-warn { color: var(--mid); }
+  .spinner {
+    width: 15px; height: 15px;
+    border-radius: 50%;
+    border: 2px solid color-mix(in srgb, var(--accent) 30%, transparent);
+    border-top-color: var(--accent);
+    animation: spin 0.7s linear infinite;
+    display: inline-block;
+    vertical-align: middle;
+  }
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  .live-results-banner {
+    display: none;
+    max-width: 1180px;
+    margin: 0 auto;
+    padding: 0 28px 16px;
+  }
+  .live-results-banner .inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    flex-wrap: wrap;
+    background: color-mix(in srgb, var(--accent) 10%, var(--surface));
+    border: 1px solid color-mix(in srgb, var(--accent) 30%, var(--border));
+    border-radius: var(--radius-md);
+    padding: 12px 18px;
+    font-size: 0.85rem;
+  }
+  .live-results-banner strong { color: var(--accent); }
+  .back-to-pool {
+    color: var(--accent);
+    font-weight: 600;
+    text-decoration: none;
+    font-size: 0.83rem;
+    white-space: nowrap;
+  }
+  .back-to-pool:hover { text-decoration: underline; }
 
   /* ---------- Controls ---------- */
   .controls-bar {
@@ -399,16 +547,48 @@
 <body>
 <div class="bg-wash"></div>
 
+<div class="top-bar">
+  <div class="user-chip" id="userChip">
+    <img id="userAvatar" src="" alt="" />
+    <span>Signed in as <strong id="userName"></strong></span>
+    <a class="signout-link" id="signOutLink">Sign out</a>
+  </div>
+  <div id="gsiButton"></div>
+</div>
+
 <header>
-  <div class="eyebrow"><span class="dot"></span> Live &middot; refreshes automatically every 3 hours</div>
+  <div class="eyebrow"><span class="dot"></span> Live &middot; scheduled pool refreshes every 3 hours, or sign in to match live against your own resume</div>
   <h1>AI Job Application Tracker</h1>
-  <p class="subtitle">An n8n workflow scans job boards, scores every new posting against my resume with an LLM, and opens an alert for anything that's a strong fit — running entirely on free infrastructure, nothing hosted 24/7.</p>
+  <p class="subtitle">An n8n workflow scans job boards on a schedule and scores every new posting with an LLM against a resume — that's the job pool below. Sign in with Google and paste your own resume to get the current pool ranked against <em>your</em> background instead, live, in a few seconds.</p>
+  <p class="subtitle" style="margin-top: 10px; font-size: 0.85rem;">Scope note: job sources are currently Adzuna keyword searches (Germany) plus two Greenhouse boards (GitLab, Stripe) — tech/software-skewed. Matches for very different backgrounds may be sparse.</p>
   <div class="header-meta">
-    <span class="meta-chip">Last updated: <strong id="lastUpdated">—</strong></span>
-    <span class="meta-chip"><strong id="jobCountChip">0</strong> jobs tracked</span>
+    <span class="meta-chip">Pool last updated: <strong id="lastUpdated">—</strong></span>
+    <span class="meta-chip"><strong id="jobCountChip">0</strong> jobs in pool</span>
     <span class="meta-chip"><a href="https://github.com/mithulram/ai-job-tracker-n8n" target="_blank" rel="noopener">View source →</a></span>
   </div>
 </header>
+
+<div class="live-panel" id="livePanel">
+  <div class="live-card">
+    <h2>Match the pool against your resume</h2>
+    <p class="live-sub">Paste your resume as plain text. We'll score the newest postings in the pool against it using the same LLM scoring the scheduled pipeline uses. Limited to one search per person every few hours, and a small shared daily total, to stay inside free API tiers.</p>
+    <textarea id="resumeInput" placeholder="Paste your resume text here…"></textarea>
+    <div class="live-actions">
+      <button class="find-btn" id="findJobsBtn">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M13 2 3 14h8l-1 8 10-12h-8l1-8z"/></svg>
+        Find my matches
+      </button>
+      <span class="live-status" id="liveStatus"></span>
+    </div>
+  </div>
+</div>
+
+<div class="live-results-banner" id="liveResultsBanner">
+  <div class="inner">
+    <span>Showing <strong id="liveResultCount">0</strong> live matches for your resume.</span>
+    <a class="back-to-pool" id="backToPool">← Back to the full job pool</a>
+  </div>
+</div>
 
 <div class="controls-bar">
   <div class="controls">
@@ -463,6 +643,12 @@
   const DATA_URL = `https://raw.githubusercontent.com/${OWNER}/${REPO}/${BRANCH}/data/jobs.json?t=${Date.now()}`;
   const FALLBACK_URL = '../data/jobs.json';
 
+  // Fill these in after you've created your own Google OAuth Client and deployed
+  // the Cloudflare Worker (see SETUP.md). Live search stays hidden/disabled until
+  // GOOGLE_CLIENT_ID is set to a real value.
+  const GOOGLE_CLIENT_ID = 'REPLACE_WITH_YOUR_GOOGLE_OAUTH_CLIENT_ID';
+  const WORKER_URL = 'REPLACE_WITH_YOUR_WORKER_URL/search'; // e.g. https://ai-job-tracker-live-search.<you>.workers.dev/search
+
   const grid = document.getElementById('grid');
   const emptyEl = document.getElementById('empty');
   const errorEl = document.getElementById('error');
@@ -475,7 +661,22 @@
   const lastUpdatedEl = document.getElementById('lastUpdated');
   const jobCountChipEl = document.getElementById('jobCountChip');
 
+  const gsiButtonEl = document.getElementById('gsiButton');
+  const userChipEl = document.getElementById('userChip');
+  const userAvatarEl = document.getElementById('userAvatar');
+  const userNameEl = document.getElementById('userName');
+  const signOutLinkEl = document.getElementById('signOutLink');
+  const livePanelEl = document.getElementById('livePanel');
+  const resumeInputEl = document.getElementById('resumeInput');
+  const findJobsBtnEl = document.getElementById('findJobsBtn');
+  const liveStatusEl = document.getElementById('liveStatus');
+  const liveResultsBannerEl = document.getElementById('liveResultsBanner');
+  const liveResultCountEl = document.getElementById('liveResultCount');
+  const backToPoolEl = document.getElementById('backToPool');
+
   let jobs = [];
+  let idToken = null;
+  let viewingLiveResults = false;
 
   function scoreClass(score) {
     if (score >= 75) return 'good';
@@ -503,7 +704,40 @@
     return `${days}d ago`;
   }
 
+  function buildCardHtml(j) {
+    const score = Number(j.fit_score) || 0;
+    const sourceClass = j.source ? `source-${j.source}` : '';
+    return `
+      <div class="card-top">
+        <div>
+          <div class="card-title">${escapeHtml(j.title)}</div>
+          <div class="card-company">${escapeHtml(j.company)}</div>
+        </div>
+        <div class="badge ${scoreClass(score)}">${score}<span>PCT</span></div>
+      </div>
+      <div class="meta">
+        <span class="pill">${escapeHtml(j.location || 'Unknown location')}</span>
+        <span class="pill ${sourceClass}">${escapeHtml(j.source || 'unknown')}</span>
+      </div>
+      ${j.reasoning ? `<div class="reasoning">${escapeHtml(j.reasoning)}</div>` : ''}
+      <div class="card-actions">
+        ${j.url ? `<a class="apply-btn" href="${escapeHtml(j.url)}" target="_blank" rel="noopener">Apply <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17 17 7M7 7h10v10"/></svg></a>` : ''}
+      </div>
+    `;
+  }
+
+  function renderJobsList(list) {
+    grid.innerHTML = '';
+    for (const j of list) {
+      const card = document.createElement('div');
+      card.className = 'card';
+      card.innerHTML = buildCardHtml(j);
+      grid.appendChild(card);
+    }
+  }
+
   function render() {
+    if (viewingLiveResults) return; // live results are rendered separately, filters apply to the static pool only
     const q = searchEl.value.trim().toLowerCase();
     const src = sourceFilterEl.value;
     const minScore = Number(minScoreEl.value) || 0;
@@ -523,7 +757,6 @@
       return 0;
     });
 
-    grid.innerHTML = '';
     const hasAnyJobs = jobs.length > 0;
     emptyEl.style.display = (hasAnyJobs && filtered.length === 0) ? 'flex' : 'none';
     if (!hasAnyJobs) {
@@ -532,31 +765,7 @@
       emptyEl.querySelector('p').textContent = 'The workflow hasn\'t completed a run yet. It fires every 3 hours automatically, or can be triggered manually from the Actions tab.';
     }
     statsEl.textContent = hasAnyJobs ? `${filtered.length} of ${jobs.length} jobs` : '';
-
-    for (const j of filtered) {
-      const card = document.createElement('div');
-      card.className = 'card';
-      const score = Number(j.fit_score) || 0;
-      const sourceClass = j.source ? `source-${j.source}` : '';
-      card.innerHTML = `
-        <div class="card-top">
-          <div>
-            <div class="card-title">${escapeHtml(j.title)}</div>
-            <div class="card-company">${escapeHtml(j.company)}</div>
-          </div>
-          <div class="badge ${scoreClass(score)}">${score}<span>PCT</span></div>
-        </div>
-        <div class="meta">
-          <span class="pill">${escapeHtml(j.location || 'Unknown location')}</span>
-          <span class="pill ${sourceClass}">${escapeHtml(j.source || 'unknown')}</span>
-        </div>
-        ${j.reasoning ? `<div class="reasoning">${escapeHtml(j.reasoning)}</div>` : ''}
-        <div class="card-actions">
-          ${j.url ? `<a class="apply-btn" href="${escapeHtml(j.url)}" target="_blank" rel="noopener">Apply <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17 17 7M7 7h10v10"/></svg></a>` : ''}
-        </div>
-      `;
-      grid.appendChild(card);
-    }
+    renderJobsList(filtered);
   }
 
   function populateSources() {
@@ -609,6 +818,135 @@
   sourceFilterEl.addEventListener('change', render);
   minScoreEl.addEventListener('change', render);
   sortByEl.addEventListener('change', render);
+
+  // ---------------- Google Sign-In + live matching ----------------
+
+  function decodeJwtPayload(token) {
+    try {
+      const payloadB64 = token.split('.')[1].replace(/-/g, '+').replace(/_/g, '/');
+      return JSON.parse(decodeURIComponent(escape(atob(payloadB64))));
+    } catch (e) {
+      return {};
+    }
+  }
+
+  function formatDuration(ms) {
+    if (ms <= 0) return 'now';
+    const totalMin = Math.ceil(ms / 60000);
+    const h = Math.floor(totalMin / 60);
+    const m = totalMin % 60;
+    if (h > 0) return `${h}h ${m}m`;
+    return `${m}m`;
+  }
+
+  function setLiveStatus(text, kind) {
+    liveStatusEl.textContent = text || '';
+    liveStatusEl.className = 'live-status' + (kind ? ` is-${kind}` : '');
+  }
+
+  function handleCredentialResponse(response) {
+    idToken = response.credential;
+    const claims = decodeJwtPayload(idToken);
+    userNameEl.textContent = claims.given_name || claims.name || claims.email || 'there';
+    userAvatarEl.src = claims.picture || '';
+    userChipEl.style.display = 'inline-flex';
+    gsiButtonEl.style.display = 'none';
+    livePanelEl.style.display = 'block';
+    setLiveStatus('');
+  }
+
+  function signOut() {
+    idToken = null;
+    userChipEl.style.display = 'none';
+    gsiButtonEl.style.display = '';
+    livePanelEl.style.display = 'none';
+    if (viewingLiveResults) showStaticPool();
+    if (window.google && google.accounts && google.accounts.id) {
+      google.accounts.id.disableAutoSelect();
+    }
+  }
+  signOutLinkEl.addEventListener('click', signOut);
+
+  function showStaticPool() {
+    viewingLiveResults = false;
+    liveResultsBannerEl.style.display = 'none';
+    render();
+  }
+  backToPoolEl.addEventListener('click', showStaticPool);
+
+  async function findMyMatches() {
+    const resumeText = resumeInputEl.value.trim();
+    if (resumeText.length < 30) {
+      setLiveStatus('Paste a bit more of your resume first (at least a few sentences).', 'warn');
+      return;
+    }
+    if (!idToken) {
+      setLiveStatus('Please sign in again — your session expired.', 'error');
+      return;
+    }
+    if (WORKER_URL.includes('REPLACE_WITH_YOUR_WORKER_URL')) {
+      setLiveStatus('Live matching isn\'t configured yet on this deployment (Worker URL not set).', 'error');
+      return;
+    }
+
+    findJobsBtnEl.disabled = true;
+    setLiveStatus('Scoring the current job pool against your resume…');
+    liveStatusEl.innerHTML = '<span class="spinner"></span> Scoring the current job pool against your resume…';
+    liveStatusEl.className = 'live-status';
+
+    try {
+      const res = await fetch(WORKER_URL, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ idToken, resumeText }),
+      });
+      const data = await res.json();
+
+      if (res.status === 429 && data.error === 'rate_limited') {
+        setLiveStatus(`You already searched recently. Next search available in ${formatDuration(data.retryAfterMs)}.`, 'warn');
+        return;
+      }
+      if (res.status === 429 && data.error === 'daily_limit_reached') {
+        setLiveStatus(data.message || 'Daily search limit reached — try again tomorrow.', 'warn');
+        return;
+      }
+      if (!res.ok) {
+        setLiveStatus(data.message || data.error || 'Something went wrong scoring your resume. Try again shortly.', 'error');
+        return;
+      }
+
+      viewingLiveResults = true;
+      liveResultCountEl.textContent = data.jobsScored || 0;
+      liveResultsBannerEl.style.display = 'block';
+      emptyEl.style.display = (data.results || []).length === 0 ? 'flex' : 'none';
+      if ((data.results || []).length === 0) {
+        emptyEl.querySelector('h3').textContent = 'No matches found';
+        emptyEl.querySelector('p').textContent = 'The current pool didn\'t have anything to score, or your resume text was too short.';
+      }
+      statsEl.textContent = `${data.jobsScored || 0} live-scored matches`;
+      renderJobsList(data.results || []);
+      setLiveStatus(`Done — ${data.dailyRemaining ?? '?'} shared searches left today.`);
+    } catch (e) {
+      setLiveStatus('Network error reaching the matching service. Try again shortly.', 'error');
+    } finally {
+      findJobsBtnEl.disabled = false;
+    }
+  }
+  findJobsBtnEl.addEventListener('click', findMyMatches);
+
+  function initGoogleSignIn() {
+    if (GOOGLE_CLIENT_ID.includes('REPLACE_WITH_YOUR_GOOGLE_OAUTH_CLIENT_ID')) return; // not configured on this deployment
+    if (!window.google || !google.accounts || !google.accounts.id) {
+      setTimeout(initGoogleSignIn, 300);
+      return;
+    }
+    google.accounts.id.initialize({
+      client_id: GOOGLE_CLIENT_ID,
+      callback: handleCredentialResponse,
+    });
+    google.accounts.id.renderButton(gsiButtonEl, { theme: 'outline', size: 'medium', shape: 'pill', text: 'signin_with' });
+  }
+  initGoogleSignIn();
 
   load();
 })();

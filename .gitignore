@@ -2,3 +2,8 @@ node_modules/
 .n8n/
 *.log
 .DS_Store
+
+# Cloudflare Worker local dev artifacts
+worker/node_modules/
+worker/.wrangler/
+worker/.dev.vars
