@@ -1,5 +1,19 @@
 [
   {
+    "job_id": "873451ab61365a69",
+    "title": "Forward Deployed Engineer, AI and Agentic SDLC",
+    "company": "gitlab",
+    "location": "Remote, United States",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8517171002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-08-25T14:52:28-04:00",
+    "fit_score": 45,
+    "reasoning": "The candidate has solid backend and cloud engineering experience with Java, Python, and Azure, which aligns with GitLab's DevSecOps focus. However, they lack direct AI/ML or agentic SDLC experience and are seeking part‑time roles in Germany, while the position is a full‑time remote role for a US‑based team. Consequently, the overall fit is moderate.",
+    "cover_letter_opener": "I am excited to bring my cloud‑native backend expertise and passion for AI integration to GitLab’s Forward Deployed Engineer team, helping accelerate intelligent software delivery worldwide.",
+    "scored_at": "2026-08-25T21:22:41.180Z"
+  },
+  {
     "job_id": "33f837f8439f6d4a",
     "title": "Chief of Staff, CRO",
     "company": "gitlab",
@@ -42,6 +56,20 @@
     "scored_at": "2026-08-25T11:51:33.452Z"
   },
   {
+    "job_id": "36dafc964f6954f8",
+    "title": "Engineering Manager, Gitlab Delivery: Upgrades",
+    "company": "gitlab",
+    "location": "Bangalore, India",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8463917002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-08-24T05:39:12-04:00",
+    "fit_score": 30,
+    "reasoning": "The candidate has strong backend and cloud engineering experience with Java, Spring Boot, and Azure, which aligns with GitLab's DevSecOps focus. However, they lack senior management experience, specific GitLab product knowledge, and are based in Germany while the role is in Bangalore, reducing overall suitability. Consequently, the fit is moderate to low.",
+    "cover_letter_opener": "I am excited about the opportunity to bring my cloud‑native backend expertise and passion for AI‑enhanced DevSecOps to GitLab’s Engineering Manager role in Bangalore.",
+    "scored_at": "2026-08-25T21:22:41.172Z"
+  },
+  {
     "job_id": "6c698b0fd0a95840",
     "title": "Business Development Representative (Sydney or Melbourne)",
     "company": "gitlab",
@@ -68,6 +96,20 @@
     "reasoning": "The candidate’s experience centers on Java backend, cloud services, and automotive cybersecurity, while the role requires senior engineering‑manager expertise in database change management. Additionally, the candidate seeks part‑time work in Germany, which does not align with the full‑time Bangalore location, leading to a low overall match.",
     "cover_letter_opener": "I am excited about the opportunity to contribute to GitLab’s innovative Database Change Management team and help drive secure, scalable solutions worldwide.",
     "scored_at": "2026-08-25T18:29:26.971Z"
+  },
+  {
+    "job_id": "180c66c5f9f10bfd",
+    "title": "Fullstack Engineer (TypeScript), AI Engineering: Duo Client SDK",
+    "company": "gitlab",
+    "location": "Remote, Canada; Remote, United States",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8698330002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-08-20T21:22:41-04:00",
+    "fit_score": 35,
+    "reasoning": "The candidate has solid backend and cloud experience with Java, Spring Boot, Python, and Azure, which aligns with GitLab's cloud focus, but lacks direct TypeScript and full‑stack web development experience required for the role. Their AI interest and strong engineering background suggest they could quickly adapt, though the current skill gap limits the fit.",
+    "cover_letter_opener": "I’m excited to bring my cloud‑native backend expertise and passion for AI to GitLab’s Duo Client SDK team and help shape the future of intelligent DevSecOps.",
+    "scored_at": "2026-08-25T21:22:41.186Z"
   },
   {
     "job_id": "8ecec22797147d50",
@@ -236,6 +278,20 @@
     "reasoning": "The candidate's background is heavily technical, focusing on software development, cloud, and AI, while the role is a commercial sales position requiring account management and revenue generation experience. Additionally, the candidate seeks a part‑time student role in Germany, whereas the job is a full‑time remote position based in the United States.",
     "cover_letter_opener": "I am thrilled by GitLab’s vision of intelligent DevSecOps orchestration and eager to help organizations accelerate their digital transformation as part of your Commercial Account Executive team.",
     "scored_at": "2026-08-25T12:12:13.779Z"
+  },
+  {
+    "job_id": "59176da5a5683611",
+    "title": "Engineering Manager, SSCS: Supply Chain",
+    "company": "gitlab",
+    "location": "Bangalore, India",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8478405002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-08-11T10:28:56-04:00",
+    "fit_score": 20,
+    "reasoning": "The candidate has strong software development experience with Java, Spring Boot, and cloud platforms, but lacks senior management experience and supply chain domain knowledge required for an Engineering Manager role. Additionally, the candidate is seeking part‑time work in Germany, whereas the position is a full‑time leadership role based in Bangalore, India. These gaps significantly reduce the overall fit.",
+    "cover_letter_opener": "I am thrilled at the prospect of joining GitLab’s Supply Chain team to help shape the future of intelligent DevSecOps solutions.",
+    "scored_at": "2026-08-25T21:22:41.175Z"
   },
   {
     "job_id": "a49c118507069745",
@@ -670,5 +726,117 @@
     "reasoning": "The candidate possesses strong backend and cloud skills with Java, Spring Boot, and Azure, which align with GitLab's integration work, but lacks senior engineering management experience and direct DevSecOps or GitLab platform expertise. Additionally, the role emphasizes leading integration teams and AI-driven productivity, whereas the candidate is seeking a junior/part‑time position and focuses on transitioning to an AI Solutions Architect role. Consequently, the overall fit is limited.",
     "cover_letter_opener": "I am thrilled by GitLab's AI‑powered DevSecOps vision and eager to bring my cloud‑native backend expertise to help drive seamless integrations for your global customers.",
     "scored_at": "2026-08-25T18:29:26.972Z"
+  },
+  {
+    "job_id": "01b28a7c4882bb28",
+    "title": "Engineering Manager, Growth",
+    "company": "gitlab",
+    "location": "Remote, Canada; Remote, US",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8592891002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-08-10T16:52:46-04:00",
+    "fit_score": 32,
+    "reasoning": "The candidate possesses strong backend and cloud engineering skills with Azure and Java, which align with GitLab's DevSecOps platform, but lacks direct experience in engineering management and growth-focused product strategy. Additionally, the resume does not demonstrate leadership of teams or familiarity with GitLab's ecosystem, and the candidate is based in Germany while the role targets remote work for Canada/US. Consequently, the overall fit is modest.",
+    "cover_letter_opener": "I am excited about GitLab’s AI‑driven growth vision and eager to bring my cloud‑native engineering expertise to help accelerate the platform’s success.",
+    "scored_at": "2026-08-25T21:22:41.173Z"
+  },
+  {
+    "job_id": "088da89a35021718",
+    "title": "Engineering Manager, Switchboard",
+    "company": "gitlab",
+    "location": "Remote, United Kingdom",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8586632002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-08-10T16:52:46-04:00",
+    "fit_score": 30,
+    "reasoning": "The candidate has strong backend and cloud skills with Java, Spring Boot, and Azure, which align with GitLab's DevSecOps focus, but lacks engineering management experience and specific GitLab product knowledge. Additionally, the role is senior and remote UK‑based, while the candidate is seeking a part‑time student position in Germany, reducing overall fit.",
+    "cover_letter_opener": "I am excited to bring my cloud‑native backend expertise and passion for AI‑driven DevSecOps to GitLab’s Switchboard team as an Engineering Manager.",
+    "scored_at": "2026-08-25T21:22:41.176Z"
+  },
+  {
+    "job_id": "03ad30f2d140f63d",
+    "title": "Engineering Manager, Tenant Scale:Git",
+    "company": "gitlab",
+    "location": "Remote, Canada; Remote, United Kingdom; Remote, United States",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8617538002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-08-10T16:52:46-04:00",
+    "fit_score": 35,
+    "reasoning": "The candidate has solid backend and cloud engineering experience with Java, Spring Boot, and Azure, which aligns with GitLab's cloud-native focus. However, they lack direct experience in large‑scale tenant engineering, DevSecOps processes, and managerial responsibilities required for an Engineering Manager role. Their career goal toward AI solutions architecture is relevant to GitLab's AI emphasis but does not compensate for the missing leadership and domain expertise.",
+    "cover_letter_opener": "I am excited to bring my cloud‑native backend expertise and passion for AI‑driven productivity to help GitLab scale its tenant platform and accelerate DevSecOps innovation.",
+    "scored_at": "2026-08-25T21:22:41.178Z"
+  },
+  {
+    "job_id": "7b2cfe22683fee82",
+    "title": "Enterprise Account Executive - Singapore",
+    "company": "gitlab",
+    "location": "Remote, Singapore",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8640151002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-08-10T16:52:46-04:00",
+    "fit_score": 12,
+    "reasoning": "The candidate’s background is focused on software development, cloud infrastructure, and AI solutions, with no demonstrated sales or account management experience. Additionally, the candidate is based in Germany and seeking part‑time roles, while the position is a full‑time Enterprise Account Executive role targeting Singapore. Therefore, the alignment with the core responsibilities and location requirements is minimal.",
+    "cover_letter_opener": "I am thrilled at the prospect of leveraging my technical expertise to help GitLab accelerate enterprise growth and deliver AI‑enhanced DevSecOps solutions to customers in Singapore.",
+    "scored_at": "2026-08-25T21:22:41.179Z"
+  },
+  {
+    "job_id": "d28b4b94d32817ac",
+    "title": "Forward Deployed Engineer - EMEA",
+    "company": "gitlab",
+    "location": "Remote Ireland; Remote, Austria; Remote, Denmark; Remote, France; Remote, Germany; Remote, Netherlands; Remote, Switzerland; Remote, United Kingdom",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8522408002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-08-10T16:52:46-04:00",
+    "fit_score": 60,
+    "reasoning": "The candidate has strong backend and cloud experience with Java, Spring Boot, and Azure, which aligns with the engineering focus of a Forward Deployed Engineer. However, the resume lacks explicit experience with GitLab's CI/CD platform, DevSecOps tooling, and the specific AI integration emphasis mentioned in the job description, limiting the overall match.",
+    "cover_letter_opener": "I am excited to bring my cloud‑native backend expertise and cybersecurity research to GitLab’s Forward Deployed Engineer team, helping customers accelerate secure, AI‑enhanced software delivery across EMEA.",
+    "scored_at": "2026-08-25T21:22:41.182Z"
+  },
+  {
+    "job_id": "6e443413bc09b5c3",
+    "title": "Forward Deployed Engineer - EMEA",
+    "company": "gitlab",
+    "location": "Remote Ireland; Remote, Denmark; Remote, France; Remote, Germany; Remote, Italy; Remote, Netherlands; Remote, Sweden; Remote, United Kingdom",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8522265002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-08-10T16:52:46-04:00",
+    "fit_score": 58,
+    "reasoning": "The candidate has solid backend and cloud experience with Java, Python, and Azure, plus cybersecurity research, which aligns with GitLab's DevSecOps focus. However, they lack direct experience with GitLab's CI/CD platform and the specific forward‑deployed engineering role, resulting in a moderate fit.",
+    "cover_letter_opener": "I am excited to bring my cloud‑native backend and security expertise to GitLab’s Forward Deployed Engineer team and help accelerate AI‑driven DevSecOps solutions.",
+    "scored_at": "2026-08-25T21:22:41.183Z"
+  },
+  {
+    "job_id": "500d3edad8264631",
+    "title": "Forward Deployed Engineer - META",
+    "company": "gitlab",
+    "location": "Remote, United Arab Emirates",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8524783002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-08-10T16:52:46-04:00",
+    "fit_score": 45,
+    "reasoning": "The candidate has solid backend and cloud experience with Java, Spring Boot, Azure, and Python, which aligns with the engineering focus of a Forward Deployed Engineer. However, the resume lacks direct DevSecOps, GitLab CI/CD, or Meta-specific experience, and the role emphasizes AI-driven productivity within GitLab’s platform, resulting in a moderate fit.",
+    "cover_letter_opener": "I am excited to bring my cloud‑native backend expertise and passion for AI‑enhanced DevSecOps to GitLab’s Forward Deployed Engineer team.",
+    "scored_at": "2026-08-25T21:22:41.185Z"
+  },
+  {
+    "job_id": "2f2d3c2ed0b8816e",
+    "title": "FP&A Manager, R&D",
+    "company": "gitlab",
+    "location": "Remote, Canada; Remote, US",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8626198002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-08-10T16:52:46-04:00",
+    "fit_score": 12,
+    "reasoning": "The candidate's experience centers on software development, cloud infrastructure, and AI, which does not align with the financial planning and analysis focus of the FP&A Manager role. Additionally, the resume lacks any finance, budgeting, or data analysis experience required for the position, resulting in a low match.",
+    "cover_letter_opener": "I am excited to leverage my strong analytical mindset and tech background to help drive strategic financial planning for GitLab's R&D initiatives.",
+    "scored_at": "2026-08-25T21:22:41.185Z"
   }
 ]
