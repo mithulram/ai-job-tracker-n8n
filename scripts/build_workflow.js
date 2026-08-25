@@ -231,9 +231,12 @@ addNode({
     jsCode: `
 let existingJobs = [];
 try {
-  const fileItem = $('Read Existing jobs.json').first();
-  const buf = fileItem.binary.data;
-  const text = Buffer.from(buf.data, 'base64').toString('utf-8');
+  // Use n8n's binary-data helper rather than assuming binary.data.data is inline
+  // base64 - on filesystem-backed binary storage (e.g. GitHub Actions runners)
+  // it's a storage reference, not the raw content, and reading it directly
+  // silently decodes to garbage instead of throwing.
+  const buffer = await $helpers.getBinaryDataBuffer(0, 'data');
+  const text = buffer.toString('utf-8');
   existingJobs = JSON.parse(text || '[]');
 } catch (e) {
   existingJobs = [];
@@ -407,7 +410,7 @@ addNode({
     },
     sendBody: true,
     specifyBody: 'json',
-    jsonBody: '={{ JSON.stringify({\n  title: "🎯 " + $json.fit_score + "% match: " + $json.title + " @ " + $json.company,\n  body: "**Fit score:** " + $json.fit_score + "/100\\n**Company:** " + $json.company + "\\n**Location:** " + $json.location + "\\n**Source:** " + $json.source + "\\n\\n**Why it matches:**\\n" + $json.reasoning + "\\n\\n**Suggested cover letter opener:**\\n> " + $json.cover_letter_opener + "\\n\\n**Apply:** " + $json.url,\n  labels: ["job-match", "auto-generated"]\n}) }}',
+    jsonBody: '={{ JSON.stringify({\n  title: "🎯 " + $json.fit_score + "% match: " + $json.title + " @ " + $json.company,\n  body: "**Fit score:** " + $json.fit_score + "/100\\n**Company:** " + $json.company + "\\n**Location:** " + $json.location + "\\n**Source:** " + $json.source + "\\n\\n**Why it matches:**\\n" + $json.reasoning + "\\n\\n**Suggested cover letter opener:**\\n> " + $json.cover_letter_opener + "\\n\\n**Apply:** " + $json.url\n}) }}',
     options: { timeout: 20000 }
   }
 });
