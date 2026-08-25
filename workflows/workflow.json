@@ -1,0 +1,734 @@
+{
+  "id": "ai-job-tracker-001",
+  "name": "AI Job Application Tracker & Alert System",
+  "nodes": [
+    {
+      "id": "node-sticky-1",
+      "name": "Sticky: Overview",
+      "type": "n8n-nodes-base.stickyNote",
+      "typeVersion": 1,
+      "position": [
+        -400,
+        -420
+      ],
+      "parameters": {
+        "width": 620,
+        "height": 260,
+        "color": 4,
+        "content": "## AI Job Application Tracker & Alert System\n\nRuns headlessly every 3h via GitHub Actions (`n8n execute --file=workflows/workflow.json`).\n\n1. Fetch jobs (Adzuna + Greenhouse boards)\n2. Normalize + merge sources\n3. Dedupe against data/jobs.json\n4. Score new jobs with Groq LLM against my resume\n5. Save results back to data/jobs.json\n6. Open a GitHub Issue for any match scoring >= 75\n\nEdit search keywords / location / resume text in the **Config** node below."
+      }
+    },
+    {
+      "id": "node-sticky-2",
+      "name": "Sticky: Sources",
+      "type": "n8n-nodes-base.stickyNote",
+      "typeVersion": 1,
+      "position": [
+        -400,
+        -100
+      ],
+      "parameters": {
+        "width": 620,
+        "height": 200,
+        "color": 5,
+        "content": "### Step 1 — Fetch job postings\nAdzuna API (Germany, role keywords from Config) + two public Greenhouse company job boards (no auth needed). Results are normalized into a common shape: job_id, title, company, location, url, description, source."
+      }
+    },
+    {
+      "id": "node-sticky-3",
+      "name": "Sticky: Dedupe",
+      "type": "n8n-nodes-base.stickyNote",
+      "typeVersion": 1,
+      "position": [
+        420,
+        -100
+      ],
+      "parameters": {
+        "width": 460,
+        "height": 200,
+        "color": 6,
+        "content": "### Step 2 — Dedupe\nReads the committed data/jobs.json (already checked out by the Action) and drops any job whose job_id has already been seen, so we only spend LLM calls on genuinely new postings."
+      }
+    },
+    {
+      "id": "node-sticky-4",
+      "name": "Sticky: Scoring",
+      "type": "n8n-nodes-base.stickyNote",
+      "typeVersion": 1,
+      "position": [
+        980,
+        -100
+      ],
+      "parameters": {
+        "width": 460,
+        "height": 200,
+        "color": 7,
+        "content": "### Step 3 — Score with Groq\nEach new job + my resume text is sent to Groq (openai/gpt-oss-120b). The model returns fit_score (0-100), reasoning, and a cover_letter_opener as strict JSON."
+      }
+    },
+    {
+      "id": "node-sticky-5",
+      "name": "Sticky: Save & Alert",
+      "type": "n8n-nodes-base.stickyNote",
+      "typeVersion": 1,
+      "position": [
+        1500,
+        -100
+      ],
+      "parameters": {
+        "width": 520,
+        "height": 260,
+        "color": 3,
+        "content": "### Step 4 — Save + Alert\nAll scored jobs (old + new) are written back to data/jobs.json, which the Action commits. Any new job with fit_score >= 75 gets a GitHub Issue opened via the GITHUB_TOKEN the Action already has — no extra signup, this is the \"alert\"."
+      }
+    },
+    {
+      "id": "node-trigger",
+      "name": "Manual Trigger",
+      "type": "n8n-nodes-base.manualTrigger",
+      "typeVersion": 1,
+      "position": [
+        -380,
+        140
+      ],
+      "parameters": {}
+    },
+    {
+      "id": "node-config",
+      "name": "Config",
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [
+        -140,
+        140
+      ],
+      "parameters": {
+        "mode": "manual",
+        "duplicateItem": false,
+        "assignments": {
+          "assignments": [
+            {
+              "id": "a1a",
+              "name": "searchKeyword1",
+              "type": "string",
+              "value": "Werkstudent Software Engineer"
+            },
+            {
+              "id": "a1b",
+              "name": "searchKeyword2",
+              "type": "string",
+              "value": "AI Solutions Architect"
+            },
+            {
+              "id": "a2",
+              "name": "location",
+              "type": "string",
+              "value": "Germany"
+            },
+            {
+              "id": "a3",
+              "name": "adzunaCountry",
+              "type": "string",
+              "value": "de"
+            },
+            {
+              "id": "a4",
+              "name": "resultsPerSource",
+              "type": "number",
+              "value": 10
+            },
+            {
+              "id": "a5",
+              "name": "fitScoreThreshold",
+              "type": "number",
+              "value": 75
+            },
+            {
+              "id": "a5b",
+              "name": "maxJobsToScorePerRun",
+              "type": "number",
+              "value": 12
+            },
+            {
+              "id": "a6",
+              "name": "githubRepo",
+              "type": "string",
+              "value": "={{$env.GITHUB_REPOSITORY || \"mithulram/ai-job-tracker-n8n\"}}"
+            },
+            {
+              "id": "a7",
+              "name": "resumeText",
+              "type": "string",
+              "value": "CANDIDATE PROFILE (edit this block with your real resume text):\nMaster's student in Informatics at the University of Passau, Germany. Student Research Assistant (ASOA) working on automotive cybersecurity and risk/threat modeling. 3+ years of Java backend and mobile development experience with Spring Boot, Flutter, and Firebase. Core skills: Spring Boot, Flutter, Firebase, Microsoft Azure, Python, REST API design. Certifications: Microsoft Certified Azure Solutions Architect Expert, Azure Administrator Associate, Oracle Java SE 11 Developer, PCAP Python Certified Associate Programmer, Advanced C++. Career goal: transition into an AI Solutions Architect role, integrating AI/LLM systems with cloud infrastructure and scalable backend services. Currently seeking Werkstudent / part-time software engineering roles in Germany while completing the Master's degree, with a longer-term target of AI Solutions Architect / Cloud Engineer positions."
+            },
+            {
+              "id": "a8",
+              "name": "greenhouseBoard1",
+              "type": "string",
+              "value": "gitlab"
+            },
+            {
+              "id": "a9",
+              "name": "greenhouseBoard2",
+              "type": "string",
+              "value": "stripe"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "node-adzuna",
+      "name": "Adzuna - Fetch Jobs (Keyword 1)",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        140,
+        -140
+      ],
+      "parameters": {
+        "url": "=https://api.adzuna.com/v1/api/jobs/{{$json.adzunaCountry}}/search/1",
+        "sendQuery": true,
+        "queryParameters": {
+          "parameters": [
+            {
+              "name": "app_id",
+              "value": "={{$env.ADZUNA_APP_ID}}"
+            },
+            {
+              "name": "app_key",
+              "value": "={{$env.ADZUNA_APP_KEY}}"
+            },
+            {
+              "name": "what",
+              "value": "={{$json.searchKeyword1}}"
+            },
+            {
+              "name": "where",
+              "value": "={{$json.location}}"
+            },
+            {
+              "name": "results_per_page",
+              "value": "={{$json.resultsPerSource}}"
+            },
+            {
+              "name": "content-type",
+              "value": "application/json"
+            }
+          ]
+        },
+        "options": {
+          "timeout": 20000
+        }
+      }
+    },
+    {
+      "id": "node-adzuna2",
+      "name": "Adzuna - Fetch Jobs (Keyword 2)",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        140,
+        -20
+      ],
+      "parameters": {
+        "url": "=https://api.adzuna.com/v1/api/jobs/{{$json.adzunaCountry}}/search/1",
+        "sendQuery": true,
+        "queryParameters": {
+          "parameters": [
+            {
+              "name": "app_id",
+              "value": "={{$env.ADZUNA_APP_ID}}"
+            },
+            {
+              "name": "app_key",
+              "value": "={{$env.ADZUNA_APP_KEY}}"
+            },
+            {
+              "name": "what",
+              "value": "={{$json.searchKeyword2}}"
+            },
+            {
+              "name": "where",
+              "value": "={{$json.location}}"
+            },
+            {
+              "name": "results_per_page",
+              "value": "={{$json.resultsPerSource}}"
+            },
+            {
+              "name": "content-type",
+              "value": "application/json"
+            }
+          ]
+        },
+        "options": {
+          "timeout": 20000
+        }
+      }
+    },
+    {
+      "id": "node-gh1",
+      "name": "Greenhouse - Board 1",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        140,
+        140
+      ],
+      "parameters": {
+        "url": "=https://boards-api.greenhouse.io/v1/boards/{{$json.greenhouseBoard1}}/jobs",
+        "sendQuery": true,
+        "queryParameters": {
+          "parameters": [
+            {
+              "name": "content",
+              "value": "true"
+            }
+          ]
+        },
+        "options": {
+          "timeout": 20000
+        }
+      }
+    },
+    {
+      "id": "node-gh2",
+      "name": "Greenhouse - Board 2",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        140,
+        300
+      ],
+      "parameters": {
+        "url": "=https://boards-api.greenhouse.io/v1/boards/{{$json.greenhouseBoard2}}/jobs",
+        "sendQuery": true,
+        "queryParameters": {
+          "parameters": [
+            {
+              "name": "content",
+              "value": "true"
+            }
+          ]
+        },
+        "options": {
+          "timeout": 20000
+        }
+      }
+    },
+    {
+      "id": "node-normalize",
+      "name": "Normalize & Merge Sources",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        420,
+        140
+      ],
+      "parameters": {
+        "mode": "runOnceForAllItems",
+        "jsCode": "\nfunction hashId(source, rawId) {\n  const str = source + ':' + String(rawId);\n  let h1 = 0xdeadbeef, h2 = 0x41c6ce57;\n  for (let i = 0; i < str.length; i++) {\n    const ch = str.charCodeAt(i);\n    h1 = Math.imul(h1 ^ ch, 2654435761);\n    h2 = Math.imul(h2 ^ ch, 1597334677);\n  }\n  h1 = Math.imul(h1 ^ (h1 >>> 16), 2246822507) ^ Math.imul(h2 ^ (h2 >>> 13), 3266489909);\n  h2 = Math.imul(h2 ^ (h2 >>> 16), 2246822507) ^ Math.imul(h1 ^ (h1 >>> 13), 3266489909);\n  return (h1 >>> 0).toString(16).padStart(8, '0') + (h2 >>> 0).toString(16).padStart(8, '0');\n}\nfunction stripHtml(html) {\n  return String(html || '').replace(/<[^>]*>/g, ' ').replace(/\\s+/g, ' ').trim().slice(0, 1200);\n}\n\nconst config = $('Config').first().json;\nconst out = [];\n\n// Adzuna (two keyword searches)\nfor (const adzunaNode of ['Adzuna - Fetch Jobs (Keyword 1)', 'Adzuna - Fetch Jobs (Keyword 2)']) {\n  let adzuna;\n  try { adzuna = $(adzunaNode).first().json; } catch (e) { continue; }\n  for (const r of (adzuna.results || [])) {\n    out.push({\n      job_id: hashId('adzuna', r.id),\n      title: r.title ? stripHtml(r.title) : 'Untitled role',\n      company: (r.company && r.company.display_name) || 'Unknown company',\n      location: (r.location && r.location.display_name) || config.location,\n      url: r.redirect_url || '',\n      description: stripHtml(r.description),\n      source: 'adzuna',\n      posted_at: r.created || null\n    });\n  }\n}\n\n// Greenhouse boards\nfor (const boardNode of ['Greenhouse - Board 1', 'Greenhouse - Board 2']) {\n  let boardJson;\n  try { boardJson = $(boardNode).first().json; } catch (e) { continue; }\n  for (const j of (boardJson.jobs || [])) {\n    out.push({\n      job_id: hashId('greenhouse', j.id),\n      title: j.title ? stripHtml(j.title) : 'Untitled role',\n      company: boardJson.name || (boardNode.includes('1') ? config.greenhouseBoard1 : config.greenhouseBoard2),\n      location: (j.location && j.location.name) || 'Unknown',\n      url: j.absolute_url || '',\n      description: stripHtml(j.content),\n      source: 'greenhouse',\n      posted_at: j.updated_at || null\n    });\n  }\n}\n\n// Keep only postings that look relevant to the target roles (keeps LLM-scoring volume\n// within Groq's free-tier rate limits and avoids wasting calls on irrelevant jobs).\nconst relevanceRegex = /(software|developer|engineer|backend|full[- ]?stack|cloud|devops|architect|\bAI\b|machine learning|informatik|werkstudent)/i;\nconst relevant = out.filter(j => relevanceRegex.test(j.title) || relevanceRegex.test(j.description));\n\nreturn relevant.map(item => ({ json: item }));\n"
+      }
+    },
+    {
+      "id": "node-readfile",
+      "name": "Read Existing jobs.json",
+      "type": "n8n-nodes-base.readWriteFile",
+      "typeVersion": 1,
+      "position": [
+        420,
+        340
+      ],
+      "parameters": {
+        "operation": "read",
+        "fileSelector": "={{$env.JOBS_FILE_PATH || \"data/jobs.json\"}}",
+        "options": {}
+      }
+    },
+    {
+      "id": "node-dedupe",
+      "name": "Dedupe Against History",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        700,
+        140
+      ],
+      "parameters": {
+        "mode": "runOnceForAllItems",
+        "jsCode": "\nlet existingJobs = [];\ntry {\n  const fileItem = $('Read Existing jobs.json').first();\n  const buf = fileItem.binary.data;\n  const text = Buffer.from(buf.data, 'base64').toString('utf-8');\n  existingJobs = JSON.parse(text || '[]');\n} catch (e) {\n  existingJobs = [];\n}\nif (!Array.isArray(existingJobs)) existingJobs = [];\n\nconst staticData = $getWorkflowStaticData('global');\nstaticData.existingJobs = existingJobs;\n\nconst seen = new Set(existingJobs.map(j => j.job_id));\nconst merged = $('Normalize & Merge Sources').all().map(i => i.json);\n\nconst seenThisRun = new Set();\nconst newJobs = [];\nfor (const job of merged) {\n  if (seen.has(job.job_id) || seenThisRun.has(job.job_id)) continue;\n  seenThisRun.add(job.job_id);\n  newJobs.push(job);\n}\n\nif (newJobs.length === 0) {\n  staticData.noNewJobs = true;\n  return [{ json: { _noNewJobs: true } }];\n}\nstaticData.noNewJobs = false;\n\n// Cap how many jobs get sent to the LLM in a single run to stay within Groq's\n// free-tier rate limits. Any jobs beyond the cap are simply picked up next run\n// (they stay \"new\" since they're not written to jobs.json until scored).\nconst config = $('Config').first().json;\nconst cap = config.maxJobsToScorePerRun || 12;\nconst capped = newJobs.slice(0, cap);\n\nreturn capped.map(job => ({ json: job }));\n"
+      }
+    },
+    {
+      "id": "node-groq",
+      "name": "Score With Groq",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        980,
+        140
+      ],
+      "parameters": {
+        "method": "POST",
+        "url": "https://api.groq.com/openai/v1/chat/completions",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "Authorization",
+              "value": "=Bearer {{$env.GROQ_API_KEY}}"
+            },
+            {
+              "name": "Content-Type",
+              "value": "application/json"
+            }
+          ]
+        },
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={{ JSON.stringify({\n  model: \"openai/gpt-oss-120b\",\n  temperature: 0.2,\n  response_format: { type: \"json_object\" },\n  messages: [\n    { role: \"system\", content: \"You are a strict JSON API that scores how well a candidate resume fits a job posting. Respond with ONLY a valid JSON object, no markdown, no commentary.\" },\n    { role: \"user\", content: \"RESUME:\\n\" + $('Config').first().json.resumeText + \"\\n\\nJOB POSTING:\\nTitle: \" + $json.title + \"\\nCompany: \" + $json.company + \"\\nLocation: \" + $json.location + \"\\nDescription: \" + ($json.description || '').slice(0, 600) + \"\\n\\nReturn a JSON object with exactly these keys: fit_score (integer 0-100, how well the resume matches this job), reasoning (2-3 sentences explaining the score), cover_letter_opener (one enthusiastic sentence for a cover letter opener tailored to this job).\" }\n  ]\n}) }}",
+        "options": {
+          "timeout": 30000,
+          "batching": {
+            "batch": {
+              "batchSize": 1,
+              "batchInterval": 7000
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "node-parsescore",
+      "name": "Parse Groq Score",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        1240,
+        140
+      ],
+      "parameters": {
+        "mode": "runOnceForEachItem",
+        "jsCode": "\nconst job = $('Dedupe Against History').item.json;\nlet parsed = { fit_score: 0, reasoning: 'Could not parse model response.', cover_letter_opener: '' };\ntry {\n  const content = $input.item.json.choices[0].message.content;\n  const p = JSON.parse(content);\n  parsed = {\n    fit_score: Math.max(0, Math.min(100, Math.round(Number(p.fit_score) || 0))),\n    reasoning: String(p.reasoning || ''),\n    cover_letter_opener: String(p.cover_letter_opener || '')\n  };\n} catch (e) {\n  parsed.reasoning = 'Scoring error: ' + e.message;\n}\n\nreturn {\n  json: {\n    ...job,\n    fit_score: parsed.fit_score,\n    reasoning: parsed.reasoning,\n    cover_letter_opener: parsed.cover_letter_opener,\n    scored_at: new Date().toISOString()\n  }\n};\n"
+      }
+    },
+    {
+      "id": "node-ifnewjobs",
+      "name": "IF New Jobs Found",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2.2,
+      "position": [
+        700,
+        340
+      ],
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict"
+          },
+          "combinator": "and",
+          "conditions": [
+            {
+              "id": "c1",
+              "leftValue": "={{$json._noNewJobs}}",
+              "rightValue": true,
+              "operator": {
+                "type": "boolean",
+                "operation": "equals"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "node-mergesave",
+      "name": "Merge With History",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        1500,
+        340
+      ],
+      "parameters": {
+        "mode": "runOnceForAllItems",
+        "jsCode": "\nconst staticData = $getWorkflowStaticData('global');\nconst existingJobs = staticData.existingJobs || [];\n\nlet newlyScored = [];\ntry { newlyScored = $('Parse Groq Score').all().map(i => i.json); } catch (e) { newlyScored = []; }\n\nconst all = [...existingJobs, ...newlyScored];\nall.sort((a, b) => new Date(b.posted_at || b.scored_at || 0) - new Date(a.posted_at || a.scored_at || 0));\n\nconst jsonStr = JSON.stringify(all, null, 2);\nreturn [{\n  json: { totalJobs: all.length, newJobsScored: newlyScored.length },\n  binary: {\n    data: {\n      data: Buffer.from(jsonStr, 'utf-8').toString('base64'),\n      mimeType: 'application/json',\n      fileName: 'jobs.json'\n    }\n  }\n}];\n"
+      }
+    },
+    {
+      "id": "node-writefile",
+      "name": "Write jobs.json",
+      "type": "n8n-nodes-base.readWriteFile",
+      "typeVersion": 1,
+      "position": [
+        1780,
+        340
+      ],
+      "parameters": {
+        "operation": "write",
+        "fileName": "={{$env.JOBS_FILE_PATH || \"data/jobs.json\"}}",
+        "dataPropertyName": "data",
+        "options": {}
+      }
+    },
+    {
+      "id": "node-filterhighfit",
+      "name": "Filter High-Fit Matches",
+      "type": "n8n-nodes-base.filter",
+      "typeVersion": 2.2,
+      "position": [
+        1500,
+        20
+      ],
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict"
+          },
+          "combinator": "and",
+          "conditions": [
+            {
+              "id": "f1",
+              "leftValue": "={{$json.fit_score}}",
+              "rightValue": "={{$(\"Config\").first().json.fitScoreThreshold}}",
+              "operator": {
+                "type": "number",
+                "operation": "gte"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "node-githubissue",
+      "name": "Create GitHub Issue",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        1780,
+        20
+      ],
+      "parameters": {
+        "method": "POST",
+        "url": "=https://api.github.com/repos/{{$(\"Config\").first().json.githubRepo}}/issues",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "Authorization",
+              "value": "=Bearer {{$env.GITHUB_TOKEN}}"
+            },
+            {
+              "name": "Accept",
+              "value": "application/vnd.github+json"
+            },
+            {
+              "name": "X-GitHub-Api-Version",
+              "value": "2022-11-28"
+            }
+          ]
+        },
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={{ JSON.stringify({\n  title: \"🎯 \" + $json.fit_score + \"% match: \" + $json.title + \" @ \" + $json.company,\n  body: \"**Fit score:** \" + $json.fit_score + \"/100\\n**Company:** \" + $json.company + \"\\n**Location:** \" + $json.location + \"\\n**Source:** \" + $json.source + \"\\n\\n**Why it matches:**\\n\" + $json.reasoning + \"\\n\\n**Suggested cover letter opener:**\\n> \" + $json.cover_letter_opener + \"\\n\\n**Apply:** \" + $json.url,\n  labels: [\"job-match\", \"auto-generated\"]\n}) }}",
+        "options": {
+          "timeout": 20000
+        }
+      }
+    }
+  ],
+  "connections": {
+    "Manual Trigger": {
+      "main": [
+        [
+          {
+            "node": "Config",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Config": {
+      "main": [
+        [
+          {
+            "node": "Adzuna - Fetch Jobs (Keyword 1)",
+            "type": "main",
+            "index": 0
+          },
+          {
+            "node": "Adzuna - Fetch Jobs (Keyword 2)",
+            "type": "main",
+            "index": 0
+          },
+          {
+            "node": "Greenhouse - Board 1",
+            "type": "main",
+            "index": 0
+          },
+          {
+            "node": "Greenhouse - Board 2",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Adzuna - Fetch Jobs (Keyword 1)": {
+      "main": [
+        [
+          {
+            "node": "Normalize & Merge Sources",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Adzuna - Fetch Jobs (Keyword 2)": {
+      "main": [
+        [
+          {
+            "node": "Normalize & Merge Sources",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Greenhouse - Board 1": {
+      "main": [
+        [
+          {
+            "node": "Normalize & Merge Sources",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Greenhouse - Board 2": {
+      "main": [
+        [
+          {
+            "node": "Normalize & Merge Sources",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Normalize & Merge Sources": {
+      "main": [
+        [
+          {
+            "node": "Read Existing jobs.json",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Read Existing jobs.json": {
+      "main": [
+        [
+          {
+            "node": "Dedupe Against History",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Dedupe Against History": {
+      "main": [
+        [
+          {
+            "node": "IF New Jobs Found",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "IF New Jobs Found": {
+      "main": [
+        [
+          {
+            "node": "Merge With History",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Score With Groq",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Score With Groq": {
+      "main": [
+        [
+          {
+            "node": "Parse Groq Score",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Parse Groq Score": {
+      "main": [
+        [
+          {
+            "node": "Merge With History",
+            "type": "main",
+            "index": 0
+          },
+          {
+            "node": "Filter High-Fit Matches",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Merge With History": {
+      "main": [
+        [
+          {
+            "node": "Write jobs.json",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Filter High-Fit Matches": {
+      "main": [
+        [
+          {
+            "node": "Create GitHub Issue",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": false,
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "pinData": {}
+}

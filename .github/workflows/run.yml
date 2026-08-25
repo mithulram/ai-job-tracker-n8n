@@ -1,0 +1,59 @@
+name: Job Tracker Run
+
+on:
+  schedule:
+    - cron: '0 */3 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: job-tracker-run
+  cancel-in-progress: false
+
+jobs:
+  run-workflow:
+    runs-on: ubuntu-latest
+    env:
+      N8N_BLOCK_ENV_ACCESS_IN_NODE: 'false'
+      N8N_RUNNERS_ENABLED: 'true'
+      N8N_DIAGNOSTICS_ENABLED: 'false'
+      N8N_USER_FOLDER: ${{ github.workspace }}/.n8n
+      N8N_RESTRICT_FILE_ACCESS_TO: ${{ github.workspace }}
+      JOBS_FILE_PATH: ${{ github.workspace }}/data/jobs.json
+      ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
+      ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
+      GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      GITHUB_REPOSITORY: ${{ github.repository }}
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install n8n
+        run: npm install -g n8n
+
+      - name: Import workflow into n8n
+        run: n8n import:workflow --input=workflows/workflow.json
+
+      - name: Execute workflow
+        run: n8n execute --id=ai-job-tracker-001
+
+      - name: Commit and push jobs.json if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if ! git diff --quiet -- data/jobs.json; then
+            git add data/jobs.json
+            git commit -m "chore: update job data [automated run]"
+            git push
+          else
+            echo "No changes to data/jobs.json"
+          fi

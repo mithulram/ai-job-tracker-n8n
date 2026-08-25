@@ -1,0 +1,307 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>AI Job Application Tracker</title>
+<style>
+  :root {
+    --bg: #0b0f17;
+    --bg-elevated: #131926;
+    --card: #161d2b;
+    --border: #262f42;
+    --text: #e7ecf5;
+    --text-dim: #9aa6bb;
+    --accent: #6ea8fe;
+    --good: #34d399;
+    --mid: #fbbf24;
+    --low: #f87171;
+  }
+  @media (prefers-color-scheme: light) {
+    :root {
+      --bg: #f5f7fb;
+      --bg-elevated: #ffffff;
+      --card: #ffffff;
+      --border: #e2e6ef;
+      --text: #171b26;
+      --text-dim: #5b6577;
+      --accent: #2563eb;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+  }
+  header {
+    padding: 32px 24px 20px;
+    max-width: 1100px;
+    margin: 0 auto;
+  }
+  header h1 {
+    margin: 0 0 6px;
+    font-size: 1.6rem;
+    letter-spacing: -0.02em;
+  }
+  header p {
+    margin: 0;
+    color: var(--text-dim);
+    font-size: 0.95rem;
+  }
+  .controls {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 24px 20px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    align-items: center;
+  }
+  .controls input, .controls select {
+    background: var(--bg-elevated);
+    border: 1px solid var(--border);
+    color: var(--text);
+    padding: 9px 12px;
+    border-radius: 8px;
+    font-size: 0.9rem;
+  }
+  .controls input { flex: 1; min-width: 180px; }
+  .stats {
+    color: var(--text-dim);
+    font-size: 0.85rem;
+    margin-left: auto;
+    white-space: nowrap;
+  }
+  main {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 24px 60px;
+  }
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 16px;
+  }
+  .card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 18px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  .card-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 10px;
+  }
+  .card-title { font-weight: 600; font-size: 1.02rem; line-height: 1.3; }
+  .card-company { color: var(--text-dim); font-size: 0.88rem; }
+  .badge {
+    flex-shrink: 0;
+    font-weight: 700;
+    font-size: 0.85rem;
+    padding: 4px 10px;
+    border-radius: 999px;
+    color: #08131a;
+  }
+  .badge.good { background: var(--good); }
+  .badge.mid { background: var(--mid); }
+  .badge.low { background: var(--low); }
+  .meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    font-size: 0.78rem;
+    color: var(--text-dim);
+  }
+  .pill {
+    border: 1px solid var(--border);
+    padding: 2px 8px;
+    border-radius: 999px;
+  }
+  .reasoning {
+    font-size: 0.87rem;
+    color: var(--text-dim);
+    line-height: 1.4;
+  }
+  .card-actions {
+    margin-top: auto;
+    display: flex;
+    justify-content: flex-end;
+  }
+  .apply-btn {
+    display: inline-block;
+    background: var(--accent);
+    color: #08131a;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 0.85rem;
+    padding: 8px 14px;
+    border-radius: 8px;
+  }
+  .empty, .error {
+    color: var(--text-dim);
+    text-align: center;
+    padding: 60px 20px;
+  }
+  footer {
+    text-align: center;
+    color: var(--text-dim);
+    font-size: 0.8rem;
+    padding: 20px;
+  }
+  footer a { color: var(--accent); }
+</style>
+</head>
+<body>
+<header>
+  <h1>🎯 AI Job Application Tracker</h1>
+  <p>Live results from an n8n workflow that scans job boards every 3 hours, scores each posting against my resume with an LLM, and opens a GitHub Issue for anything that's a strong fit.</p>
+</header>
+
+<div class="controls">
+  <input type="text" id="search" placeholder="Search title or company..." />
+  <select id="sourceFilter">
+    <option value="">All sources</option>
+  </select>
+  <select id="sortBy">
+    <option value="score-desc">Sort: highest fit score</option>
+    <option value="score-asc">Sort: lowest fit score</option>
+    <option value="date-desc">Sort: newest first</option>
+  </select>
+  <span class="stats" id="stats"></span>
+</div>
+
+<main>
+  <div class="grid" id="grid"></div>
+  <div class="empty" id="empty" style="display:none;">No jobs match your filters yet. The workflow runs every 3 hours — check back soon, or trigger a manual run from the Actions tab.</div>
+  <div class="error" id="error" style="display:none;"></div>
+</main>
+
+<footer>
+  Built with n8n + Adzuna + Groq · Data refreshes automatically via GitHub Actions ·
+  <a href="https://github.com/mithulram/ai-job-tracker-n8n" target="_blank" rel="noopener">View source on GitHub</a>
+</footer>
+
+<script>
+(function () {
+  // Edit this if you rename the repo or want the dashboard to read from a different branch.
+  const OWNER = 'mithulram';
+  const REPO = 'ai-job-tracker-n8n';
+  const BRANCH = 'main';
+  const DATA_URL = `https://raw.githubusercontent.com/${OWNER}/${REPO}/${BRANCH}/data/jobs.json?t=${Date.now()}`;
+  const FALLBACK_URL = 'data/jobs.json';
+
+  const grid = document.getElementById('grid');
+  const emptyEl = document.getElementById('empty');
+  const errorEl = document.getElementById('error');
+  const statsEl = document.getElementById('stats');
+  const searchEl = document.getElementById('search');
+  const sourceFilterEl = document.getElementById('sourceFilter');
+  const sortByEl = document.getElementById('sortBy');
+
+  let jobs = [];
+
+  function scoreClass(score) {
+    if (score >= 75) return 'good';
+    if (score >= 50) return 'mid';
+    return 'low';
+  }
+
+  function escapeHtml(str) {
+    const div = document.createElement('div');
+    div.textContent = str == null ? '' : String(str);
+    return div.innerHTML;
+  }
+
+  function render() {
+    const q = searchEl.value.trim().toLowerCase();
+    const src = sourceFilterEl.value;
+    let filtered = jobs.filter(j => {
+      const matchesQ = !q || (j.title || '').toLowerCase().includes(q) || (j.company || '').toLowerCase().includes(q);
+      const matchesSrc = !src || j.source === src;
+      return matchesQ && matchesSrc;
+    });
+
+    const sortBy = sortByEl.value;
+    filtered.sort((a, b) => {
+      if (sortBy === 'score-desc') return (b.fit_score || 0) - (a.fit_score || 0);
+      if (sortBy === 'score-asc') return (a.fit_score || 0) - (b.fit_score || 0);
+      if (sortBy === 'date-desc') return new Date(b.posted_at || b.scored_at || 0) - new Date(a.posted_at || a.scored_at || 0);
+      return 0;
+    });
+
+    grid.innerHTML = '';
+    emptyEl.style.display = filtered.length === 0 ? 'block' : 'none';
+    statsEl.textContent = `${filtered.length} of ${jobs.length} jobs`;
+
+    for (const j of filtered) {
+      const card = document.createElement('div');
+      card.className = 'card';
+      const score = Number(j.fit_score) || 0;
+      card.innerHTML = `
+        <div class="card-top">
+          <div>
+            <div class="card-title">${escapeHtml(j.title)}</div>
+            <div class="card-company">${escapeHtml(j.company)}</div>
+          </div>
+          <div class="badge ${scoreClass(score)}">${score}%</div>
+        </div>
+        <div class="meta">
+          <span class="pill">${escapeHtml(j.location || 'Unknown location')}</span>
+          <span class="pill">${escapeHtml(j.source || 'unknown')}</span>
+        </div>
+        ${j.reasoning ? `<div class="reasoning">${escapeHtml(j.reasoning)}</div>` : ''}
+        <div class="card-actions">
+          ${j.url ? `<a class="apply-btn" href="${escapeHtml(j.url)}" target="_blank" rel="noopener">Apply →</a>` : ''}
+        </div>
+      `;
+      grid.appendChild(card);
+    }
+  }
+
+  function populateSources() {
+    const sources = Array.from(new Set(jobs.map(j => j.source).filter(Boolean))).sort();
+    for (const s of sources) {
+      const opt = document.createElement('option');
+      opt.value = s;
+      opt.textContent = s;
+      sourceFilterEl.appendChild(opt);
+    }
+  }
+
+  async function load() {
+    try {
+      let res = await fetch(DATA_URL, { cache: 'no-store' });
+      if (!res.ok) throw new Error('primary fetch failed');
+      jobs = await res.json();
+    } catch (e) {
+      try {
+        const res2 = await fetch(FALLBACK_URL, { cache: 'no-store' });
+        jobs = await res2.json();
+      } catch (e2) {
+        errorEl.style.display = 'block';
+        errorEl.textContent = 'Could not load job data. The workflow may not have run yet.';
+        statsEl.textContent = '';
+        return;
+      }
+    }
+    if (!Array.isArray(jobs)) jobs = [];
+    populateSources();
+    render();
+  }
+
+  searchEl.addEventListener('input', render);
+  sourceFilterEl.addEventListener('change', render);
+  sortByEl.addEventListener('change', render);
+
+  load();
+})();
+</script>
+</body>
+</html>
