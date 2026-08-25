@@ -1,5 +1,19 @@
 [
   {
+    "job_id": "33f837f8439f6d4a",
+    "title": "Chief of Staff, CRO",
+    "company": "gitlab",
+    "location": "Remote, United States",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8700245002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-08-24T17:41:11-04:00",
+    "fit_score": 15,
+    "reasoning": "The candidate's background is technical, focusing on software development, cloud, and AI solutions, whereas the Chief of Staff, CRO role is a senior leadership position requiring extensive business strategy and revenue operations experience. Additionally, the candidate is based in Germany and seeking part‑time roles, which does not align with the remote US executive focus of the job. Consequently, the overall fit is low.",
+    "cover_letter_opener": "I am excited about the opportunity to bring my technical expertise and passion for AI-driven productivity to support GitLab’s CRO in accelerating revenue growth and strategic initiatives.",
+    "scored_at": "2026-08-25T12:12:13.774Z"
+  },
+  {
     "job_id": "9ba07b4ed85249d8",
     "title": "AI Transformation Owner, Product & Design",
     "company": "gitlab",
@@ -12,6 +26,20 @@
     "reasoning": "The candidate has strong cloud and backend development experience and certifications that align with GitLab's cloud focus, and expresses a clear interest in AI solutions. However, they lack direct experience in AI product ownership, DevSecOps, and familiarity with GitLab's platform, which are central to the AI Transformation Owner role. This results in a moderate fit.",
     "cover_letter_opener": "I am excited to bring my cloud engineering expertise and passion for AI-driven innovation to help GitLab accelerate its AI transformation journey!",
     "scored_at": "2026-08-25T11:51:33.452Z"
+  },
+  {
+    "job_id": "6c698b0fd0a95840",
+    "title": "Business Development Representative (Sydney or Melbourne)",
+    "company": "gitlab",
+    "location": "Remote, Australia",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8736457002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-08-24T04:21:16-04:00",
+    "fit_score": 15,
+    "reasoning": "The candidate's background is heavily technical, focusing on software development, cloud, and AI architecture, whereas the role is a business development sales position requiring strong client‑facing and revenue‑generation skills. Additionally, the candidate is based in Germany and seeks part‑time work, while the job targets remote candidates in Australia, resulting in limited alignment.",
+    "cover_letter_opener": "I’m excited about GitLab’s AI‑driven DevSecOps platform and eager to help expand its impact across Australia’s tech ecosystem.",
+    "scored_at": "2026-08-25T12:12:13.773Z"
   },
   {
     "job_id": "8ecec22797147d50",
@@ -28,6 +56,34 @@
     "scored_at": "2026-08-25T11:51:33.454Z"
   },
   {
+    "job_id": "66d1afc553fef84f",
+    "title": "Commercial Account Executive - DACH",
+    "company": "gitlab",
+    "location": "Remote, Germany",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8631153002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-08-20T10:31:02-04:00",
+    "fit_score": 12,
+    "reasoning": "The candidate’s background is heavily technical, focusing on software development, cloud, and AI, with no demonstrated sales or account management experience. The Commercial Account Executive role requires strong client‑facing, negotiation, and DACH market expertise, which are not reflected in the resume.",
+    "cover_letter_opener": "I am excited to bring my deep technical expertise and passion for GitLab’s AI‑driven DevSecOps platform to help German enterprises achieve their digital transformation goals.",
+    "scored_at": "2026-08-25T12:12:13.775Z"
+  },
+  {
+    "job_id": "67e3d9e889721da8",
+    "title": "Business Development Representative - Nordics",
+    "company": "gitlab",
+    "location": "Remote Ireland; Remote, Germany; Remote, Netherlands; Remote, United Kingdom",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8687381002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-08-17T10:05:02-04:00",
+    "fit_score": 20,
+    "reasoning": "The candidate has strong technical and cloud engineering experience but no demonstrated business development or sales background, which are core to the Business Development Representative role. Additionally, the resume does not highlight any experience with the Nordics market or sales-oriented skills, resulting in a low match.",
+    "cover_letter_opener": "I am excited to bring my deep technical expertise and passion for GitLab’s AI‑driven DevSecOps platform to help expand your presence across the Nordics region.",
+    "scored_at": "2026-08-25T12:12:13.772Z"
+  },
+  {
     "job_id": "48d6e6ee99d83a0b",
     "title": "Backend Engineer, Geo Team",
     "company": "gitlab",
@@ -40,6 +96,34 @@
     "reasoning": "The candidate has solid Java and Spring Boot backend experience, which aligns with the core responsibilities of a backend engineer. However, the resume lacks specific experience with GitLab's typical tech stack and geo‑spatial services, and the candidate is seeking a part‑time role in Germany rather than a full‑time position in Bangalore. These gaps lower the overall match.",
     "cover_letter_opener": "I am excited about the opportunity to bring my Java and Spring Boot expertise to GitLab's Geo Team and help power the next generation of intelligent DevSecOps solutions.",
     "scored_at": "2026-08-25T11:51:33.455Z"
+  },
+  {
+    "job_id": "0de960eda448a552",
+    "title": "Commercial Account Executive, Mexico",
+    "company": "gitlab",
+    "location": "Remote, Mexico",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8673657002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-08-11T19:42:43-04:00",
+    "fit_score": 15,
+    "reasoning": "The candidate's background is technical, focusing on software development, cloud, and AI solutions architecture, with no evident sales or account management experience. The job requires commercial sales expertise, client relationship skills, and fluency in the Mexican market, which are not demonstrated in the resume. Consequently, the alignment between the candidate and the Commercial Account Executive role is minimal.",
+    "cover_letter_opener": "I am excited about the opportunity to contribute to GitLab’s mission of accelerating secure software delivery and leveraging AI to empower customers across Mexico.",
+    "scored_at": "2026-08-25T12:12:13.778Z"
+  },
+  {
+    "job_id": "52f057d85a3432a2",
+    "title": "Commercial Account Executive, Named - West",
+    "company": "gitlab",
+    "location": "Remote, United States",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8592555002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-08-11T18:03:26-04:00",
+    "fit_score": 12,
+    "reasoning": "The candidate's background is heavily technical, focusing on software development, cloud, and AI, while the role is a commercial sales position requiring account management and revenue generation experience. Additionally, the candidate seeks a part‑time student role in Germany, whereas the job is a full‑time remote position based in the United States.",
+    "cover_letter_opener": "I am thrilled by GitLab’s vision of intelligent DevSecOps orchestration and eager to help organizations accelerate their digital transformation as part of your Commercial Account Executive team.",
+    "scored_at": "2026-08-25T12:12:13.779Z"
   },
   {
     "job_id": "a49c118507069745",
@@ -166,5 +250,89 @@
     "reasoning": "The candidate’s background is heavily technical, focusing on software development, cloud architecture, and AI, whereas the role is a Business Development Representative requiring sales, client outreach, and partnership skills. While the candidate shows enthusiasm for remote work and familiarity with GitLab’s ecosystem, there is little evidence of relevant business development experience.",
     "cover_letter_opener": "I am excited to bring my passion for innovative DevSecOps solutions and my technical expertise to help GitLab expand its impact across the EMEA market.",
     "scored_at": "2026-08-25T11:51:33.457Z"
+  },
+  {
+    "job_id": "692aa617cbdfbc43",
+    "title": "Business Development Representative, German Speaking",
+    "company": "gitlab",
+    "location": "Remote Ireland; Remote, Germany; Remote, Netherlands; Remote, United Kingdom",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8691636002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-08-10T16:52:46-04:00",
+    "fit_score": 25,
+    "reasoning": "The candidate has strong technical expertise in software development, cloud platforms, and AI, but lacks any demonstrated experience in sales, business development, or client-facing roles required for this position. While they are German-speaking and familiar with cloud technologies relevant to GitLab's ecosystem, the mismatch in core competencies results in a low fit.",
+    "cover_letter_opener": "I am excited about GitLab's AI‑driven DevSecOps platform and eager to leverage my technical background to help expand its reach across German‑speaking markets.",
+    "scored_at": "2026-08-25T12:12:13.766Z"
+  },
+  {
+    "job_id": "87a7553dad46e687",
+    "title": "Business Development Representative - MENA",
+    "company": "gitlab",
+    "location": "Remote, UAE",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8608546002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-08-10T16:52:46-04:00",
+    "fit_score": 22,
+    "reasoning": "The candidate’s background is heavily technical, focusing on software development, cloud, and AI architecture, with no demonstrated experience in sales or business development. While their knowledge of DevSecOps technologies could be valuable, the lack of relevant commercial and MENA‑region expertise makes them a poor match for a Business Development Representative role.",
+    "cover_letter_opener": "I am excited about GitLab’s AI‑driven DevSecOps platform and eager to leverage my technical expertise to drive growth and build strong partnerships across the MENA region.",
+    "scored_at": "2026-08-25T12:12:13.767Z"
+  },
+  {
+    "job_id": "63aec60da0165714",
+    "title": "Commercial Account Executive - Greece/Malta",
+    "company": "gitlab",
+    "location": "Remote, France; Remote, Germany; Remote, Ireland; Remote, Italy; Remote, Spain; Remote, United Kingdom",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8528922002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-08-10T16:52:46-04:00",
+    "fit_score": 18,
+    "reasoning": "The candidate's background is heavily technical, focusing on software development, cloud, and AI, with no demonstrated sales or account management experience. The Commercial Account Executive role requires strong sales, client relationship, and market expertise, which are not evident in the resume, resulting in a low fit. However, the candidate's knowledge of DevSecOps and AI could provide some technical credibility in sales conversations.",
+    "cover_letter_opener": "I am excited about GitLab’s AI‑driven DevSecOps platform and eager to leverage my technical expertise to help customers achieve faster, more secure software delivery.",
+    "scored_at": "2026-08-25T12:12:13.776Z"
+  },
+  {
+    "job_id": "fdb3f3e5e1221ade",
+    "title": "Commercial Account Executive - MENA",
+    "company": "gitlab",
+    "location": "Remote, KSA",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8638001002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-08-10T16:52:46-04:00",
+    "fit_score": 12,
+    "reasoning": "The candidate's background is heavily technical, focusing on software development, cloud architecture, and AI aspirations, while the role is a sales-oriented Commercial Account Executive targeting the MENA market. There is little evidence of sales, account management, or regional market experience, resulting in a low match.",
+    "cover_letter_opener": "I am excited about GitLab's AI‑driven DevSecOps platform and eager to leverage my technical expertise to help MENA customers achieve faster, more secure software delivery.",
+    "scored_at": "2026-08-25T12:12:13.777Z"
+  },
+  {
+    "job_id": "ce05bff583c9de90",
+    "title": "Commercial Account Executive - Mid-Market, Canada",
+    "company": "gitlab",
+    "location": "Remote, Canada",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8561622002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-08-10T16:52:46-04:00",
+    "fit_score": 12,
+    "reasoning": "The candidate’s background is heavily technical, focusing on software development, cloud, and AI, with no demonstrated sales or account management experience. Additionally, the candidate is based in Germany and seeking part‑time roles, while the position is a full‑time remote sales role targeting the Canadian market. Therefore, the alignment with the Commercial Account Executive role is minimal.",
+    "cover_letter_opener": "I’m thrilled by GitLab’s AI‑driven DevSecOps platform and eager to help Canadian mid‑market customers unlock its full potential.",
+    "scored_at": "2026-08-25T12:12:13.778Z"
+  },
+  {
+    "job_id": "788468b2200e1bb4",
+    "title": "Commercial Account Executive - Named, US East",
+    "company": "gitlab",
+    "location": "Remote, United States",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8611838002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-08-10T16:52:46-04:00",
+    "fit_score": 15,
+    "reasoning": "The candidate's experience is heavily technical, focusing on software development, cloud, and AI architecture, while the role is a commercial sales position requiring account management and revenue generation. Additionally, the job targets the US market and remote work, whereas the candidate seeks a part‑time student role in Germany, leading to a low overall fit.",
+    "cover_letter_opener": "I am excited about GitLab’s AI‑driven DevSecOps platform and eager to help customers unlock its full potential as a Commercial Account Executive.",
+    "scored_at": "2026-08-25T12:12:13.779Z"
   }
 ]
