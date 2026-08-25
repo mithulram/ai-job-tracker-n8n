@@ -8,10 +8,10 @@
     "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
     "source": "greenhouse",
     "posted_at": "2026-08-24T11:26:09-04:00",
-    "fit_score": 48,
-    "reasoning": "The candidate has strong cloud and backend engineering experience and certifications that align with GitLab’s AI‑driven infrastructure, but lacks direct product design or AI transformation ownership experience required for the role. Their career goal toward AI solutions architecture shows motivation, yet the mismatch in specific AI product leadership reduces overall fit.",
-    "cover_letter_opener": "I’m excited to bring my cloud‑native AI expertise to GitLab’s AI Transformation Owner role and help shape the next generation of intelligent DevSecOps products!",
-    "scored_at": "2026-08-25T11:37:28.526Z"
+    "fit_score": 35,
+    "reasoning": "The candidate has strong cloud and backend development experience and certifications that align with GitLab's cloud focus, and expresses a clear interest in AI solutions. However, they lack direct experience in AI product ownership, DevSecOps, and familiarity with GitLab's platform, which are central to the AI Transformation Owner role. This results in a moderate fit.",
+    "cover_letter_opener": "I am excited to bring my cloud engineering expertise and passion for AI-driven innovation to help GitLab accelerate its AI transformation journey!",
+    "scored_at": "2026-08-25T11:51:33.452Z"
   },
   {
     "job_id": "8ecec22797147d50",
@@ -22,10 +22,10 @@
     "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
     "source": "greenhouse",
     "posted_at": "2026-08-20T17:46:45-04:00",
-    "fit_score": 45,
-    "reasoning": "The candidate has strong backend experience with Java, Spring Boot, and cloud platforms, which aligns with the core responsibilities of a backend engineer. However, the role emphasizes AI engineering and remote work for North America, while the candidate focuses on AI solutions architecture and is seeking part‑time work in Germany, lacking direct AI model development experience. This partial overlap results in a moderate fit.",
-    "cover_letter_opener": "I am excited to bring my backend expertise and passion for AI-driven solutions to GitLab’s Duo Chat team and help shape the future of intelligent DevSecOps.",
-    "scored_at": "2026-08-25T11:37:28.528Z"
+    "fit_score": 55,
+    "reasoning": "The candidate brings solid backend experience with Java, Spring Boot, and REST API design, as well as cloud expertise in Azure, which aligns with many technical requirements of the Backend Engineer role. However, the job emphasizes AI engineering and remote work for North America, while the resume focuses on automotive cybersecurity and a career shift toward AI solutions architecture without concrete AI/ML project experience, resulting in a moderate fit.",
+    "cover_letter_opener": "I am thrilled by the opportunity to contribute my backend and cloud expertise to GitLab's AI‑powered Duo Chat, helping to accelerate intelligent collaboration for developers worldwide.",
+    "scored_at": "2026-08-25T11:51:33.454Z"
   },
   {
     "job_id": "48d6e6ee99d83a0b",
@@ -36,10 +36,10 @@
     "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
     "source": "greenhouse",
     "posted_at": "2026-08-11T23:33:39-04:00",
-    "fit_score": 35,
-    "reasoning": "The candidate has solid Java backend experience with Spring Boot and REST API design, which aligns with general backend engineering requirements. However, the role at GitLab likely expects familiarity with GitLab's tech stack (e.g., Ruby, Go) and on‑site work in Bangalore, while the candidate is based in Germany and seeking part‑time positions. Additionally, the candidate's career focus on AI solutions architecture does not directly match the geo‑focused backend responsibilities.",
-    "cover_letter_opener": "I am excited about the opportunity to bring my Java and cloud backend expertise to GitLab’s Geo Team and help power its intelligent DevSecOps platform.",
-    "scored_at": "2026-08-25T11:37:28.529Z"
+    "fit_score": 45,
+    "reasoning": "The candidate has solid Java and Spring Boot backend experience, which aligns with the core responsibilities of a backend engineer. However, the resume lacks specific experience with GitLab's typical tech stack and geo‑spatial services, and the candidate is seeking a part‑time role in Germany rather than a full‑time position in Bangalore. These gaps lower the overall match.",
+    "cover_letter_opener": "I am excited about the opportunity to bring my Java and Spring Boot expertise to GitLab's Geo Team and help power the next generation of intelligent DevSecOps solutions.",
+    "scored_at": "2026-08-25T11:51:33.455Z"
   },
   {
     "job_id": "a49c118507069745",
@@ -50,10 +50,10 @@
     "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
     "source": "greenhouse",
     "posted_at": "2026-08-11T08:18:18-04:00",
-    "fit_score": 45,
-    "reasoning": "The candidate has strong backend and cloud engineering experience with Python and Azure, which aligns with GitLab's AI-driven DevSecOps platform, but lacks direct AI/ML model development or GitLab-specific tooling experience. Their career goal toward AI solutions and certifications demonstrate potential, yet the resume does not show concrete AI project work, resulting in a moderate fit.",
-    "cover_letter_opener": "I am excited to bring my cloud‑native backend expertise and passion for AI integration to GitLab’s innovative AI Engineer team.",
-    "scored_at": "2026-08-25T11:37:28.524Z"
+    "fit_score": 40,
+    "reasoning": "The candidate’s solid background in cloud platforms, backend development, and relevant certifications aligns with the infrastructure focus of an AI Engineer role at GitLab. However, they lack direct experience in AI/ML model development and the posting targets a remote Bangalore setting, while the candidate is based in Germany, reducing overall fit.",
+    "cover_letter_opener": "I am excited to bring my cloud‑native backend expertise and passion for AI‑enabled solutions to GitLab’s innovative AI Engineer team.",
+    "scored_at": "2026-08-25T11:51:33.451Z"
   },
   {
     "job_id": "0db8ae1192e23166",
@@ -65,9 +65,9 @@
     "source": "greenhouse",
     "posted_at": "2026-08-10T16:52:46-04:00",
     "fit_score": 12,
-    "reasoning": "The candidate's background is heavily technical, focusing on software development, cloud, and AI architecture, whereas the role is a sales-oriented Account Executive position. Additionally, the candidate is based in Germany and targets engineering roles, not a remote Italy sales role, resulting in poor alignment.",
-    "cover_letter_opener": "I am excited about GitLab's innovative DevSecOps platform and eager to help Italian customers accelerate their digital transformation as part of your sales team.",
-    "scored_at": "2026-08-25T11:37:28.524Z"
+    "reasoning": "The candidate's background is heavily technical, focusing on software development, cloud, and AI, with no demonstrated sales or account management experience. Additionally, the candidate is based in Germany and seeks part‑time roles, while the position is a full‑time remote sales role targeting the Italian market.",
+    "cover_letter_opener": "I am excited about the opportunity to combine my technical expertise with GitLab’s AI‑driven platform to help Italian customers accelerate their DevSecOps journey.",
+    "scored_at": "2026-08-25T11:51:33.450Z"
   },
   {
     "job_id": "3ce986c66d00697e",
@@ -78,10 +78,10 @@
     "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
     "source": "greenhouse",
     "posted_at": "2026-08-10T16:52:46-04:00",
-    "fit_score": 30,
-    "reasoning": "The candidate has strong cloud and backend development skills but lacks direct AI/LLM and DevSecOps experience required for an AI Transformation Owner role. Additionally, the position is senior, remote US‑based, while the candidate is a student seeking part‑time work in Germany, reducing alignment.",
-    "cover_letter_opener": "I am excited about the opportunity to drive AI‑powered transformation at GitLab and help amplify developer productivity worldwide.",
-    "scored_at": "2026-08-25T11:37:28.525Z"
+    "fit_score": 32,
+    "reasoning": "The candidate has strong backend and cloud engineering skills, but lacks direct experience with AI transformation, DevSecOps, and GitLab's platform, which are central to the role. Their career goal toward AI solutions aligns partially, yet the seniority and domain focus of the AI Transformation Owner position do not match their current student status. Therefore, the overall fit is limited.",
+    "cover_letter_opener": "I am excited to bring my cloud‑native backend expertise and passion for AI integration to GitLab’s AI Transformation Owner role, helping accelerate intelligent DevSecOps across the organization.",
+    "scored_at": "2026-08-25T11:51:33.452Z"
   },
   {
     "job_id": "aed5132df1b7fd0e",
@@ -92,10 +92,24 @@
     "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
     "source": "greenhouse",
     "posted_at": "2026-08-10T16:52:46-04:00",
-    "fit_score": 10,
-    "reasoning": "The candidate is a master's student seeking part‑time or Werkstudent roles and has experience in Java, Flutter and Azure, which does not align with the senior leadership, financial‑services expertise, and extensive DevSecOps experience required for an Area Vice President at GitLab. Additionally, the candidate’s focus on Germany and a career goal of AI Solutions Architect differ from the senior U.S. remote executive responsibilities.",
-    "cover_letter_opener": "I am thrilled at the prospect of helping GitLab drive AI‑powered DevSecOps excellence for the financial services sector as your next Area Vice President.",
-    "scored_at": "2026-08-25T11:37:28.526Z"
+    "fit_score": 15,
+    "reasoning": "The candidate is an early‑career software engineer focusing on Java, Flutter and cloud infrastructure, while the role is a senior executive position overseeing financial services at GitLab, requiring extensive leadership and industry experience. Additionally, the location preference (Germany) and lack of DevSecOps or financial services background further reduce the match.",
+    "cover_letter_opener": "I am excited about the opportunity to bring my cloud and security expertise to GitLab’s AI‑driven DevSecOps platform and help shape the future of financial services.",
+    "scored_at": "2026-08-25T11:51:33.453Z"
+  },
+  {
+    "job_id": "a09c318e700b6e9d",
+    "title": "Associate Solutions Architect (French or German fluency)",
+    "company": "gitlab",
+    "location": "Remote Ireland",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8675543002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-08-10T16:52:46-04:00",
+    "fit_score": 65,
+    "reasoning": "The candidate demonstrates strong cloud and backend expertise with Azure, Spring Boot, and cybersecurity research, aligning well with a solutions architect role. Their German fluency and experience in risk modeling match GitLab's DevSecOps focus, but they lack direct GitLab CI/CD or extensive DevSecOps project experience. The AI integration goal is relevant to GitLab's AI emphasis, yet practical implementation experience is limited, resulting in a moderate fit.",
+    "cover_letter_opener": "I am excited to bring my cloud, security, and AI integration expertise to GitLab’s innovative AI‑driven DevSecOps platform as an Associate Solutions Architect.",
+    "scored_at": "2026-08-25T11:51:33.453Z"
   },
   {
     "job_id": "292859364596eb1a",
@@ -106,10 +120,10 @@
     "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
     "source": "greenhouse",
     "posted_at": "2026-08-10T16:52:46-04:00",
-    "fit_score": 55,
-    "reasoning": "The candidate holds strong cloud and architecture certifications (Azure Solutions Architect) and solid backend development experience, which align with a solutions architect role. However, the resume lacks explicit GitLab, DevSecOps, CI/CD tooling experience and does not confirm German or French fluency, reducing the overall match.",
-    "cover_letter_opener": "I am excited to bring my cloud architecture expertise and passion for AI-driven DevSecOps to GitLab’s innovative Solutions Architect team!",
-    "scored_at": "2026-08-25T11:37:28.528Z"
+    "fit_score": 60,
+    "reasoning": "The candidate has strong cloud and backend engineering experience with Azure and Spring Boot, and fluency in German, which aligns with the Associate Solutions Architect role at GitLab. However, they lack direct experience with GitLab's CI/CD platform and DevSecOps tooling, and their AI focus is more aspirational than proven. Therefore, the overall fit is moderate.",
+    "cover_letter_opener": "I am excited to bring my cloud‑native backend expertise and German fluency to GitLab’s innovative AI‑driven Solutions Architect team.",
+    "scored_at": "2026-08-25T11:51:33.454Z"
   },
   {
     "job_id": "e200428c269bcfae",
@@ -121,9 +135,9 @@
     "source": "greenhouse",
     "posted_at": "2026-08-10T16:52:46-04:00",
     "fit_score": 35,
-    "reasoning": "The candidate has strong backend experience with Java/Spring Boot and cloud expertise, but lacks Ruby experience and specific AI observability work required for this role. While their AI aspirations and cloud skills are relevant, the mismatch in primary language and domain reduces the overall fit.",
-    "cover_letter_opener": "I’m excited to bring my backend and cloud expertise to GitLab’s AI Engineering team and help advance agent observability on a platform I deeply admire.",
-    "scored_at": "2026-08-25T11:37:28.530Z"
+    "reasoning": "The candidate has solid backend experience with Java/Spring Boot and strong cloud expertise, which aligns with general backend engineering requirements. However, they lack direct Ruby experience and specific AI observability work that the role emphasizes, limiting the fit. Their interest in AI solutions and cloud infrastructure shows potential but does not compensate for the skill gap.",
+    "cover_letter_opener": "I am excited about the opportunity to bring my backend and cloud expertise to GitLab’s AI Engineering team and help drive innovative observability solutions!",
+    "scored_at": "2026-08-25T11:51:33.455Z"
   },
   {
     "job_id": "68f99962b1f7ea67",
@@ -135,9 +149,9 @@
     "source": "greenhouse",
     "posted_at": "2026-08-10T16:52:46-04:00",
     "fit_score": 20,
-    "reasoning": "The candidate's background is heavily technical, focusing on software development, cloud, and AI architecture, whereas the role is a Business Development Representative requiring sales and client engagement skills. Additionally, the candidate seeks part‑time roles in Germany, while the position is remote for North America, indicating a poor geographic and functional match.",
-    "cover_letter_opener": "I am excited about GitLab’s AI‑driven DevSecOps platform and eager to help expand its impact with innovative business development strategies.",
-    "scored_at": "2026-08-25T11:37:28.530Z"
+    "reasoning": "The candidate's background is heavily technical, focusing on software development, cloud infrastructure, and AI, whereas the role is a Business Development Representative requiring sales, client outreach, and market strategy skills. Additionally, the candidate seeks a part-time position in Germany, while the job is remote for North America, further reducing alignment.",
+    "cover_letter_opener": "I am excited about GitLab's AI‑driven DevSecOps platform and eager to help expand its impact by connecting innovative solutions with forward‑thinking customers.",
+    "scored_at": "2026-08-25T11:51:33.456Z"
   },
   {
     "job_id": "83a60a1345d1ccd5",
@@ -148,9 +162,9 @@
     "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
     "source": "greenhouse",
     "posted_at": "2026-08-10T16:52:46-04:00",
-    "fit_score": 20,
-    "reasoning": "The candidate’s background is heavily technical, focusing on software development, cloud, and AI architecture, while the role is a Business Development Representative requiring sales, client outreach, and revenue generation skills. Lack of demonstrated sales or business development experience leads to a low match, though strong technical knowledge could help understand GitLab’s product suite.",
-    "cover_letter_opener": "I’m excited to combine my deep technical expertise in cloud and AI with GitLab’s AI‑driven DevSecOps platform to help accelerate growth and forge strong customer partnerships.",
-    "scored_at": "2026-08-25T11:37:28.531Z"
+    "fit_score": 15,
+    "reasoning": "The candidate’s background is heavily technical, focusing on software development, cloud architecture, and AI, whereas the role is a Business Development Representative requiring sales, client outreach, and partnership skills. While the candidate shows enthusiasm for remote work and familiarity with GitLab’s ecosystem, there is little evidence of relevant business development experience.",
+    "cover_letter_opener": "I am excited to bring my passion for innovative DevSecOps solutions and my technical expertise to help GitLab expand its impact across the EMEA market.",
+    "scored_at": "2026-08-25T11:51:33.457Z"
   }
 ]
