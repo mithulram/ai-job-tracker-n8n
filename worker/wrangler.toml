@@ -12,7 +12,7 @@ id = "REPLACE_WITH_YOUR_KV_NAMESPACE_ID"
 # Not secret - OAuth Client IDs are meant to be public. Kept as a var so it's
 # only defined in one place. Set the real value with:
 #   wrangler secret put GOOGLE_CLIENT_ID   (or just edit this var and redeploy)
-GOOGLE_CLIENT_ID = "REPLACE_WITH_YOUR_GOOGLE_OAUTH_CLIENT_ID"
+GOOGLE_CLIENT_ID = "77451878625-69umamftp0f6kphgt72bda4919lr98k6.apps.googleusercontent.com"
 # The GitHub Pages origin allowed to call this Worker.
 ALLOWED_ORIGIN = "https://mithulram.github.io"
 
