@@ -141,7 +141,7 @@
               "id": "a5",
               "name": "fitScoreThreshold",
               "type": "number",
-              "value": 40
+              "value": 75
             },
             {
               "id": "a5b",
@@ -318,6 +318,20 @@
       }
     },
     {
+      "id": "node-mergesources",
+      "name": "Combine Sources",
+      "type": "n8n-nodes-base.merge",
+      "typeVersion": 3.2,
+      "position": [
+        280,
+        140
+      ],
+      "parameters": {
+        "mode": "append",
+        "numberInputs": 4
+      }
+    },
+    {
       "id": "node-normalize",
       "name": "Normalize & Merge Sources",
       "type": "n8n-nodes-base.code",
@@ -357,7 +371,7 @@
       ],
       "parameters": {
         "mode": "runOnceForAllItems",
-        "jsCode": "\nlet existingJobs = [];\ntry {\n  // Use n8n's binary-data helper rather than assuming binary.data.data is inline\n  // base64 - on filesystem-backed binary storage (e.g. GitHub Actions runners)\n  // it's a storage reference, not the raw content, and reading it directly\n  // silently decodes to garbage instead of throwing.\n  const buffer = await $helpers.getBinaryDataBuffer(0, 'data');\n  const text = buffer.toString('utf-8');\n  existingJobs = JSON.parse(text || '[]');\n} catch (e) {\n  existingJobs = [];\n}\nif (!Array.isArray(existingJobs)) existingJobs = [];\n\nconst staticData = $getWorkflowStaticData('global');\nstaticData.existingJobs = existingJobs;\n\nconst seen = new Set(existingJobs.map(j => j.job_id));\nconst merged = $('Normalize & Merge Sources').all().map(i => i.json);\n\nconst seenThisRun = new Set();\nconst newJobs = [];\nfor (const job of merged) {\n  if (seen.has(job.job_id) || seenThisRun.has(job.job_id)) continue;\n  seenThisRun.add(job.job_id);\n  newJobs.push(job);\n}\n\nif (newJobs.length === 0) {\n  staticData.noNewJobs = true;\n  return [{ json: { _noNewJobs: true } }];\n}\nstaticData.noNewJobs = false;\n\n// Cap how many jobs get sent to the LLM in a single run to stay within Groq's\n// free-tier rate limits. Any jobs beyond the cap are simply picked up next run\n// (they stay \"new\" since they're not written to jobs.json until scored).\nconst config = $('Config').first().json;\nconst cap = config.maxJobsToScorePerRun || 12;\nconst capped = newJobs.slice(0, cap);\n\nreturn capped.map(job => ({ json: job }));\n"
+        "jsCode": "\nlet existingJobs = [];\ntry {\n  // Use n8n's binary-data helper rather than assuming binary.data.data is inline\n  // base64 - on filesystem-backed binary storage (e.g. GitHub Actions runners)\n  // it's a storage reference, not the raw content, and reading it directly\n  // silently decodes to garbage instead of throwing.\n  const buffer = await this.helpers.getBinaryDataBuffer(0, 'data');\n  const text = buffer.toString('utf-8');\n  existingJobs = JSON.parse(text || '[]');\n} catch (e) {\n  existingJobs = [];\n}\nif (!Array.isArray(existingJobs)) existingJobs = [];\n\nconst staticData = $getWorkflowStaticData('global');\nstaticData.existingJobs = existingJobs;\n\nconst seen = new Set(existingJobs.map(j => j.job_id));\nconst merged = $('Normalize & Merge Sources').all().map(i => i.json);\n\nconst seenThisRun = new Set();\nconst newJobs = [];\nfor (const job of merged) {\n  if (seen.has(job.job_id) || seenThisRun.has(job.job_id)) continue;\n  seenThisRun.add(job.job_id);\n  newJobs.push(job);\n}\n\nif (newJobs.length === 0) {\n  staticData.noNewJobs = true;\n  return [{ json: { _noNewJobs: true } }];\n}\nstaticData.noNewJobs = false;\n\n// Cap how many jobs get sent to the LLM in a single run to stay within Groq's\n// free-tier rate limits. Any jobs beyond the cap are simply picked up next run\n// (they stay \"new\" since they're not written to jobs.json until scored).\nconst config = $('Config').first().json;\nconst cap = config.maxJobsToScorePerRun || 12;\nconst capped = newJobs.slice(0, cap);\n\nreturn capped.map(job => ({ json: job }));\n"
       }
     },
     {
@@ -585,7 +599,7 @@
       "main": [
         [
           {
-            "node": "Normalize & Merge Sources",
+            "node": "Combine Sources",
             "type": "main",
             "index": 0
           }
@@ -596,9 +610,9 @@
       "main": [
         [
           {
-            "node": "Normalize & Merge Sources",
+            "node": "Combine Sources",
             "type": "main",
-            "index": 0
+            "index": 1
           }
         ]
       ]
@@ -607,14 +621,25 @@
       "main": [
         [
           {
-            "node": "Normalize & Merge Sources",
+            "node": "Combine Sources",
             "type": "main",
-            "index": 0
+            "index": 2
           }
         ]
       ]
     },
     "Greenhouse - Board 2": {
+      "main": [
+        [
+          {
+            "node": "Combine Sources",
+            "type": "main",
+            "index": 3
+          }
+        ]
+      ]
+    },
+    "Combine Sources": {
       "main": [
         [
           {

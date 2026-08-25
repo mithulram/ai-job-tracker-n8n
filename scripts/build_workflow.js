@@ -142,6 +142,17 @@ addNode({
   }
 });
 
+// ---------- Combine the 4 parallel source branches into one ----------
+// Without this, connecting 4 nodes directly into one Code node's input causes
+// n8n to fire that Code node once per incoming branch (4x), not once with all
+// data combined - since our Code node's logic runs its own full merge/dedupe
+// pass each time it fires, that silently quadruples (and corrupts) the job list.
+// Merge in "append" mode waits for all 4 branches and fires the next node exactly once.
+addNode({
+  id: uid('mergesources'), name: 'Combine Sources', type: 'n8n-nodes-base.merge', typeVersion: 3.2, position: [280, 140],
+  parameters: { mode: 'append', numberInputs: 4 }
+});
+
 // ---------- Normalize & merge ----------
 addNode({
   id: uid('normalize'), name: 'Normalize & Merge Sources', type: 'n8n-nodes-base.code', typeVersion: 2, position: [420, 140],
@@ -235,7 +246,7 @@ try {
   // base64 - on filesystem-backed binary storage (e.g. GitHub Actions runners)
   // it's a storage reference, not the raw content, and reading it directly
   // silently decodes to garbage instead of throwing.
-  const buffer = await $helpers.getBinaryDataBuffer(0, 'data');
+  const buffer = await this.helpers.getBinaryDataBuffer(0, 'data');
   const text = buffer.toString('utf-8');
   existingJobs = JSON.parse(text || '[]');
 } catch (e) {
@@ -421,10 +432,11 @@ connect('Config', 'Adzuna - Fetch Jobs (Keyword 1)');
 connect('Config', 'Adzuna - Fetch Jobs (Keyword 2)');
 connect('Config', 'Greenhouse - Board 1');
 connect('Config', 'Greenhouse - Board 2');
-connect('Adzuna - Fetch Jobs (Keyword 1)', 'Normalize & Merge Sources');
-connect('Adzuna - Fetch Jobs (Keyword 2)', 'Normalize & Merge Sources');
-connect('Greenhouse - Board 1', 'Normalize & Merge Sources');
-connect('Greenhouse - Board 2', 'Normalize & Merge Sources');
+connect('Adzuna - Fetch Jobs (Keyword 1)', 'Combine Sources', 0, 0);
+connect('Adzuna - Fetch Jobs (Keyword 2)', 'Combine Sources', 0, 1);
+connect('Greenhouse - Board 1', 'Combine Sources', 0, 2);
+connect('Greenhouse - Board 2', 'Combine Sources', 0, 3);
+connect('Combine Sources', 'Normalize & Merge Sources');
 connect('Normalize & Merge Sources', 'Read Existing jobs.json');
 connect('Read Existing jobs.json', 'Dedupe Against History');
 connect('Dedupe Against History', 'IF New Jobs Found');
