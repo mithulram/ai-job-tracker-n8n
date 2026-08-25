@@ -98,20 +98,6 @@
     "scored_at": "2026-08-25T11:37:28.526Z"
   },
   {
-    "job_id": "a09c318e700b6e9d",
-    "title": "Associate Solutions Architect (French or German fluency)",
-    "company": "gitlab",
-    "location": "Remote Ireland",
-    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8675543002",
-    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
-    "source": "greenhouse",
-    "posted_at": "2026-08-10T16:52:46-04:00",
-    "fit_score": 65,
-    "reasoning": "The candidate brings solid cloud engineering credentials, Azure certifications, and cybersecurity research experience that align well with a solutions architect role. However, they lack direct GitLab or DevSecOps tooling experience and the AI/LLM focus is still aspirational, resulting in a moderate overall match.",
-    "cover_letter_opener": "I am excited to combine my cloud architecture expertise and passion for AI-driven DevSecOps to help GitLab empower developers worldwide.",
-    "scored_at": "2026-08-25T11:37:28.527Z"
-  },
-  {
     "job_id": "292859364596eb1a",
     "title": "Associate Solutions Architect (French or German fluency)",
     "company": "gitlab",

@@ -141,7 +141,7 @@
               "id": "a5",
               "name": "fitScoreThreshold",
               "type": "number",
-              "value": 75
+              "value": 40
             },
             {
               "id": "a5b",
