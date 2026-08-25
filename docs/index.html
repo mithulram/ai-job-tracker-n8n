@@ -1,0 +1,617 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>AI Job Application Tracker</title>
+<meta name="description" content="Live dashboard for an n8n workflow that scans job boards, scores every posting against a resume with an LLM, and alerts on strong matches." />
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #f6f7fb;
+    --bg-subtle: #eef0f6;
+    --surface: #ffffff;
+    --surface-2: #fbfbfe;
+    --border: #e3e6f0;
+    --border-strong: #d3d7e6;
+    --text: #14151f;
+    --text-dim: #5b5f74;
+    --text-faint: #8a8ea3;
+    --accent: #4147d5;
+    --accent-2: #7c3aed;
+    --good: #0f9d67;
+    --good-bg: #e3f7ee;
+    --mid: #b3720a;
+    --mid-bg: #fdf1dc;
+    --low: #b23b4e;
+    --low-bg: #fbe9ec;
+    --shadow-sm: 0 1px 2px rgba(20, 21, 31, 0.04), 0 1px 1px rgba(20, 21, 31, 0.03);
+    --shadow-md: 0 8px 24px rgba(20, 21, 31, 0.08), 0 2px 6px rgba(20, 21, 31, 0.04);
+    --shadow-lg: 0 20px 48px rgba(20, 21, 31, 0.12), 0 4px 12px rgba(20, 21, 31, 0.06);
+    --radius-lg: 18px;
+    --radius-md: 12px;
+    --radius-sm: 8px;
+  }
+  :root:not([data-theme="light"]) {
+    @media (prefers-color-scheme: dark) {
+      --bg: #0c0d13;
+      --bg-subtle: #111219;
+      --surface: #15161f;
+      --surface-2: #1a1b26;
+      --border: #262838;
+      --border-strong: #33354a;
+      --text: #f1f2f8;
+      --text-dim: #a3a6bd;
+      --text-faint: #6d7089;
+      --accent: #818cf8;
+      --accent-2: #c084fc;
+      --good: #34d399;
+      --good-bg: rgba(52, 211, 153, 0.12);
+      --mid: #fbbf24;
+      --mid-bg: rgba(251, 191, 36, 0.12);
+      --low: #fb7185;
+      --low-bg: rgba(251, 113, 133, 0.12);
+      --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.3);
+      --shadow-md: 0 8px 24px rgba(0, 0, 0, 0.35), 0 2px 6px rgba(0, 0, 0, 0.25);
+      --shadow-lg: 0 24px 56px rgba(0, 0, 0, 0.45), 0 4px 14px rgba(0, 0, 0, 0.3);
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg: #0c0d13;
+    --bg-subtle: #111219;
+    --surface: #15161f;
+    --surface-2: #1a1b26;
+    --border: #262838;
+    --border-strong: #33354a;
+    --text: #f1f2f8;
+    --text-dim: #a3a6bd;
+    --text-faint: #6d7089;
+    --accent: #818cf8;
+    --accent-2: #c084fc;
+    --good: #34d399;
+    --good-bg: rgba(52, 211, 153, 0.12);
+    --mid: #fbbf24;
+    --mid-bg: rgba(251, 191, 36, 0.12);
+    --low: #fb7185;
+    --low-bg: rgba(251, 113, 133, 0.12);
+    --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.3);
+    --shadow-md: 0 8px 24px rgba(0, 0, 0, 0.35), 0 2px 6px rgba(0, 0, 0, 0.25);
+    --shadow-lg: 0 24px 56px rgba(0, 0, 0, 0.45), 0 4px 14px rgba(0, 0, 0, 0.3);
+  }
+
+  * { box-sizing: border-box; }
+  html { color-scheme: light dark; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    letter-spacing: -0.011em;
+  }
+  .mono { font-family: 'JetBrains Mono', ui-monospace, monospace; letter-spacing: 0; }
+
+  /* ---------- Background wash ---------- */
+  .bg-wash {
+    position: fixed;
+    inset: 0;
+    z-index: -1;
+    background:
+      radial-gradient(60vw 40vh at 15% -10%, color-mix(in srgb, var(--accent) 14%, transparent), transparent 60%),
+      radial-gradient(50vw 40vh at 100% 0%, color-mix(in srgb, var(--accent-2) 10%, transparent), transparent 60%),
+      var(--bg);
+  }
+
+  /* ---------- Header ---------- */
+  header {
+    max-width: 1180px;
+    margin: 0 auto;
+    padding: 56px 28px 28px;
+  }
+  .eyebrow {
+    display: inline-flex;
+    align-items: center;
+    gap: 7px;
+    font-size: 0.72rem;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--text-faint);
+    margin-bottom: 16px;
+  }
+  .eyebrow .dot {
+    width: 6px; height: 6px; border-radius: 50%;
+    background: var(--good);
+    box-shadow: 0 0 0 3px var(--good-bg);
+  }
+  header h1 {
+    margin: 0 0 12px;
+    font-size: clamp(1.9rem, 4vw, 2.7rem);
+    font-weight: 800;
+    letter-spacing: -0.03em;
+    line-height: 1.08;
+  }
+  header .subtitle {
+    margin: 0;
+    max-width: 640px;
+    color: var(--text-dim);
+    font-size: 1.02rem;
+    line-height: 1.55;
+  }
+  .header-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 24px;
+  }
+  .meta-chip {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 7px 13px;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    font-size: 0.82rem;
+    color: var(--text-dim);
+    box-shadow: var(--shadow-sm);
+  }
+  .meta-chip strong { color: var(--text); font-weight: 600; }
+  .meta-chip a { color: var(--accent); text-decoration: none; font-weight: 600; }
+  .meta-chip a:hover { text-decoration: underline; }
+
+  /* ---------- Controls ---------- */
+  .controls-bar {
+    max-width: 1180px;
+    margin: 0 auto;
+    padding: 0 28px 28px;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+  }
+  .controls {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    align-items: center;
+    background: color-mix(in srgb, var(--surface) 88%, transparent);
+    backdrop-filter: blur(14px);
+    -webkit-backdrop-filter: blur(14px);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-md);
+    padding: 12px;
+    box-shadow: var(--shadow-sm);
+  }
+  .search-wrap {
+    position: relative;
+    flex: 1 1 220px;
+    min-width: 180px;
+  }
+  .search-wrap svg {
+    position: absolute;
+    left: 12px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: var(--text-faint);
+    pointer-events: none;
+  }
+  .controls input[type="text"] {
+    width: 100%;
+    padding: 9px 12px 9px 34px;
+    background: var(--surface-2);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-sm);
+    color: var(--text);
+    font-size: 0.88rem;
+    font-family: inherit;
+    transition: border-color 0.15s ease, box-shadow 0.15s ease;
+  }
+  .controls select {
+    padding: 9px 30px 9px 12px;
+    background: var(--surface-2);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-sm);
+    color: var(--text);
+    font-size: 0.85rem;
+    font-family: inherit;
+    cursor: pointer;
+    appearance: none;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6' viewBox='0 0 10 6' fill='none'%3E%3Cpath d='M1 1L5 5L9 1' stroke='%238a8ea3' stroke-width='1.5' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right 12px center;
+    transition: border-color 0.15s ease;
+  }
+  .controls input:focus, .controls select:focus {
+    outline: none;
+    border-color: var(--accent);
+    box-shadow: 0 0 0 3px color-mix(in srgb, var(--accent) 18%, transparent);
+  }
+  .stats {
+    color: var(--text-faint);
+    font-size: 0.8rem;
+    margin-left: auto;
+    white-space: nowrap;
+    padding: 0 6px;
+  }
+
+  /* ---------- Main / grid ---------- */
+  main {
+    max-width: 1180px;
+    margin: 0 auto;
+    padding: 4px 28px 80px;
+  }
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 16px;
+  }
+
+  .card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-lg);
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 13px;
+    box-shadow: var(--shadow-sm);
+    transition: transform 0.18s cubic-bezier(.2,.8,.2,1), box-shadow 0.18s ease, border-color 0.18s ease;
+  }
+  .card:hover {
+    transform: translateY(-3px);
+    box-shadow: var(--shadow-md);
+    border-color: var(--border-strong);
+  }
+
+  .card-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 12px;
+  }
+  .card-title {
+    font-weight: 700;
+    font-size: 1.03rem;
+    line-height: 1.35;
+    letter-spacing: -0.015em;
+  }
+  .card-company {
+    color: var(--text-dim);
+    font-size: 0.86rem;
+    margin-top: 3px;
+    font-weight: 500;
+  }
+
+  .badge {
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 52px;
+    height: 52px;
+    border-radius: 14px;
+    font-weight: 800;
+    font-size: 1.05rem;
+    line-height: 1;
+    letter-spacing: -0.02em;
+  }
+  .badge span { font-size: 0.55rem; font-weight: 600; opacity: 0.75; margin-top: 2px; letter-spacing: 0.02em; }
+  .badge.good { background: var(--good-bg); color: var(--good); }
+  .badge.mid { background: var(--mid-bg); color: var(--mid); }
+  .badge.low { background: var(--low-bg); color: var(--low); }
+
+  .meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    font-size: 0.76rem;
+  }
+  .pill {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    border: 1px solid var(--border);
+    background: var(--surface-2);
+    padding: 4px 10px;
+    border-radius: 999px;
+    color: var(--text-dim);
+    font-weight: 500;
+  }
+  .pill.source-adzuna { color: var(--accent); border-color: color-mix(in srgb, var(--accent) 30%, var(--border)); }
+  .pill.source-greenhouse { color: var(--accent-2); border-color: color-mix(in srgb, var(--accent-2) 30%, var(--border)); }
+
+  .reasoning {
+    font-size: 0.86rem;
+    color: var(--text-dim);
+    line-height: 1.55;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .card-actions {
+    margin-top: auto;
+    padding-top: 4px;
+    display: flex;
+    justify-content: flex-end;
+  }
+  .apply-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    background: var(--text);
+    color: var(--bg);
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 0.83rem;
+    padding: 9px 16px;
+    border-radius: 999px;
+    transition: transform 0.15s ease, opacity 0.15s ease;
+  }
+  .apply-btn:hover { transform: translateY(-1px); opacity: 0.88; }
+
+  /* ---------- Empty / error states ---------- */
+  .state-panel {
+    display: none;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 10px;
+    padding: 90px 24px;
+    color: var(--text-dim);
+  }
+  .state-panel .icon {
+    width: 56px; height: 56px;
+    display: flex; align-items: center; justify-content: center;
+    border-radius: 16px;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    color: var(--text-faint);
+    margin-bottom: 6px;
+  }
+  .state-panel h3 { margin: 0; color: var(--text); font-size: 1.05rem; font-weight: 700; }
+  .state-panel p { margin: 0; max-width: 380px; font-size: 0.9rem; line-height: 1.5; }
+
+  footer {
+    max-width: 1180px;
+    margin: 0 auto;
+    padding: 32px 28px 48px;
+    text-align: center;
+    color: var(--text-faint);
+    font-size: 0.8rem;
+    border-top: 1px solid var(--border);
+  }
+  footer a { color: var(--text-dim); font-weight: 600; text-decoration: none; }
+  footer a:hover { color: var(--accent); }
+
+  @media (max-width: 560px) {
+    header { padding: 36px 18px 20px; }
+    .controls-bar, main { padding-left: 18px; padding-right: 18px; }
+    .stats { width: 100%; margin-left: 0; text-align: right; }
+    .grid { grid-template-columns: 1fr; }
+  }
+</style>
+</head>
+<body>
+<div class="bg-wash"></div>
+
+<header>
+  <div class="eyebrow"><span class="dot"></span> Live &middot; refreshes automatically every 3 hours</div>
+  <h1>AI Job Application Tracker</h1>
+  <p class="subtitle">An n8n workflow scans job boards, scores every new posting against my resume with an LLM, and opens an alert for anything that's a strong fit — running entirely on free infrastructure, nothing hosted 24/7.</p>
+  <div class="header-meta">
+    <span class="meta-chip">Last updated: <strong id="lastUpdated">—</strong></span>
+    <span class="meta-chip"><strong id="jobCountChip">0</strong> jobs tracked</span>
+    <span class="meta-chip"><a href="https://github.com/mithulram/ai-job-tracker-n8n" target="_blank" rel="noopener">View source →</a></span>
+  </div>
+</header>
+
+<div class="controls-bar">
+  <div class="controls">
+    <div class="search-wrap">
+      <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg>
+      <input type="text" id="search" placeholder="Search title or company…" />
+    </div>
+    <select id="sourceFilter">
+      <option value="">All sources</option>
+    </select>
+    <select id="minScore">
+      <option value="0">Any score</option>
+      <option value="75">75%+ (strong fit)</option>
+      <option value="50">50%+</option>
+      <option value="25">25%+</option>
+    </select>
+    <select id="sortBy">
+      <option value="score-desc">Highest score</option>
+      <option value="score-asc">Lowest score</option>
+      <option value="date-desc">Newest first</option>
+    </select>
+    <span class="stats" id="stats"></span>
+  </div>
+</div>
+
+<main>
+  <div class="grid" id="grid"></div>
+
+  <div class="state-panel" id="empty">
+    <div class="icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg></div>
+    <h3>No jobs match yet</h3>
+    <p>Either your filters are too narrow, or the workflow hasn't found a matching posting yet — it runs every 3 hours, or trigger it manually from the Actions tab.</p>
+  </div>
+
+  <div class="state-panel" id="error">
+    <div class="icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 9v4M12 17h.01"/><circle cx="12" cy="12" r="9"/></svg></div>
+    <h3>Couldn't load job data</h3>
+    <p id="errorDetail">The workflow may not have run yet, or data/jobs.json isn't reachable.</p>
+  </div>
+</main>
+
+<footer>
+  Built with n8n &middot; Adzuna &middot; Groq &middot; GitHub Actions &middot; GitHub Pages —
+  <a href="https://github.com/mithulram/ai-job-tracker-n8n" target="_blank" rel="noopener">source on GitHub</a>
+</footer>
+
+<script>
+(function () {
+  const OWNER = 'mithulram';
+  const REPO = 'ai-job-tracker-n8n';
+  const BRANCH = 'main';
+  const DATA_URL = `https://raw.githubusercontent.com/${OWNER}/${REPO}/${BRANCH}/data/jobs.json?t=${Date.now()}`;
+  const FALLBACK_URL = '../data/jobs.json';
+
+  const grid = document.getElementById('grid');
+  const emptyEl = document.getElementById('empty');
+  const errorEl = document.getElementById('error');
+  const errorDetailEl = document.getElementById('errorDetail');
+  const statsEl = document.getElementById('stats');
+  const searchEl = document.getElementById('search');
+  const sourceFilterEl = document.getElementById('sourceFilter');
+  const minScoreEl = document.getElementById('minScore');
+  const sortByEl = document.getElementById('sortBy');
+  const lastUpdatedEl = document.getElementById('lastUpdated');
+  const jobCountChipEl = document.getElementById('jobCountChip');
+
+  let jobs = [];
+
+  function scoreClass(score) {
+    if (score >= 75) return 'good';
+    if (score >= 50) return 'mid';
+    return 'low';
+  }
+
+  function escapeHtml(str) {
+    const div = document.createElement('div');
+    div.textContent = str == null ? '' : String(str);
+    return div.innerHTML;
+  }
+
+  function relativeTime(dateStr) {
+    if (!dateStr) return 'unknown';
+    const d = new Date(dateStr);
+    if (isNaN(d)) return 'unknown';
+    const diffMs = Date.now() - d.getTime();
+    const mins = Math.round(diffMs / 60000);
+    if (mins < 1) return 'just now';
+    if (mins < 60) return `${mins}m ago`;
+    const hrs = Math.round(mins / 60);
+    if (hrs < 24) return `${hrs}h ago`;
+    const days = Math.round(hrs / 24);
+    return `${days}d ago`;
+  }
+
+  function render() {
+    const q = searchEl.value.trim().toLowerCase();
+    const src = sourceFilterEl.value;
+    const minScore = Number(minScoreEl.value) || 0;
+
+    let filtered = jobs.filter(j => {
+      const matchesQ = !q || (j.title || '').toLowerCase().includes(q) || (j.company || '').toLowerCase().includes(q);
+      const matchesSrc = !src || j.source === src;
+      const matchesScore = (Number(j.fit_score) || 0) >= minScore;
+      return matchesQ && matchesSrc && matchesScore;
+    });
+
+    const sortBy = sortByEl.value;
+    filtered.sort((a, b) => {
+      if (sortBy === 'score-desc') return (b.fit_score || 0) - (a.fit_score || 0);
+      if (sortBy === 'score-asc') return (a.fit_score || 0) - (b.fit_score || 0);
+      if (sortBy === 'date-desc') return new Date(b.posted_at || b.scored_at || 0) - new Date(a.posted_at || a.scored_at || 0);
+      return 0;
+    });
+
+    grid.innerHTML = '';
+    const hasAnyJobs = jobs.length > 0;
+    emptyEl.style.display = (hasAnyJobs && filtered.length === 0) ? 'flex' : 'none';
+    if (!hasAnyJobs) {
+      emptyEl.style.display = 'flex';
+      emptyEl.querySelector('h3').textContent = 'No jobs tracked yet';
+      emptyEl.querySelector('p').textContent = 'The workflow hasn\'t completed a run yet. It fires every 3 hours automatically, or can be triggered manually from the Actions tab.';
+    }
+    statsEl.textContent = hasAnyJobs ? `${filtered.length} of ${jobs.length} jobs` : '';
+
+    for (const j of filtered) {
+      const card = document.createElement('div');
+      card.className = 'card';
+      const score = Number(j.fit_score) || 0;
+      const sourceClass = j.source ? `source-${j.source}` : '';
+      card.innerHTML = `
+        <div class="card-top">
+          <div>
+            <div class="card-title">${escapeHtml(j.title)}</div>
+            <div class="card-company">${escapeHtml(j.company)}</div>
+          </div>
+          <div class="badge ${scoreClass(score)}">${score}<span>PCT</span></div>
+        </div>
+        <div class="meta">
+          <span class="pill">${escapeHtml(j.location || 'Unknown location')}</span>
+          <span class="pill ${sourceClass}">${escapeHtml(j.source || 'unknown')}</span>
+        </div>
+        ${j.reasoning ? `<div class="reasoning">${escapeHtml(j.reasoning)}</div>` : ''}
+        <div class="card-actions">
+          ${j.url ? `<a class="apply-btn" href="${escapeHtml(j.url)}" target="_blank" rel="noopener">Apply <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17 17 7M7 7h10v10"/></svg></a>` : ''}
+        </div>
+      `;
+      grid.appendChild(card);
+    }
+  }
+
+  function populateSources() {
+    const sources = Array.from(new Set(jobs.map(j => j.source).filter(Boolean))).sort();
+    for (const s of sources) {
+      const opt = document.createElement('option');
+      opt.value = s;
+      opt.textContent = s.charAt(0).toUpperCase() + s.slice(1);
+      sourceFilterEl.appendChild(opt);
+    }
+  }
+
+  function updateHeaderMeta() {
+    jobCountChipEl.textContent = jobs.length;
+    if (jobs.length === 0) {
+      lastUpdatedEl.textContent = 'never';
+      return;
+    }
+    const latest = jobs.reduce((max, j) => {
+      const t = new Date(j.scored_at || j.posted_at || 0).getTime();
+      return t > max ? t : max;
+    }, 0);
+    lastUpdatedEl.textContent = latest ? relativeTime(new Date(latest).toISOString()) : 'unknown';
+  }
+
+  async function load() {
+    try {
+      let res = await fetch(DATA_URL, { cache: 'no-store' });
+      if (!res.ok) throw new Error('primary fetch failed: ' + res.status);
+      jobs = await res.json();
+    } catch (e) {
+      try {
+        const res2 = await fetch(FALLBACK_URL, { cache: 'no-store' });
+        if (!res2.ok) throw new Error('fallback fetch failed: ' + res2.status);
+        jobs = await res2.json();
+      } catch (e2) {
+        errorEl.style.display = 'flex';
+        errorDetailEl.textContent = 'Could not load job data from GitHub. The workflow may not have run yet.';
+        statsEl.textContent = '';
+        return;
+      }
+    }
+    if (!Array.isArray(jobs)) jobs = [];
+    populateSources();
+    updateHeaderMeta();
+    render();
+  }
+
+  searchEl.addEventListener('input', render);
+  sourceFilterEl.addEventListener('change', render);
+  minScoreEl.addEventListener('change', render);
+  sortByEl.addEventListener('change', render);
+
+  load();
+})();
+</script>
+</body>
+</html>

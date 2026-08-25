@@ -2,7 +2,7 @@
 
 A fully automated, **$0-forever, no-credit-card-required** job search pipeline built on [n8n](https://n8n.io). It scans job boards, scores every new posting against my resume with an LLM, opens a GitHub Issue for strong matches, and publishes all results to a public live dashboard — all running on GitHub's free infrastructure, with nothing hosted 24/7.
 
-**Live demo dashboard:** https://mithulram.github.io/ai-job-tracker-n8n/ <!-- TODO: confirm URL once GitHub Pages is enabled -->
+**Live demo dashboard:** https://mithulram.github.io/ai-job-tracker-n8n/
 
 **Repo:** https://github.com/mithulram/ai-job-tracker-n8n
 
@@ -36,8 +36,8 @@ GitHub Actions (cron, every 3h, public repo → unlimited free minutes)
    │
    └─ commits & pushes the updated data/jobs.json back to the repo, then the runner shuts down
 
-GitHub Pages (static, always-on, free)
-   └─ dashboard/index.html fetches data/jobs.json straight from the repo and renders
+GitHub Pages (static, always-on, free, serves from /docs)
+   └─ docs/index.html fetches data/jobs.json straight from the repo and renders
       searchable, sortable, color-coded job cards — this is the live demo link.
 ```
 
@@ -51,7 +51,7 @@ GitHub Pages (static, always-on, free)
 | LLM scoring | [Groq](https://groq.com) (`openai/gpt-oss-120b`) |
 | Data store | `data/jobs.json`, committed to the repo |
 | Alerts | GitHub Issues (via the built-in `GITHUB_TOKEN`) |
-| Dashboard | Static HTML/CSS/JS on GitHub Pages |
+| Dashboard | Static HTML/CSS/JS on GitHub Pages (served from `/docs`) |
 
 ## Cost & card check
 
@@ -73,7 +73,7 @@ No component here has a hidden metered cost — every free tier used is a hard r
 /workflows/workflow.json     n8n workflow (source of truth for the automation)
 /.github/workflows/run.yml   GitHub Actions cron job that runs the workflow headlessly
 /data/jobs.json              committed job data (JSON array), updated every run
-/dashboard/                  static dashboard published via GitHub Pages
+/docs/index.html             static dashboard, published via GitHub Pages (Pages only serves / or /docs)
 /docs/screenshots/           screenshots for this README
 /docs/demo.gif               short demo recording (see SETUP.md)
 /scripts/build_workflow.js   generates workflows/workflow.json programmatically

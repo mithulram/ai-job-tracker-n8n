@@ -18,13 +18,15 @@ Get free keys at:
 
 ## 2. Enable GitHub Pages
 
-**Settings → Pages → Build and deployment → Source: "Deploy from a branch" → Branch: `main`, folder: `/dashboard` → Save.**
+**Settings → Pages → Build and deployment → Source: "Deploy from a branch" → Branch: `main`, folder: `/docs` → Save.**
+
+(GitHub Pages only supports serving from the repo root or a folder literally named `/docs` — that's why the dashboard lives in `docs/index.html` rather than a custom-named folder.)
 
 The dashboard will be live at `https://<your-username>.github.io/<repo-name>/` within a minute or two.
 
 ## 3. Point the dashboard at your repo (only if you forked/renamed)
 
-Edit the constants at the top of the `<script>` block in `dashboard/index.html`:
+Edit the constants at the top of the `<script>` block in `docs/index.html`:
 
 ```js
 const OWNER = 'mithulram';
