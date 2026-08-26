@@ -1,5 +1,61 @@
 [
   {
+    "job_id": "3d4124e49a09c274",
+    "title": "Senior Backend Engineer (Go), Tenant Scale: Gitaly",
+    "company": "gitlab",
+    "location": "Remote, United Kingdom",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8729451002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-08-26T07:09:22-04:00",
+    "fit_score": 30,
+    "reasoning": "The candidate has solid backend experience with Java, Spring Boot, and cloud services, but the role requires senior-level expertise in Go and deep familiarity with GitLab's architecture, which are not demonstrated. Additionally, the seniority level and remote UK focus differ from the candidate's current student status in Germany.",
+    "cover_letter_opener": "I’m excited to bring my strong backend and cloud engineering background to GitLab’s Gitaly team and help drive AI‑powered productivity for developers worldwide.",
+    "scored_at": "2026-08-26T12:36:26.862Z"
+  },
+  {
+    "job_id": "160aa7b51d8391c8",
+    "title": "Senior Backend Engineer (Go), Tenant Scale: Gitaly",
+    "company": "gitlab",
+    "location": "Remote, Poland",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8749951002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-08-26T07:09:14-04:00",
+    "fit_score": 30,
+    "reasoning": "The candidate has solid backend experience with Java, Spring Boot, and cloud services, which aligns with general backend engineering requirements. However, the role specifically demands senior-level expertise in Go and experience with GitLab's Gitaly subsystem, which are not present in the resume. Additionally, the candidate is still a student seeking part‑time work, while the position is a senior full‑time role.",
+    "cover_letter_opener": "I am excited about the opportunity to bring my strong backend and cloud expertise to GitLab’s Gitaly team and help drive innovative DevSecOps solutions.",
+    "scored_at": "2026-08-26T12:36:26.863Z"
+  },
+  {
+    "job_id": "852b41e4f42aa692",
+    "title": "Senior Backend Engineer",
+    "company": "gitlab",
+    "location": "Remote, Poland",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8749946002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-08-26T07:06:42-04:00",
+    "fit_score": 55,
+    "reasoning": "The candidate brings solid Java backend experience with Spring Boot and strong cloud expertise, which aligns with many backend engineering requirements. However, the role is senior-level and expects deeper experience with large-scale DevSecOps platforms, possibly specific technologies like Ruby or Go, which are not evident in the resume. Additionally, the candidate is still a student seeking part‑time work, which may not match the full‑time senior expectations.",
+    "cover_letter_opener": "I am excited to bring my backend and cloud expertise to GitLab’s innovative AI‑driven DevSecOps platform and help accelerate secure software delivery worldwide.",
+    "scored_at": "2026-08-26T12:36:26.856Z"
+  },
+  {
+    "job_id": "b01b075d4bce6f56",
+    "title": "Senior Backend Engineer",
+    "company": "gitlab",
+    "location": "Bangalore, India",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8716143002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-08-26T03:12:35-04:00",
+    "fit_score": 35,
+    "reasoning": "The candidate has solid Java and Spring Boot backend experience, which aligns with GitLab's backend needs, but lacks senior-level depth and the required location in Bangalore. Additionally, the candidate is currently a student seeking part‑time work, whereas the role is a senior full‑time position.",
+    "cover_letter_opener": "I am excited about the opportunity to bring my Java and Spring Boot expertise to GitLab’s innovative DevSecOps platform and contribute to its AI‑driven future.",
+    "scored_at": "2026-08-26T12:36:26.855Z"
+  },
+  {
     "job_id": "86ad41470f5016a3",
     "title": "Senior Backend Engineer",
     "company": "gitlab",
@@ -54,6 +110,20 @@
     "reasoning": "The candidate has solid backend and cloud engineering experience with Java, Python, and Azure, which aligns with GitLab's DevSecOps focus. However, they lack direct AI/ML or agentic SDLC experience and are seeking part‑time roles in Germany, while the position is a full‑time remote role for a US‑based team. Consequently, the overall fit is moderate.",
     "cover_letter_opener": "I am excited to bring my cloud‑native backend expertise and passion for AI integration to GitLab’s Forward Deployed Engineer team, helping accelerate intelligent software delivery worldwide.",
     "scored_at": "2026-08-25T21:22:41.180Z"
+  },
+  {
+    "job_id": "9350d007573d57b3",
+    "title": "Senior Backend Engineer - Monitoring and Anomaly Detection (Monetization)",
+    "company": "gitlab",
+    "location": "Bangalore, India",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8615319002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-08-25T04:02:20-04:00",
+    "fit_score": 30,
+    "reasoning": "The candidate has solid Java backend experience with Spring Boot and cloud skills, which aligns with general backend development requirements. However, the role is a senior position focused on monitoring, anomaly detection, and GitLab's specific tech stack, while the candidate is a student seeking part‑time work and lacks direct experience in those areas, resulting in a modest fit.",
+    "cover_letter_opener": "I’m excited to bring my strong Java backend and cloud expertise to GitLab’s innovative monitoring and anomaly detection team.",
+    "scored_at": "2026-08-26T12:36:26.864Z"
   },
   {
     "job_id": "4adf7c146b33c7d3",
@@ -124,6 +194,20 @@
     "reasoning": "The candidate has strong cloud and backend development experience and certifications that align with GitLab's cloud focus, and expresses a clear interest in AI solutions. However, they lack direct experience in AI product ownership, DevSecOps, and familiarity with GitLab's platform, which are central to the AI Transformation Owner role. This results in a moderate fit.",
     "cover_letter_opener": "I am excited to bring my cloud engineering expertise and passion for AI-driven innovation to help GitLab accelerate its AI transformation journey!",
     "scored_at": "2026-08-25T11:51:33.452Z"
+  },
+  {
+    "job_id": "e139783cc6e5dfd8",
+    "title": "Senior Backend Engineer - Database Change Management",
+    "company": "gitlab",
+    "location": "Bangalore, India",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8716271002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-08-24T07:37:45-04:00",
+    "fit_score": 35,
+    "reasoning": "The candidate has solid Java backend experience with Spring Boot and cloud expertise, which aligns with general backend engineering requirements. However, the role is senior-level, focuses on database change management and DevSecOps at GitLab, and is based in Bangalore, while the candidate is a Master's student in Germany seeking part‑time work. The mismatch in seniority, specific domain focus, and location reduces the overall fit.",
+    "cover_letter_opener": "I am excited about GitLab's AI‑driven DevSecOps platform and eager to bring my Java and cloud backend expertise to help advance your database change management solutions.",
+    "scored_at": "2026-08-26T12:36:26.860Z"
   },
   {
     "job_id": "6141b18903b314e7",
@@ -322,6 +406,20 @@
     "scored_at": "2026-08-25T12:12:13.775Z"
   },
   {
+    "job_id": "d232937fc47bf4dc",
+    "title": "Senior Backend Engineer - Platform Integrations (Monetization)",
+    "company": "gitlab",
+    "location": "Bangalore, India",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8615322002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-08-20T08:13:19-04:00",
+    "fit_score": 30,
+    "reasoning": "The candidate has solid Java backend experience with Spring Boot and cloud services, which aligns with backend development needs. However, the role is senior, expects extensive experience with GitLab's stack and monetization platforms, and is based in Bangalore, while the candidate is a student in Germany seeking part‑time work. Therefore the overall fit is limited.",
+    "cover_letter_opener": "I am excited about the opportunity to help GitLab accelerate its monetization platform with my backend expertise and passion for innovative cloud solutions.",
+    "scored_at": "2026-08-26T12:36:26.865Z"
+  },
+  {
     "job_id": "c1f516b59717bbbd",
     "title": "Engineering Manager, Build",
     "company": "gitlab",
@@ -418,6 +516,20 @@
     "reasoning": "The candidate has strong technical and cloud engineering experience but no demonstrated business development or sales background, which are core to the Business Development Representative role. Additionally, the resume does not highlight any experience with the Nordics market or sales-oriented skills, resulting in a low match.",
     "cover_letter_opener": "I am excited to bring my deep technical expertise and passion for GitLab’s AI‑driven DevSecOps platform to help expand your presence across the Nordics region.",
     "scored_at": "2026-08-25T12:12:13.772Z"
+  },
+  {
+    "job_id": "dbde76d37f3e2cf7",
+    "title": "Senior Backend Engineer, Architecture Engineering: Nonlinear Productivity",
+    "company": "gitlab",
+    "location": "Remote, Canada; Remote, United States",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8646556002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-08-14T17:44:09-04:00",
+    "fit_score": 45,
+    "reasoning": "The candidate has solid Java and Spring Boot backend experience and cloud expertise with Azure, which aligns with the backend engineering focus. However, the role is senior-level at GitLab, emphasizing large‑scale architecture, DevSecOps, and GitLab‑specific technologies, which are not evident in the resume. Additionally, the candidate is still a student seeking part‑time work, making the senior remote position a partial mismatch.",
+    "cover_letter_opener": "I’m thrilled to bring my Java‑centric backend expertise and cloud architecture experience to GitLab’s senior engineering team, driving innovative, secure solutions for the next generation of DevSecOps.",
+    "scored_at": "2026-08-26T12:36:26.859Z"
   },
   {
     "job_id": "851f2614dfc7a9b8",
@@ -1510,5 +1622,61 @@
     "reasoning": "The candidate brings solid Java backend and Azure cloud expertise, which aligns with GitLab's cloud‑native environment, but lacks direct experience with GitLab, DevSecOps tooling, and senior support responsibilities. Additionally, the role targets a senior engineer, while the candidate is still a student seeking part‑time positions, resulting in a moderate fit.",
     "cover_letter_opener": "I am excited to bring my cloud‑native backend expertise to GitLab’s AI‑driven DevSecOps team and help empower developers worldwide.",
     "scored_at": "2026-08-26T09:35:32.635Z"
+  },
+  {
+    "job_id": "2f551c30dfe9c1ce",
+    "title": "Senior Backend Engineer, AI Engineering: Chat",
+    "company": "gitlab",
+    "location": "Remote, Canada; Remote, United Kingdom",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8621733002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-08-10T16:52:46-04:00",
+    "fit_score": 45,
+    "reasoning": "The candidate demonstrates solid backend expertise with Java, Spring Boot, REST APIs, and cloud platforms, which aligns with the technical core of the role. However, the position is senior-level, expects extensive AI engineering experience and remote work from Canada/UK, while the candidate is a student in Germany seeking part‑time work, resulting in a moderate mismatch.",
+    "cover_letter_opener": "I’m thrilled by GitLab’s vision of AI‑powered DevSecOps and eager to bring my backend and cloud expertise to help shape the next generation of intelligent development tools.",
+    "scored_at": "2026-08-26T12:36:26.858Z"
+  },
+  {
+    "job_id": "ec761544c893551f",
+    "title": "Senior Backend Engineer, Analytics Instrumentation (Golang)",
+    "company": "gitlab",
+    "location": "Remote, Canada; Remote, US",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8451512002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-08-10T16:52:46-04:00",
+    "fit_score": 30,
+    "reasoning": "The candidate has solid backend development experience with Java, Spring Boot, and cloud platforms, which demonstrates strong engineering fundamentals. However, the role requires senior‑level expertise in Golang and analytics instrumentation, areas not reflected in the resume, and the candidate is seeking a part‑time position in Germany rather than a full‑time remote role for GitLab. Consequently, the overall fit is limited.",
+    "cover_letter_opener": "I am excited to bring my strong backend and cloud expertise to GitLab’s Analytics Instrumentation team, helping drive intelligent DevSecOps solutions.",
+    "scored_at": "2026-08-26T12:36:26.859Z"
+  },
+  {
+    "job_id": "9a986b2fcadf1f90",
+    "title": "Senior Backend Engineer, Deployment Environments",
+    "company": "gitlab",
+    "location": "Remote, United Kingdom",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8636713002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-08-10T16:52:46-04:00",
+    "fit_score": 40,
+    "reasoning": "The candidate has solid backend experience with Java, Spring Boot, and cloud services, which aligns with the general requirements for a backend engineer. However, the role is senior-level at GitLab, expects extensive experience with GitLab's tech stack and DevSecOps tooling, which the resume does not demonstrate, and the candidate is seeking a part‑time student position rather than a senior full‑time role.",
+    "cover_letter_opener": "I am excited to bring my strong Java and cloud expertise to GitLab’s Backend Engineering team and help drive innovative deployment environments.",
+    "scored_at": "2026-08-26T12:36:26.861Z"
+  },
+  {
+    "job_id": "d5cd9b61b5cb4d12",
+    "title": "Senior Backend Engineer - Platform Insights",
+    "company": "gitlab",
+    "location": "Bangalore, India",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8615439002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-08-10T16:52:46-04:00",
+    "fit_score": 30,
+    "reasoning": "The candidate has solid Java/Spring Boot backend experience and cloud knowledge, but the role is a senior position requiring extensive DevSecOps and platform‑scale expertise, which the resume does not demonstrate. Additionally, the candidate seeks a part‑time role in Germany, while the job is a full‑time senior role in Bangalore, further reducing fit.",
+    "cover_letter_opener": "I am excited to bring my backend and cloud expertise to GitLab’s Platform Insights team and help drive AI‑powered productivity for developers worldwide.",
+    "scored_at": "2026-08-26T12:36:26.865Z"
   }
 ]
