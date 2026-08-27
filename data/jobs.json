@@ -154,6 +154,20 @@
     "scored_at": "2026-08-26T06:36:39.359Z"
   },
   {
+    "job_id": "efd5498b8909b21f",
+    "title": "Senior Migration Engineer - GitLab Dedicated",
+    "company": "gitlab",
+    "location": "Remote, United States",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8710061002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-08-25T16:39:22-04:00",
+    "fit_score": 30,
+    "reasoning": "The candidate has solid backend and cloud engineering experience with Java, Spring Boot, and Azure, which are relevant to migration tasks. However, they lack direct experience with GitLab, DevSecOps, and senior-level migration engineering, and the role is senior and US‑based while the candidate seeks part‑time work in Germany. These gaps limit the overall fit.",
+    "cover_letter_opener": "I am excited about the opportunity to bring my cloud and backend expertise to help GitLab customers seamlessly migrate to GitLab Dedicated!",
+    "scored_at": "2026-08-27T00:25:01.821Z"
+  },
+  {
     "job_id": "873451ab61365a69",
     "title": "Forward Deployed Engineer, AI and Agentic SDLC",
     "company": "gitlab",
@@ -322,6 +336,20 @@
     "scored_at": "2026-08-25T12:12:13.773Z"
   },
   {
+    "job_id": "5e3dc5083cbf9369",
+    "title": "Senior Product Manager, Growth",
+    "company": "gitlab",
+    "location": "Remote, Canada; Remote, United States",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8684348002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-08-21T14:51:50-04:00",
+    "fit_score": 20,
+    "reasoning": "The candidate's experience is heavily technical—Java, Spring Boot, cloud, and AI aspirations—while the role demands senior product management and growth expertise, which are not demonstrated. Although the technical background could be valuable, the lack of product leadership experience makes the fit low.",
+    "cover_letter_opener": "I’m excited to bring my cloud‑native development expertise and passion for AI‑driven solutions to help GitLab accelerate growth and deliver innovative DevSecOps products.",
+    "scored_at": "2026-08-27T00:25:01.826Z"
+  },
+  {
     "job_id": "1c588c1be2530743",
     "title": "Regional Sales Director, Public Sector - DoW",
     "company": "gitlab",
@@ -348,6 +376,20 @@
     "reasoning": "The candidate has solid software engineering experience and a research background in automotive cybersecurity, which aligns with GitLab's security focus. However, their primary expertise is in Java, Flutter, and Azure rather than the specific vulnerability management tools and DevSecOps stack GitLab uses, and they are seeking part‑time roles in Germany while the position targets remote candidates in Canada, Israel, or the UK. This results in a moderate fit.",
     "cover_letter_opener": "I am excited to bring my cybersecurity research and full‑stack development experience to GitLab’s Security Factory, helping to strengthen vulnerability management across your global platform.",
     "scored_at": "2026-08-26T00:47:21.316Z"
+  },
+  {
+    "job_id": "af758a0900f4cfc1",
+    "title": "Senior Manager, Product Security Engineering (Security Posture & Supply Chain)",
+    "company": "gitlab",
+    "location": "Remote, Canada; Remote, Israel; Remote, United Kingdom; Remote, United States",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8722934002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-08-21T08:33:01-04:00",
+    "fit_score": 30,
+    "reasoning": "The candidate has relevant cybersecurity research experience and strong cloud and backend development skills, which align with GitLab's security focus. However, the role is a senior manager position requiring extensive product security, supply‑chain, and DevSecOps leadership experience that the candidate does not yet possess.",
+    "cover_letter_opener": "I am excited to bring my automotive cybersecurity research and Azure expertise to GitLab’s world‑class product security team and help shape the future of secure DevSecOps.",
+    "scored_at": "2026-08-27T00:25:01.819Z"
   },
   {
     "job_id": "1094df0992ffc554",
@@ -476,6 +518,20 @@
     "scored_at": "2026-08-25T12:12:13.775Z"
   },
   {
+    "job_id": "a8e5048cf760ac02",
+    "title": "Senior Named Account Executive - DACH",
+    "company": "gitlab",
+    "location": "Remote, Germany",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8627798002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-08-20T10:30:58-04:00",
+    "fit_score": 15,
+    "reasoning": "The candidate's background is heavily technical, focusing on software development, cloud infrastructure, and AI aspirations, with no demonstrated sales or account management experience required for a Senior Named Account Executive role. While familiarity with Azure and DevSecOps concepts may be relevant, the lack of client‑facing, quota‑driven, and DACH market experience makes the fit low.",
+    "cover_letter_opener": "I am excited about GitLab’s AI‑driven DevSecOps platform and eager to bring my technical expertise to help German enterprises achieve their digital transformation goals.",
+    "scored_at": "2026-08-27T00:25:01.822Z"
+  },
+  {
     "job_id": "d232937fc47bf4dc",
     "title": "Senior Backend Engineer - Platform Integrations (Monetization)",
     "company": "gitlab",
@@ -572,6 +628,34 @@
     "reasoning": "The candidate’s background is focused on software development, cloud architecture, and AI, with no experience in financial planning, analysis, or corporate finance. Consequently, the skills and certifications do not align with the core requirements of a Senior FP&A Analyst role.",
     "cover_letter_opener": "I am excited about the opportunity to bring my analytical mindset and passion for data‑driven decision‑making to GitLab’s finance team.",
     "scored_at": "2026-08-26T19:44:13.342Z"
+  },
+  {
+    "job_id": "e302bfd430a3ea7d",
+    "title": "Senior Manager, Internal Audit - Audit Automation & Technology Risk",
+    "company": "gitlab",
+    "location": "Bangalore, India",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8642850002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-08-17T18:50:34-04:00",
+    "fit_score": 20,
+    "reasoning": "The candidate has strong software engineering and cloud security experience but lacks the internal audit, risk management, and senior leadership background required for a Senior Manager role. Additionally, the position is based in Bangalore, while the candidate is seeking part‑time work in Germany, creating a location mismatch. However, their expertise in automation and cybersecurity could be valuable for audit technology initiatives.",
+    "cover_letter_opener": "I am excited to bring my cloud security and automation expertise to help GitLab elevate its audit automation and technology risk programs.",
+    "scored_at": "2026-08-27T00:25:01.817Z"
+  },
+  {
+    "job_id": "c8f9bfe0d53fd1c0",
+    "title": "Senior Internal Auditor, Technology",
+    "company": "gitlab",
+    "location": "Remote, Canada; Remote, United States",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8643077002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-08-17T18:48:38-04:00",
+    "fit_score": 20,
+    "reasoning": "The candidate has strong software development and cloud engineering skills but lacks direct experience in internal auditing, risk assessment, and compliance, which are core to the Senior Internal Auditor role. Additionally, the position is senior-level and remote in North America, while the candidate is a Master's student in Germany seeking part‑time work. Therefore, the overall alignment with the job requirements is limited.",
+    "cover_letter_opener": "I am excited about the opportunity to bring my cybersecurity and cloud expertise to GitLab’s technology audit team and help strengthen its secure development ecosystem.",
+    "scored_at": "2026-08-27T00:25:01.815Z"
   },
   {
     "job_id": "c29501014657883c",
@@ -2014,5 +2098,89 @@
     "reasoning": "The candidate has strong backend and cloud experience with Java, Spring Boot, Azure, and an interest in AI, which aligns with GitLab's focus on AI-driven productivity. However, the role is a senior engineering manager position requiring extensive leadership and DevSecOps experience, which the resume does not demonstrate. Consequently, the overall fit is limited.",
     "cover_letter_opener": "I’m thrilled by GitLab’s AI‑powered productivity vision and eager to bring my cloud and backend expertise to help drive innovative engineering outcomes.",
     "scored_at": "2026-08-26T19:44:13.340Z"
+  },
+  {
+    "job_id": "d91587d95603eb71",
+    "title": "Senior Lifecycle Marketing Manager",
+    "company": "gitlab",
+    "location": "Remote, Canada; Remote, United States",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8637075002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-08-10T16:52:46-04:00",
+    "fit_score": 12,
+    "reasoning": "The candidate's background is focused on software engineering, cloud infrastructure, and AI solutions, whereas the role is a senior lifecycle marketing manager requiring marketing strategy and leadership experience. Additionally, the candidate is seeking part‑time student positions in Germany, which does not align with the senior remote role targeting Canada/US. The skill mismatch and seniority gap result in a low fit.",
+    "cover_letter_opener": "I am thrilled by GitLab’s AI‑driven approach to lifecycle marketing and eager to contribute my technical expertise to help amplify your product’s impact.",
+    "scored_at": "2026-08-27T00:25:01.816Z"
+  },
+  {
+    "job_id": "3b1a0fb93c749cb0",
+    "title": "Senior Manager, Product Management: Agentic Software Delivery",
+    "company": "gitlab",
+    "location": "Remote, Canada; Remote, US",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8597826002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-08-10T16:52:46-04:00",
+    "fit_score": 25,
+    "reasoning": "The candidate has strong backend and cloud engineering skills, but the role requires senior product management and leadership experience that are not demonstrated in the resume. Additionally, the candidate is based in Germany and seeks a Werkstudent position, which does not align with the senior remote Canada/US focus of the role.",
+    "cover_letter_opener": "I am excited about the opportunity to help GitLab accelerate AI‑driven software delivery as part of your innovative product management team.",
+    "scored_at": "2026-08-27T00:25:01.818Z"
+  },
+  {
+    "job_id": "4775e80b809eaf35",
+    "title": "Senior Manager, Solutions Architect - Australia & New Zealand",
+    "company": "gitlab",
+    "location": "Remote, Australia",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8627764002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-08-10T16:52:46-04:00",
+    "fit_score": 30,
+    "reasoning": "The candidate has solid backend and cloud experience with Azure, which aligns with solutions architecture, but lacks senior managerial experience and specific GitLab/DevSecOps expertise required for a senior manager role. Additionally, the candidate is based in Germany and seeking part‑time work, whereas the position is a senior full‑time remote role targeting Australia & New Zealand.",
+    "cover_letter_opener": "I am excited about the opportunity to bring my cloud and AI expertise to GitLab’s innovative AI‑driven DevSecOps platform and help accelerate digital transformation for customers across Australia and New Zealand.",
+    "scored_at": "2026-08-27T00:25:01.820Z"
+  },
+  {
+    "job_id": "edd93bf0c0a68143",
+    "title": "Senior People Analytics Analyst",
+    "company": "gitlab",
+    "location": "Remote, United States",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8617615002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-08-10T16:52:46-04:00",
+    "fit_score": 15,
+    "reasoning": "The candidate's background is in software engineering, cloud infrastructure, and automotive cybersecurity, which does not align with the people analytics and HR data focus of the Senior People Analytics Analyst role. Additionally, the senior-level position requires extensive analytics experience and likely US-based work eligibility, whereas the candidate is a student seeking part-time work in Germany.",
+    "cover_letter_opener": "I am excited about the opportunity to bring my strong analytical and cloud engineering skills to GitLab's People Analytics team and help drive data‑powered insights for the organization.",
+    "scored_at": "2026-08-27T00:25:01.823Z"
+  },
+  {
+    "job_id": "98dc33ad7bd3ee91",
+    "title": "Senior People Business Partner, Product & Marketing",
+    "company": "gitlab",
+    "location": "Remote, United States",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8617848002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-08-10T16:52:46-04:00",
+    "fit_score": 12,
+    "reasoning": "The candidate’s experience is centered on software development, cloud architecture, and AI, which does not align with the people‑focused, HR and product‑marketing responsibilities of a Senior People Business Partner. Additionally, the role requires senior‑level talent management expertise and is based remotely in the United States, whereas the candidate is a graduate student in Germany seeking part‑time engineering work. These gaps result in a low fit score.",
+    "cover_letter_opener": "I am excited about the opportunity to bring my passion for building high‑performing teams and driving product‑focused people strategies to GitLab’s innovative culture.",
+    "scored_at": "2026-08-27T00:25:01.825Z"
+  },
+  {
+    "job_id": "e602b6b85c93dfdf",
+    "title": "Senior Product Designer, AI",
+    "company": "gitlab",
+    "location": "Remote, Canada; Remote, US",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8464608002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-08-10T16:52:46-04:00",
+    "fit_score": 15,
+    "reasoning": "The candidate’s background is heavily focused on backend development, cloud infrastructure, and AI integration, with no mention of product design, UI/UX, or design tools required for a Senior Product Designer role. Consequently, the resume aligns poorly with the core responsibilities of the GitLab position.",
+    "cover_letter_opener": "I’m excited to bring my AI and cloud expertise to GitLab’s innovative AI-driven product design team.",
+    "scored_at": "2026-08-27T00:25:01.825Z"
   }
 ]
