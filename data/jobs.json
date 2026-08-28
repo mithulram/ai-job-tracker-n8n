@@ -1,5 +1,33 @@
 [
   {
+    "job_id": "eff63a95020abe62",
+    "title": "Lead Pricing Strategist",
+    "company": "gitlab",
+    "location": "Remote, Canada; Remote, United States",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8756163002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-08-27T18:15:38-04:00",
+    "fit_score": 20,
+    "reasoning": "The candidate has strong software engineering and cloud expertise but no experience in pricing strategy, finance, or data-driven pricing analysis, which are core to the Lead Pricing Strategist role. While their AI and cloud background could be valuable, the mismatch in domain knowledge leads to a low fit.",
+    "cover_letter_opener": "I am excited to bring my AI and cloud engineering expertise to GitLab’s team to help shape innovative, data‑driven pricing strategies.",
+    "scored_at": "2026-08-28T00:13:20.197Z"
+  },
+  {
+    "job_id": "a1c90b10e3da7bd8",
+    "title": "Revenue Technology Analyst",
+    "company": "gitlab",
+    "location": "Remote, Canada; Remote, United States",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8685082002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-08-27T15:51:52-04:00",
+    "fit_score": 35,
+    "reasoning": "The candidate brings solid cloud, backend, and security expertise that aligns with GitLab's DevSecOps focus, and their Azure certification demonstrates strong infrastructure knowledge. However, they lack direct experience in revenue technology, analytics, or financial domains, and their current location and part‑time job search in Germany do not match the remote Canada/US role. Consequently, the overall fit is moderate but limited.",
+    "cover_letter_opener": "I am thrilled by GitLab's AI‑driven DevSecOps vision and eager to apply my cloud and security expertise to help power innovative revenue technology solutions.",
+    "scored_at": "2026-08-28T00:13:20.198Z"
+  },
+  {
     "job_id": "7d7ae71d99445546",
     "title": "Senior Software Engineer (RoR/Go), SSCS: Authentication",
     "company": "gitlab",
@@ -12,6 +40,20 @@
     "reasoning": "The candidate has solid backend experience with Java/Spring Boot and strong cloud and security knowledge, which aligns with GitLab's focus on secure, scalable services. However, the resume lacks direct experience with Ruby on Rails or Go, senior‑level responsibilities, and the candidate is based in Germany while the role targets North America, limiting overall suitability.",
     "cover_letter_opener": "I am thrilled to apply my backend and security expertise to GitLab’s Authentication team, helping shape the next generation of secure DevSecOps solutions.",
     "scored_at": "2026-08-27T13:26:03.838Z"
+  },
+  {
+    "job_id": "b8d055e5d84ba204",
+    "title": "Senior Strategic Account Executive - California",
+    "company": "gitlab",
+    "location": "Remote, United States",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8742248002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-08-26T14:40:24-04:00",
+    "fit_score": 10,
+    "reasoning": "The candidate's experience is heavily technical, focusing on software development, cloud, and cybersecurity research, whereas the Senior Strategic Account Executive role requires senior-level sales, account management, and revenue generation expertise. Additionally, the candidate is based in Germany and seeking part‑time roles, which does not align with the senior, remote U.S. sales position.",
+    "cover_letter_opener": "I am excited to leverage my deep technical background in cloud and security to help GitLab empower customers in their DevSecOps journey.",
+    "scored_at": "2026-08-28T00:13:20.207Z"
   },
   {
     "job_id": "e727c1743e09e4ad",
@@ -40,6 +82,34 @@
     "reasoning": "The candidate has relevant cybersecurity research experience and strong software development skills, but lacks senior-level incident response expertise and direct DevSecOps experience required for a Senior Security Engineer role. Additionally, the candidate is seeking part‑time/werkstudent positions, whereas the posting targets a senior full‑time position.",
     "cover_letter_opener": "I am excited to bring my automotive cybersecurity research and cloud‑native development expertise to GitLab’s Security Incident Response Team to help protect customers worldwide.",
     "scored_at": "2026-08-27T13:26:03.837Z"
+  },
+  {
+    "job_id": "e3a907a16f40d7d7",
+    "title": "Senior Software Engineer (Typescript), AI Clients: Duo CLI",
+    "company": "gitlab",
+    "location": "Remote, United Kingdom",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8693103002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-08-26T07:12:18-04:00",
+    "fit_score": 35,
+    "reasoning": "The candidate has strong backend and cloud experience and a clear interest in AI, but lacks the required Typescript expertise and senior‑level experience that the GitLab role demands. This mismatch lowers the overall fit despite relevant skills in Python and Azure.",
+    "cover_letter_opener": "I am excited to bring my cloud and AI expertise to GitLab’s AI‑powered Duo CLI team and help shape the future of DevSecOps.",
+    "scored_at": "2026-08-28T00:13:20.200Z"
+  },
+  {
+    "job_id": "d7beebd2a65a3be4",
+    "title": "Senior Software Engineer (Typescript), AI Clients: Duo CLI",
+    "company": "gitlab",
+    "location": "Remote, Poland",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8749952002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-08-26T07:12:11-04:00",
+    "fit_score": 35,
+    "reasoning": "The candidate brings solid backend and cloud expertise with Java, Spring Boot, Azure, and Python, which aligns with GitLab’s cloud‑native focus. However, they lack demonstrated Typescript experience and specific AI client development, and the senior level expectations may exceed their current experience. Consequently, the overall fit is moderate.",
+    "cover_letter_opener": "I’m excited to bring my cloud‑native backend expertise to GitLab’s AI‑driven Duo CLI team and help accelerate intelligent DevSecOps solutions.",
+    "scored_at": "2026-08-28T00:13:20.199Z"
   },
   {
     "job_id": "3d4124e49a09c274",
@@ -392,6 +462,20 @@
     "scored_at": "2026-08-26T00:47:21.312Z"
   },
   {
+    "job_id": "f991f7a5199815e1",
+    "title": "Senior Solutions Architect - Turkey",
+    "company": "gitlab",
+    "location": "Remote, Turkey",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8627022002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-08-24T07:35:52-04:00",
+    "fit_score": 38,
+    "reasoning": "The candidate has solid cloud and backend development experience and relevant certifications, which align with the technical aspects of a Solutions Architect role. However, they lack senior‑level architecture experience, specific DevSecOps/GitLab expertise, and the role is senior and based in Turkey, while the candidate is seeking a student‑level position in Germany. This results in a modest fit.",
+    "cover_letter_opener": "I am excited to bring my cloud‑native development and AI integration expertise to GitLab’s AI‑driven DevSecOps platform as a Senior Solutions Architect.",
+    "scored_at": "2026-08-28T00:13:20.207Z"
+  },
+  {
     "job_id": "36dafc964f6954f8",
     "title": "Engineering Manager, Gitlab Delivery: Upgrades",
     "company": "gitlab",
@@ -714,6 +798,34 @@
     "scored_at": "2026-08-25T15:37:37.254Z"
   },
   {
+    "job_id": "1f2be3e75df9c1a1",
+    "title": "Senior Solutions Architect (Singapore)",
+    "company": "gitlab",
+    "location": "Remote, Singapore",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8627768002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T18:08:35-04:00",
+    "fit_score": 45,
+    "reasoning": "The candidate brings solid cloud and backend expertise with Azure, Spring Boot, and API design, which aligns with the architectural focus of the role. However, they lack senior-level experience, direct DevSecOps or GitLab platform knowledge, and the position targets a senior architect in Singapore, whereas the candidate is a student seeking part‑time work in Germany. These gaps reduce the overall fit.",
+    "cover_letter_opener": "I am thrilled by GitLab’s AI‑driven DevSecOps vision and eager to contribute my cloud architecture and security background to help shape the future of intelligent software delivery.",
+    "scored_at": "2026-08-28T00:13:20.206Z"
+  },
+  {
+    "job_id": "5c4e1b1ca53c0fda",
+    "title": "Senior Software Security Engineer",
+    "company": "gitlab",
+    "location": "Bangalore, India; Remote, Canada; Remote, Israel; Remote, United Kingdom; Remote, United States",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8637549002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T13:25:09-04:00",
+    "fit_score": 45,
+    "reasoning": "The candidate has relevant experience in automotive cybersecurity research and solid Java backend development, which aligns with GitLab's security focus. However, the role is senior-level and expects extensive DevSecOps and production security engineering experience, which the resume does not demonstrate. Additionally, the candidate is seeking part‑time/werkstudent positions, whereas the posting targets a full‑time senior engineer.",
+    "cover_letter_opener": "I am excited about GitLab's mission to secure the software supply chain and eager to bring my cybersecurity research and cloud‑native development skills to your Senior Software Security Engineer team.",
+    "scored_at": "2026-08-28T00:13:20.201Z"
+  },
+  {
     "job_id": "fc3bea579d96047e",
     "title": "Manager, Procurement",
     "company": "gitlab",
@@ -978,6 +1090,20 @@
     "reasoning": "The candidate has solid Java and Spring Boot backend experience, which aligns with the core responsibilities of a backend engineer. However, the resume lacks specific experience with GitLab's typical tech stack and geo‑spatial services, and the candidate is seeking a part‑time role in Germany rather than a full‑time position in Bangalore. These gaps lower the overall match.",
     "cover_letter_opener": "I am excited about the opportunity to bring my Java and Spring Boot expertise to GitLab's Geo Team and help power the next generation of intelligent DevSecOps solutions.",
     "scored_at": "2026-08-25T11:51:33.455Z"
+  },
+  {
+    "job_id": "f9c1b7efc62ce4a7",
+    "title": "Senior Solutions Architect- Australia and New Zealand",
+    "company": "gitlab",
+    "location": "Remote, Australia",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8627772002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-08-11T22:59:39-04:00",
+    "fit_score": 38,
+    "reasoning": "The candidate has strong cloud and backend experience and certifications that align with a solutions architect role, but lacks senior‑level DevSecOps experience, direct GitLab knowledge, and is based in Germany while the role targets Australia/New Zealand. Consequently the overall match is moderate but not a strong fit.",
+    "cover_letter_opener": "I am excited to bring my cloud‑native security and AI integration expertise to GitLab’s remote Solutions Architect team and help accelerate DevSecOps innovation across ANZ!",
+    "scored_at": "2026-08-28T00:13:20.204Z"
   },
   {
     "job_id": "9b90b8444f6b4201",
@@ -2350,5 +2476,47 @@
     "reasoning": "The candidate has strong software engineering and cloud experience but lacks direct experience in revenue analytics, financial modeling, or data analysis required for a Senior Revenue Analytics Analyst role. Their background in AI and cloud could be valuable, yet the mismatch in domain expertise and seniority reduces the overall fit.",
     "cover_letter_opener": "I am excited about GitLab’s AI‑driven platform and eager to apply my cloud and software engineering expertise to help drive insightful revenue analytics for your global team.",
     "scored_at": "2026-08-27T13:26:03.836Z"
+  },
+  {
+    "job_id": "72a810d7ce0a6ae7",
+    "title": "Senior Solutions Architect",
+    "company": "gitlab",
+    "location": "Remote, United Kingdom",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8611764002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-08-10T16:52:46-04:00",
+    "fit_score": 38,
+    "reasoning": "The candidate brings solid cloud, security, and backend development experience, especially with Azure and automotive cybersecurity, which aligns with GitLab's focus on secure DevOps. However, the role is senior-level and expects extensive DevSecOps expertise, leadership, and direct GitLab platform experience, which the resume does not demonstrate, resulting in a modest fit.",
+    "cover_letter_opener": "I am excited to bring my cloud‑security expertise and AI‑driven mindset to GitLab’s innovative DevSecOps platform and help accelerate secure software delivery worldwide.",
+    "scored_at": "2026-08-28T00:13:20.202Z"
+  },
+  {
+    "job_id": "246612764f0cb4fd",
+    "title": "Senior Solutions Architect - AI & Platforms SME",
+    "company": "gitlab",
+    "location": "Remote, Australia; Remote, Singapore",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8476375002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-08-10T16:52:46-04:00",
+    "fit_score": 35,
+    "reasoning": "The candidate has solid backend and cloud experience with Azure and strong certifications, but lacks senior-level architecture experience and specific exposure to AI platform design, DevSecOps, or GitLab technologies. Their current academic status and focus on entry-level roles also limit alignment with a senior solutions architect position.",
+    "cover_letter_opener": "I am excited about GitLab’s AI-driven DevSecOps vision and eager to bring my cloud and backend expertise to help shape innovative AI solutions for your platform.",
+    "scored_at": "2026-08-28T00:13:20.203Z"
+  },
+  {
+    "job_id": "ea87917fb78c63ba",
+    "title": "Senior Solutions Architect - East",
+    "company": "gitlab",
+    "location": "Remote, US",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8627207002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-08-10T16:52:46-04:00",
+    "fit_score": 30,
+    "reasoning": "The candidate possesses solid cloud and backend development experience with Azure, Spring Boot, and API design, which aligns with some technical aspects of a Solutions Architect role. However, the position is senior-level, requires extensive DevSecOps expertise, GitLab platform knowledge, and US-based full-time commitment, which the candidate's current academic focus and part‑time aspirations do not meet. Consequently, the overall fit is limited.",
+    "cover_letter_opener": "I am thrilled by GitLab’s AI‑driven DevSecOps vision and eager to contribute my cloud and backend expertise to help shape the future of intelligent software delivery.",
+    "scored_at": "2026-08-28T00:13:20.205Z"
   }
 ]
