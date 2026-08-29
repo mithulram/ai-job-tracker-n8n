@@ -630,6 +630,20 @@
     "scored_at": "2026-08-25T21:22:41.172Z"
   },
   {
+    "job_id": "4a3b77793b556961",
+    "title": "Account Executive, Enterprise Grower, Platforms (Israel)",
+    "company": "stripe",
+    "location": "Israel",
+    "url": "https://stripe.com/jobs/search?gh_jid=8129956",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&amp;nbsp;&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;The Platform Sales team works with B2B Software Platforms to help them facilitate payments for their customers using our Stripe Connect product. Software Platforms, also known as B2B Indirect, are software platform businesses who serve other businesses. Platforms already using Stripe include Shopify, Treatwell, Sage &amp;amp; Wix.&amp;nbsp;&lt;/p&gt; &lt;p&gt;As a key member to the Stripe Platforms team, you will create, manage and elevate relationships with a named accoun",
+    "source": "greenhouse",
+    "posted_at": "2026-08-24T05:00:55-04:00",
+    "fit_score": 12,
+    "reasoning": "The candidate's experience is centered on software development, cloud infrastructure, and AI, with no demonstrated sales or account management background. The role requires enterprise sales expertise and a focus on revenue growth, which does not align with the candidate's technical skill set or current career goals. Additionally, the candidate is based in Germany while the position is in Israel, further reducing the fit.",
+    "cover_letter_opener": "I am excited about the opportunity to bring my technical expertise and passion for innovative platforms to Stripe’s Enterprise team, helping drive growth and deliver exceptional value to customers worldwide.",
+    "scored_at": "2026-08-29T12:02:59.373Z"
+  },
+  {
     "job_id": "6c698b0fd0a95840",
     "title": "Business Development Representative (Sydney or Melbourne)",
     "company": "gitlab",
@@ -698,6 +712,20 @@
     "reasoning": "The candidate's background is heavily technical, focusing on software development, cloud, and AI architecture, with no demonstrated sales or public sector experience. The role requires regional sales leadership, client relationship management, and knowledge of public sector procurement, which are not reflected in the resume. Additionally, the candidate seeks a part-time engineering position in Germany, while the job is a full-time remote sales role for the United States market.",
     "cover_letter_opener": "I am excited about the opportunity to drive GitLab's growth in the public sector and bring my passion for innovative technology solutions to a dynamic sales leadership role.",
     "scored_at": "2026-08-26T06:36:39.363Z"
+  },
+  {
+    "job_id": "76d77d30f7513511",
+    "title": "Support Engineer, U.S. Government Support",
+    "company": "gitlab",
+    "location": "Remote, United States",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8707353002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-08-21T13:48:35-04:00",
+    "fit_score": 35,
+    "reasoning": "The candidate brings solid backend, cloud (Azure) and cybersecurity experience, which aligns with GitLab's DevSecOps focus. However, they lack direct GitLab product knowledge, U.S. government support experience, and are based in Germany, reducing overall fit.",
+    "cover_letter_opener": "I am excited to contribute to GitLab’s mission by applying my cloud and security expertise to empower U.S. government customers.",
+    "scored_at": "2026-08-29T12:02:59.368Z"
   },
   {
     "job_id": "8cb9ef1a2bf5aa26",
@@ -796,6 +824,20 @@
     "reasoning": "The candidate has strong backend and cloud experience but lacks direct experience in support engineering, DevSecOps, and managerial responsibilities required for this role. Additionally, the position focuses on US government customers and GitLab-specific expertise, which are not evident in the resume. Therefore the overall alignment is limited.",
     "cover_letter_opener": "I am excited about GitLab’s AI‑driven DevSecOps vision and eager to bring my cloud and security background to support your engineering team.",
     "scored_at": "2026-08-26T06:36:39.356Z"
+  },
+  {
+    "job_id": "928eb28dba87c76b",
+    "title": "Support Engineer (AMER)",
+    "company": "gitlab",
+    "location": "Remote, Canada; Remote, United States",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8654230002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-08-20T14:11:44-04:00",
+    "fit_score": 40,
+    "reasoning": "The candidate has strong backend and cloud experience with Java, Spring Boot, Azure, and cybersecurity research, which aligns with GitLab's DevSecOps focus. However, they lack direct experience with GitLab's platform, support engineering, and the required North American market exposure, reducing overall fit.",
+    "cover_letter_opener": "I am excited to bring my cloud and security expertise to GitLab’s Support Engineer team and help customers unlock the full power of your DevSecOps platform.",
+    "scored_at": "2026-08-29T12:02:59.368Z"
   },
   {
     "job_id": "9ec130c015afb047",
@@ -992,6 +1034,20 @@
     "reasoning": "The candidate brings solid cloud and backend expertise with Azure, Spring Boot, and API design, which aligns with the architectural focus of the role. However, they lack senior-level experience, direct DevSecOps or GitLab platform knowledge, and the position targets a senior architect in Singapore, whereas the candidate is a student seeking part‑time work in Germany. These gaps reduce the overall fit.",
     "cover_letter_opener": "I am thrilled by GitLab’s AI‑driven DevSecOps vision and eager to contribute my cloud architecture and security background to help shape the future of intelligent software delivery.",
     "scored_at": "2026-08-28T00:13:20.206Z"
+  },
+  {
+    "job_id": "d3d0c7c7216a3957",
+    "title": "Account Executive, Enterprise Platforms (Grower)",
+    "company": "stripe",
+    "location": "San Francisco, CA; Chicago, IL & New York, NY",
+    "url": "https://stripe.com/jobs/search?gh_jid=7576967",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/span&gt;&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;The Platform Sales team works with B2B Software Platforms to help them facilitate payments for their customers using our Stripe Connect product. Software Platforms, also known as B2B Indirect, are software platform businesses who serve other businesses. Platforms already using Stripe include Shopify, Lightspeed, and Mindbody.&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span style=&qu",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:38:41-04:00",
+    "fit_score": 12,
+    "reasoning": "The candidate’s background is heavily technical, focusing on software development, cloud infrastructure, and AI, with no demonstrated sales or account management experience. Additionally, the candidate is based in Germany and seeking part‑time roles, while the Stripe position is a full‑time enterprise sales role in the United States.",
+    "cover_letter_opener": "I’m thrilled by Stripe’s mission to grow the internet economy and eager to leverage my technical expertise to help enterprise customers succeed with your platform.",
+    "scored_at": "2026-08-29T12:02:59.374Z"
   },
   {
     "job_id": "5c4e1b1ca53c0fda",
@@ -3022,5 +3078,117 @@
     "reasoning": "The candidate has strong technical skills in backend development, cloud, and AI, but the role is a strategic sales position requiring account management, negotiation, and business development experience, which are not demonstrated in the resume. Consequently, the alignment with the core responsibilities of a Strategic Account Executive is limited.",
     "cover_letter_opener": "I am excited about GitLab’s AI‑driven DevSecOps platform and eager to leverage my technical expertise to help Polish enterprises achieve their digital transformation goals.",
     "scored_at": "2026-08-29T04:55:20.234Z"
+  },
+  {
+    "job_id": "dca3a0fd6153b6d9",
+    "title": "Strategic Account Executive - South Africa",
+    "company": "gitlab",
+    "location": "Remote, United Arab Emirates",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8555134002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-08-10T16:52:46-04:00",
+    "fit_score": 20,
+    "reasoning": "The candidate's background is heavily technical, focusing on software development, cloud, and AI architecture, whereas the role is a sales-oriented Strategic Account Executive targeting South Africa. Additionally, the candidate lacks demonstrated sales, account management, or regional market experience, resulting in a low fit despite some relevant cloud knowledge.",
+    "cover_letter_opener": "I am excited about GitLab’s AI‑driven DevSecOps platform and eager to leverage my technical expertise to help South African customers achieve transformative outcomes.",
+    "scored_at": "2026-08-29T12:02:59.363Z"
+  },
+  {
+    "job_id": "618475f666efa465",
+    "title": "Strategic Account Executive, Southeast",
+    "company": "gitlab",
+    "location": "Remote, United States",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8656848002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-08-10T16:52:46-04:00",
+    "fit_score": 12,
+    "reasoning": "The candidate's background is heavily technical, focusing on backend development, cloud, and AI integration, with no demonstrated experience in sales, account management, or strategic client engagement required for an Account Executive role. Additionally, the candidate is seeking part‑time positions in Germany, while the job is a remote senior sales position targeting the U.S. market, leading to a poor overall match.",
+    "cover_letter_opener": "I am thrilled by GitLab's vision of AI‑enhanced DevSecOps and eager to help organizations unlock its value as a Strategic Account Executive.",
+    "scored_at": "2026-08-29T12:02:59.364Z"
+  },
+  {
+    "job_id": "edf488f6413e7d5c",
+    "title": "Strategic Account Executive - Turkey",
+    "company": "gitlab",
+    "location": "Remote Ireland; Remote, France; Remote, Germany; Remote, Italy; Remote, Spain; Remote, United Kingdom",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8617751002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-08-10T16:52:46-04:00",
+    "fit_score": 15,
+    "reasoning": "The candidate's background is technical, focusing on software development, cloud, and AI, whereas the role is a sales-oriented Strategic Account Executive targeting Turkey. Additionally, the candidate seeks part‑time engineering positions in Germany, not a full‑time sales role, leading to a poor alignment.",
+    "cover_letter_opener": "I am excited about GitLab’s AI‑driven DevSecOps platform and eager to help Turkish customers accelerate their digital transformation.",
+    "scored_at": "2026-08-29T12:02:59.366Z"
+  },
+  {
+    "job_id": "916adc7ed3379818",
+    "title": "Strategic Account Executive - Turkey",
+    "company": "gitlab",
+    "location": "Remote, Turkey",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8609979002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-08-10T16:52:46-04:00",
+    "fit_score": 20,
+    "reasoning": "The candidate's background is heavily technical, focusing on software development, cloud, and AI solutions, whereas the role is a strategic sales position requiring account management and business development experience. Additionally, the candidate seeks a Werkstudent/part‑time role in Germany, not a full‑time remote sales role for Turkey, leading to a poor overall match.",
+    "cover_letter_opener": "I am excited about GitLab's AI‑driven DevSecOps platform and eager to help Turkish customers accelerate their digital transformation as part of your strategic account team.",
+    "scored_at": "2026-08-29T12:02:59.367Z"
+  },
+  {
+    "job_id": "5904e8037970d00a",
+    "title": "Support Engineer, U.S. Government Support",
+    "company": "gitlab",
+    "location": "Remote, US",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8628780002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-08-10T16:52:46-04:00",
+    "fit_score": 30,
+    "reasoning": "The candidate has strong backend and cloud experience, as well as cybersecurity research, which are relevant to a support role in DevSecOps. However, they lack specific experience with GitLab, US government compliance, and the remote US focus, and are seeking part‑time work in Germany rather than a full‑time US position. This mismatch reduces the overall fit.",
+    "cover_letter_opener": "I am excited to bring my cybersecurity research and cloud engineering expertise to GitLab’s US Government Support team and help drive secure, AI‑enhanced DevSecOps solutions.",
+    "scored_at": "2026-08-29T12:02:59.370Z"
+  },
+  {
+    "job_id": "3654313b09ed112e",
+    "title": "Tech Operations Specialist",
+    "company": "gitlab",
+    "location": "Remote, United States",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8638246002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-08-10T16:52:46-04:00",
+    "fit_score": 45,
+    "reasoning": "The candidate brings solid backend, cloud, and security experience, which aligns with the technical foundation of a Tech Operations Specialist. However, they lack direct GitLab or DevSecOps experience and are seeking part‑time work in Germany, while the role is a full‑time remote position for the US market, resulting in a moderate fit.",
+    "cover_letter_opener": "I am excited to leverage my cloud and security expertise to help GitLab accelerate intelligent DevSecOps operations as a Tech Operations Specialist.",
+    "scored_at": "2026-08-29T12:02:59.371Z"
+  },
+  {
+    "job_id": "1cbc8f6972e3551a",
+    "title": "Territory Sales Manager",
+    "company": "gitlab",
+    "location": "Remote, Japan",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8591223002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-08-10T16:52:46-04:00",
+    "fit_score": 10,
+    "reasoning": "The candidate's background is heavily technical, focusing on software development, cloud, and AI, with no demonstrated sales or territory management experience. Additionally, the role is a sales position targeting Japan, while the candidate seeks engineering roles in Germany, resulting in poor alignment.",
+    "cover_letter_opener": "I am excited about the opportunity to combine my deep technical expertise with GitLab's innovative DevSecOps platform to drive growth as a Territory Sales Manager for the Japanese market.",
+    "scored_at": "2026-08-29T12:02:59.371Z"
+  },
+  {
+    "job_id": "bca4abc20ccc994a",
+    "title": "Vice President, Data & Insights",
+    "company": "gitlab",
+    "location": "Remote, US",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8510676002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-08-10T16:52:46-04:00",
+    "fit_score": 15,
+    "reasoning": "The candidate is an early‑career student with 3+ years of Java and mobile development experience, while the role is a senior Vice President position requiring extensive leadership, data strategy, and insight generation expertise. Additionally, the job is remote US‑based and focuses on data & insights at a strategic level, which does not align with the candidate's current academic and technical focus on cloud and AI architecture.",
+    "cover_letter_opener": "I am thrilled by GitLab’s vision of AI‑powered DevSecOps and eager to contribute my cloud and AI integration expertise to drive data‑driven insights for the team.",
+    "scored_at": "2026-08-29T12:02:59.373Z"
   }
 ]
