@@ -1,5 +1,19 @@
 [
   {
+    "job_id": "2aaf8bf1898cfed0",
+    "title": "Engineering Manager, Billing Configuration",
+    "company": "stripe",
+    "location": "N/A",
+    "url": "https://stripe.com/jobs/search?gh_jid=8165515",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world&#39;s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;The Billing Configuration team enables extensibility of all Billing concepts and owns the core infrastructure needed to manage configuration changes over time and custom billing logic use cases.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;What you&#39;ll do&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;As the engineering manager for Billing Configuration, you’ll own the operational and technical direction of the platforms that let Stripe users and internal teams model, customize, and evolve how ",
+    "source": "greenhouse",
+    "posted_at": "2026-08-29T10:45:19-04:00",
+    "fit_score": 30,
+    "reasoning": "The candidate demonstrates solid backend and cloud engineering skills with Java, Spring Boot, and Azure, which are relevant to Stripe’s infrastructure. However, they lack direct experience in billing systems, payments, and managerial responsibilities required for an Engineering Manager role. Consequently, the overall fit is limited.",
+    "cover_letter_opener": "I’m excited to bring my backend and cloud expertise to Stripe’s Billing Configuration team and help power the next generation of internet commerce.",
+    "scored_at": "2026-08-30T02:37:31.122Z"
+  },
+  {
     "job_id": "66825117de4a96cd",
     "title": "Backend Engineer, Link",
     "company": "stripe",
@@ -42,6 +56,20 @@
     "scored_at": "2026-08-28T23:50:44.804Z"
   },
   {
+    "job_id": "035cccfc0c8fce65",
+    "title": "Engineering Manager, Checkout Optimization",
+    "company": "stripe",
+    "location": "N/A",
+    "url": "https://stripe.com/jobs/search?gh_jid=8161567",
+    "description": "&lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies, from the world’s largest enterprises to the most ambitious startups, use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;About the team&lt;/h3&gt; &lt;p&gt;The Checkout Optimization team is the growth team for Stripe’s checkout UIs. They build high-converting, personalized checkout experiences for buyers and agents, as well as the data platform that powers it.&amp;nbsp;&lt;/p&gt; &lt;p&gt;The team identifies opportunities to improve checkout through rapid product experimentation and delivers optimization at scale through our ML-powered engine. The team also builds the reliable data foundations that enable this work, including experimentation, optimization, and data-informed product decisions across Stripe’s checkout su",
+    "source": "greenhouse",
+    "posted_at": "2026-08-28T16:31:48-04:00",
+    "fit_score": 30,
+    "reasoning": "The candidate has solid backend and cloud engineering experience with Java, Spring Boot, and Azure, which are relevant to Stripe's infrastructure. However, they lack specific experience in payment processing, checkout optimization, and managerial leadership required for an Engineering Manager role, and their career focus is on AI solutions rather than checkout systems.",
+    "cover_letter_opener": "I’m excited to bring my backend and cloud expertise to Stripe’s Checkout Optimization team and help accelerate the mission of increasing the internet’s GDP.",
+    "scored_at": "2026-08-30T02:37:31.124Z"
+  },
+  {
     "job_id": "01a977db2dd3bd31",
     "title": "Senior Renewal Operations Manager",
     "company": "gitlab",
@@ -68,6 +96,20 @@
     "reasoning": "The candidate has strong software engineering and cloud expertise but no experience in pricing strategy, finance, or data-driven pricing analysis, which are core to the Lead Pricing Strategist role. While their AI and cloud background could be valuable, the mismatch in domain knowledge leads to a low fit.",
     "cover_letter_opener": "I am excited to bring my AI and cloud engineering expertise to GitLab’s team to help shape innovative, data‑driven pricing strategies.",
     "scored_at": "2026-08-28T00:13:20.197Z"
+  },
+  {
+    "job_id": "2a990d47dad2ea46",
+    "title": "Engineering Manager, Data Transformation",
+    "company": "stripe",
+    "location": "US-SEA, US-SF, US-NYC, US-Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=7688358",
+    "description": "&lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world&#39;s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;About the team&lt;/h3&gt; &lt;p&gt;The Data Transformation team is responsible for building and operating batch and real-time transformation pipelines and platforms for 400+ product teams at Stripe. We&#39;re aiming to make data development and management workflow at Stripe a breeze with emphasis on producing high-quality datasets used for critical analytics, dashboards, and workflows at Stripe. The products owned by this team are widely adopted with 800+ weekly active users improving developer productivity for data users manifold. The team is in an interesting phase of innovation tied to the t",
+    "source": "greenhouse",
+    "posted_at": "2026-08-27T18:02:42-04:00",
+    "fit_score": 20,
+    "reasoning": "The candidate demonstrates solid backend and cloud engineering skills with Java, Spring Boot, Azure, and Python, which are relevant to Stripe's technical stack. However, the role is an Engineering Manager focused on data transformation and requires extensive leadership, data pipeline, and large‑scale data processing experience, which are not evident in the resume. Additionally, the candidate is seeking a part‑time student role in Germany, while the position is a senior full‑time role based in the US.",
+    "cover_letter_opener": "I am excited about the opportunity to bring my strong cloud and backend expertise to Stripe’s Data Transformation team and help drive innovative financial infrastructure solutions.",
+    "scored_at": "2026-08-30T02:37:31.126Z"
   },
   {
     "job_id": "587ad5e6727f62b3",
@@ -110,6 +152,20 @@
     "reasoning": "The candidate has solid backend experience with Java, Spring Boot, and REST API design, which aligns with Stripe's engineering needs. However, the role is full-time and based in North America, while the candidate seeks part-time work in Germany and is focused on AI/LLM and automotive cybersecurity, creating a location and domain mismatch. Additionally, Stripe's stack heavily uses AWS, whereas the candidate's cloud expertise is centered on Azure.",
     "cover_letter_opener": "I am excited about the opportunity to bring my Java and Spring Boot expertise to Stripe’s Backend Engineering team and help shape the next generation of seamless payment experiences.",
     "scored_at": "2026-08-29T20:15:15.140Z"
+  },
+  {
+    "job_id": "db711e2276a249d2",
+    "title": "Design Engineer, Presence",
+    "company": "stripe",
+    "location": "US, Canada",
+    "url": "https://stripe.com/jobs/search?gh_jid=7144975",
+    "description": "&lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world&#39;s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;About the team&lt;/h3&gt; &lt;p&gt;Web Presence and Platform is organized into two pillars, each of which is grouped into pods that focus on the central tenets of Stripe&#39;s public mission. The Presence pillar creates industry-leading designs for Stripe&#39;s front door surfaces, educating customers about the power of our platform, sharing Stripe&#39;s ideas and expertise with the public, and driving adoption. The Platform pillar builds the internal machinery that powers these surfaces, and is responsible for making our websites fast, stable, and easy to update.&lt;/p&gt; &lt;p&gt;Together we",
+    "source": "greenhouse",
+    "posted_at": "2026-08-27T07:04:45-04:00",
+    "fit_score": 20,
+    "reasoning": "The candidate’s background is focused on backend Java, mobile development, and automotive cybersecurity, while the Stripe Design Engineer role emphasizes design and presence engineering for a financial platform. Additionally, the candidate is seeking part‑time work in Germany, whereas the position is based in the US/Canada, leading to a poor location and role alignment.",
+    "cover_letter_opener": "I’m thrilled by Stripe’s mission to expand the internet’s GDP and eager to bring my engineering expertise to help shape the next generation of user‑centric payment experiences.",
+    "scored_at": "2026-08-30T02:37:31.119Z"
   },
   {
     "job_id": "0a7635df3a1f1ede",
@@ -1316,6 +1372,48 @@
     "scored_at": "2026-08-29T22:59:41.521Z"
   },
   {
+    "job_id": "87a809747e8b7e59",
+    "title": "Data Scientist, Link",
+    "company": "stripe",
+    "location": "Toronto",
+    "url": "https://stripe.com/jobs/search?gh_jid=8112966",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world&#39;s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Our Data Science team partners deeply with teams across Stripe to ensure that our users, our products, and our business have the models, data products, and insights needed to make decisions and grow responsibly. We&#39;re looking for data scientists with a passion for analyzing data, building machine learning and statistical models, and running experiments to drive impact. Our work is broad and varied, influencing how our products work (e.g., understanding user needs, preven",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:59:41-04:00",
+    "fit_score": 20,
+    "reasoning": "The candidate has strong software engineering and cloud experience but lacks direct data science, machine‑learning, and statistical modeling expertise required for a Data Scientist role. Additionally, the position is based in Toronto while the candidate is seeking part‑time work in Germany, further reducing alignment.",
+    "cover_letter_opener": "I am excited about Stripe’s mission to expand the internet’s economy and eager to bring my cloud‑focused engineering background to help power innovative data‑driven solutions.",
+    "scored_at": "2026-08-30T02:37:31.117Z"
+  },
+  {
+    "job_id": "4197f808308ccd32",
+    "title": "Engineering Manager, Metronome (Billing)",
+    "company": "stripe",
+    "location": "Toronto, Canada",
+    "url": "https://stripe.com/jobs/search?gh_jid=7737243",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;The&lt;a href=&quot;https://stripe.com/billing&quot;&gt; Billing organization&lt;/a&gt; at Stripe builds and operates Stripe Billing, a growing product vertical inside of Stripe. Hundreds of thousands of businesses of all sizes and types use Stripe Billing to collect revenue for recurring and one-time payments across a variety of different pricing models—from selling SaaS subscriptions, to orchestrating multi-stage contracts, delivering business analytics, and providing recovery",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:59:41-04:00",
+    "fit_score": 20,
+    "reasoning": "The candidate has solid Java and cloud backend experience, but the role is a senior engineering manager position focused on billing at Stripe, requiring extensive leadership and payment‑processing expertise, which the resume does not demonstrate. Additionally, the candidate is seeking a part‑time student role in Germany, while the job is a full‑time managerial role in Toronto.",
+    "cover_letter_opener": "I’m thrilled by Stripe’s mission to power the internet economy and eager to bring my backend and cloud expertise to help shape the Metronome billing platform.",
+    "scored_at": "2026-08-30T02:37:31.129Z"
+  },
+  {
+    "job_id": "5970eace581e58c3",
+    "title": "Data Scientist, Payments",
+    "company": "stripe",
+    "location": "Dublin",
+    "url": "https://stripe.com/jobs/search?gh_jid=8018297",
+    "description": "&lt;div class=&quot;ace-line gutter-author-p-118095 emptyGutter&quot;&gt; &lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/span&gt;&lt;/p&gt; &lt;h3&gt;About the team&lt;/h3&gt; &lt;p&gt;Our Data Science team partners deeply with teams across Stripe to ensure that our users, our products, and our business have the models, data products, and insights needed to make decisions and grow responsibly. We&#39;re looking for data scientists with a passion for analyzing data, building machine learning and statistical models, and running experiments to drive impact. Our work is broad and varied, influencing how our products work",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:57:24-04:00",
+    "fit_score": 30,
+    "reasoning": "The candidate has strong backend and cloud engineering experience with Python and Azure, but lacks direct data science, statistical analysis, and payments domain expertise required for a Data Scientist role at Stripe. Their focus on AI solutions architecture and automotive cybersecurity does not align closely with the core responsibilities of building payment-related data models. However, their programming skills and cloud knowledge provide a modest foundation for potential growth in data-driven roles.",
+    "cover_letter_opener": "I am thrilled by Stripe's mission to power the internet economy and eager to bring my cloud‑focused engineering expertise to help drive innovative data science solutions for the payments team.",
+    "scored_at": "2026-08-30T02:37:31.118Z"
+  },
+  {
     "job_id": "a1d8d4182356df36",
     "title": "Backend Engineer/API, Payments and Risk",
     "company": "stripe",
@@ -1328,6 +1426,20 @@
     "reasoning": "The candidate has solid backend experience with Java, Spring Boot, and REST API design, which aligns with Stripe's engineering needs. However, they lack direct payments or risk domain experience, are based in Germany seeking part‑time work, and the role is full‑time in Dublin, reducing overall fit.",
     "cover_letter_opener": "I am excited to bring my Java and cloud backend expertise to Stripe’s Payments and Risk team, helping power secure, scalable financial services worldwide.",
     "scored_at": "2026-08-29T20:15:15.134Z"
+  },
+  {
+    "job_id": "944b99fd9173b92e",
+    "title": "Engineering Manager, Infrastructure",
+    "company": "stripe",
+    "location": "Seattle, San Francisco, New York City",
+    "url": "https://stripe.com/jobs/search?gh_jid=8128496",
+    "description": "&lt;h1 id=&quot;who-we-are&quot;&gt;Who we are&lt;/h1&gt; &lt;h3 id=&quot;about-stripe&quot;&gt;About Stripe&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies, from the world&#39;s largest enterprises to the most ambitious startups, use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3 id=&quot;about-the-team&quot;&gt;About the team&lt;/h3&gt; &lt;p&gt;Stripe&#39;s Infrastructure organization builds and operates the shared platforms that make it possible for engineering teams to build, deploy, run, and scale reliable products. The organization owns foundational capabilities across service networking and discovery, safe feature and configuration changes, data storage and orchestration, and batch computing.&lt;/p&gt; &lt;p&gt;Our platforms support a global engineering audience and power systems at significant scale. This incl",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:38:49-04:00",
+    "fit_score": 30,
+    "reasoning": "The candidate has solid backend and cloud experience with Java, Spring Boot, and Azure, which aligns partially with Stripe's infrastructure needs. However, they lack senior leadership experience, specific payments domain knowledge, and are based in Germany while the role is US‑based, resulting in a limited overall fit.",
+    "cover_letter_opener": "I am excited about the opportunity to bring my cloud‑native backend expertise and passion for scalable infrastructure to Stripe’s engineering team.",
+    "scored_at": "2026-08-30T02:37:31.128Z"
   },
   {
     "job_id": "76196c94c637b702",
@@ -1426,6 +1538,34 @@
     "reasoning": "The candidate’s background is heavily technical, focusing on software development, cloud infrastructure, and AI, with no demonstrated sales or account management experience. The role is a revenue‑generating, client‑facing position requiring strong enterprise sales skills, which are not reflected in the resume. Additionally, the candidate is based in Germany while the job targets U.S. locations, further reducing fit.",
     "cover_letter_opener": "I’m thrilled by Stripe’s mission to expand the internet’s GDP and eager to bring my passion for innovative technology to help enterprise partners succeed!",
     "scored_at": "2026-08-29T16:26:01.619Z"
+  },
+  {
+    "job_id": "8dd2542eee5c7b4d",
+    "title": "Engineering Manager, AI Conversation Platform",
+    "company": "stripe",
+    "location": "Toronto, Canada",
+    "url": "https://stripe.com/jobs/search?gh_jid=7943804",
+    "description": "&lt;h2&gt;&lt;strong&gt;Engineering Manager, AI Conversation Platform&lt;/strong&gt;&lt;/h2&gt; &lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;The newly formed Conversation Platform team aims to build a conversation platform for all merchants who use Stripe. We are doing so by (a) automating the easy tasks, and (b) assisting our users in the difficult tasks. Some examples include customizing the Stripe landing page to suggest bespoke integrations, allowing users to command the Stripe API in natural language, and resolving user i",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:38:43-04:00",
+    "fit_score": 20,
+    "reasoning": "The candidate has solid backend and cloud experience and an interest in AI, but lacks the senior leadership and extensive AI conversation platform expertise required for an Engineering Manager role, and is currently seeking part‑time positions in Germany rather than a full‑time senior role in Toronto. Consequently, the overall match is limited.",
+    "cover_letter_opener": "I am excited about the opportunity to contribute my cloud‑native backend expertise and AI passion to Stripe’s cutting‑edge AI Conversation Platform.",
+    "scored_at": "2026-08-30T02:37:31.121Z"
+  },
+  {
+    "job_id": "a3a764bb19d2815e",
+    "title": "Engineering Manager, Forward Deployed (Privy)",
+    "company": "stripe",
+    "location": "NYC-Privy",
+    "url": "https://stripe.com/jobs/search?gh_jid=7947546",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Privy&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Our mission is to make privacy and user ownership the default online. To do so, we build simple, flexible APIs and tools for developers that make it easy to build new products on crypto rails.&lt;/p&gt; &lt;p&gt;Privy owns the abstractions and infrastructure layer above wallets, integrating across chains, third-party providers, and Stripe products like Treasury and Link. We get to solve hard technical problems while leveraging Stripe&#39;s distribution to reach customers like Ramp, Klarna, Deel, Kraken, Hyperliquid, and Fomo — powering experiences for both mainstream users and crypto natives.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Engineering at Privy is distinguished by:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;High urgency—Shipping very small iterations, very fast, to learn very quickly.&amp;nbsp;&lt;/li&gt; &lt;li&gt;Product taste—Our customers &lt;em&gt;are&lt;/em&gt; developers, and to build effective products for them requires technical knowledge —you will often be &quot;the PM&quot;.&lt;/li&gt; &lt;li&gt;Securi",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:38:43-04:00",
+    "fit_score": 20,
+    "reasoning": "The candidate demonstrates solid backend and cloud engineering experience with Java, Spring Boot, Azure, and REST APIs, which aligns with Privy's API focus. However, the role requires senior engineering management, extensive crypto and privacy expertise, and a full-time presence in NYC, which the candidate does not possess. Consequently, the overall fit is limited.",
+    "cover_letter_opener": "I am excited about Privy's mission to make privacy the default and eager to bring my cloud‑native backend expertise to help build the next generation of privacy‑focused crypto APIs.",
+    "scored_at": "2026-08-30T02:37:31.127Z"
   },
   {
     "job_id": "aac91e5f7b1d5138",
@@ -1552,6 +1692,34 @@
     "reasoning": "The candidate’s background is focused on software engineering, automotive cybersecurity, and cloud infrastructure, with limited explicit data‑science or machine‑learning experience required for a Data Scientist role. Additionally, the candidate is based in Germany and seeking part‑time positions, while the job is a full‑time role in Singapore, further reducing alignment.",
     "cover_letter_opener": "I am excited about Stripe’s mission to grow the internet economy and eager to apply my strong cloud and analytical skills to drive data‑powered insights for global growth.",
     "scored_at": "2026-08-29T22:59:41.521Z"
+  },
+  {
+    "job_id": "981d49a2ceef75e3",
+    "title": "Engineering Manager, APAC & EMEA Cards",
+    "company": "stripe",
+    "location": "Singapore",
+    "url": "https://stripe.com/jobs/search?gh_jid=7841757",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;The APAC &amp;amp; EMEA Cards team powers the processing of hundreds of billions of dollars in card payments annually, enabling users to accept card payments from Asia Pacific, Europe, and Middle East regions. As the Engineering Manager for the team, you’ll have responsibility for expanding the reach of Stripe’s global payments network, delivering the best-in-class experience for card payments in these regions.&lt;/p&gt; &lt;p&gt;In this role, you’ll be making some of the most signi",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:37:22-04:00",
+    "fit_score": 15,
+    "reasoning": "The candidate’s experience is focused on Java backend, mobile development, and cloud services, with no demonstrated leadership or payments‑industry background required for an Engineering Manager role. Additionally, the position is senior, APAC/EMEA‑focused and based in Singapore, while the candidate is seeking part‑time work in Germany, resulting in a low overall fit.",
+    "cover_letter_opener": "I am excited about the opportunity to contribute to Stripe's mission of expanding the internet economy by leveraging my strong software engineering background and passion for innovative financial solutions.",
+    "scored_at": "2026-08-30T02:37:31.122Z"
+  },
+  {
+    "job_id": "ae7d7377a42d0249",
+    "title": "Engineering Manager - Core Performance",
+    "company": "stripe",
+    "location": "Sydney, Australia",
+    "url": "https://stripe.com/jobs/search?gh_jid=7835108",
+    "description": "&lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world&#39;s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;About the team&lt;/h3&gt; &lt;p&gt;Stripe Infrastructure is responsible for the reliability, scale, performance, and cost of Stripe&#39;s systems and the productivity and sentiment of Stripe&#39;s people. You may work on a wide variety of critical business areas within Core Infrastructure. We&#39;re the home for Stripe&#39;s critical tier-0 infrastructure systems (Compute, Networking, DocumentDB, Distributed Caching, and High Assurance Engineering). We build the foundational platform for Stripe products and services to allow them to operate at scale. We drive reliability, availability, efficien",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:37:22-04:00",
+    "fit_score": 20,
+    "reasoning": "The candidate has solid backend development experience with Java and cloud platforms, but lacks senior engineering leadership and performance optimization experience required for an Engineering Manager role at Stripe. Additionally, the candidate is seeking a part‑time student position in Germany, whereas the role is a full‑time managerial position in Sydney.",
+    "cover_letter_opener": "I am excited about the opportunity to contribute my strong backend and cloud expertise to Stripe’s Core Performance team and help drive the performance of the world’s leading payment infrastructure.",
+    "scored_at": "2026-08-30T02:37:31.125Z"
   },
   {
     "job_id": "5c4e1b1ca53c0fda",
