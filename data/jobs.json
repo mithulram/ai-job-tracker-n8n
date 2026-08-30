@@ -210,6 +210,20 @@
     "scored_at": "2026-08-29T20:15:15.140Z"
   },
   {
+    "job_id": "2f65b8bff07155cc",
+    "title": "Implementation Specialist, GTM Accelerate",
+    "company": "stripe",
+    "location": "Dublin",
+    "url": "https://stripe.com/jobs/search?gh_jid=7520686",
+    "description": "&lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world&#39;s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;About the team&lt;/h3&gt; &lt;p&gt;The Professional Services team exists to drive the adoption of Stripe capabilities across our user base, from Fortune 100s to high-growth startups. Within this group, the Accelerate team is responsible for the critical &quot;zero-to-one&quot; phase of the user journey. We partner with developers and technical leaders to ensure they deploy quickly, integrate with high quality, and derive strategic value from Stripe immediately.&lt;/p&gt; &lt;p&gt;Accelerate is a dedicated Stripe onboarding program designed to get users live fast and operationally ready. It is a",
+    "source": "greenhouse",
+    "posted_at": "2026-08-27T10:43:36-04:00",
+    "fit_score": 30,
+    "reasoning": "The candidate has solid backend and cloud engineering experience, especially with Java, Spring Boot, and Azure, which are useful for integration work. However, the resume lacks direct experience with payment platforms, Stripe APIs, or the specific GTM Accelerate focus, and the candidate is seeking a part‑time role in Germany rather than a full‑time position in Dublin. These gaps lower the overall match.",
+    "cover_letter_opener": "I am excited to bring my cloud‑native backend expertise to Stripe’s GTM Accelerate team and help customers seamlessly integrate world‑class payment solutions.",
+    "scored_at": "2026-08-30T23:05:14.597Z"
+  },
+  {
     "job_id": "7954f4460d8a1fb8",
     "title": "Frontend Engineer, Expansion",
     "company": "stripe",
@@ -1526,6 +1540,48 @@
     "scored_at": "2026-08-30T08:46:05.333Z"
   },
   {
+    "job_id": "fa21e897e759b365",
+    "title": "Integration Engineer (Global)",
+    "company": "stripe",
+    "location": "Toronto",
+    "url": "https://stripe.com/jobs/search?gh_jid=7896519",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe’s Professional Services team works with our most strategic users. You will work on the highest visibility projects to provide technical expertise to our customers to help accelerate their knowledge, solution design and integrations with Stripe. This role is responsible for leading strategic conversations and developing plans that will transform the payments and financial infrastructure for leading enterprises.&amp;nbsp;&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;What you’ll do&lt;/str",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:59:42-04:00",
+    "fit_score": 40,
+    "reasoning": "The candidate has solid backend development experience with Java, Spring Boot, and REST API design, as well as cloud expertise in Azure, which are relevant to an integration role. However, they lack direct experience with payment platforms, Stripe's ecosystem, and are currently based in Germany rather than Toronto, reducing immediate fit. Their career focus on AI solutions also diverges from the core integration responsibilities described.",
+    "cover_letter_opener": "I am excited to bring my strong backend and cloud integration skills to Stripe’s mission of expanding the internet’s economic reach!",
+    "scored_at": "2026-08-30T23:05:14.601Z"
+  },
+  {
+    "job_id": "e39167eb2a0abac1",
+    "title": "Integration Reliability Engineer, Payments",
+    "company": "stripe",
+    "location": "Canada ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8054241",
+    "description": "&lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;The Payments organization owns some of Stripe’s most critical payment flows and a platform that processes hundreds of billions of dollars in payments a year. Our team builds and scales the infrastructure and financial partner integrations that enables Stripe to accept, manage, and payout money across many countries, currencies, and payment methods.&amp;nbsp;&lt;/p&gt; &lt;p&gt;Our work is core to Stripe’s business, and thousands of developers use our platform and infrastructure to create valuable products and services that billions of people ",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:59:42-04:00",
+    "fit_score": 30,
+    "reasoning": "The candidate possesses solid Java backend and cloud experience with Azure, which aligns partially with Stripe's engineering stack, but lacks direct experience in payments integration and reliability engineering. Additionally, the candidate is seeking a part‑time role in Germany, whereas the position is a full‑time role based in Canada, creating a location and commitment mismatch. Consequently, the overall fit is limited.",
+    "cover_letter_opener": "I am excited about the opportunity to bring my cloud‑native backend expertise to Stripe’s Integration Reliability team and help power seamless payment experiences worldwide.",
+    "scored_at": "2026-08-30T23:05:14.604Z"
+  },
+  {
+    "job_id": "4a819bae894ddce2",
+    "title": "Machine Learning Engineer",
+    "company": "stripe",
+    "location": "Toronto",
+    "url": "https://stripe.com/jobs/search?gh_jid=8014859",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Our Applied ML team aims to reform how our users interact with Stripe. We are doing so by (a) automating the easy tasks, and (b) assisting our users in the difficult tasks. Some examples include helping our users resolve issues with Stripe faster or making it easier for our users to sign up and navigate Stripe. We are using the latest LLMs as well as fine-tuning our own models. We&#39;re an end-to-end team going from ideas to models to shipping in production. You can learn more abou",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:59:42-04:00",
+    "fit_score": 30,
+    "reasoning": "The candidate has strong backend and cloud engineering experience and Python knowledge, but lacks explicit machine‑learning or data‑science expertise required for a ML Engineer role. Additionally, the candidate is seeking part‑time work in Germany, while the position is a full‑time role in Toronto, further reducing fit.",
+    "cover_letter_opener": "I am excited to bring my cloud‑native backend expertise and passion for AI to Stripe’s Machine Learning Engineer team, helping power innovative financial solutions.",
+    "scored_at": "2026-08-30T23:05:14.606Z"
+  },
+  {
     "job_id": "fa076fabc64eea75",
     "title": "Android Engineer, Terminal",
     "company": "stripe",
@@ -1694,6 +1750,20 @@
     "scored_at": "2026-08-30T18:20:21.918Z"
   },
   {
+    "job_id": "72448cb63909dc98",
+    "title": "Internal Product Engineer, Developer Productivity AI",
+    "company": "stripe",
+    "location": "Toronto, Canada ",
+    "url": "https://stripe.com/jobs/search?gh_jid=7896151",
+    "description": "&lt;p&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;We are a brand new team, working quickly to accelerate Stripes engineering productivity by effectively deploying LLM agents and tools to automate large swaths of the engineering workflow.&amp;nbsp; We’re a cross-continent team, spanning North America and Europe - filled with high agency engineers with strong product perspectives.&amp;nbsp; Some examples of what we work on: &lt;a href=&quot;https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents&quot;&gt;here&lt;/a&gt; and &lt;a href=&quot;https://stripe.dev/blog/minions-stripes-",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:59:41-04:00",
+    "fit_score": 40,
+    "reasoning": "The candidate has solid backend development experience with Java, Spring Boot, and cloud platforms, as well as Python skills that are relevant to building AI‑enabled services. However, they lack direct experience in AI/LLM product development and developer productivity tools, and their current focus on part‑time roles in Germany does not align with a full‑time position at Stripe in Toronto.",
+    "cover_letter_opener": "I am excited to bring my strong backend and cloud expertise to Stripe’s Developer Productivity AI team and help accelerate the next wave of intelligent developer tools.",
+    "scored_at": "2026-08-30T23:05:14.604Z"
+  },
+  {
     "job_id": "bac0c4c438f1750c",
     "title": "Forward Deployed Engineer, Professional Services",
     "company": "stripe",
@@ -1706,6 +1776,20 @@
     "reasoning": "The candidate has solid backend development experience with Java, Spring Boot, and cloud expertise in Azure, which aligns with the engineering focus of a Forward Deployed Engineer. However, the resume lacks direct experience with payments platforms, Stripe’s ecosystem, and professional services consulting, and the candidate is currently based in Germany seeking part‑time roles, reducing overall fit.",
     "cover_letter_opener": "I’m thrilled to bring my cloud‑native backend expertise to Stripe’s Forward Deployed Engineer team and help customers unlock the power of internet payments.",
     "scored_at": "2026-08-30T14:11:10.276Z"
+  },
+  {
+    "job_id": "adfa97f1421e8904",
+    "title": "IT Support Engineer",
+    "company": "stripe",
+    "location": "Dublin",
+    "url": "https://stripe.com/jobs/search?gh_jid=8096788",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are &lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/span&gt;&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;The Corporate Technology (CorpTech) Services team is a strategic support partner to all Stripes, in office and remote.&amp;nbsp; We ensure the successful operation of new hires, account off-boards and critical business systems with a global team.&amp;nbsp;&lt;/p&gt; &lt;p&gt;We’re looking for a Tier 1 Support Engineer to join the MXC CorpTech Services team to provide in-person, thoughtful and individualized suppor",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:57:25-04:00",
+    "fit_score": 25,
+    "reasoning": "The candidate's experience is heavily focused on backend development, automotive cybersecurity, and cloud architecture, which does not align closely with the typical responsibilities of an IT Support Engineer. Additionally, the candidate is seeking part‑time roles in Germany, while the position is a full‑time role based in Dublin. However, their strong technical background and certifications could provide a foundation for learning support tasks quickly.",
+    "cover_letter_opener": "I am excited about the opportunity to bring my strong technical expertise and passion for problem‑solving to Stripe’s IT Support Engineer team in Dublin!",
+    "scored_at": "2026-08-30T23:05:14.605Z"
   },
   {
     "job_id": "5970eace581e58c3",
@@ -1736,6 +1820,20 @@
     "scored_at": "2026-08-30T08:46:05.329Z"
   },
   {
+    "job_id": "92383ab9c1e7e56b",
+    "title": "Indirect Tax Advisory Consultant",
+    "company": "stripe",
+    "location": "Dublin or London",
+    "url": "https://stripe.com/jobs/search?gh_jid=7589400",
+    "description": "&lt;p&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Stripe&#39;s mission is to increase the GDP of the internet. We build the most powerful and flexible tools for running an internet business — handling billions of dollars each year and enabling millions of businesses worldwide to scale faster by building on Stripe. Our tax team partners with Stripes across the company to build an efficient, scalable tax structure as we expand into new markets globally.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Our International Indirect Tax Advisory function is responsible for determining the taxability of new products, managing indirect tax audits and relationships with local tax authorities, and partnering with our indirect tax systems and compliance leads on day-to-day matters. We work cross-functionally across finance, product, and engineering — and we&#39;re looking for a sharp, collaborative tax professional to join us.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;What you&#39;ll do&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;The position is based in Dublin or London and reports to the Internationa",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:57:23-04:00",
+    "fit_score": 10,
+    "reasoning": "The candidate's background is in software development, cloud architecture, and AI, with no experience in tax advisory, finance, or consulting. While they have strong technical skills that could be valuable to Stripe, the role requires tax expertise and advisory experience, which are not demonstrated in the resume.",
+    "cover_letter_opener": "I am excited about the opportunity to contribute to Stripe’s mission by bringing my technical expertise to the innovative tax advisory team.",
+    "scored_at": "2026-08-30T23:05:14.598Z"
+  },
+  {
     "job_id": "a1d8d4182356df36",
     "title": "Backend Engineer/API, Payments and Risk",
     "company": "stripe",
@@ -1762,6 +1860,20 @@
     "reasoning": "The candidate has solid backend and cloud experience with Java, Spring Boot, and Azure, which aligns partially with Stripe's infrastructure needs. However, they lack senior leadership experience, specific payments domain knowledge, and are based in Germany while the role is US‑based, resulting in a limited overall fit.",
     "cover_letter_opener": "I am excited about the opportunity to bring my cloud‑native backend expertise and passion for scalable infrastructure to Stripe’s engineering team.",
     "scored_at": "2026-08-30T02:37:31.128Z"
+  },
+  {
+    "job_id": "93a50b266c088998",
+    "title": "Machine Learning Engineer",
+    "company": "stripe",
+    "location": "South San Francisco, CA",
+    "url": "https://stripe.com/jobs/search?gh_jid=8137997",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe, LLC. is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Design state-of-the-art ML models and large-scale ML systems for underwriting and portfolio management for Stripe Capital based on ML principles, domain knowledge, risk, regulatory and engineering constraints.&amp;nbsp;&lt;/li&gt; &lt;li&gt;Design systems to speed up the time from idea to deployment of new models.&amp;nbsp;&lt;/li&gt; &lt;li&gt;Experiment and iterate on ML models (using tool",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:38:49-04:00",
+    "fit_score": 25,
+    "reasoning": "The candidate has solid backend and cloud engineering experience, but the resume does not demonstrate direct machine‑learning or data‑science work that Stripe’s ML Engineer role requires. Additionally, the candidate is based in Germany and seeking part‑time roles, whereas the position is full‑time in South San Francisco. Nonetheless, strong Python and Azure expertise could be leveraged with additional ML training.",
+    "cover_letter_opener": "I am excited to bring my robust software engineering and cloud expertise to Stripe’s Machine Learning team, helping build innovative financial solutions.",
+    "scored_at": "2026-08-30T23:05:14.606Z"
   },
   {
     "job_id": "76196c94c637b702",
@@ -1874,6 +1986,20 @@
     "reasoning": "The candidate's background is focused on software engineering, cloud infrastructure, and emerging AI roles, while the Head of Self-Serve Paid Media position requires deep expertise in paid media strategy, product leadership, and marketing analytics. Additionally, the candidate is seeking a part‑time or entry‑level role in Germany, which does not align with the senior, full‑time, US‑centric responsibilities of the Stripe role.",
     "cover_letter_opener": "I’m thrilled by Stripe’s mission to power the internet economy and eager to bring my cloud‑native engineering expertise to help scale your self‑serve paid‑media platform.",
     "scored_at": "2026-08-30T18:20:21.933Z"
+  },
+  {
+    "job_id": "6c06e425c8b383d9",
+    "title": "Integration Engineer, Metronome",
+    "company": "stripe",
+    "location": "Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8080454",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are &lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/span&gt;&lt;/p&gt; &lt;p&gt;Metronome is the leading usage-based billing platform built for modern software companies. With Metronome, companies can launch products faster, offer any pricing model, and streamline finance workflows without writing code. Our platform computes millions of invoices per billing period and is scaling rapidly to accommodate new customers, saving them hours of development time and manual invoicing and enabling them to use consumption data to better serve their customers. Our cust",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:38:47-04:00",
+    "fit_score": 65,
+    "reasoning": "The candidate has solid backend development experience with Java, Spring Boot, and REST API design, as well as cloud expertise in Azure, which aligns with the integration and API focus of the role. However, they lack direct payments or Stripe-specific experience and the posting emphasizes payment infrastructure, reducing the overall match. Therefore a moderate fit score is appropriate.",
+    "cover_letter_opener": "I’m excited to bring my Java and cloud integration expertise to Stripe’s Metronome team, helping build seamless payment experiences for customers worldwide.",
+    "scored_at": "2026-08-30T23:05:14.602Z"
   },
   {
     "job_id": "7e8ff84ee516d695",
@@ -2030,6 +2156,20 @@
     "scored_at": "2026-08-29T22:59:41.514Z"
   },
   {
+    "job_id": "a01d319975084450",
+    "title": "Integration Engineer (Chicago)",
+    "company": "stripe",
+    "location": "Chicago",
+    "url": "https://stripe.com/jobs/search?gh_jid=7819426",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe’s Professional Services team works with our most strategic users. You will work on the highest visibility projects to provide technical expertise to our customers to help accelerate their knowledge, solution design and integrations with Stripe. This role is responsible for leading strategic conversations and developing plans that will transform the payments and financial infrastructure for leading enterprises.&amp;nbsp;&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;What you’ll do&lt;/str",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:38:42-04:00",
+    "fit_score": 30,
+    "reasoning": "The candidate has strong backend development experience with Java, Spring Boot, and REST API design, as well as cloud expertise in Azure, which are relevant to integration work. However, they lack specific payments or Stripe-related experience, are based in Germany seeking part‑time roles, and the position is a full‑time role in Chicago, reducing overall alignment.",
+    "cover_letter_opener": "I am thrilled by Stripe's mission to power the internet economy and eager to bring my integration and cloud expertise to help build seamless payment solutions.",
+    "scored_at": "2026-08-30T23:05:14.600Z"
+  },
+  {
     "job_id": "d3d0c7c7216a3957",
     "title": "Account Executive, Enterprise Platforms (Grower)",
     "company": "stripe",
@@ -2070,6 +2210,20 @@
     "reasoning": "The candidate's experience is heavily focused on backend development, Java, Spring Boot, and mobile Flutter, with limited exposure to core frontend technologies such as JavaScript, React, or HTML/CSS that Stripe's Frontend Engineer role requires. While their security and cloud expertise are relevant to payments and risk, the lack of direct frontend experience reduces overall alignment. However, their strong API design and cloud skills could be leveraged with additional frontend training.",
     "cover_letter_opener": "I am thrilled by Stripe's mission to power the internet economy and eager to bring my strong backend and security expertise to help build innovative, user‑focused payment experiences.",
     "scored_at": "2026-08-30T14:11:10.278Z"
+  },
+  {
+    "job_id": "7e7160780997c644",
+    "title": "Infrastructure Engineer, Privy",
+    "company": "stripe",
+    "location": "New York",
+    "url": "https://stripe.com/jobs/search?gh_jid=7462961",
+    "description": "&lt;h2 id=&quot;who-we-are&quot;&gt;Who we are&lt;/h2&gt; &lt;h3 id=&quot;about-privy&quot;&gt;About Privy&lt;/h3&gt; &lt;p&gt;Our mission is to make privacy and user ownership the default online. To do so, we build simple, flexible APIs and tools for developers that make it easy to build new products on crypto rails.&lt;/p&gt; &lt;p&gt;Privy owns the abstractions and infrastructure layer above wallets, integrating across chains, third-party providers, and Stripe products like Treasury and Link. We get to solve hard technical problems while leveraging Stripe&#39;s distribution to reach customers like Ramp, Klarna, Deel, Kraken, Hyperliquid, and Fomo — powering experiences for both mainstream users and crypto natives.&lt;/p&gt; &lt;p&gt;Learn more about Privy: &lt;a href=&quot;https://privy.io/blog/announcing-our-acquisition-by-stripe&quot;&gt;Privy and Stripe: Bringing crypto to everyone&lt;/a&gt;&lt;/p&gt; &lt;h3&gt;About the team&lt;/h3&gt; &lt;p&gt;Engineering at Privy is distinguished by:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;High urgency: Shipping very small iterations, very fast, to learn very quickly.&amp;nbsp;&lt;/li&gt; &lt;li&gt;Product taste: Our customers &lt;em&gt;are&lt;/em&",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:38:40-04:00",
+    "fit_score": 35,
+    "reasoning": "The candidate has strong backend and cloud experience with Azure and API design, and a background in cybersecurity, which aligns partially with Privy's focus on secure infrastructure. However, they lack specific experience in crypto, wallet integrations, and the preferred location is New York, making the overall fit moderate.",
+    "cover_letter_opener": "I am excited to bring my cloud‑native backend expertise and cybersecurity research to Privy's mission of building privacy‑first infrastructure for the crypto ecosystem.",
+    "scored_at": "2026-08-30T23:05:14.599Z"
   },
   {
     "job_id": "c26c7410a6d1fccd",
@@ -2168,6 +2322,20 @@
     "reasoning": "The candidate has strong backend and cloud engineering experience with Python and Azure, which aligns partially with core infrastructure work, but lacks explicit data science, machine learning, and Stripe‑specific domain expertise. Additionally, the candidate is based in Germany and seeking part‑time roles, while the position is a full‑time data scientist role in Seattle, further reducing fit.",
     "cover_letter_opener": "I am excited to bring my cloud‑native engineering expertise to Stripe’s Core Infrastructure team and help power the data platforms that drive the internet’s economy.",
     "scored_at": "2026-08-29T22:59:41.520Z"
+  },
+  {
+    "job_id": "db7bd5c00eb00c93",
+    "title": "Integration Engineer, SEA/GCN",
+    "company": "stripe",
+    "location": "Singapore",
+    "url": "https://stripe.com/jobs/search?gh_jid=8053417",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are &lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/span&gt;&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Our professional services team combines payments and financial expertise with experience integrating Stripe technology in thousands of projects. We help our customers create marketplaces, launch subscription businesses, expand globally, and more. This team provides critical implementation and post-launch services to help Stripe users maximize long-term value, quickly and confidently.&lt;/p&gt; &lt;p&gt;We are look",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:37:30-04:00",
+    "fit_score": 45,
+    "reasoning": "The candidate has strong backend development experience with Java, Spring Boot, and cloud expertise in Azure, which aligns with integration engineering tasks. However, they lack direct payments or Stripe-specific experience, are based in Germany seeking part‑time work, and the role is full‑time in Singapore, lowering overall fit.",
+    "cover_letter_opener": "I’m excited to bring my backend and cloud integration expertise to Stripe’s mission of powering the internet’s economy.",
+    "scored_at": "2026-08-30T23:05:14.603Z"
   },
   {
     "job_id": "2f1797889a7d15a4",
