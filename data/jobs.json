@@ -196,6 +196,20 @@
     "scored_at": "2026-08-29T20:15:15.140Z"
   },
   {
+    "job_id": "7954f4460d8a1fb8",
+    "title": "Frontend Engineer, Expansion",
+    "company": "stripe",
+    "location": "N/A",
+    "url": "https://stripe.com/jobs/search?gh_jid=7644950",
+    "description": "&lt;p&gt;&lt;span style=&quot;font-size: 18pt;&quot;&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Web Presence and Platform is organized into two pillars, each of which is grouped into pods that focus on the central tenets of Stripe&#39;s public mission. The Presence pillar creates industry-leading designs for Stripe’s front door surfaces, educating customers about the power of our platform, sharing Stripe’s ideas and expertise with the public, and driving adoption. The Platform pillar builds the internal machinery that p",
+    "source": "greenhouse",
+    "posted_at": "2026-08-27T07:05:26-04:00",
+    "fit_score": 35,
+    "reasoning": "The candidate has solid backend and mobile development experience, but the posting seeks a frontend engineer with strong web UI expertise, which is not evident in the resume. While skills in Flutter and UI design could translate, the lack of React/JavaScript experience reduces the match.",
+    "cover_letter_opener": "I’m excited to bring my UI development passion and cloud‑savvy background to Stripe’s Frontend Engineering team and help expand the platform’s user experience.",
+    "scored_at": "2026-08-30T14:11:10.277Z"
+  },
+  {
     "job_id": "db711e2276a249d2",
     "title": "Design Engineer, Presence",
     "company": "stripe",
@@ -952,6 +966,20 @@
     "scored_at": "2026-08-29T22:59:41.509Z"
   },
   {
+    "job_id": "fa2c466d43def4db",
+    "title": "Full Stack Engineer, Link",
+    "company": "stripe",
+    "location": "New York, New York",
+    "url": "https://stripe.com/jobs/search?gh_jid=8062305",
+    "description": "&lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;About the team&lt;/h3&gt; &lt;p&gt;Link is a digital wallet designed for effortless and secure online payments and digital transactions. With Link, consumers enjoy convenience and peace of mind—it works on any device or browser, is backed by the highest security mechanisms, offers purchase protections on eligible items, and ensures seamless and quick payments. Across the Link Engineering org, we focus on building delightful payment experiences and allowing our global consumer base to pay with their preferred payment methods. Our team&#39;s work spans the entire stack from front-end experiences, to infrastructure that supports low-latency transactions, to intelligent systems that help protect consumers and merchants from bad actors.&lt;/p&gt; &lt;p&gt;Team matching for one of the subteams will begin during final stages. Please note we may also consider you for different orgs based on your experience, location, etc. More information on our team matching process can be found &lt;a href=&quot;https://docs.google.com/document/d/1zvJkO2c7GzukHG-_oqc5wbOLajpuh5FjbmZPcZPU1o0/edit?tab=t.0#heading=h.x8j6mm75yuwr&quot;&gt;here&lt;/a&gt;.&lt;/p&gt; &lt",
+    "source": "greenhouse",
+    "posted_at": "2026-08-21T18:19:16-04:00",
+    "fit_score": 35,
+    "reasoning": "The candidate has strong backend Java and cloud experience with Spring Boot and Azure, which aligns with some full‑stack responsibilities, but lacks direct experience in payment systems, JavaScript/React, and the New York location requirement. Their focus on AI and automotive cybersecurity does not directly match Stripe's digital wallet product, resulting in a modest fit.",
+    "cover_letter_opener": "I am excited to bring my Java backend and cloud expertise to Stripe’s Link team to help build secure, seamless digital wallet experiences for users worldwide.",
+    "scored_at": "2026-08-30T14:11:10.282Z"
+  },
+  {
     "job_id": "5e3dc5083cbf9369",
     "title": "Senior Product Manager, Growth",
     "company": "gitlab",
@@ -1048,6 +1076,20 @@
     "reasoning": "The candidate has solid backend and cloud experience with Java, Spring Boot, Python, and Azure, which aligns with GitLab's cloud focus, but lacks direct TypeScript and full‑stack web development experience required for the role. Their AI interest and strong engineering background suggest they could quickly adapt, though the current skill gap limits the fit.",
     "cover_letter_opener": "I’m excited to bring my cloud‑native backend expertise and passion for AI to GitLab’s Duo Client SDK team and help shape the future of intelligent DevSecOps.",
     "scored_at": "2026-08-25T21:22:41.186Z"
+  },
+  {
+    "job_id": "9715e664866174fd",
+    "title": "Full Stack Engineer, Bridge",
+    "company": "stripe",
+    "location": "San Francisco, NYC",
+    "url": "https://stripe.com/jobs/search?gh_jid=8142764",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Bridge&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Bridge is building a new payments platform powered by stablecoins to make global money movement simpler, faster, and more accessible. Through our APIs, businesses can send and receive funds across borders, give customers access to dollars through virtual accounts, and disburse USD globally.&lt;/p&gt; &lt;p&gt;We believe stablecoin rails will become a foundational part of financial infrastructure, moving and settling trillions of dollars worldwide. Bridge is helping bring that future forward.&lt;/p&gt; &lt;p&gt;Our team has built financial infrastructure at companies including Coinbase, Stripe, Square, Brex, Upstart, DoorDash, and Airbnb. We are united by the conviction that stablecoins can materially improve how money moves around the world.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Build and ship end-to-end product experiences across frontend applications, backend services, APIs, and data systems.&lt;/li&gt; &lt;li&gt;Design reliable, performant, and intuitive interfaces for developers, operations",
+    "source": "greenhouse",
+    "posted_at": "2026-08-20T19:35:00-04:00",
+    "fit_score": 45,
+    "reasoning": "The candidate brings solid Java Spring Boot backend experience, REST API design, and Azure cloud expertise that align with full‑stack development needs. However, they lack direct payments or stablecoin experience, and their current location and focus on German part‑time roles do not match the US‑based full‑time position.",
+    "cover_letter_opener": "I’m excited to help Bridge revolutionize global payments by building a cutting‑edge stablecoin platform with my full‑stack and cloud expertise.",
+    "scored_at": "2026-08-30T14:11:10.279Z"
   },
   {
     "job_id": "dae0d4d0866862a5",
@@ -1498,6 +1540,76 @@
     "scored_at": "2026-08-30T02:37:31.129Z"
   },
   {
+    "job_id": "897ae06404839b10",
+    "title": "Full Stack Engineer, Billing",
+    "company": "stripe",
+    "location": "N/A",
+    "url": "https://stripe.com/jobs/search?gh_jid=6786324",
+    "description": "&lt;h2 id=&quot;who-we-are&quot;&gt;Who we are&lt;/h2&gt; &lt;h3 id=&quot;about-stripe&quot;&gt;About Stripe&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world&#39;s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3 id=&quot;about-the-team&quot;&gt;About the team&lt;/h3&gt; &lt;p&gt;Revenue and Financial Automation Sub-org within Revenue and Financial Automation: Billing.&lt;/p&gt; &lt;p&gt;The Revenue and Financial Automation team at Stripe builds software tools that accelerate the economic and technological growth of global businesses by helping them operationalize their commercial relationships with customers. Our offerings include a billing platform, SaaS analytics, data services, and finance automation products that our customers creatively combin",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:59:41-04:00",
+    "fit_score": 55,
+    "reasoning": "The candidate brings solid backend experience with Java, Spring Boot, and cloud platforms, which aligns with Stripe's need for robust API-driven services. However, they lack direct billing or payment processing experience and front‑end web technologies commonly used at Stripe, and their current focus on part‑time student roles may not match the full‑time expectations. Overall, the skill set is relevant but not a perfect match for the specific Stripe billing domain.",
+    "cover_letter_opener": "I am excited to bring my strong backend and cloud expertise to Stripe’s Billing team, helping power seamless payment experiences for millions of businesses worldwide.",
+    "scored_at": "2026-08-30T14:11:10.279Z"
+  },
+  {
+    "job_id": "4a942e080341f04e",
+    "title": "Full Stack Engineer, Developer & End User Experience Platform",
+    "company": "stripe",
+    "location": "N/A",
+    "url": "https://stripe.com/jobs/search?gh_jid=6567104",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe&#39;s Developer &amp;amp; End-user Experience Platform (DEEP) organization empowers all of Stripe&#39;s products with a shared product platform that helps with rapidly delivering high-quality, cross-product experiences across our UI and API surfaces. It focuses on providing a consistent and scalable developer experience that any developer (both internal and external) can leverage to accelerate a merchant&#39;s ability to create value using Stripe.&lt;/p&gt; &lt;p&gt;T",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:59:41-04:00",
+    "fit_score": 55,
+    "reasoning": "The candidate brings strong backend expertise with Java, Spring Boot, and cloud experience on Azure, which aligns with Stripe's need for robust full‑stack services. However, the resume does not highlight web‑focused front‑end technologies or direct payments experience, which are core to Stripe's platform, limiting the overall match. Therefore the fit is moderate.",
+    "cover_letter_opener": "I’m excited to bring my backend and cloud expertise to Stripe’s Developer & End User Experience Platform and help shape the next generation of seamless payment solutions.",
+    "scored_at": "2026-08-30T14:11:10.280Z"
+  },
+  {
+    "job_id": "6fcbd7f01e977068",
+    "title": "Full Stack Engineer, Expansion",
+    "company": "stripe",
+    "location": "N/A",
+    "url": "https://stripe.com/jobs/search?gh_jid=6786568",
+    "description": "&lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world&#39;s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;About the team&lt;/h3&gt; &lt;p&gt;Web Presence and Platform is organized into two pillars, each of which is grouped into pods that focus on the central tenets of the Stripe public mission. The Presence pillar creates industry-leading designs for Stripe front door surfaces, educating customers about the power of our platform, sharing ideas and expertise with the public, and driving adoption. The Platform pillar builds the internal machinery that powers these surfaces, and is responsible for making our websites fast, stable, and easy to update.&lt;/p&gt; &lt;p&gt;Together we design and build str",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:59:41-04:00",
+    "fit_score": 55,
+    "reasoning": "The candidate has strong backend experience with Java, Spring Boot, and cloud platforms like Azure, which aligns with many full‑stack responsibilities. However, the resume lacks direct experience with payment systems, Stripe’s tech stack, or the specific front‑end frameworks often used at Stripe, limiting the overall match. The candidate’s cloud and API skills are relevant but may require additional domain knowledge for this role.",
+    "cover_letter_opener": "I’m thrilled by Stripe’s mission to expand the internet economy and eager to bring my full‑stack and cloud expertise to help power the next generation of payment experiences.",
+    "scored_at": "2026-08-30T14:11:10.282Z"
+  },
+  {
+    "job_id": "e1bcb8eb5c3d9f45",
+    "title": "Full Stack Engineer, Money as a Service",
+    "company": "stripe",
+    "location": "N/A",
+    "url": "https://stripe.com/jobs/search?gh_jid=6606581",
+    "description": "&lt;p&gt;&lt;strong&gt;&lt;em&gt;Note: &lt;/em&gt;&lt;/strong&gt;&lt;em&gt;if you are an intern or new grad applicant, please do not apply using this link and visit our &lt;/em&gt;&lt;a href=&quot;https://stripe.com/jobs/search&quot;&gt;&lt;em&gt;jobs page&lt;/em&gt;&lt;/a&gt;&lt;em&gt; for those specific postings.&lt;/em&gt;&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world&#39;s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the Organization&amp;nbsp;&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Money as a Service (MaaS) oversees a diverse portfolio of Stripe&#39;s core products and platforms. These offerings facilit",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:59:41-04:00",
+    "fit_score": 55,
+    "reasoning": "The candidate brings solid backend experience with Java, Spring Boot, and Python, as well as cloud expertise in Azure, which aligns with many full‑stack requirements. However, they lack direct experience in payment systems, modern web front‑end frameworks, and are seeking a part‑time Werkstudent role, while Stripe’s Full Stack Engineer position is likely full‑time and domain‑specific. Consequently, the overall match is moderate.",
+    "cover_letter_opener": "I am excited to bring my strong backend and cloud skills to Stripe’s Money as a Service team and help build the next generation of seamless payment experiences.",
+    "scored_at": "2026-08-30T14:11:10.283Z"
+  },
+  {
+    "job_id": "bac0c4c438f1750c",
+    "title": "Forward Deployed Engineer, Professional Services",
+    "company": "stripe",
+    "location": "Dublin, Ireland ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8055050",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe’s Professional Services team works with our most strategic users, delivering excellence and enabling our users to succeed with Stripe. The new Forward Deployed Engineering team takes the evolution of our consulting services behind the keyboard by directly building and delivering software for our users. As a brand new offering from Stripe, we work directly with Stripe&#39;s users to build scalable Stripe integrations and standalone applications.&lt;/p&gt; &lt;h2&gt;&lt;strong&",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:57:25-04:00",
+    "fit_score": 55,
+    "reasoning": "The candidate has solid backend development experience with Java, Spring Boot, and cloud expertise in Azure, which aligns with the engineering focus of a Forward Deployed Engineer. However, the resume lacks direct experience with payments platforms, Stripe’s ecosystem, and professional services consulting, and the candidate is currently based in Germany seeking part‑time roles, reducing overall fit.",
+    "cover_letter_opener": "I’m thrilled to bring my cloud‑native backend expertise to Stripe’s Forward Deployed Engineer team and help customers unlock the power of internet payments.",
+    "scored_at": "2026-08-30T14:11:10.276Z"
+  },
+  {
     "job_id": "5970eace581e58c3",
     "title": "Data Scientist, Payments",
     "company": "stripe",
@@ -1568,6 +1680,20 @@
     "scored_at": "2026-08-29T16:26:01.633Z"
   },
   {
+    "job_id": "dd828fb7c5be893a",
+    "title": "Full Stack Engineer, Enterprise & Ecosystem",
+    "company": "stripe",
+    "location": "N/A",
+    "url": "https://stripe.com/jobs/search?gh_jid=8118929",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe&#39;s Enterprise and Ecosystem team is focused on enhancing migration, activation, and cross-product experiences for enterprises. This position will be integral to a growing team, collaborating closely with product and customer-facing teams.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;Team Matching: exact team matching for one of the subteams will begin during final stages. Please note we may also consider you for different orgs based on your experience, location, etc. M",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:38:48-04:00",
+    "fit_score": 45,
+    "reasoning": "The candidate has strong backend experience with Java, Spring Boot, and cloud platforms, which aligns with full‑stack development needs. However, the resume lacks specific experience in payment systems, JavaScript/React, or Stripe’s ecosystem, which are likely critical for this role. The overall match is moderate, reflecting transferable skills but missing key domain expertise.",
+    "cover_letter_opener": "I am thrilled to apply my full‑stack and cloud expertise to help Stripe’s Enterprise & Ecosystem team accelerate the internet’s economy!",
+    "scored_at": "2026-08-30T14:11:10.281Z"
+  },
+  {
     "job_id": "9c539a96c63db635",
     "title": "Account Executive, Enterprise Platforms, Hunter",
     "company": "stripe",
@@ -1622,6 +1748,20 @@
     "reasoning": "The candidate has strong Java and Spring Boot backend experience and cloud certifications, which align with the engineering focus of a Forward Deployed Engineer. However, they lack direct payments or Stripe-specific experience, are based in Germany and seeking part‑time work, while the role is full‑time and US‑based, reducing overall fit.",
     "cover_letter_opener": "I’m excited to bring my backend and cloud expertise to Stripe’s professional services team and help customers unlock the power of seamless payments.",
     "scored_at": "2026-08-30T08:46:05.340Z"
+  },
+  {
+    "job_id": "3b923360200a6477",
+    "title": "Forward Deployed Engineer, Professional Services",
+    "company": "stripe",
+    "location": "United States or Canada",
+    "url": "https://stripe.com/jobs/search?gh_jid=8075577",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe’s Professional Services team works with our most strategic users, delivering excellence and enabling our users to succeed with Stripe. The new Forward Deployed Engineering team takes the evolution of our consulting services behind the keyboard by directly building and delivering software for our users. As a brand new offering from Stripe, we work directly with Stripe&#39;s users to build scalable Stripe integrations and standalone applications.&lt;/p&gt; &lt;h2&gt;&lt;strong&",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:38:47-04:00",
+    "fit_score": 35,
+    "reasoning": "The candidate has solid backend development experience with Java, Spring Boot, and cloud platforms, which aligns with the technical demands of a Forward Deployed Engineer. However, their current focus on AI solutions, automotive cybersecurity, and a part‑time role in Germany does not match Stripe’s full‑time, client‑facing position in the US/Canada payments domain. Consequently, the overall fit is moderate but limited.",
+    "cover_letter_opener": "I am excited to bring my strong Java and cloud engineering background to Stripe’s Forward Deployed Engineer team, helping customers unlock the full power of your payment platform.",
+    "scored_at": "2026-08-30T14:11:10.275Z"
   },
   {
     "job_id": "7e8ff84ee516d695",
@@ -1750,6 +1890,20 @@
     "scored_at": "2026-08-29T16:26:01.632Z"
   },
   {
+    "job_id": "bc3aab3c3c633118",
+    "title": "Frontend Engineer, Payments & Risk",
+    "company": "stripe",
+    "location": "N/A",
+    "url": "https://stripe.com/jobs/search?gh_jid=7325252",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;The Payments organization focuses on developing products and platforms that enable users to accept payments from customers efficiently. This includes building APIs for processing payments, enabling regional, non-card payment options, and extending Stripe&#39;s capabilities to make it easy for businesses to accept in-person payments. The Risk Engineering team develops products that minimize financial and regulatory risks while ensuring a seamless user experience, thereby safe",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:38:40-04:00",
+    "fit_score": 30,
+    "reasoning": "The candidate's experience is heavily focused on backend development, Java, Spring Boot, and mobile Flutter, with limited exposure to core frontend technologies such as JavaScript, React, or HTML/CSS that Stripe's Frontend Engineer role requires. While their security and cloud expertise are relevant to payments and risk, the lack of direct frontend experience reduces overall alignment. However, their strong API design and cloud skills could be leveraged with additional frontend training.",
+    "cover_letter_opener": "I am thrilled by Stripe's mission to power the internet economy and eager to bring my strong backend and security expertise to help build innovative, user‑focused payment experiences.",
+    "scored_at": "2026-08-30T14:11:10.278Z"
+  },
+  {
     "job_id": "c26c7410a6d1fccd",
     "title": "Backend Engineer, Payments and Risk",
     "company": "stripe",
@@ -1790,6 +1944,20 @@
     "reasoning": "The candidate has solid backend and API development experience with Java, Spring Boot, and cloud platforms, which aligns with the engineering demands of Privy's API-focused role. However, they lack direct experience in blockchain, crypto, or privacy-focused systems, and the position is based in New York while the candidate seeks a part-time role in Germany, reducing overall suitability.",
     "cover_letter_opener": "I’m thrilled by Privy’s mission to make privacy the default online and eager to bring my backend and security expertise to help build the next generation of crypto‑enabled APIs.",
     "scored_at": "2026-08-30T08:46:05.339Z"
+  },
+  {
+    "job_id": "aac4180fc55ac959",
+    "title": "Fullstack Engineer, Privy",
+    "company": "stripe",
+    "location": "NYC-Privy, US-Remote ",
+    "url": "https://stripe.com/jobs/search?gh_jid=7091959",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Privy&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Our mission is to make privacy and user ownership the default online. To do so, we build simple, flexible APIs and tools for developers that make it easy to build new products on crypto rails.&lt;/p&gt; &lt;p&gt;Privy owns the abstractions and infrastructure layer above wallets, integrating across chains, third-party providers, and Stripe products like Treasury and Link. We get to solve hard technical problems while leveraging Stripe&#39;s distribution to reach customers like Ramp, Klarna, Deel, Kraken, Hyperliquid, and Fomo — powering experiences for both mainstream users and crypto natives.&lt;/p&gt; &lt;p&gt;Learn more about Privy:&amp;nbsp;&lt;a class=&quot; Link &quot; href=&quot;https://privy.io/blog/announcing-our-acquisition-by-stripe&quot; data-js-controller=&quot;AnalyticsButton&quot; data-analytics-category=&quot;Links&quot; data-analytics-action=&quot;Clicked&quot; data-analytics-label=&quot;Related content&quot;&gt;Privy and Stripe: Bringing crypto to everyone&lt;/a&gt;&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:38:39-04:00",
+    "fit_score": 40,
+    "reasoning": "The candidate has strong backend experience with Java, Spring Boot, and cloud platforms, which aligns with building robust APIs. However, the role emphasizes full‑stack web development, crypto‑focused privacy solutions, and likely JavaScript/React expertise that are not highlighted in the resume. Consequently, the match is moderate but missing key domain and front‑end skills.",
+    "cover_letter_opener": "I’m excited to bring my backend expertise and cloud‑native mindset to Privy’s mission of building privacy‑first crypto APIs at Stripe.",
+    "scored_at": "2026-08-30T14:11:10.284Z"
   },
   {
     "job_id": "420e031b86ad49f8",
