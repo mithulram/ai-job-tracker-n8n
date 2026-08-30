@@ -1,5 +1,19 @@
 [
   {
+    "job_id": "15ae7f557e4ce678",
+    "title": "Full Stack Engineer, Growth",
+    "company": "stripe",
+    "location": "Singapore",
+    "url": "https://stripe.com/jobs/search?gh_jid=7964956",
+    "description": "&lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world&#39;s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;About the team&lt;/h3&gt; &lt;p&gt;Our Growth team is on a mission to acquire, convert, and grow millions of merchants globally across the full Stripe suite of financial products. We&#39;re a cross-functional team of engineers, scientists, marketers, designers, and product managers that deliver the insights, algorithms, internal systems and tools, and user-facing experiences that fuel our growth. We help businesses around the world find Stripe, get started, and grow.&lt;/p&gt; &lt;p&gt;As part of the Growth Engineering team, you&#39;ll build the systems, products, internal tools, and customer-f",
+    "source": "greenhouse",
+    "posted_at": "2026-08-30T11:19:44-04:00",
+    "fit_score": 35,
+    "reasoning": "The candidate brings solid backend experience with Java, Spring Boot, and cloud platforms, which aligns with full‑stack development needs. However, they lack direct fintech or growth‑focused product experience and are based in Germany while the role is in Singapore, reducing overall suitability.",
+    "cover_letter_opener": "I am thrilled by Stripe’s mission to expand the internet economy and eager to contribute my cloud‑native backend expertise to drive growth for your global payment platform.",
+    "scored_at": "2026-08-30T18:20:21.915Z"
+  },
+  {
     "job_id": "22a453c5f7d3092c",
     "title": "Engineering Manager, Product and Business",
     "company": "stripe",
@@ -250,6 +264,20 @@
     "reasoning": "The candidate's background is heavily technical, focusing on backend development, cloud architecture, and automotive cybersecurity, which does not align with the customer-facing, support-oriented responsibilities of an Enterprise Support Specialist. Additionally, the resume lacks Mandarin language proficiency and experience in financial services, both critical for this Stripe role in Singapore. However, the candidate's cloud and API experience could be tangentially relevant, keeping the score above zero.",
     "cover_letter_opener": "I am excited to bring my strong cloud and backend expertise to Stripe’s Enterprise Support team, eager to help merchants worldwide succeed!",
     "scored_at": "2026-08-30T08:46:05.335Z"
+  },
+  {
+    "job_id": "f8ca53279a26c0fa",
+    "title": "Head of Marketing, Southeast Asia",
+    "company": "stripe",
+    "location": "Singapore",
+    "url": "https://stripe.com/jobs/search?gh_jid=8059299",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world&#39;s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Our APAC Marketing mission is to engage priority audiences through impactful and relevant marketing campaigns and events, to drive growth in adoption of Stripe&#39;s solution offerings across the region. Our South East Asia (SEA) Marketing mission is to partner closely with the Go-To-Market (GTM) organization—including Sales, Sales Development, Solutions Architects, Partnerships, and Policy teams—to accelerate Stripe&#39;s growth across SEA&#39;s diverse and fast-growing mar",
+    "source": "greenhouse",
+    "posted_at": "2026-08-26T21:13:22-04:00",
+    "fit_score": 5,
+    "reasoning": "The candidate's background is focused on software engineering, cloud infrastructure, and AI, with no demonstrated experience in marketing, branding, or regional market strategy. Additionally, the role requires leadership in Southeast Asian markets, which does not align with the candidate's current academic and technical focus in Germany. Therefore, the resume is a poor match for this Head of Marketing position.",
+    "cover_letter_opener": "I am thrilled at the prospect of contributing to Stripe's mission by driving innovative growth strategies across Southeast Asia.",
+    "scored_at": "2026-08-30T18:20:21.931Z"
   },
   {
     "job_id": "7d7ae71d99445546",
@@ -1120,6 +1148,20 @@
     "scored_at": "2026-08-25T11:51:33.454Z"
   },
   {
+    "job_id": "f8c60b90cec6c2ab",
+    "title": "Full Stack Software Engineer, Brazil",
+    "company": "stripe",
+    "location": "Sao Paulo",
+    "url": "https://stripe.com/jobs/search?gh_jid=7895284",
+    "description": "&lt;h2&gt;Who we are&lt;/h2&gt; &lt;h2&gt;About Stripe&lt;/h2&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world&#39;s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;h2&gt;About the team&lt;/h2&gt; &lt;p&gt;The Global Payments Experiences group is an organization focused on bringing new and novel payment methods to Stripe, and ensuring Stripe&#39;s systems work well for merchants globally. This team works with internal and external partners to expand regional, non-card payment options, and to expand the use of Stripe&#39;s payments processing globally.&lt;/p&gt; &lt;h2&gt;What you&#39;ll do&lt;/h2&gt; &lt;p&gt;This is a São Paulo-based team, with platform teams in the US and Europe and sister teams worldwide. This team in particular will build and maintain new pa",
+    "source": "greenhouse",
+    "posted_at": "2026-08-20T16:14:48-04:00",
+    "fit_score": 20,
+    "reasoning": "The candidate has strong Java and cloud experience but lacks direct experience with Stripe's typical full‑stack technologies and is based in Germany while the role is in Brazil. Additionally, the candidate is seeking part‑time/werkstudent positions and aims for AI architect roles, which do not align with a full‑time full‑stack engineering position at Stripe.",
+    "cover_letter_opener": "I am excited to bring my backend and cloud expertise to Stripe’s innovative payment platform and contribute to its mission of expanding the internet’s economy.",
+    "scored_at": "2026-08-30T18:20:21.924Z"
+  },
+  {
     "job_id": "c8c5d93f32be830d",
     "title": "Business Systems Architect (Tax)",
     "company": "stripe",
@@ -1218,6 +1260,34 @@
     "scored_at": "2026-08-26T03:48:45.132Z"
   },
   {
+    "job_id": "ab42ad94c1f34339",
+    "title": "Head of Enterprise Solutions Architecture Platforms",
+    "company": "stripe",
+    "location": "San Francisco, CA",
+    "url": "https://stripe.com/jobs/search?gh_jid=7915144",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who We Are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About The Team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;The Solutions Architecture Team partners with our users to realize their full potential through the adoption of prescriptive solutions that drive their growth and success.&lt;/p&gt; &lt;p&gt;We work with C-level executives, finance leaders, product design and engineering teams at global brands and platforms who are building financial services solutions with Stripe. Our SA team works closely with Account Executives, Professional Services, Customer Success Managers, Partners, Technica",
+    "source": "greenhouse",
+    "posted_at": "2026-08-20T11:40:39-04:00",
+    "fit_score": 25,
+    "reasoning": "The candidate has solid backend and cloud experience with Azure, Java, and Python, which aligns partially with an architecture role. However, the position is a senior leadership role at Stripe focused on enterprise payments platforms, requiring extensive enterprise architecture, payments domain expertise, and proven leadership, which the candidate does not yet possess. Additionally, the candidate is still a student seeking part‑time work, further reducing fit for a head‑level position.",
+    "cover_letter_opener": "I am thrilled by Stripe’s mission to power the global economy and eager to bring my cloud‑focused engineering expertise to help shape the next generation of enterprise solutions!",
+    "scored_at": "2026-08-30T18:20:21.930Z"
+  },
+  {
+    "job_id": "c5f63dd361d588df",
+    "title": "Global Head of Specialist Solutions Architecture, Billing",
+    "company": "stripe",
+    "location": "SF",
+    "url": "https://stripe.com/jobs/search?gh_jid=7523947",
+    "description": "&lt;h1&gt;&lt;strong&gt;Who We Are&lt;/strong&gt;&lt;/h1&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world&#39;s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About The Team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;The Specialist Solutions Architecture (Revenue Suite) team is dedicated to being trusted partners to Stripe customers, partners, and product/engineering teams. We focus on understanding our customers&#39; needs and helping them achieve their business goals through our suite of revenue management solutions. Our team develops shared visions, establishes joint accountability, and prioritizes long-term success for our customers. We recognize that every customer&#39;s success inc",
+    "source": "greenhouse",
+    "posted_at": "2026-08-20T11:39:20-04:00",
+    "fit_score": 20,
+    "reasoning": "The candidate has solid backend and cloud experience with Java, Spring Boot, and Azure, but the role is a senior global leadership position focused on billing solutions at Stripe, requiring extensive payments architecture and management experience which the resume does not demonstrate. Additionally, the candidate is seeking a part‑time student role in Germany, whereas the job is a full‑time senior role based in San Francisco.",
+    "cover_letter_opener": "I am excited about the opportunity to bring my cloud‑native architecture expertise to Stripe’s billing platform and help drive innovative payment solutions worldwide.",
+    "scored_at": "2026-08-30T18:20:21.925Z"
+  },
+  {
     "job_id": "66d1afc553fef84f",
     "title": "Commercial Account Executive - DACH",
     "company": "gitlab",
@@ -1286,6 +1356,20 @@
     "reasoning": "The candidate’s background is heavily technical, focusing on software development, cloud, and AI, with no demonstrated sales or account management experience. Additionally, the candidate is based in Germany and seeking part‑time roles, while the position is a full‑time sales role in Singapore, leading to a poor overall match.",
     "cover_letter_opener": "I am thrilled by the opportunity to help Stripe accelerate growth across Southeast Asia by leveraging my passion for technology and customer success.",
     "scored_at": "2026-08-29T16:26:01.623Z"
+  },
+  {
+    "job_id": "d03c7fb9b9de2edc",
+    "title": "Head of AEO & SEO",
+    "company": "stripe",
+    "location": "US Remote; Chicago, Atlanta, Canada",
+    "url": "https://stripe.com/jobs/search?gh_jid=8128634",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are &lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/span&gt;&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Growth Marketing is a team of performance-driven marketers and channel specialists. We partner closely with growth product, regional and demand marketing, and sales to drive revenue through self-serve and sales motions. The SEO &amp;amp; AEO function specifically drives organic discovery ensuring Stripe is found, cited, and recommended when developers, founders, and finance leaders are searching for or asking abou",
+    "source": "greenhouse",
+    "posted_at": "2026-08-19T17:04:27-04:00",
+    "fit_score": 15,
+    "reasoning": "The candidate has strong backend and cloud engineering experience but lacks senior leadership, SEO, and e‑commerce expertise required for a Head of AEO & SEO role. Additionally, the position is senior and US‑based while the candidate seeks a part‑time student role in Germany, resulting in a poor overall match.",
+    "cover_letter_opener": "I am excited about the opportunity to bring my cloud‑native development expertise to Stripe’s innovative AEO & SEO initiatives and help drive the next wave of internet commerce.",
+    "scored_at": "2026-08-30T18:20:21.929Z"
   },
   {
     "job_id": "46deeb6ef0181332",
@@ -1596,6 +1680,20 @@
     "scored_at": "2026-08-30T14:11:10.283Z"
   },
   {
+    "job_id": "6c26c9b5ad2718bb",
+    "title": "Full Stack Engineer, Web Presence and Platform",
+    "company": "stripe",
+    "location": "N/A",
+    "url": "https://stripe.com/jobs/search?gh_jid=7436086",
+    "description": "&lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world&#39;s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;About the team&lt;/h3&gt; &lt;p&gt;Web Presence and Platform (WPP) is organized into two pillars, each of which is grouped into pods that focus on the central tenets of Stripe&#39;s public mission. The Presence pillar creates industry-leading designs for Stripe&#39;s front door surfaces, educates customers about the power of our platform, and drives our business success. The Platform pillar builds the internal machinery that powers these surfaces, and is responsible for making our websites fast, stable, and easy to modify.&lt;/p&gt; &lt;p&gt;WPP offers exciting opportunities to have a major imp",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:59:41-04:00",
+    "fit_score": 55,
+    "reasoning": "The candidate has solid backend experience with Java, Spring Boot, and cloud platforms, which aligns with Stripe's need for robust server-side engineering. However, the resume lacks explicit front‑end web technologies and payment‑system experience typically required for a Full Stack Engineer at Stripe, reducing overall fit. The candidate’s interest in part‑time roles and AI focus also diverges from the core responsibilities.",
+    "cover_letter_opener": "I am excited to bring my strong Java and cloud engineering background to Stripe’s Web Presence and Platform team, helping build the next generation of internet‑scale payment experiences.",
+    "scored_at": "2026-08-30T18:20:21.918Z"
+  },
+  {
     "job_id": "bac0c4c438f1750c",
     "title": "Forward Deployed Engineer, Professional Services",
     "company": "stripe",
@@ -1764,6 +1862,20 @@
     "scored_at": "2026-08-30T14:11:10.275Z"
   },
   {
+    "job_id": "bd1086ffb593e019",
+    "title": "Head of Self-Serve Paid Media",
+    "company": "stripe",
+    "location": "San Francisco, New York, Seattle, Chicago, Atlanta, Remote in the US, Toronto, Remote in Canada",
+    "url": "https://stripe.com/jobs/search?gh_jid=8068521",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are &lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/span&gt;&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe&#39;s growth marketing team is responsible for driving efficient acquisition and activation of millions of businesses globally from solo founders to scaling startups. Paid media is a critical pillar of our self-serve acquisition strategy. The paid media team manages significant investment across search, social, video and other channels to acquire developers, founders, and operators who will build on Stripe.",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:38:47-04:00",
+    "fit_score": 12,
+    "reasoning": "The candidate's background is focused on software engineering, cloud infrastructure, and emerging AI roles, while the Head of Self-Serve Paid Media position requires deep expertise in paid media strategy, product leadership, and marketing analytics. Additionally, the candidate is seeking a part‑time or entry‑level role in Germany, which does not align with the senior, full‑time, US‑centric responsibilities of the Stripe role.",
+    "cover_letter_opener": "I’m thrilled by Stripe’s mission to power the internet economy and eager to bring my cloud‑native engineering expertise to help scale your self‑serve paid‑media platform.",
+    "scored_at": "2026-08-30T18:20:21.933Z"
+  },
+  {
     "job_id": "7e8ff84ee516d695",
     "title": "Credit Risk Strategy and Analytics",
     "company": "stripe",
@@ -1792,6 +1904,48 @@
     "scored_at": "2026-08-29T22:59:41.517Z"
   },
   {
+    "job_id": "f2af62ad58f6ab15",
+    "title": "Full Stack Engineer, Support Experience (Greater China Support)",
+    "company": "stripe",
+    "location": "US",
+    "url": "https://stripe.com/jobs/search?gh_jid=8039548",
+    "description": "&lt;h2&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies — from the world&#39;s largest enterprises to the most ambitious startups — use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;About the Organization&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Support Experience Engineering builds the technology that powers Stripe&#39;s global support operations. Our engineers create the systems and services that support agents worldwide rely on every day to resolve issues for Stripe&#39;s millions of merchants and users — at scale, in real time, and across a growing range of channels and offerings.&lt;/p&gt; &lt;p&gt;The Case Resolution Platform team owns the core infrastructure and tooling that enables support agents around the world to do their best work. This includes case r",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:38:45-04:00",
+    "fit_score": 30,
+    "reasoning": "The candidate has strong backend development experience with Java and Spring Boot, which aligns with full‑stack engineering requirements, but lacks direct experience in payment processing, Chinese market support, and the specific tech stack Stripe typically uses. Additionally, the candidate is seeking a part‑time role in Germany while the position is US‑based and focuses on Greater China support, creating a significant location and domain mismatch.",
+    "cover_letter_opener": "I am excited about the opportunity to bring my Java and cloud expertise to Stripe’s innovative payment platform and help empower businesses worldwide.",
+    "scored_at": "2026-08-30T18:20:21.917Z"
+  },
+  {
+    "job_id": "87572c06499b3763",
+    "title": "Growth Engineer",
+    "company": "stripe",
+    "location": "New York, NY",
+    "url": "https://stripe.com/jobs/search?gh_jid=8008880",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe, LLC. is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Work with engineers, designers, and product managers to design and build highly scalable and secure consumer experiences that process billions of dollars per year&lt;/li&gt; &lt;li&gt;Design and build APIs, services, systems and experiments that evaluate the effectiveness of new and existing product features against critical business metrics&lt;/li&gt; &lt;li&gt;Coach and mentor junior engin",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:38:45-04:00",
+    "fit_score": 35,
+    "reasoning": "The candidate has solid backend development experience with Java, Spring Boot, and cloud platforms, which aligns with the technical foundation of a Growth Engineer role. However, they lack direct experience in payment systems, growth analytics, and are based in Germany while the position is in New York, reducing overall relevance. Their career focus on AI solutions also diverges from Stripe's growth engineering priorities.",
+    "cover_letter_opener": "I am excited to bring my strong backend and cloud expertise to Stripe’s Growth Engineering team to help accelerate the internet’s GDP.",
+    "scored_at": "2026-08-30T18:20:21.926Z"
+  },
+  {
+    "job_id": "a31f25bfec1aa2fd",
+    "title": "Head of Market Intelligence, Product Marketing",
+    "company": "stripe",
+    "location": "SF, Seattle, NYC, Chicago, Remote in the US",
+    "url": "https://stripe.com/jobs/search?gh_jid=8036235",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are &lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world&#39;s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Our Product Marketing team generates customer insights that shape Stripe&#39;s product strategy and leads go-to-market across our suite of products. It&#39;s a highly cross-functional role—we partner closely with Product, Engineering, Sales, Partnerships, and Demand Generation, and we work across the entire product lifecycle: from helping shape what we build, to driving launch and commercialization, to growing adoption post-launch.&lt;/p&gt; &lt;p&gt;Market Intelligence is ",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:38:45-04:00",
+    "fit_score": 12,
+    "reasoning": "The candidate's background is heavily technical, focusing on software development, cloud infrastructure, and AI solutions, with no evident experience in market intelligence, product marketing, or strategic analysis. Additionally, the role is a senior leadership position requiring expertise in market research and product positioning, which does not align with the candidate's current career goals of engineering roles. Consequently, the resume matches the job requirements only minimally.",
+    "cover_letter_opener": "I’m thrilled by Stripe’s mission to expand the internet’s GDP and eager to bring my analytical mindset to help shape market intelligence for your groundbreaking products.",
+    "scored_at": "2026-08-30T18:20:21.932Z"
+  },
+  {
     "job_id": "b280df97fb7c6a08",
     "title": "Finance & Strategy Partner, Central Engineering",
     "company": "stripe",
@@ -1804,6 +1958,20 @@
     "reasoning": "The candidate’s experience is heavily focused on software development, automotive cybersecurity, and cloud infrastructure, while the role is centered on finance strategy and partnership within engineering. There is little evidence of financial analysis, strategic planning, or stakeholder management experience required for the position. However, the strong technical background could provide useful perspective on engineering initiatives at Stripe.",
     "cover_letter_opener": "I am excited to bring my technical expertise and passion for innovative financial infrastructure to Stripe’s Finance & Strategy Partner team.",
     "scored_at": "2026-08-30T08:46:05.336Z"
+  },
+  {
+    "job_id": "8260b5d3e3577a77",
+    "title": "GTM Operations Process Architect",
+    "company": "stripe",
+    "location": "US Remote National",
+    "url": "https://stripe.com/jobs/search?gh_jid=7993610",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are &lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/span&gt;&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;The Go-to-Market (GTM) Planning Strategy and Operations team works at the intersection of corporate planning, GTM Strategy, Product, GTM and Regional Strategy and Operations with responsibility for ensuring that we land the Stripe annual rhythm in a smooth and timely manner. This entails three main pillars:&lt;/p&gt; &lt;p&gt;• Building and landing foundations (tooling, process, and strategic changes) for next cyc",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:38:44-04:00",
+    "fit_score": 30,
+    "reasoning": "The candidate’s strong technical background in Java, Spring Boot, cloud (Azure) and cybersecurity does not align closely with the GTM Operations Process Architect role, which focuses on go‑to‑market strategy, process design, and operational analytics rather than software development. Additionally, the candidate is based in Germany and seeking part‑time student work, while the position is a full‑time remote role for the US market.",
+    "cover_letter_opener": "I am excited about the opportunity to bring my analytical mindset and cloud‑savvy engineering experience to Stripe’s GTM Operations team and help shape efficient, data‑driven processes.",
+    "scored_at": "2026-08-30T18:20:21.927Z"
   },
   {
     "job_id": "3f8238a3fa79f1b1",
