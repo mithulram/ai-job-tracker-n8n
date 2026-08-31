@@ -1274,6 +1274,20 @@
     "scored_at": "2026-08-26T03:48:45.132Z"
   },
   {
+    "job_id": "cdc6b8f3af21b618",
+    "title": "Manager, Solution Architecture Platforms",
+    "company": "stripe",
+    "location": "South San Francisco, CA , New York, NY",
+    "url": "https://stripe.com/jobs/search?gh_jid=8104302",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who We Are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About The Team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;The Platforms Solutions Architecture Team partners with our users to realize their full potential through the adoption of prescriptive solutions that drive their growth and success.&lt;/p&gt; &lt;p&gt;We work with C-level executives, finance leaders, product design and engineering teams at global brands and platforms who are building financial services solutions with Stripe. Our SA team works closely with Account Executives, Professional Services, Customer Success Managers, Partners",
+    "source": "greenhouse",
+    "posted_at": "2026-08-20T11:45:13-04:00",
+    "fit_score": 35,
+    "reasoning": "The candidate demonstrates solid backend development and cloud expertise with Spring Boot, Azure, and Python, which are relevant to solution architecture. However, they lack direct experience in payments, senior managerial responsibilities, and are based in Germany while the role targets the US market. Consequently, the overall alignment with Stripe's Manager, Solution Architecture Platforms position is limited.",
+    "cover_letter_opener": "I am excited about the opportunity to bring my cloud‑focused backend expertise to Stripe’s innovative platform and help shape the future of internet payments.",
+    "scored_at": "2026-08-31T02:31:53.989Z"
+  },
+  {
     "job_id": "ab42ad94c1f34339",
     "title": "Head of Enterprise Solutions Architecture Platforms",
     "company": "stripe",
@@ -1398,6 +1412,20 @@
     "reasoning": "The candidate has strong technical experience in AI‑related cloud and backend development, but the role is a senior sales position requiring account management and revenue generation expertise, which is not demonstrated in the resume. Additionally, the candidate is based in Germany and seeking part‑time roles, while the posting targets a full‑time strategic executive in the US.",
     "cover_letter_opener": "I am thrilled to apply my AI‑focused cloud engineering background to help GitLab’s customers accelerate their digital transformation as a Strategic Account Executive.",
     "scored_at": "2026-08-29T04:55:20.231Z"
+  },
+  {
+    "job_id": "03d1827e7be90724",
+    "title": "Partner Solutions Architect - Commerce Partners",
+    "company": "stripe",
+    "location": "Chicago, Atlanta, Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8140581",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are &lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;As a member of the Partner Solutions Architecture (PSA) team, you will be responsible for providing technical guidance to Stripe&#39;s partners. Our goal is to drive growth through co-solutioning, education, and enablement with our partner ecosystem. You&#39;ll serve as a critical technical liaison to Stripe&#39;s Partner Development Managers, creating comprehensive technical business plans that identify, incubate, and bring to market service and solutio",
+    "source": "greenhouse",
+    "posted_at": "2026-08-19T12:50:31-04:00",
+    "fit_score": 55,
+    "reasoning": "The candidate brings solid backend development and cloud architecture experience with Java, Spring Boot, and Azure, which aligns with the technical depth required for a Solutions Architect role. However, they lack direct experience in payments, Stripe's ecosystem, and partner integration, which are core to the Commerce Partners focus. Their career goal toward AI and cloud engineering shows potential but may need more domain-specific exposure to be a strong match.",
+    "cover_letter_opener": "I am excited to leverage my cloud‑native backend expertise to help Stripe’s commerce partners innovate and scale their payment solutions worldwide.",
+    "scored_at": "2026-08-31T02:31:53.998Z"
   },
   {
     "job_id": "e8ea1f0e5802e972",
@@ -1580,6 +1608,20 @@
     "reasoning": "The candidate has strong backend and cloud engineering experience and Python knowledge, but lacks explicit machine‑learning or data‑science expertise required for a ML Engineer role. Additionally, the candidate is seeking part‑time work in Germany, while the position is a full‑time role in Toronto, further reducing fit.",
     "cover_letter_opener": "I am excited to bring my cloud‑native backend expertise and passion for AI to Stripe’s Machine Learning Engineer team, helping power innovative financial solutions.",
     "scored_at": "2026-08-30T23:05:14.606Z"
+  },
+  {
+    "job_id": "1cbcd6cdde15a4d5",
+    "title": "ML Engineer Manager, AI Conversation Platform",
+    "company": "stripe",
+    "location": "Toronto, Canada",
+    "url": "https://stripe.com/jobs/search?gh_jid=8022713",
+    "description": "&lt;h2&gt;&lt;strong&gt;Engineering Manager, AI Conversation Platform&lt;/strong&gt;&lt;/h2&gt; &lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;The newly formed Conversation Platform team aims to build a conversation platform for all merchants who use Stripe. We are doing so by (a) automating the easy tasks, and (b) assisting our users in the difficult tasks. Some examples include customizing the Stripe landing page to suggest bespoke integrations, allowing users to command the Stripe API in natural language, and resolving user i",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:59:42-04:00",
+    "fit_score": 20,
+    "reasoning": "The candidate has solid backend and cloud engineering experience but lacks direct machine‑learning, AI conversation platform, and people‑management background required for an ML Engineer Manager role. Additionally, the candidate is based in Germany and seeking part‑time work, while the position is a full‑time managerial role in Toronto. However, their cloud and software architecture skills could provide a foundation for future AI‑focused roles.",
+    "cover_letter_opener": "I am excited about the opportunity to bring my strong cloud‑native backend expertise to Stripe’s AI Conversation Platform and help shape the next generation of intelligent payment experiences.",
+    "scored_at": "2026-08-31T02:31:53.991Z"
   },
   {
     "job_id": "fa076fabc64eea75",
@@ -1806,6 +1848,20 @@
     "scored_at": "2026-08-30T02:37:31.118Z"
   },
   {
+    "job_id": "e9531e90520f791c",
+    "title": "Mobile Engineer, Treasury",
+    "company": "stripe",
+    "location": "United Kingdom",
+    "url": "https://stripe.com/jobs/search?gh_jid=7978915",
+    "description": "&lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world&#39;s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;About the team&lt;/h3&gt; &lt;p&gt;The Direct Surfaces Team&#39;s mission is to make it delightful for users to manage their money. We&#39;re rebuilding and unbundling the core of Stripe so that no matter what the business, the location, or the use case there is a single place that can fulfill all financial needs: Stripe Treasury. This is a 0 → 1 new business at Stripe, so if that sounds exciting we&#39;d love to hear from you.&lt;/p&gt; &lt;h2&gt;What you&#39;ll do&lt;/h2&gt; &lt;p&gt;Engineers at Stripe are comfortable working on new products under fluid conditions, seamlessly balancing tacti",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:57:24-04:00",
+    "fit_score": 45,
+    "reasoning": "The candidate has strong mobile development experience with Flutter and backend skills that align with a Mobile Engineer role, but lacks specific fintech or treasury domain experience and is based in Germany seeking part‑time work, while Stripe’s position is full‑time in the UK. Additionally, the candidate’s career focus on AI solutions architecture diverges from the core responsibilities of the role, reducing overall fit.",
+    "cover_letter_opener": "I’m excited to bring my Flutter and backend expertise to Stripe’s Mobile Engineering team and help power innovative treasury solutions for businesses worldwide!",
+    "scored_at": "2026-08-31T02:31:53.992Z"
+  },
+  {
     "job_id": "66124bd1c2e98779",
     "title": "Engineering Manager, Operator Tooling",
     "company": "stripe",
@@ -1902,6 +1958,20 @@
     "reasoning": "The candidate has strong backend experience with Java, Spring Boot, and cloud platforms, which aligns with full‑stack development needs. However, the resume lacks specific experience in payment systems, JavaScript/React, or Stripe’s ecosystem, which are likely critical for this role. The overall match is moderate, reflecting transferable skills but missing key domain expertise.",
     "cover_letter_opener": "I am thrilled to apply my full‑stack and cloud expertise to help Stripe’s Enterprise & Ecosystem team accelerate the internet’s economy!",
     "scored_at": "2026-08-30T14:11:10.281Z"
+  },
+  {
+    "job_id": "2149c20e350107f6",
+    "title": "Operations Program Manager, Tax",
+    "company": "stripe",
+    "location": "US Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8109426",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;The Tax Operations and Delivery team protects user trust by enabling accurate, reliable, and scalable tax operations supporting the TaxJar and Stripe Tax products. We partner closely with Product, Engineering, and cross-functional teams to solve operational challenges, support new capabilities, and continuously improve how tax operations are delivered.&amp;nbsp;&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;As our products, partnerships, and operational footprint continue to grow",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:38:48-04:00",
+    "fit_score": 15,
+    "reasoning": "The candidate’s background is focused on software development, cloud architecture, and AI, with no evident experience in tax, finance, or operations program management. While strong technical skills could be valuable, the role requires domain expertise and program‑management experience that are not demonstrated in the resume.",
+    "cover_letter_opener": "I’m excited about Stripe’s mission to expand the internet’s economy and eager to bring my technical and analytical strengths to help drive seamless tax operations as part of your team.",
+    "scored_at": "2026-08-31T02:31:53.993Z"
   },
   {
     "job_id": "9c539a96c63db635",
@@ -2030,6 +2100,20 @@
     "scored_at": "2026-08-29T22:59:41.517Z"
   },
   {
+    "job_id": "bc36fd359c8d07cb",
+    "title": "Machine Learning Engineering Manager - Fraud Detection",
+    "company": "stripe",
+    "location": "N/A",
+    "url": "https://stripe.com/jobs/search?gh_jid=8069506",
+    "description": "&lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Risk Detection is focused on providing a delightful experience for our merchants and minimizing friction, while ensuring the safety of our users in the financial ecosystem. Whenever the Risk team takes action on an account, we work to notify Merchants and provide clear status on what’s happening, enable guided workflows for resolving their issues, and redefine our overall Risk processes to make them as smooth as possible for good merchants.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;We’re looki",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:38:46-04:00",
+    "fit_score": 25,
+    "reasoning": "The candidate has solid backend and cloud experience with Python and Azure, which are relevant to building scalable ML services, but they lack direct machine learning, fraud detection, and leadership experience required for a Machine Learning Engineering Manager role. Additionally, the resume focuses on AI Solutions Architect aspirations rather than managing ML teams, resulting in a limited match to the senior, domain‑specific responsibilities at Stripe.",
+    "cover_letter_opener": "I am thrilled by Stripe's mission to secure the internet economy and eager to contribute my cloud engineering expertise to advance your cutting‑edge fraud detection initiatives.",
+    "scored_at": "2026-08-31T02:31:53.988Z"
+  },
+  {
     "job_id": "f2af62ad58f6ab15",
     "title": "Full Stack Engineer, Support Experience (Greater China Support)",
     "company": "stripe",
@@ -2070,6 +2154,20 @@
     "reasoning": "The candidate's background is heavily technical, focusing on software development, cloud infrastructure, and AI solutions, with no evident experience in market intelligence, product marketing, or strategic analysis. Additionally, the role is a senior leadership position requiring expertise in market research and product positioning, which does not align with the candidate's current career goals of engineering roles. Consequently, the resume matches the job requirements only minimally.",
     "cover_letter_opener": "I’m thrilled by Stripe’s mission to expand the internet’s GDP and eager to bring my analytical mindset to help shape market intelligence for your groundbreaking products.",
     "scored_at": "2026-08-30T18:20:21.932Z"
+  },
+  {
+    "job_id": "4f54704ac5bd299c",
+    "title": "Partner Solutions Architect, AI Partnerships",
+    "company": "stripe",
+    "location": "N/A",
+    "url": "https://stripe.com/jobs/search?gh_jid=8024033",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are &lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/span&gt;&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;As a member of the Partner Solutions Architecture (PSA) team, you&#39;ll be responsible for providing technical guidance to Stripe’s partners. Our goal is to drive growth through co-solutioning, education and enablement with our partner organisation. The right candidate will be a critical technical liaison to the Stripe Partner Development Manager. This will involve creating comprehensive technical business plans ",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:38:45-04:00",
+    "fit_score": 45,
+    "reasoning": "The candidate has strong cloud and backend architecture experience with Azure and Spring Boot, which aligns with the solution‑architect aspects of the role. However, they lack direct AI/LLM or partnership development experience that Stripe’s AI Partnerships team typically requires, resulting in a moderate fit.",
+    "cover_letter_opener": "I am excited to bring my cloud architecture expertise and passion for AI integration to Stripe’s Partner Solutions Architect team!",
+    "scored_at": "2026-08-31T02:31:53.995Z"
   },
   {
     "job_id": "b280df97fb7c6a08",
@@ -2142,6 +2240,34 @@
     "scored_at": "2026-08-30T02:37:31.127Z"
   },
   {
+    "job_id": "bc034187afe4632b",
+    "title": "Partner Solutions Architect - Billing",
+    "company": "stripe",
+    "location": "USA ",
+    "url": "https://stripe.com/jobs/search?gh_jid=7927330",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who We Are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;strong&gt;&lt;br&gt;&lt;/strong&gt;As a member of the Partner Solutions Architecture (PSA) team, you will be responsible for providing technical guidance to Stripe’s partners. Our goal is to drive growth through co-solutioning, education and enablement with our partner organization. The right candidate will be a critical technical liaison to the Stripe Partner Development Manager. This will involve creating comprehensive technical business plans for Partners, including identifying, incubating and bri",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:38:43-04:00",
+    "fit_score": 30,
+    "reasoning": "The candidate possesses solid backend and cloud engineering experience with Java, Spring Boot, Azure, and REST APIs, which are relevant to a solutions architect role. However, they lack specific billing, payments, or Stripe platform experience and are seeking a part-time role in Germany, while the position is a full-time US‑based partner architect focused on billing. Consequently, the overall fit is limited.",
+    "cover_letter_opener": "I am excited to bring my cloud‑native backend expertise to Stripe’s Partner Solutions Architect team and help power the future of online billing.",
+    "scored_at": "2026-08-31T02:31:53.997Z"
+  },
+  {
+    "job_id": "03da9ead662f6d14",
+    "title": "Partner Solutions Architect, Technology Partnerships",
+    "company": "stripe",
+    "location": "United States",
+    "url": "https://stripe.com/jobs/search?gh_jid=7964568",
+    "description": "&lt;h1&gt;Partner Solutions Architect, Technology Partners&lt;/h1&gt; &lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world&#39;s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;About the team&lt;/h3&gt; &lt;p&gt;As a member of the Partner Solutions Architecture (PSA) team, you&#39;ll be responsible for providing technical guidance to Stripe&#39;s technology partners. Our goal is to drive growth through co-solutioning, education, and enablement with our partner organization. The right candidate will be a technical liaison to the Stripe Partner Development Manager. This will involve creating technical business plans for technology partners, including identifying, incubating, and bringing to market ser",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:38:43-04:00",
+    "fit_score": 35,
+    "reasoning": "The candidate demonstrates solid backend and cloud engineering skills with Java, Spring Boot, and Azure, which are relevant to a solutions architect role. However, they lack direct experience with payments platforms, Stripe's ecosystem, and partnership-focused architecture, and they are seeking a part‑time position in Germany rather than a full‑time US role. These gaps reduce the overall alignment with the Partner Solutions Architect position.",
+    "cover_letter_opener": "I am excited about Stripe’s mission to expand the internet economy and eager to bring my cloud‑native backend expertise to help build innovative partnership solutions.",
+    "scored_at": "2026-08-31T02:31:54.000Z"
+  },
+  {
     "job_id": "aac91e5f7b1d5138",
     "title": "Cloud Security Engineer",
     "company": "stripe",
@@ -2182,6 +2308,20 @@
     "reasoning": "The candidate’s background is heavily technical, focusing on software development, cloud infrastructure, and AI, with no demonstrated sales or account management experience. Additionally, the candidate is based in Germany and seeking part‑time roles, while the Stripe position is a full‑time enterprise sales role in the United States.",
     "cover_letter_opener": "I’m thrilled by Stripe’s mission to grow the internet economy and eager to leverage my technical expertise to help enterprise customers succeed with your platform.",
     "scored_at": "2026-08-29T12:02:59.374Z"
+  },
+  {
+    "job_id": "0964a0436cb7a804",
+    "title": "Partner Solutions Architect - AWS",
+    "company": "stripe",
+    "location": "New York",
+    "url": "https://stripe.com/jobs/search?gh_jid=7607761",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h2&gt;About Stripe&lt;/h2&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world&#39;s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;h2&gt;About the team&lt;/h2&gt; &lt;p&gt;As a member of the Partner Solutions Architecture (PSA) team, you will be responsible for providing technical guidance to Stripe&#39;s partners. Our goal is to drive growth through co-solutioning, education, and enablement with our partner ecosystem. You&#39;ll serve as a critical technical liaison to Stripe&#39;s Partner Development Managers, creating comprehensive technical business plans that identify, incubate, and bring to market service and solution offerings built on or with Stripe. A Partner Solutions Architect at Stripe is",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:38:41-04:00",
+    "fit_score": 35,
+    "reasoning": "The candidate has solid backend and cloud development experience, especially with Java, Spring Boot, and Azure, but lacks direct AWS expertise and payments industry exposure required for a Partner Solutions Architect at Stripe. Additionally, the candidate is currently a student in Germany seeking part‑time roles, which misaligns with the full‑time New York position.",
+    "cover_letter_opener": "I’m excited to bring my cloud architecture background and passion for innovative financial solutions to Stripe’s Partner Solutions team.",
+    "scored_at": "2026-08-31T02:31:53.996Z"
   },
   {
     "job_id": "9b6ef76f1594ab85",
@@ -2352,6 +2492,20 @@
     "scored_at": "2026-08-29T22:59:41.521Z"
   },
   {
+    "job_id": "9e1cb64b4ae538d7",
+    "title": "Partner Solutions Architect - LatAm",
+    "company": "stripe",
+    "location": "Mexico City",
+    "url": "https://stripe.com/jobs/search?gh_jid=7927324",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h2&gt;About Stripe&lt;/h2&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world&#39;s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;h2&gt;About the team&lt;/h2&gt; &lt;p&gt;As a member of the Partner Solutions Architecture (PSA) team, you will be responsible for providing technical guidance to Stripe&#39;s partners. Our goal is to drive growth through co-solutioning, education, and enablement with our partner ecosystem. You&#39;ll serve as a critical technical liaison to Stripe&#39;s Partner Development Managers, creating comprehensive technical business plans that identify, incubate, and bring to market service and solution offerings built on or with Stripe. A Partner Solutions Architect at Stripe is",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:37:24-04:00",
+    "fit_score": 35,
+    "reasoning": "The candidate has solid cloud and backend development experience with Azure and Java, which aligns with the technical aspects of a Solutions Architect role. However, they lack direct payments or Stripe-specific experience, partner integration background, and regional (LatAm) market knowledge, limiting the overall fit.",
+    "cover_letter_opener": "I am excited about the opportunity to help Stripe empower Latin American partners with cutting‑edge, cloud‑native solutions!",
+    "scored_at": "2026-08-31T02:31:53.999Z"
+  },
+  {
     "job_id": "981d49a2ceef75e3",
     "title": "Engineering Manager, APAC & EMEA Cards",
     "company": "stripe",
@@ -2392,6 +2546,20 @@
     "reasoning": "The candidate has solid backend and cloud experience but lacks senior leadership experience and direct payments domain expertise required for an Engineering Manager role. Additionally, the candidate is seeking part‑time work in Germany, whereas the position is a full‑time managerial role in Singapore, creating a significant location and commitment mismatch.",
     "cover_letter_opener": "I am thrilled by Stripe’s mission to expand the internet’s economy and eager to bring my cloud‑native backend expertise to help shape the future of global payments.",
     "scored_at": "2026-08-30T08:46:05.330Z"
+  },
+  {
+    "job_id": "3a508993b765c4ca",
+    "title": "Operations Associate, GTM Accelerate (Bangalore)",
+    "company": "stripe",
+    "location": "Bengaluru",
+    "url": "https://stripe.com/jobs/search?gh_jid=7780256",
+    "description": "&lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world&#39;s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;About the team&lt;/h3&gt; &lt;p&gt;The Professional Services team exists to drive the adoption of Stripe&#39;s capabilities across our user base, from Fortune 100s to high-growth startups. Within this group, the Accelerate team is responsible for the critical &quot;zero-to-one&quot; phase of the user journey. We partner with developers and technical leaders to ensure they deploy quickly, integrate with high quality, and derive strategic value from Stripe immediately.&lt;/p&gt; &lt;p&gt;Accelerate is Stripe&#39;s dedicated onboarding program designed to get users live fast and operationally read",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:37:21-04:00",
+    "fit_score": 20,
+    "reasoning": "The candidate's background is focused on software development, cloud architecture, and AI, while the Stripe role is an operations and go‑to‑market associate position that emphasizes business processes, analytics, and sales in Bangalore. The resume lacks relevant operations, GTM, or financial‑services experience and the candidate is seeking part‑time work in Germany, making the match weak.",
+    "cover_letter_opener": "I am excited about Stripe’s mission to increase the GDP of the internet and eager to contribute to the GTM Accelerate team’s success.",
+    "scored_at": "2026-08-31T02:31:53.993Z"
   },
   {
     "job_id": "5c4e1b1ca53c0fda",
