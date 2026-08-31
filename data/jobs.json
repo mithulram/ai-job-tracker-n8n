@@ -1,5 +1,19 @@
 [
   {
+    "job_id": "6f456cfed1bcb50b",
+    "title": "Staff Security Engineer, IAM",
+    "company": "gitlab",
+    "location": "Remote, Canada; Remote, United States",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8761409002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-08-31T09:32:09-04:00",
+    "fit_score": 35,
+    "reasoning": "The candidate’s background in cybersecurity research and cloud‑native development aligns with GitLab’s security focus, but the resume lacks direct IAM experience and senior‑level responsibilities required for a Staff Security Engineer. Additionally, the candidate is seeking a part‑time role in Germany, whereas the position is a full‑time remote role for Canada/US, further reducing the match.",
+    "cover_letter_opener": "I am excited to bring my automotive cybersecurity research and cloud‑native development expertise to GitLab’s Staff Security Engineer, IAM team, helping secure the platform for millions of users.",
+    "scored_at": "2026-08-31T18:32:03.479Z"
+  },
+  {
     "job_id": "8dfab1cacabf9644",
     "title": "Senior Backend Engineer (Ruby), AI Catalog: External Agents",
     "company": "gitlab",
@@ -152,6 +166,20 @@
     "reasoning": "The candidate's experience is focused on software development, cloud infrastructure, and AI integration, while the role is a senior managerial position overseeing renewal operations, which requires extensive experience in sales operations and leadership. Additionally, the candidate is seeking part‑time/werkstudent roles and is based in Germany, whereas the job is a senior full‑time remote role targeting Canada/US markets.",
     "cover_letter_opener": "I am thrilled to apply my cloud‑focused software engineering expertise and passion for AI‑enhanced productivity to help drive GitLab’s renewal operations forward.",
     "scored_at": "2026-08-28T23:50:44.806Z"
+  },
+  {
+    "job_id": "40d494d3f9b93ff6",
+    "title": "Program Manager, Card Network Office (Card Networks)",
+    "company": "stripe",
+    "location": "US-SF, US-NYC, US-Seattle, US-Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8081754",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are &lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/span&gt;&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;The Global Partner Engineering and Operations (PE&amp;amp;O) team is a vital part of Stripe’s Global Partnerships organization, playing a key role in our overall success. We manage the technical and operational dimensions of new and existing strategic product partnerships and programs. Positioned at the nexus of product development, engineering, and partnerships, we facilitate seamless collaboration essential for ",
+    "source": "greenhouse",
+    "posted_at": "2026-08-28T03:58:42-04:00",
+    "fit_score": 20,
+    "reasoning": "The candidate has solid software engineering and cloud expertise, but the role requires program management experience in card networks and payments, which is not demonstrated. Additionally, the candidate is based in Germany and seeking part‑time roles, while Stripe’s position is a full‑time US‑based program manager role.",
+    "cover_letter_opener": "I’m excited to bring my strong technical background and passion for innovative financial infrastructure to Stripe’s Card Network Office as a Program Manager.",
+    "scored_at": "2026-08-31T18:32:03.492Z"
   },
   {
     "job_id": "eff63a95020abe62",
@@ -698,6 +726,20 @@
     "reasoning": "The candidate has strong backend development experience with Java, Spring Boot, and cloud expertise in Azure, which aligns with the infrastructure focus of the SRE role. However, the resume lacks explicit SRE experience, such as site reliability practices, Kubernetes, CI/CD pipelines, and GitLab-specific tooling, limiting the overall match. The candidate’s interest in AI and cloud engineering shows potential to grow into the role with additional SRE training.",
     "cover_letter_opener": "I am excited to bring my cloud‑native backend expertise and passion for reliable, AI‑enhanced infrastructure to GitLab’s Site Reliability Engineering team.",
     "scored_at": "2026-08-28T14:47:29.600Z"
+  },
+  {
+    "job_id": "a327b2d367136888",
+    "title": "Product Manager, Sail Core",
+    "company": "stripe",
+    "location": "Toronto, New York, US - Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=7913698",
+    "description": "&lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world&#39;s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;About the team&lt;/h3&gt; &lt;p&gt;Sail Core builds Stripe&#39;s frontend platform—the data layer, navigation, observability, and developer tooling that 50+ product teams use to ship web applications, with the Dashboard being the largest. We are responsible for enabling a stellar developer experience for frontend engineers at Stripe. We&#39;re hiring a deeply technical product manager to own the platform strategy, drive cross-company modernization initiatives, and set the standard for frontend excellence at Stripe.&lt;/p&gt; &lt;h2&gt;What you&#39;ll do&lt;/h2&gt; &lt;p&gt;How should a platform",
+    "source": "greenhouse",
+    "posted_at": "2026-08-25T10:50:20-04:00",
+    "fit_score": 30,
+    "reasoning": "The candidate has solid software engineering experience with Java, Spring Boot, and cloud platforms, which aligns with Stripe’s technical environment, but lacks product management experience and domain knowledge in payments and financial services. Additionally, the resume focuses on AI and cybersecurity rather than product strategy, resulting in a modest fit.",
+    "cover_letter_opener": "I’m thrilled to apply for the Product Manager, Sail Core role at Stripe, where I can combine my technical expertise with a passion for building innovative payment solutions.",
+    "scored_at": "2026-08-31T18:32:03.485Z"
   },
   {
     "job_id": "24aba44a34baa4ff",
@@ -1442,6 +1484,20 @@
     "scored_at": "2026-08-29T04:55:20.231Z"
   },
   {
+    "job_id": "bce4793bb5be0ece",
+    "title": "Product Designer, Terminal",
+    "company": "stripe",
+    "location": "Toronto",
+    "url": "https://stripe.com/jobs/search?gh_jid=7925550",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;The Product Design team is made up of several groups that define, create, and deliver all user-facing aspects of Stripe’s brand and product. Product Designers are strategic partners to Engineering and Product Management within their product area. In close collaboration with product teams, they shape user experiences, then translate them into high-quality designs that can be tested, shipped, and refined. Designers are responsible for building elegant, functional products that users l",
+    "source": "greenhouse",
+    "posted_at": "2026-08-19T13:52:11-04:00",
+    "fit_score": 15,
+    "reasoning": "The candidate's background is heavily focused on backend and mobile development, cloud architecture, and AI, with no evident product design or UI/UX experience. Additionally, the role is a Product Designer position at Stripe in Toronto, while the candidate is seeking a software engineering role in Germany, leading to a poor match.",
+    "cover_letter_opener": "I’m thrilled by Stripe’s mission to power the internet economy and eager to bring my passion for creating seamless user experiences to the Terminal product team.",
+    "scored_at": "2026-08-31T18:32:03.482Z"
+  },
+  {
     "job_id": "03d1827e7be90724",
     "title": "Partner Solutions Architect - Commerce Partners",
     "company": "stripe",
@@ -1834,6 +1890,20 @@
     "scored_at": "2026-08-30T23:05:14.604Z"
   },
   {
+    "job_id": "681383dd0f0d30a7",
+    "title": "Product Designer, Stablecoin",
+    "company": "stripe",
+    "location": "Canada",
+    "url": "https://stripe.com/jobs/search?gh_jid=7663023",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;The Product Design team is composed of several teams that work together to help define, create, and deliver all user-facing aspects of the Stripe brand and product. Product Designers are strategic partners to Engineering and Product Management within a dedicated product area. In partnership with the product team, they help define the user-facing experiences our users encounter on Stripe products, then translate that thinking into a complete experience that can be tested, shipped, an",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:59:41-04:00",
+    "fit_score": 12,
+    "reasoning": "The candidate's background is focused on backend and mobile development, cloud infrastructure, and AI, with no evident product design or financial services experience. Additionally, the role is a Product Designer for stablecoins at Stripe in Canada, while the candidate seeks software engineering positions in Germany, leading to a poor match.",
+    "cover_letter_opener": "I am excited about Stripe’s mission to expand the internet economy and eager to contribute my technical expertise to the innovative stablecoin product team.",
+    "scored_at": "2026-08-31T18:32:03.480Z"
+  },
+  {
     "job_id": "bac0c4c438f1750c",
     "title": "Forward Deployed Engineer, Professional Services",
     "company": "stripe",
@@ -1860,6 +1930,34 @@
     "reasoning": "The candidate's experience is heavily focused on backend development, automotive cybersecurity, and cloud architecture, which does not align closely with the typical responsibilities of an IT Support Engineer. Additionally, the candidate is seeking part‑time roles in Germany, while the position is a full‑time role based in Dublin. However, their strong technical background and certifications could provide a foundation for learning support tasks quickly.",
     "cover_letter_opener": "I am excited about the opportunity to bring my strong technical expertise and passion for problem‑solving to Stripe’s IT Support Engineer team in Dublin!",
     "scored_at": "2026-08-30T23:05:14.605Z"
+  },
+  {
+    "job_id": "c9d5be6a62fb6b63",
+    "title": "Product Design Manager, Global Payments",
+    "company": "stripe",
+    "location": "United Kingdom",
+    "url": "https://stripe.com/jobs/search?gh_jid=8096726",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;The Product Design team is composed of several teams that work together to help define, create, and deliver all user-facing aspects of the Stripe brand and product. Product Design Managers work directly with Engineering leaders, Product Managers, Data Scientists, and Marketers in each product area. Together, they identify the strategy and vision, and drive execution for critical initiatives that create a world-class support experience for all Stripe customers and users.&lt;/p&gt; &l",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:57:25-04:00",
+    "fit_score": 15,
+    "reasoning": "The candidate's experience is focused on backend Java, mobile development, and automotive cybersecurity, with a goal toward AI solutions architecture, which does not align with the product design and payments expertise required for a Product Design Manager at Stripe. Additionally, the candidate is seeking part‑time/werkstudent roles in Germany, while the position is a full‑time managerial role based in the UK.",
+    "cover_letter_opener": "I am excited about the opportunity to bring my strong technical background and passion for innovative product design to Stripe’s Global Payments team.",
+    "scored_at": "2026-08-31T18:32:03.484Z"
+  },
+  {
+    "job_id": "7ba5d95a7619f0dd",
+    "title": "React Native Engineer, Merchant Experience Mobile",
+    "company": "stripe",
+    "location": "Barcelona",
+    "url": "https://stripe.com/jobs/search?gh_jid=8035557",
+    "description": "&lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world&#39;s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;About the team&lt;/h3&gt; &lt;p&gt;We&#39;re a mobile engineering team based in Barcelona, focused on building world-class mobile applications that deliver excellent user experiences for Stripe merchants. React Native is at the core of how we build—it lets us move fast, share code across platforms, and ship high-quality experiences to millions of businesses worldwide without compromise.&lt;/p&gt; &lt;p&gt;As a Senior Mobile Engineer on our team, you&#39;ll help shape our React Native architecture, set the bar for engineering quality, and play a meaningful role in defining what great mobile deve",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:57:25-04:00",
+    "fit_score": 35,
+    "reasoning": "The candidate has solid mobile development experience with Flutter and strong backend skills, which are relevant to building robust mobile solutions, but lacks direct React Native experience that Stripe’s role specifically requires. Additionally, the candidate is based in Germany seeking part‑time work, while the position is full‑time in Barcelona, and their career focus on AI and cloud architecture does not align closely with Stripe’s payment‑centric product focus. Consequently, the overall fit is limited.",
+    "cover_letter_opener": "I’m excited to bring my 3+ years of mobile development expertise and passion for building secure, high‑performing apps to Stripe’s Merchant Experience team in Barcelona.",
+    "scored_at": "2026-08-31T18:32:03.493Z"
   },
   {
     "job_id": "5970eace581e58c3",
@@ -2156,6 +2254,20 @@
     "scored_at": "2026-08-31T09:08:46.975Z"
   },
   {
+    "job_id": "b174ada3f12b3ecc",
+    "title": "Product Marketing Lead, Billing",
+    "company": "stripe",
+    "location": "US / Canada",
+    "url": "https://stripe.com/jobs/search?gh_jid=8090203",
+    "description": "&lt;h2&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world&#39;s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Our Product Marketing team&#39;s mission is to generate customer insights that inform Stripe&#39;s product strategy, and lead go-to-market for our suite of products. Product Marketing is a highly cross-functional role at Stripe, partnering closely with Product and Engineering, Sales, Partnerships, Demand Generation and Campaigns to name a few. Different from many other Product Marketing teams, our team works across the entire product lifecycle, from helping shape the product, to driving launch and commercialization, to growing pro",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:38:47-04:00",
+    "fit_score": 12,
+    "reasoning": "The candidate's background is focused on software development, cloud infrastructure, and AI, with no demonstrated product marketing or billing experience. Additionally, the role is based in the US/Canada while the candidate is seeking part‑time positions in Germany, creating a significant location mismatch.",
+    "cover_letter_opener": "I am excited about Stripe’s mission to increase the GDP of the internet and eager to contribute to the Billing product’s market success.",
+    "scored_at": "2026-08-31T18:32:03.487Z"
+  },
+  {
     "job_id": "7e8ff84ee516d695",
     "title": "Credit Risk Strategy and Analytics",
     "company": "stripe",
@@ -2252,6 +2364,20 @@
     "reasoning": "The candidate has strong cloud and backend architecture experience with Azure and Spring Boot, which aligns with the solution‑architect aspects of the role. However, they lack direct AI/LLM or partnership development experience that Stripe’s AI Partnerships team typically requires, resulting in a moderate fit.",
     "cover_letter_opener": "I am excited to bring my cloud architecture expertise and passion for AI integration to Stripe’s Partner Solutions Architect team!",
     "scored_at": "2026-08-31T02:31:53.995Z"
+  },
+  {
+    "job_id": "ec383d863e0c1bfc",
+    "title": "Product Marketing Manager, Market Intelligence",
+    "company": "stripe",
+    "location": "SF, Seattle, NYC, Chicago, Toronto, Remote in the US",
+    "url": "https://stripe.com/jobs/search?gh_jid=8014761",
+    "description": "&lt;h1 id=&quot;product-marketing-manager-market-intelligence&quot;&gt;Who we are&lt;/h1&gt; &lt;h3 id=&quot;about-stripe&quot;&gt;About Stripe&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world&#39;s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3 id=&quot;about-the-team&quot;&gt;About the team&lt;/h3&gt; &lt;p&gt;Our Product Marketing team&#39;s mission is to generate customer insights that inform Stripe&#39;s product strategy, and lead go-to-market for our suite of products. Product Marketing is a highly cross-functional role at Stripe, partnering closely with Product and Engineering, Sales, Partnerships, Demand Generation, and Campaigns, to name a few. Different from many other Product Marketing teams, our team works across the entire product lifecyc",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:38:45-04:00",
+    "fit_score": 15,
+    "reasoning": "The candidate's background is heavily technical, focusing on software development, cloud infrastructure, and AI, with no evident experience in product marketing, market intelligence, or related communication skills. While their analytical abilities could be valuable, the lack of marketing expertise and domain knowledge makes them a poor fit for this role.",
+    "cover_letter_opener": "I am thrilled by Stripe's mission to power the global economy and eager to bring my data‑driven analytical mindset to the Product Marketing Manager, Market Intelligence team.",
+    "scored_at": "2026-08-31T18:32:03.490Z"
   },
   {
     "job_id": "b280df97fb7c6a08",
@@ -2420,6 +2546,20 @@
     "reasoning": "The candidate has strong backend development experience with Java, Spring Boot, and REST API design, as well as cloud expertise in Azure, which are relevant to integration work. However, they lack specific payments or Stripe-related experience, are based in Germany seeking part‑time roles, and the position is a full‑time role in Chicago, reducing overall alignment.",
     "cover_letter_opener": "I am thrilled by Stripe's mission to power the internet economy and eager to bring my integration and cloud expertise to help build seamless payment solutions.",
     "scored_at": "2026-08-30T23:05:14.600Z"
+  },
+  {
+    "job_id": "4e5ba38203e2208b",
+    "title": "Product Marketing, Data Products",
+    "company": "stripe",
+    "location": "US / Canada",
+    "url": "https://stripe.com/jobs/search?gh_jid=7773461",
+    "description": "&lt;h2&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world&#39;s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Our Product Marketing team&#39;s mission is to generate customer insights that inform Stripe&#39;s product strategy, and lead go-to-market for our suite of products. Product Marketing is a highly cross-functional role at Stripe, partnering closely with Product and Engineering, Sales, Partnerships, Demand Generation and Campaigns to name a few. Different from many other Product Marketing teams, our team works across the entire product lifecycle, from helping shape the product, to driving launch and commercialization, to growing pro",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:38:42-04:00",
+    "fit_score": 20,
+    "reasoning": "The candidate’s background is heavily technical, focusing on backend development, cloud infrastructure, and cybersecurity, with no evident experience in product marketing or data product strategy. Additionally, the role is based in the US/Canada while the candidate seeks a part‑time position in Germany, further reducing alignment. However, the candidate’s cloud and data engineering skills could be leveraged in a technical marketing capacity, giving a modest fit.",
+    "cover_letter_opener": "I’m thrilled by Stripe’s mission to expand the internet’s GDP and eager to contribute my cloud‑native engineering expertise to drive innovative data products.",
+    "scored_at": "2026-08-31T18:32:03.486Z"
   },
   {
     "job_id": "d3d0c7c7216a3957",
@@ -2602,6 +2742,34 @@
     "reasoning": "The candidate has strong backend and cloud engineering experience with Python and Azure, which aligns partially with core infrastructure work, but lacks explicit data science, machine learning, and Stripe‑specific domain expertise. Additionally, the candidate is based in Germany and seeking part‑time roles, while the position is a full‑time data scientist role in Seattle, further reducing fit.",
     "cover_letter_opener": "I am excited to bring my cloud‑native engineering expertise to Stripe’s Core Infrastructure team and help power the data platforms that drive the internet’s economy.",
     "scored_at": "2026-08-29T22:59:41.520Z"
+  },
+  {
+    "job_id": "624e5dcaabddc350",
+    "title": "Product Marketing Manager",
+    "company": "stripe",
+    "location": "San Francisco, New York, Seattle, Chicago, Remote, Toronto",
+    "url": "https://stripe.com/jobs/search?gh_jid=6348471",
+    "description": "&lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;About the team&lt;/h3&gt; &lt;p&gt;Our Product Marketing team’s mission is to generate customer insights that inform Stripe’s product strategy, and lead go-to-market for our suite of products. Product Marketing is a highly cross-functional role at Stripe, partnering closely with Product and Engineering, Sales, Partnerships, Demand Generation and Campaigns to name a few. Different from many other Product Marketing teams, our team works across the entire product lifecycle, from helping shape the product, to driving launch and commercialization, to growing product adoption post-launch.&amp;nbsp;&amp;nbsp;",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:38:38-04:00",
+    "fit_score": 12,
+    "reasoning": "The candidate's background is heavily technical, focusing on software development, cloud architecture, and AI, with no evident product marketing or fintech experience. Stripe's Product Marketing Manager role requires marketing strategy, go‑to‑market planning, and financial product knowledge, which are not demonstrated in the resume.",
+    "cover_letter_opener": "I’m thrilled by Stripe’s mission to expand the internet’s GDP and eager to bring my technical expertise to help shape compelling product narratives for your global customers.",
+    "scored_at": "2026-08-31T18:32:03.489Z"
+  },
+  {
+    "job_id": "bd2a6c6bf808f69c",
+    "title": "Product Marketing Manager, Portfolio Pricing",
+    "company": "stripe",
+    "location": "United States",
+    "url": "https://stripe.com/jobs/search?gh_jid=7832098",
+    "description": "&lt;p&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the role&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Our Product Marketing team’s mission is to generate customer insights that inform Stripe’s product strategy, and lead go-to-market for our suite of products. Product Marketing is a highly cross-functional role at Stripe, partnering closely with Product and Engineering, Sales, Partnerships, Demand Generation and Campaigns to name a few. Different from many other Product Marketing teams, our team works across the entire product lifecycle, from helping shape the product, to driving launc",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:38:38-04:00",
+    "fit_score": 15,
+    "reasoning": "The candidate's background is heavily technical, focusing on software development, cloud, and AI, with no demonstrated experience in product marketing, pricing strategy, or market analysis. Additionally, the role is based in the United States and targets a marketing function, whereas the candidate is seeking part‑time engineering work in Germany. Therefore the alignment is minimal.",
+    "cover_letter_opener": "I’m thrilled by Stripe’s mission to expand the internet’s GDP and eager to contribute to innovative portfolio pricing solutions.",
+    "scored_at": "2026-08-31T18:32:03.491Z"
   },
   {
     "job_id": "f4d52eb7ac1d0b1b",
