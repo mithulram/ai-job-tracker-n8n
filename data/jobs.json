@@ -1,5 +1,19 @@
 [
   {
+    "job_id": "8dfab1cacabf9644",
+    "title": "Senior Backend Engineer (Ruby), AI Catalog: External Agents",
+    "company": "gitlab",
+    "location": "Remote, United Kingdom",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8759577002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-08-31T04:35:31-04:00",
+    "fit_score": 35,
+    "reasoning": "The candidate has strong backend development experience with Java and Spring Boot, as well as cloud expertise in Azure, which aligns with GitLab's focus on scalable services. However, the role specifically requires senior-level Ruby skills and experience with AI-driven catalog agents, which are not demonstrated in the resume, lowering the overall match. Additionally, the candidate is seeking a part‑time/werkstudent position, while the posting is for a senior full‑time role.",
+    "cover_letter_opener": "I’m excited to bring my backend and cloud expertise to GitLab’s AI Catalog team and help shape the next generation of intelligent DevSecOps solutions!",
+    "scored_at": "2026-08-31T09:08:46.971Z"
+  },
+  {
     "job_id": "15ae7f557e4ce678",
     "title": "Full Stack Engineer, Growth",
     "company": "stripe",
@@ -208,6 +222,20 @@
     "reasoning": "The candidate has solid backend experience with Java, Spring Boot, and REST API design, which aligns with Stripe's engineering needs. However, the role is full-time and based in North America, while the candidate seeks part-time work in Germany and is focused on AI/LLM and automotive cybersecurity, creating a location and domain mismatch. Additionally, Stripe's stack heavily uses AWS, whereas the candidate's cloud expertise is centered on Azure.",
     "cover_letter_opener": "I am excited about the opportunity to bring my Java and Spring Boot expertise to Stripe’s Backend Engineering team and help shape the next generation of seamless payment experiences.",
     "scored_at": "2026-08-29T20:15:15.140Z"
+  },
+  {
+    "job_id": "8c8baa27915a1426",
+    "title": "Product Compliance and Enablement Manager",
+    "company": "stripe",
+    "location": "London, Dublin",
+    "url": "https://stripe.com/jobs/search?gh_jid=8003129",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe&#39;s Financial Crimes, Compliance and Risk Oversight (FinCRO) organization serves as Stripe&#39;s second line of defense, ensuring we operate as a responsible steward of the global financial ecosystem. Within FinCRO, the Product Enablement team sits at the intersection of compliance and product—partnering directly with product and engineering teams to build innovative, compliant financial products from the ground up.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;What you’ll do&lt;/s",
+    "source": "greenhouse",
+    "posted_at": "2026-08-27T14:50:34-04:00",
+    "fit_score": 25,
+    "reasoning": "The candidate has strong software engineering and cloud experience but lacks direct product compliance, regulatory, or manager-level experience that Stripe's role requires. Additionally, the role is based in London/Dublin and focuses on compliance enablement, which does not align with the candidate's current academic and technical focus in AI and automotive cybersecurity. Hence, the overall fit is limited.",
+    "cover_letter_opener": "I am excited about Stripe’s mission to expand the internet’s economy and eager to bring my security‑focused engineering background to help drive product compliance and enablement for your global customers.",
+    "scored_at": "2026-08-31T09:08:46.974Z"
   },
   {
     "job_id": "2f65b8bff07155cc",
@@ -1862,6 +1890,34 @@
     "scored_at": "2026-08-31T02:31:53.992Z"
   },
   {
+    "job_id": "f2d7b87d40006b4c",
+    "title": "Product Designer, Global",
+    "company": "stripe",
+    "location": "Ireland",
+    "url": "https://stripe.com/jobs/search?gh_jid=7861422",
+    "description": "&lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world&#39;s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;About the team&lt;/h3&gt; &lt;p&gt;The Product Design team is made up of several groups that define, create, and deliver all user-facing aspects of Stripe&#39;s products. Product Designers work directly with Engineers, Product Managers, Data Scientists, and Marketers, as strategic partners, in each product area. In close collaboration with product teams, they shape user experiences, then translate them into high-quality designs that can be tested, shipped, and refined. Designers are responsible for building elegant, functional products that users love—and want to tell others about.&lt;/p&gt; &l",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:57:24-04:00",
+    "fit_score": 12,
+    "reasoning": "The candidate’s background is heavily focused on backend development, cloud infrastructure, and AI, with no mention of product design, UI/UX, or design tools that Stripe’s role requires. Additionally, the experience is oriented toward software engineering rather than the visual and user‑experience focus of a Product Designer, and the candidate is based in Germany while the position is in Ireland. These gaps result in a low overall fit.",
+    "cover_letter_opener": "I’m thrilled by Stripe’s mission to expand the internet’s GDP and eager to bring my passion for innovative product experiences to the Global Product Design team.",
+    "scored_at": "2026-08-31T09:08:46.980Z"
+  },
+  {
+    "job_id": "30774faff05b1fab",
+    "title": "Product Designer, Risk",
+    "company": "stripe",
+    "location": "Ireland / United Kingdom",
+    "url": "https://stripe.com/jobs/search?gh_jid=7954118",
+    "description": "&lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world&#39;s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;About the team&lt;/h3&gt; &lt;p&gt;The Product Design team defines and delivers user-facing experiences across Stripe. Product Designers work closely with engineers, product managers, researchers, strategists, operations, data scientists, and marketers to shape products from early strategy through launch and iteration.&lt;/p&gt; &lt;p&gt;You’ll be joining the Risk team, which shapes how businesses get started on Stripe, build trust, stay compliant, and grow with confidence. The work spans businesses of every size and helps keep both our users and the Stripe ecosystem safe.&lt;/p&gt; &lt;p&gt;Ri",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:57:24-04:00",
+    "fit_score": 30,
+    "reasoning": "The candidate has strong software engineering and cybersecurity experience, including risk modeling, which aligns partially with Stripe's risk focus. However, the role is a product designer position requiring design expertise and the candidate seeks a Werkstudent role in Germany, making the match limited.",
+    "cover_letter_opener": "I am excited to bring my cybersecurity and risk‑modeling background to help Stripe design innovative risk‑focused products that empower businesses worldwide.",
+    "scored_at": "2026-08-31T09:08:46.981Z"
+  },
+  {
     "job_id": "66124bd1c2e98779",
     "title": "Engineering Manager, Operator Tooling",
     "company": "stripe",
@@ -1930,6 +1986,20 @@
     "reasoning": "The candidate has solid backend and cloud engineering experience, but the resume does not demonstrate direct machine‑learning or data‑science work that Stripe’s ML Engineer role requires. Additionally, the candidate is based in Germany and seeking part‑time roles, whereas the position is full‑time in South San Francisco. Nonetheless, strong Python and Azure expertise could be leveraged with additional ML training.",
     "cover_letter_opener": "I am excited to bring my robust software engineering and cloud expertise to Stripe’s Machine Learning team, helping build innovative financial solutions.",
     "scored_at": "2026-08-30T23:05:14.606Z"
+  },
+  {
+    "job_id": "836ec2fcdc675a88",
+    "title": "Product Analytics - Developer Experience, Bridge",
+    "company": "stripe",
+    "location": "N/A",
+    "url": "https://stripe.com/jobs/search?gh_jid=8139998",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Bridge&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;We’re creating an entirely new payments platform, built with stablecoins, to simplify global money movement. Bridge enables faster, cheaper payments and borderless access to dollars via stablecoins. Through our APIs, businesses can send and receive funds across borders faster / cheaper vs. SWIFT and other fiat-only rails. Our virtual accounts enable international consumers and businesses to easily access, store and spend US dollars. Our payouts infrastructure enables platforms to disburse USD to anyone globally. We believe many trillions of dollars will move and settle through stablecoin payment rails. Bridge is pulling this future forward.&amp;nbsp;&lt;/p&gt; &lt;p&gt;We have a small team of people who have previously built financial infrastructure at some of the world’s leading companies (Coinbase, Stripe, Square, Brex, Upstart, DoorDash, Airbnb) and each and every one of them chose Bridge because they fundamentally believe that stablecoins will be a critical piece of financial infrastructure that allows for the improvement of global money movement.",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:38:49-04:00",
+    "fit_score": 45,
+    "reasoning": "The candidate brings solid backend development experience with Java, Spring Boot, and cloud expertise on Azure, which aligns with building scalable APIs. However, they lack direct experience in payments, product analytics, and the specific tech stack (e.g., AWS, data pipelines) that Stripe Bridge emphasizes, resulting in a moderate fit.",
+    "cover_letter_opener": "I’m excited to contribute my backend and cloud engineering skills to Stripe’s innovative Bridge platform and help shape the future of stablecoin‑based payments.",
+    "scored_at": "2026-08-31T09:08:46.972Z"
   },
   {
     "job_id": "76196c94c637b702",
@@ -2072,6 +2142,20 @@
     "scored_at": "2026-08-30T23:05:14.602Z"
   },
   {
+    "job_id": "712a56d7aff9191b",
+    "title": "Product Counsel",
+    "company": "stripe",
+    "location": "US remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8089069",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;About the team&lt;/h3&gt; &lt;p&gt;Stripe’s Product Legal team is responsible for managing the legal and regulatory elements of the design, build and execution of our products and services. We work on some of the hardest technical, commercial, and regulatory problems around, and we’re looking for a product lawyer to join our team. In this role you will be a key advisor to Stripe’s product, engineering and partnerships teams, and will work on a diverse set of matters that straddle financial services, business processes, and technology.&lt;/p&gt; &lt;p&gt;The ideal candidate ",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:38:47-04:00",
+    "fit_score": 10,
+    "reasoning": "The candidate's background is in software engineering, cloud, and AI, with no legal education or experience, which is essential for a Product Counsel role. While the candidate shows strong technical skills, the lack of relevant legal qualifications makes the fit very low.",
+    "cover_letter_opener": "I am thrilled by Stripe’s mission to expand the internet’s GDP and eager to contribute my technical perspective to your innovative product team.",
+    "scored_at": "2026-08-31T09:08:46.975Z"
+  },
+  {
     "job_id": "7e8ff84ee516d695",
     "title": "Credit Risk Strategy and Analytics",
     "company": "stripe",
@@ -2198,6 +2282,20 @@
     "scored_at": "2026-08-30T18:20:21.927Z"
   },
   {
+    "job_id": "79489645a9120e8d",
+    "title": "Product Designer - Dashboard",
+    "company": "stripe",
+    "location": "US / Canada",
+    "url": "https://stripe.com/jobs/search?gh_jid=7980578",
+    "description": "&lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world&#39;s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;About the team&lt;/h3&gt; &lt;p&gt;The Product Design team is made up of several groups that define, create, and deliver all user-facing aspects of the Stripe brand and product. Product Designers are strategic partners to Engineering and Product Management within their product area. In close collaboration with product teams, they shape user experiences, then translate them into high-quality designs that can be tested, shipped, and refined. Designers are responsible for building elegant, functional products that users love—and want to tell others about.&lt;/p&gt; &lt;p&gt;The Dashboard team ensu",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:38:44-04:00",
+    "fit_score": 12,
+    "reasoning": "The candidate’s experience centers on backend Java, mobile development, cloud infrastructure, and cybersecurity, with no evidence of product design, UI/UX, or dashboard creation. Stripe’s Product Designer role demands strong design skills and experience in crafting user interfaces, which are not reflected in the resume. Consequently, the alignment between the candidate and the position is minimal.",
+    "cover_letter_opener": "I’m thrilled to apply my engineering background and passion for creating intuitive user experiences to help shape Stripe’s innovative dashboard solutions!",
+    "scored_at": "2026-08-31T09:08:46.979Z"
+  },
+  {
     "job_id": "3f8238a3fa79f1b1",
     "title": "Account Executive, Enterprise Platforms, Hunter",
     "company": "stripe",
@@ -2268,6 +2366,34 @@
     "scored_at": "2026-08-31T02:31:54.000Z"
   },
   {
+    "job_id": "f9c1d71c17a14ad9",
+    "title": "Product Counsel, Data Products",
+    "company": "stripe",
+    "location": "US remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=7930151",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/span&gt;&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe’s Product Legal team is responsible for managing the legal and regulatory elements of the design, build and execution of our products and services. We work on some of the hardest technical, commercial, and regulatory problems around, and we’re looking for a product lawyer to join our team. In this role you will be a key advisor to Stripe’s product, engineering and partnerships teams, and will work on a diverse set o",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:38:43-04:00",
+    "fit_score": 10,
+    "reasoning": "The candidate's background is heavily focused on software engineering, cloud infrastructure, and AI, with no legal education or experience in product counsel or data privacy. Stripe's Product Counsel role requires expertise in law, regulatory compliance, and data governance, which are not reflected in the resume. Consequently, the alignment between the candidate's skills and the job requirements is minimal.",
+    "cover_letter_opener": "I am thrilled about the opportunity to combine my technical expertise with Stripe's mission to shape innovative data products and drive impactful solutions.",
+    "scored_at": "2026-08-31T09:08:46.976Z"
+  },
+  {
+    "job_id": "182b0026e8817472",
+    "title": "Product Designer, Internal Tools",
+    "company": "stripe",
+    "location": "US / Canada",
+    "url": "https://stripe.com/jobs/search?gh_jid=7954207",
+    "description": "&lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world&#39;s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;About the team&lt;/h3&gt; &lt;p&gt;You&#39;ll work closely with several teams of engineers and PMs to shape products used by Stripe employees across engineering, operations, finance, and beyond. This is a high-impact role for a designer who finds as much satisfaction in untangling complex workflows and dense information architectures as in crafting polished interfaces.&lt;/p&gt; &lt;h2&gt;What you&#39;ll do&lt;/h2&gt; &lt;p&gt;You&#39;ll take ownership of two spaces within our internal tooling portfolio—Developer Productivity, focused on ensuring every engineer at Stripe has the tools to be pro",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:38:43-04:00",
+    "fit_score": 20,
+    "reasoning": "The candidate's background is in backend and mobile development with Java, Spring Boot, Flutter, and cloud infrastructure, while the role is for a product designer focused on internal tooling and user experience, which requires design and UI/UX expertise not demonstrated in the resume. Additionally, the candidate is based in Germany seeking part‑time positions, whereas the job targets US/Canada full‑time roles, further reducing alignment.",
+    "cover_letter_opener": "I’m thrilled by Stripe’s mission and eager to contribute my technical expertise to building intuitive internal tools that empower your teams.",
+    "scored_at": "2026-08-31T09:08:46.980Z"
+  },
+  {
     "job_id": "aac91e5f7b1d5138",
     "title": "Cloud Security Engineer",
     "company": "stripe",
@@ -2322,6 +2448,20 @@
     "reasoning": "The candidate has solid backend and cloud development experience, especially with Java, Spring Boot, and Azure, but lacks direct AWS expertise and payments industry exposure required for a Partner Solutions Architect at Stripe. Additionally, the candidate is currently a student in Germany seeking part‑time roles, which misaligns with the full‑time New York position.",
     "cover_letter_opener": "I’m excited to bring my cloud architecture background and passion for innovative financial solutions to Stripe’s Partner Solutions team.",
     "scored_at": "2026-08-31T02:31:53.996Z"
+  },
+  {
+    "job_id": "392a701d3c6ffc90",
+    "title": "Product Counsel, Payments & Terminal",
+    "company": "stripe",
+    "location": "US Remote, Toronto",
+    "url": "https://stripe.com/jobs/search?gh_jid=7558757",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/span&gt;&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe’s Product Legal team is responsible for managing the legal and regulatory elements of the design, build and execution of our products and services. We work on some of the hardest technical, commercial, and regulatory problems around, and we’re looking for a product lawyer to join our team. In this role you will be a key advisor to Stripe’s product, engineering and partnerships teams, and will work on a diverse set o",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:38:41-04:00",
+    "fit_score": 8,
+    "reasoning": "The candidate's background is in software engineering, cloud, and AI, with no legal education or experience, which is essential for a Product Counsel role. While they demonstrate strong technical skills, the lack of relevant legal qualifications makes them a poor fit for this position.",
+    "cover_letter_opener": "I am excited about Stripe’s mission to increase the GDP of the internet and would love to contribute my technical expertise to support your Payments & Terminal products.",
+    "scored_at": "2026-08-31T09:08:46.978Z"
   },
   {
     "job_id": "9b6ef76f1594ab85",
@@ -2464,6 +2604,20 @@
     "scored_at": "2026-08-29T22:59:41.520Z"
   },
   {
+    "job_id": "f4d52eb7ac1d0b1b",
+    "title": "Product Counsel (Money Movement Legal - APAC)",
+    "company": "stripe",
+    "location": "Singapore",
+    "url": "https://stripe.com/jobs/search?gh_jid=8125473",
+    "description": "&lt;p&gt;&lt;strong&gt;Product Counsel, Money Movement Legal (Asia-Pacific)&lt;/strong&gt;&lt;/p&gt; &lt;h2 id=&quot;who-we-are&quot;&gt;Who we are&lt;/h2&gt; &lt;h3 id=&quot;about-stripe&quot;&gt;About Stripe&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world&#39;s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3 id=&quot;about-the-team&quot;&gt;About the team&lt;/h3&gt; &lt;p&gt;The Product Legal team at Stripe manages the legal and regulatory aspects of designing, building, and launching products and services. The team works on technical, commercial, and regulatory matters and advises product, engineering, and partnerships teams on issues across financial services, business, and technology.&lt;/p&gt; &lt;p&gt;This role supports the Money Movement and S",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:37:35-04:00",
+    "fit_score": 5,
+    "reasoning": "The candidate's background is in software engineering, cloud, and AI, with no legal education or experience, which is essential for a Product Counsel role. Additionally, the position is based in Singapore focusing on money movement legal matters, while the candidate is seeking part‑time software roles in Germany.",
+    "cover_letter_opener": "I am excited about Stripe's mission to increase the GDP of the internet and would love to contribute my technical expertise to support your Money Movement legal team in APAC.",
+    "scored_at": "2026-08-31T09:08:46.977Z"
+  },
+  {
     "job_id": "db7bd5c00eb00c93",
     "title": "Integration Engineer, SEA/GCN",
     "company": "stripe",
@@ -2490,6 +2644,20 @@
     "reasoning": "The candidate’s background is focused on software engineering, automotive cybersecurity, and cloud infrastructure, with limited explicit data‑science or machine‑learning experience required for a Data Scientist role. Additionally, the candidate is based in Germany and seeking part‑time positions, while the job is a full‑time role in Singapore, further reducing alignment.",
     "cover_letter_opener": "I am excited about Stripe’s mission to grow the internet economy and eager to apply my strong cloud and analytical skills to drive data‑powered insights for global growth.",
     "scored_at": "2026-08-29T22:59:41.521Z"
+  },
+  {
+    "job_id": "0f8217b227dd4042",
+    "title": "Product Compliance and Enablement Advisor",
+    "company": "stripe",
+    "location": "Singapore",
+    "url": "https://stripe.com/jobs/search?gh_jid=8010302",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies – from the world’s largest enterprises to the most ambitious startups – use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe&#39;s Financial Crimes, Compliance and Risk Oversight (FinCRO) organization serves as Stripe&#39;s second line of defense, ensuring we operate as a responsible steward of the global financial ecosystem. Within FinCRO, the Product Enablement team sits at the intersection of compliance and product — partnering directly with product and engineering teams to build innovative, compliant financial products from the ground up.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;What you’ll do",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:37:27-04:00",
+    "fit_score": 30,
+    "reasoning": "The candidate has solid backend and cloud engineering experience with Java, Spring Boot, and Azure, which aligns with Stripe’s technical environment. However, the role focuses on product compliance, regulatory enablement, and financial services expertise, areas not demonstrated in the resume, and the candidate is based in Germany seeking part‑time work, while the position is in Singapore. Consequently, the overall fit is limited.",
+    "cover_letter_opener": "I am excited to bring my cloud‑native development expertise to Stripe’s mission of expanding the internet’s GDP and help drive product compliance and enablement worldwide.",
+    "scored_at": "2026-08-31T09:08:46.973Z"
   },
   {
     "job_id": "9e1cb64b4ae538d7",
