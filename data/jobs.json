@@ -1,5 +1,61 @@
 [
   {
+    "job_id": "8ece53e381e78076",
+    "title": "Senior Solutions Architect",
+    "company": "gitlab",
+    "location": "Remote, Germany",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8695969002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-09-01T09:36:11-04:00",
+    "fit_score": 38,
+    "reasoning": "The candidate has solid cloud and security experience with Azure, Java, and automotive cybersecurity, which aligns with GitLab's DevSecOps focus. However, the role is senior-level and expects extensive solutions architecture and GitLab platform expertise, which the resume does not demonstrate, and the candidate is still a student seeking part‑time work. Consequently, the overall fit is moderate but below the senior requirements.",
+    "cover_letter_opener": "I am excited to bring my cloud security and AI integration expertise to GitLab’s innovative AI‑driven DevSecOps platform as a Senior Solutions Architect.",
+    "scored_at": "2026-09-01T13:52:16.669Z"
+  },
+  {
+    "job_id": "bf8d8d7acb117502",
+    "title": "Design Program Manager, Research Operations",
+    "company": "stripe",
+    "location": "US",
+    "url": "https://stripe.com/jobs/search?gh_jid=8155390",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are &lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/span&gt;&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe’s Design organization builds the product and brand experiences that millions of businesses and developers rely on. We’re a cross-functional, global organization of product designers, content designers, design researchers, design systems engineers, motion designers, and design program specialists.&lt;/p&gt; &lt;p&gt;Our mission is to make economic infrastructure simple and accessible. Design plays a central ",
+    "source": "greenhouse",
+    "posted_at": "2026-09-01T08:28:45-04:00",
+    "fit_score": 20,
+    "reasoning": "The candidate’s background is primarily in software development, automotive cybersecurity, and cloud engineering, which does not align with the program‑management and research‑operations focus of the Stripe role. Additionally, the position is US‑based and seeks experience in financial infrastructure, whereas the candidate is seeking a part‑time role in Germany. However, their research experience and cloud expertise could be loosely transferable.",
+    "cover_letter_opener": "I’m excited to bring my research‑driven engineering experience and passion for innovative infrastructure to support Stripe’s mission of growing the internet’s GDP.",
+    "scored_at": "2026-09-01T13:52:16.670Z"
+  },
+  {
+    "job_id": "95fa3479834d3389",
+    "title": "New Business Account Executive - Netherlands",
+    "company": "gitlab",
+    "location": "Remote, Netherlands",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8527416002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-09-01T08:28:35-04:00",
+    "fit_score": 20,
+    "reasoning": "The candidate's experience is heavily technical, focusing on software development, cloud, and cybersecurity, with no demonstrated sales or account management background. While their knowledge of DevSecOps and AI aligns with GitLab's product focus, the lack of relevant business development experience makes them a poor fit for an Account Executive role.",
+    "cover_letter_opener": "I am excited about GitLab’s AI‑driven DevSecOps platform and eager to leverage my technical expertise to help drive new business growth in the Netherlands.",
+    "scored_at": "2026-09-01T13:52:16.668Z"
+  },
+  {
+    "job_id": "f230072638440a40",
+    "title": "Engineering Manager, Agent Foundations: Agent Execution",
+    "company": "gitlab",
+    "location": "Remote, United States",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8759592002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-09-01T05:14:26-04:00",
+    "fit_score": 20,
+    "reasoning": "The candidate has solid backend and cloud engineering experience with Java, Spring Boot, and Azure, which aligns with GitLab's infrastructure needs. However, the role is an Engineering Manager position requiring leadership and extensive AI/agent execution expertise, which the resume does not demonstrate, and the candidate is seeking a student/part‑time role in Germany rather than a senior remote US position.",
+    "cover_letter_opener": "I am excited about GitLab’s AI‑driven DevSecOps vision and eager to contribute my cloud and backend expertise to help shape the future of agent execution!",
+    "scored_at": "2026-09-01T13:52:16.667Z"
+  },
+  {
     "job_id": "25fb07ea926637d9",
     "title": "Senior Backend Engineer - Platform Integrations (Monetization)",
     "company": "gitlab",
@@ -26,6 +82,20 @@
     "reasoning": "The candidate has strong technical skills in cloud, backend, and AI‑related programming, but lacks product management experience and senior leadership required for a Principal Product Manager role. Additionally, the role is remote for Canada/US while the candidate is based in Germany, which may pose logistical challenges.",
     "cover_letter_opener": "I am excited to bring my cloud‑native AI expertise and passion for innovative product development to GitLab’s AI Custom Models team.",
     "scored_at": "2026-09-01T08:11:01.745Z"
+  },
+  {
+    "job_id": "59a355d3bb1b0e90",
+    "title": "Software Engineer, New Grad",
+    "company": "stripe",
+    "location": "San Francisco, Seattle, New York",
+    "url": "https://stripe.com/jobs/search?gh_jid=8128744",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a technology company focused on improving the conditions for economic growth and prosperity. We build programmable financial infrastructure, rethinking from first principles how financial services should work, to make it easier and cheaper for any business to start and scale. More than 10 million &lt;a href=&quot;https://stripe.com/customers&quot;&gt;businesses&lt;/a&gt; build on Stripe, spanning the economic frontier—from solo founders to established enterprises—united by a practical focus on growth. The most ambitious companies in the world use Stripe as core infrastructure to grow faster. They process trillions of dollars a year on Stripe, equivalent to around 1.6% of global GDP. While economic growth makes everyone better off, open markets also enable greater variety. When any business can easily serve a global customer base, the quality and diversity of products in the world increase, and craft and creativity are unleashed into the smallest niches. Our own growth is wholly contingent on the success of the businesses building on Stripe. ",
+    "source": "greenhouse",
+    "posted_at": "2026-08-31T22:38:55-04:00",
+    "fit_score": 45,
+    "reasoning": "The candidate has solid backend development experience with Java, Spring Boot, and REST APIs, which aligns with Stripe's engineering needs. However, their current focus on AI solutions and desire for part‑time roles in Germany does not match Stripe's full‑time new‑grad positions in the US. Additionally, the resume lacks specific experience with Stripe's typical tech stack (e.g., Python, Ruby, Go) and the required location flexibility.",
+    "cover_letter_opener": "I am thrilled by Stripe’s mission to reinvent financial infrastructure and eager to bring my Java backend and cloud expertise to help power the next generation of seamless payments.",
+    "scored_at": "2026-09-01T13:52:16.677Z"
   },
   {
     "job_id": "978e522d9e53b26f",
@@ -112,6 +182,48 @@
     "scored_at": "2026-09-01T08:11:01.753Z"
   },
   {
+    "job_id": "819d78ef3e1bc168",
+    "title": "Software Engineer, New Grad",
+    "company": "stripe",
+    "location": "Toronto",
+    "url": "https://stripe.com/jobs/search?gh_jid=8157838",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a technology company focused on improving the conditions for economic growth and prosperity. We build programmable financial infrastructure, rethinking from first principles how financial services should work, to make it easier and cheaper for any business to start and scale. More than 10 million &lt;a href=&quot;https://stripe.com/customers&quot;&gt;businesses&lt;/a&gt; build on Stripe, spanning the economic frontier—from solo founders to established enterprises—united by a practical focus on growth. The most ambitious companies in the world use Stripe as core infrastructure to grow faster. They process trillions of dollars a year on Stripe, equivalent to around 1.6% of global GDP. While economic growth makes everyone better off, open markets also enable greater variety. When any business can easily serve a global customer base, the quality and diversity of products in the world increase, and craft and creativity are unleashed into the smallest niches. Our own growth is wholly contingent on the success of the businesses building on Stripe. ",
+    "source": "greenhouse",
+    "posted_at": "2026-08-31T19:16:14-04:00",
+    "fit_score": 40,
+    "reasoning": "The candidate has strong Java backend and cloud experience with Spring Boot and Azure, which aligns with Stripe's engineering needs, but their current focus on part‑time roles in Germany and a career goal toward AI solutions architecture diverges from a full‑time new‑grad position in Toronto. Additionally, the resume lacks direct payments or fintech experience, reducing overall relevance.",
+    "cover_letter_opener": "I’m excited to bring my backend and cloud expertise to Stripe’s innovative payment platform and help power the next generation of economic growth.",
+    "scored_at": "2026-09-01T13:52:16.673Z"
+  },
+  {
+    "job_id": "e07659c953db8104",
+    "title": "Software Engineer, New Grad",
+    "company": "stripe",
+    "location": "Dublin",
+    "url": "https://stripe.com/jobs/search?gh_jid=8130881",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a technology company focused on improving the conditions for economic growth and prosperity. We build programmable financial infrastructure, rethinking from first principles how financial services should work, to make it easier and cheaper for any business to start and scale. More than 10 million &lt;a href=&quot;https://stripe.com/customers&quot;&gt;businesses&lt;/a&gt; build on Stripe, spanning the economic frontier—from solo founders to established enterprises—united by a practical focus on growth. The most ambitious companies in the world use Stripe as core infrastructure to grow faster. They process trillions of dollars a year on Stripe, equivalent to around 1.6% of global GDP. While economic growth makes everyone better off, open markets also enable greater variety. When any business can easily serve a global customer base, the quality and diversity of products in the world increase, and craft and creativity are unleashed into the smallest niches. Our own growth is wholly contingent on the success of the businesses building on Stripe. ",
+    "source": "greenhouse",
+    "posted_at": "2026-08-31T19:07:03-04:00",
+    "fit_score": 58,
+    "reasoning": "The candidate has strong backend development experience with Java and Spring Boot, which aligns with Stripe’s engineering needs, and also possesses cloud expertise in Azure that demonstrates familiarity with scalable infrastructure. However, the candidate is currently seeking part‑time or Werkstudent roles in Germany and aims for an AI Solutions Architect path, which does not directly match a full‑time new‑grad software engineer position in Dublin, reducing the overall fit.",
+    "cover_letter_opener": "I’m excited to bring my Java and cloud‑focused backend expertise to Stripe’s innovative engineering team in Dublin!",
+    "scored_at": "2026-09-01T13:52:16.677Z"
+  },
+  {
+    "job_id": "16cb1e029627cae2",
+    "title": "Software Engineer, New Grad",
+    "company": "stripe",
+    "location": "Bucharest",
+    "url": "https://stripe.com/jobs/search?gh_jid=8130922",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a technology company focused on improving the conditions for economic growth and prosperity. We build programmable financial infrastructure, rethinking from first principles how financial services should work, to make it easier and cheaper for any business to start and scale. More than 10 million &lt;a href=&quot;https://stripe.com/customers&quot;&gt;businesses&lt;/a&gt; build on Stripe, spanning the economic frontier—from solo founders to established enterprises—united by a practical focus on growth. The most ambitious companies in the world use Stripe as core infrastructure to grow faster. They process trillions of dollars a year on Stripe, equivalent to around 1.6% of global GDP. While economic growth makes everyone better off, open markets also enable greater variety. When any business can easily serve a global customer base, the quality and diversity of products in the world increase, and craft and creativity are unleashed into the smallest niches. Our own growth is wholly contingent on the success of the businesses building on Stripe. ",
+    "source": "greenhouse",
+    "posted_at": "2026-08-31T19:03:34-04:00",
+    "fit_score": 55,
+    "reasoning": "The candidate brings solid Java backend and cloud experience with Spring Boot and Azure, which aligns with Stripe’s engineering needs. However, they are currently based in Germany seeking part‑time roles and aim for AI‑focused positions, while the role is a full‑time new‑grad position in Bucharest, leading to a moderate overall match.",
+    "cover_letter_opener": "I am excited to bring my backend and cloud expertise to Stripe’s innovative financial infrastructure team in Bucharest.",
+    "scored_at": "2026-09-01T13:52:16.676Z"
+  },
+  {
     "job_id": "7fa846cf555e48c6",
     "title": "Software Engineer, Intern",
     "company": "stripe",
@@ -124,6 +236,34 @@
     "reasoning": "The candidate brings solid Java backend and REST API experience with Spring Boot, as well as cloud expertise in Azure, which aligns well with Stripe’s engineering focus. However, the role is an internship in Bucharest while the candidate is seeking part‑time work in Germany and is oriented toward AI/LLM architecture, so the match is only moderate.",
     "cover_letter_opener": "I’m thrilled by Stripe’s mission to reinvent financial infrastructure and eager to contribute my backend and cloud skills to your innovative engineering team.",
     "scored_at": "2026-09-01T08:11:01.751Z"
+  },
+  {
+    "job_id": "adad0df5a3e6cd4a",
+    "title": "Software Engineer, New Grad - Frontend",
+    "company": "stripe",
+    "location": "Barcelona",
+    "url": "https://stripe.com/jobs/search?gh_jid=8130927",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a technology company focused on improving the conditions for economic growth and prosperity. We build programmable financial infrastructure, rethinking from first principles how financial services should work, to make it easier and cheaper for any business to start and scale. More than 10 million &lt;a href=&quot;https://stripe.com/customers&quot;&gt;businesses&lt;/a&gt; build on Stripe, spanning the economic frontier—from solo founders to established enterprises—united by a practical focus on growth. The most ambitious companies in the world use Stripe as core infrastructure to grow faster. They process trillions of dollars a year on Stripe, equivalent to around 1.6% of global GDP. While economic growth makes everyone better off, open markets also enable greater variety. When any business can easily serve a global customer base, the quality and diversity of products in the world increase, and craft and creativity are unleashed into the smallest niches. Our own growth is wholly contingent on the success of the businesses building on Stripe. ",
+    "source": "greenhouse",
+    "posted_at": "2026-08-31T18:35:45-04:00",
+    "fit_score": 30,
+    "reasoning": "The candidate excels in backend Java, Spring Boot, and cloud platforms, but the role emphasizes frontend development, which is not highlighted in the resume. Additionally, the candidate is seeking positions in Germany while the job is based in Barcelona, further reducing alignment. While their experience with REST APIs and UI frameworks like Flutter shows some relevance, the mismatch in core frontend technologies leads to a low fit score.",
+    "cover_letter_opener": "I am thrilled about the opportunity to bring my strong software engineering background to Stripe’s innovative frontend team in Barcelona!",
+    "scored_at": "2026-09-01T13:52:16.678Z"
+  },
+  {
+    "job_id": "cc154ab68b7293c0",
+    "title": "Software Engineer, New Grad",
+    "company": "stripe",
+    "location": "London",
+    "url": "https://stripe.com/jobs/search?gh_jid=8130930",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a technology company focused on improving the conditions for economic growth and prosperity. We build programmable financial infrastructure, rethinking from first principles how financial services should work, to make it easier and cheaper for any business to start and scale. More than 10 million &lt;a href=&quot;https://stripe.com/customers&quot;&gt;businesses&lt;/a&gt; build on Stripe, spanning the economic frontier—from solo founders to established enterprises—united by a practical focus on growth. The most ambitious companies in the world use Stripe as core infrastructure to grow faster. They process trillions of dollars a year on Stripe, equivalent to around 1.6% of global GDP. While economic growth makes everyone better off, open markets also enable greater variety. When any business can easily serve a global customer base, the quality and diversity of products in the world increase, and craft and creativity are unleashed into the smallest niches. Our own growth is wholly contingent on the success of the businesses building on Stripe. ",
+    "source": "greenhouse",
+    "posted_at": "2026-08-31T18:32:53-04:00",
+    "fit_score": 55,
+    "reasoning": "The candidate demonstrates strong backend development skills with Java, Spring Boot, and cloud experience, which align with Stripe’s engineering needs. However, they lack direct fintech or payments experience and are seeking a part‑time role in Germany rather than a full‑time new‑grad position in London, reducing overall fit.",
+    "cover_letter_opener": "I am excited to bring my backend and cloud expertise to Stripe’s innovative payment platform and help power the next generation of economic growth.",
+    "scored_at": "2026-09-01T13:52:16.675Z"
   },
   {
     "job_id": "069c127c217add01",
@@ -1904,6 +2044,20 @@
     "scored_at": "2026-08-31T02:31:53.991Z"
   },
   {
+    "job_id": "ce49ecf9136b38f5",
+    "title": "Software Engineer, Machine Learning Infrastructure",
+    "company": "stripe",
+    "location": "Toronto, Canada",
+    "url": "https://stripe.com/jobs/search?gh_jid=8084476",
+    "description": "&lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/span&gt;&lt;/p&gt; &lt;h3&gt;About the team&lt;/h3&gt; &lt;p&gt;Stripe processes over $1T in payments volume per year, which is roughly 1% of the world’s GDP. The tremendous amount of data makes Stripe one of the best places to do machine learning. The ML Infra team builds services and tools that power every step in the ML lifecycle, including data exploration, feature generation, experimentation, training, deploying, serving ML models, and building LLM applications. With the phenomenal developments happening in the field of AI, we are positioned to accelerate the adopti",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:59:42-04:00",
+    "fit_score": 35,
+    "reasoning": "The candidate has strong backend and cloud experience with Python and Azure, which are relevant to building ML infrastructure, but lacks direct machine‑learning or data‑pipeline experience and is based in Germany while the role is in Toronto. Consequently, the overall match is moderate but limited.",
+    "cover_letter_opener": "I am excited to bring my cloud‑native backend expertise to Stripe’s Machine Learning Infrastructure team and help power the next generation of financial services.",
+    "scored_at": "2026-09-01T13:52:16.671Z"
+  },
+  {
     "job_id": "fa076fabc64eea75",
     "title": "Android Engineer, Terminal",
     "company": "stripe",
@@ -2252,6 +2406,20 @@
     "reasoning": "The candidate's background is in software development, cloud architecture, and AI, with no experience in tax advisory, finance, or consulting. While they have strong technical skills that could be valuable to Stripe, the role requires tax expertise and advisory experience, which are not demonstrated in the resume.",
     "cover_letter_opener": "I am excited about the opportunity to contribute to Stripe’s mission by bringing my technical expertise to the innovative tax advisory team.",
     "scored_at": "2026-08-30T23:05:14.598Z"
+  },
+  {
+    "job_id": "f65df1ed3ee4d730",
+    "title": "Software Engineer, Money Movement",
+    "company": "stripe",
+    "location": "London",
+    "url": "https://stripe.com/jobs/search?gh_jid=7208537",
+    "description": "&lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world&#39;s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;About the team&lt;/h3&gt; &lt;p&gt;Exact team matching for one of the subteams within the following orgs will begin during final stages. If you have a strong preference for a specific org, please flag this to your recruiter during your recruiter screen.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Money as a Service (MaaS)&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Money as a Service is a new org within Stripe which is all about making money programmable through funding, FX&#39;ing, sending, and spending. The Money as a Service (MaaS) teams build the APIs and product experience that allow Stripe users to perfor",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:57:23-04:00",
+    "fit_score": 45,
+    "reasoning": "The candidate has strong Java and Spring Boot backend experience and cloud expertise that align with Stripe’s engineering needs, but lacks direct payments or money‑movement experience and is currently seeking part‑time work in Germany rather than a full‑time London role. Additionally, their career focus on AI solutions diverges from the core responsibilities of this position.",
+    "cover_letter_opener": "I’m excited to bring my backend and cloud expertise to Stripe’s Money Movement team and help power the next generation of global payments.",
+    "scored_at": "2026-09-01T13:52:16.672Z"
   },
   {
     "job_id": "a1d8d4182356df36",
