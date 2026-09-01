@@ -1,5 +1,47 @@
 [
   {
+    "job_id": "bd9c489418d51cd7",
+    "title": "Account Executive, Platforms (Existing Business)",
+    "company": "stripe",
+    "location": "Sydney, Australia",
+    "url": "https://stripe.com/jobs/search?gh_jid=7456957",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3 id=&quot;about-stripe&quot;&gt;About Stripe&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies, from the world’s largest enterprises to the most ambitious startups, use Stripe to accept payments, grow revenue, and accelerate new business opportunities. Our mission is to increase the gross domestic product of the internet.&lt;/p&gt; &lt;h3 id=&quot;about-the-team&quot;&gt;About the team&lt;/h3&gt; &lt;p&gt;The Platform Sales team works with business-to-business software platforms to help them facilitate payments for their customers using Stripe Connect. Software platforms are businesses that build payments and financial services into their products. Platforms that use Stripe include Shopify, Xero, me&amp;amp;u, and Ignition.&lt;/p&gt; &lt;h3 id=&quot;what-youll-do&quot;&gt;What you’ll do&lt;/h3&gt; &lt;p&gt;As an Account Executive on the Platforms team, focused on existing business, you will use sales and product expertise to drive growth with existing Stripe users. You will help customers understand how Stripe’s online commerce infrastructure can make payments a ",
+    "source": "greenhouse",
+    "posted_at": "2026-08-31T20:15:40-04:00",
+    "fit_score": 15,
+    "reasoning": "The candidate's background is heavily technical, focusing on software development, cloud, and AI, with no demonstrated sales or account management experience. Additionally, the role is a sales position based in Sydney, while the candidate is seeking part‑time technical roles in Germany, leading to a poor overall match.",
+    "cover_letter_opener": "I am excited about Stripe’s mission to power the internet’s economy and eager to bring my technical insight to help businesses succeed on your platform.",
+    "scored_at": "2026-09-01T00:17:16.906Z"
+  },
+  {
+    "job_id": "8d5b4f9053669674",
+    "title": "Staff Fullstack Engineer (Ruby/Vue.js) Monetization Engineering: Purchase",
+    "company": "gitlab",
+    "location": "Remote, Canada; Remote, United States",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8739391002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-08-31T20:14:55-04:00",
+    "fit_score": 30,
+    "reasoning": "The candidate's experience is strong in Java, Spring Boot, and cloud platforms, but the role requires expertise in Ruby and Vue.js, which are not mentioned. While the backend and API design skills are transferable, the lack of relevant front‑end and Ruby experience limits the fit. The candidate's interest in AI aligns with GitLab's AI focus, offering some potential value.",
+    "cover_letter_opener": "I’m excited to bring my backend and cloud expertise to GitLab’s AI‑driven Monetization Engineering team and help shape the future of secure, scalable software delivery!",
+    "scored_at": "2026-09-01T00:17:16.905Z"
+  },
+  {
+    "job_id": "6467d1f89d3cfe2d",
+    "title": "Data Excellence Manager",
+    "company": "stripe",
+    "location": "US Remote, Chicago, SF, Seattle, NYC",
+    "url": "https://stripe.com/jobs/search?gh_jid=8106026",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are &lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/span&gt;&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe’s GTM Planning &amp;amp; Central Operations team partners with Sales Leadership, Finance, Product, Region Sales Strategy and Operations, and Data Engineering to build the operational processes, tools, policies, and data required to bring our GTM strategy to life. We bring expertise, rigorous thinking, and a user-first approach to problem-solving. We transform, improve, and support global Stripe business pro",
+    "source": "greenhouse",
+    "posted_at": "2026-08-31T16:17:50-04:00",
+    "fit_score": 30,
+    "reasoning": "The candidate has strong backend and cloud engineering experience, particularly with Azure, which could be useful for data infrastructure. However, the resume lacks direct experience in data governance, analytics, or data quality management that are central to a Data Excellence Manager role. Consequently, the overall alignment with the job’s core responsibilities is limited.",
+    "cover_letter_opener": "I am excited about Stripe’s mission to power the internet economy and eager to contribute my cloud engineering expertise to elevate your data excellence initiatives.",
+    "scored_at": "2026-09-01T00:17:16.907Z"
+  },
+  {
     "job_id": "6f456cfed1bcb50b",
     "title": "Staff Security Engineer, IAM",
     "company": "gitlab",
@@ -672,6 +714,20 @@
     "scored_at": "2026-08-27T00:25:01.821Z"
   },
   {
+    "job_id": "8f4cd4e56250f4e5",
+    "title": "Security Incident Response Engineer",
+    "company": "stripe",
+    "location": "US Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8142302",
+    "description": "&lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;The Security Incident Response team works to analyze, investigate, and respond to threats before they impact Stripe’s business or users. From external attacks to insider threats, our goal is to respond with speed and precision, remediate, and support the incident postmortem process. The team is distributed, working across multiple AMER time zones, and will regularly coordinate with stakeholders in EMEA and APAC.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;You will leverage your security engineering expe",
+    "source": "greenhouse",
+    "posted_at": "2026-08-25T16:17:54-04:00",
+    "fit_score": 58,
+    "reasoning": "The candidate’s background in automotive cybersecurity research and threat modeling aligns with the security focus of the role, and their cloud and backend experience provide useful technical skills. However, they lack direct incident response experience and the position is a full-time remote role in the US, while the candidate is seeking part‑time work in Germany, reducing overall fit.",
+    "cover_letter_opener": "I am thrilled to apply my cybersecurity research and cloud engineering expertise to help Stripe’s Security Incident Response team protect the global internet economy.",
+    "scored_at": "2026-09-01T00:17:16.911Z"
+  },
+  {
     "job_id": "7d0283f6c52105b0",
     "title": "Senior Product Manager, Source Code",
     "company": "gitlab",
@@ -894,6 +950,20 @@
     "reasoning": "The candidate's experience is focused on software development, cloud infrastructure, and AI, with no legal education or employment law expertise required for a Lead Legal Counsel role. Consequently, the resume does not align with the core responsibilities or qualifications of the position, resulting in a very low fit score.",
     "cover_letter_opener": "I am thrilled at the prospect of contributing my strong analytical skills and passion for innovative solutions to GitLab’s remote legal team.",
     "scored_at": "2026-08-26T03:48:45.122Z"
+  },
+  {
+    "job_id": "5034486be0451548",
+    "title": "Security Engineer, Bridge",
+    "company": "stripe",
+    "location": "SF, New York, Seattle, Dublin, Luxembourg",
+    "url": "https://stripe.com/jobs/search?gh_jid=7776179",
+    "description": "&lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world&#39;s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;About the team&lt;/h3&gt; &lt;p&gt;We&#39;re creating an entirely new payments platform, built with stablecoins, to simplify global money movement. Bridge enables faster, cheaper payments and borderless access to dollars via stablecoins. Through our APIs, businesses can send and receive funds across borders faster and cheaper vs. SWIFT and other fiat-only rails. Our virtual accounts enable international consumers and businesses to easily access, store, and spend US dollars. Our payouts infrastructure enables platforms to disburse USD to anyone globally. We believe many trillions of dollars will",
+    "source": "greenhouse",
+    "posted_at": "2026-08-24T15:06:35-04:00",
+    "fit_score": 45,
+    "reasoning": "The candidate has solid backend development experience and automotive cybersecurity research, which aligns with security fundamentals, but lacks direct experience with payment systems, Stripe's typical tech stack, and the listed office locations. Additionally, the candidate is seeking a part‑time role in Germany, whereas the position is full‑time at Stripe's global offices, reducing overall fit.",
+    "cover_letter_opener": "I’m thrilled by Stripe’s mission to power the internet economy and eager to bring my cybersecurity and cloud expertise to help secure its payment platform.",
+    "scored_at": "2026-09-01T00:17:16.909Z"
   },
   {
     "job_id": "b72d2ba408552ef8",
@@ -2100,6 +2170,34 @@
     "scored_at": "2026-08-31T09:08:46.972Z"
   },
   {
+    "job_id": "4a3049ed43c15f4d",
+    "title": "Software Engineer",
+    "company": "stripe",
+    "location": "Chicago, IL",
+    "url": "https://stripe.com/jobs/search?gh_jid=8137972",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&amp;nbsp;&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe, LLC. is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Develop scalable computer systems that manage a large volume of information and use them to fulfill business goals for Stripe and its partners.&amp;nbsp;&lt;/li&gt; &lt;li&gt;Design, implement and deploy adaptable rules systems that use this information to output internal assessments, perform scoring, and derive automated actions for mitigating financial risk and increase the effic",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:38:49-04:00",
+    "fit_score": 35,
+    "reasoning": "The candidate has solid Java backend and cloud experience with Spring Boot and Azure, which are relevant to a software engineering role at Stripe. However, they are seeking part‑time work in Germany and aim to become an AI Solutions Architect, while the Stripe position is a full‑time role based in Chicago, leading to a limited overall match.",
+    "cover_letter_opener": "I’m excited about the opportunity to bring my backend and cloud expertise to Stripe and help power the financial infrastructure that fuels the internet’s economy!",
+    "scored_at": "2026-09-01T00:17:16.913Z"
+  },
+  {
+    "job_id": "70c513730c6d8626",
+    "title": "Software Engineer, Backend Engineer- Credit Coverage",
+    "company": "stripe",
+    "location": "New York, NY",
+    "url": "https://stripe.com/jobs/search?gh_jid=8130578",
+    "description": "&lt;h3&gt;&amp;nbsp;&lt;/h3&gt; &lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe &lt;/strong&gt;&lt;strong&gt;#LI-DNI&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe, LLC. is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/h3&gt; &lt;ul&gt; &lt;li&gt; &lt;p&gt;Work with a wide range of systems, processes and technologies to own and solve problems from end-to-end.&amp;nbsp;&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;Collaborate with engineers, designers, data scientists, and product managers to develop new features and products.&amp;nbsp;&lt;/p&gt; &lt;/li&gt; &lt;li&gt; ",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:38:49-04:00",
+    "fit_score": 55,
+    "reasoning": "The candidate has solid Java backend experience with Spring Boot and REST API design, which aligns with Stripe's backend engineering needs. However, their current focus on part‑time roles in Germany and a career goal toward AI solutions architecture diverges from the full‑time New York position, reducing overall fit.",
+    "cover_letter_opener": "I’m excited to bring my Java and cloud backend expertise to Stripe’s innovative payment platform and help power the internet’s economy.",
+    "scored_at": "2026-09-01T00:17:16.915Z"
+  },
+  {
     "job_id": "76196c94c637b702",
     "title": "ARG Engineering Manager",
     "company": "stripe",
@@ -2268,6 +2366,20 @@
     "scored_at": "2026-08-31T18:32:03.487Z"
   },
   {
+    "job_id": "4105f20e35503dc4",
+    "title": "Security Engineer, Privy",
+    "company": "stripe",
+    "location": "NYC-Privy",
+    "url": "https://stripe.com/jobs/search?gh_jid=8073092",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are &lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Privy&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Our mission is to make privacy and user ownership the default online. To do so, we build simple, flexible APIs and tools for developers that make it easy to build new products on crypto rails.&lt;/p&gt; &lt;p&gt;Privy owns the abstractions and infrastructure layer above wallets, integrating across chains, third-party providers, and Stripe products like Treasury and Link. We get to solve hard technical problems while leveraging Stripe&#39;s distribution to reach customers like Ramp, Klarna, Deel, Kraken, Hyperliquid, and Fomo — powering experiences for both mainstream users and crypto natives.&lt;/p&gt; &lt;p&gt;Learn more about Privy:&amp;nbsp;&lt;a class=&quot; Link &quot; href=&quot;https://privy.io/blog/announcing-our-acquisition-by-stripe&quot; data-js-controller=&quot;AnalyticsButton&quot; data-analytics-category=&quot;Links&quot; data-analytics-action=&quot;Clicked&quot; data-analytics-label=&quot;Related content&quot;&gt;Privy and Stripe: Bringing crypto to everyone&lt;/a&gt;&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:38:47-04:00",
+    "fit_score": 52,
+    "reasoning": "The candidate brings solid cybersecurity research experience and strong cloud/backend skills that align with Privy's focus on secure infrastructure. However, they lack direct experience with crypto, privacy‑by‑design frameworks, and Stripe's specific ecosystem, limiting the overall match.",
+    "cover_letter_opener": "I am excited to apply my cybersecurity research and cloud engineering expertise to help Privy build the next generation of privacy‑first, crypto‑enabled products!",
+    "scored_at": "2026-09-01T00:17:16.910Z"
+  },
+  {
     "job_id": "7e8ff84ee516d695",
     "title": "Credit Risk Strategy and Analytics",
     "company": "stripe",
@@ -2308,6 +2420,20 @@
     "reasoning": "The candidate has solid backend and cloud experience with Python and Azure, which are relevant to building scalable ML services, but they lack direct machine learning, fraud detection, and leadership experience required for a Machine Learning Engineering Manager role. Additionally, the resume focuses on AI Solutions Architect aspirations rather than managing ML teams, resulting in a limited match to the senior, domain‑specific responsibilities at Stripe.",
     "cover_letter_opener": "I am thrilled by Stripe's mission to secure the internet economy and eager to contribute my cloud engineering expertise to advance your cutting‑edge fraud detection initiatives.",
     "scored_at": "2026-08-31T02:31:53.988Z"
+  },
+  {
+    "job_id": "3945c1c634ceb722",
+    "title": "Software Engineer, Authorization Infrastructure",
+    "company": "stripe",
+    "location": "N/A",
+    "url": "https://stripe.com/jobs/search?gh_jid=8069941",
+    "description": "&lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/span&gt;&lt;/p&gt; &lt;h3&gt;About the team&lt;/h3&gt; &lt;p&gt;Stripe will succeed at our mission of increasing the GDP of the internet only if we preserve Stripe users’ trust. To achieve their trust, the team is building authorization infrastructure and a platform that ensures proper authorization for users and services. We enforce access controls and provide access observability and policy governance. We collaborate with teams across Stripe to adopt our authorization platform to protect their resources, especially Stripe users’ data.&amp;nbsp; Ultimately we ensure res",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:38:46-04:00",
+    "fit_score": 55,
+    "reasoning": "The candidate has strong Java backend experience with Spring Boot and a solid background in cybersecurity research, which aligns with the security focus of an authorization infrastructure role. However, the resume lacks direct experience with payment systems, large‑scale auth platforms, and specific Stripe technologies, limiting the overall match. The candidate’s cloud expertise in Azure is transferable but not directly aligned with Stripe’s typical stack.",
+    "cover_letter_opener": "I am excited to bring my Java backend and cybersecurity expertise to Stripe’s Authorization Infrastructure team.",
+    "scored_at": "2026-09-01T00:17:16.914Z"
   },
   {
     "job_id": "f2af62ad58f6ab15",
@@ -2378,6 +2504,20 @@
     "reasoning": "The candidate's background is heavily technical, focusing on software development, cloud infrastructure, and AI, with no evident experience in product marketing, market intelligence, or related communication skills. While their analytical abilities could be valuable, the lack of marketing expertise and domain knowledge makes them a poor fit for this role.",
     "cover_letter_opener": "I am thrilled by Stripe's mission to power the global economy and eager to bring my data‑driven analytical mindset to the Product Marketing Manager, Market Intelligence team.",
     "scored_at": "2026-08-31T18:32:03.490Z"
+  },
+  {
+    "job_id": "8981b0f69b473631",
+    "title": "Senior Software Engineer",
+    "company": "stripe",
+    "location": "South San Francisco, CA ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8026511",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe, LLC. is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Lead technical discussions and implement scalable technical solutions for open-ended, medium-to-large-sized technical problems in the issued cards and financial accounts space, including account management/compliance, onboarding, fraud prevention, and more (50%);&amp;nbsp;&lt;/li&gt; &lt;li&gt;Write technical project briefs and workstream roadmaps for medium-to-large-sized technical problems",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:38:45-04:00",
+    "fit_score": 30,
+    "reasoning": "The candidate has solid backend experience with Java, Spring Boot, and cloud platforms, which aligns with Stripe's engineering needs, but lacks senior-level experience, direct payments or fintech exposure, and is based in Germany while the role is senior and US‑based. Additionally, the candidate is seeking a part‑time/werkstudent position rather than a full‑time senior role, further reducing fit.",
+    "cover_letter_opener": "I am excited to bring my cloud‑native backend expertise to Stripe’s innovative payments platform and help power the next wave of internet commerce!",
+    "scored_at": "2026-09-01T00:17:16.912Z"
   },
   {
     "job_id": "b280df97fb7c6a08",
@@ -2604,6 +2744,20 @@
     "scored_at": "2026-08-31T09:08:46.978Z"
   },
   {
+    "job_id": "c3585e979b738184",
+    "title": "Risk Strategist, Onboarding & Compliance",
+    "company": "stripe",
+    "location": "Chicago, US-Remote, Toronto",
+    "url": "https://stripe.com/jobs/search?gh_jid=7697973",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are &lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;The Onboarding and Compliance Risk Strategy team serves as a key risk management function that partners with product, engineering, and cross-functional teams to bring products to market safely and responsibly. Our work spans money movement, money storage, lending, and emerging product areas including embedded finance, stablecoin settlement, and digital assets — requiring fluency in both traditional financial regulation and t",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:38:41-04:00",
+    "fit_score": 35,
+    "reasoning": "The candidate has solid technical experience and some risk/threat modeling work in automotive cybersecurity, which aligns partially with the risk focus of the role. However, they lack direct compliance, financial services, or onboarding experience and are based in Germany while the position targets Chicago/Toronto, reducing overall fit.",
+    "cover_letter_opener": "I am excited to bring my risk modeling expertise and cloud‑native development background to help Stripe build secure and compliant onboarding experiences.",
+    "scored_at": "2026-09-01T00:17:16.908Z"
+  },
+  {
     "job_id": "9b6ef76f1594ab85",
     "title": "Android Engineer, Terminal OS Platform",
     "company": "stripe",
@@ -2700,6 +2854,20 @@
     "reasoning": "The candidate has strong backend experience with Java, Spring Boot, and cloud platforms, which aligns with building robust APIs. However, the role emphasizes full‑stack web development, crypto‑focused privacy solutions, and likely JavaScript/React expertise that are not highlighted in the resume. Consequently, the match is moderate but missing key domain and front‑end skills.",
     "cover_letter_opener": "I’m excited to bring my backend expertise and cloud‑native mindset to Privy’s mission of building privacy‑first crypto APIs at Stripe.",
     "scored_at": "2026-08-30T14:11:10.284Z"
+  },
+  {
+    "job_id": "c35c0bec612b6ba1",
+    "title": "Software Engineer, Bridge",
+    "company": "stripe",
+    "location": "San Francisco, NY, Seattle",
+    "url": "https://stripe.com/jobs/search?gh_jid=7277110",
+    "description": "&lt;p&gt;&lt;strong&gt;Who we are&lt;br&gt;About Bridge&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;We&#39;re creating an entirely new payments platform, built with stablecoins, to simplify global money movement. Bridge enables faster, cheaper payments and borderless access to dollars via stablecoins. Through our APIs, businesses can send and receive funds across borders faster and cheaper vs. SWIFT and other fiat-only rails. Our virtual accounts enable international consumers and businesses to easily access, store, and spend US dollars. Our payouts infrastructure enables platforms to disburse USD to anyone globally. We believe many trillions of dollars will move and settle through stablecoin payment rails. Bridge is pulling this future forward.&lt;/p&gt; &lt;p&gt;We have a small team of people who have previously built financial infrastructure at some of the world&#39;s leading companies (Coinbase, Stripe, Square, Brex, Upstart, DoorDash, Airbnb), and each and every one of them chose Bridge because they fundamentally believe that stablecoins will be a critical piece of financial infrastructure that allows for the improvement of global money movement.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;About t",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:38:39-04:00",
+    "fit_score": 30,
+    "reasoning": "The candidate has solid backend and cloud experience with Java, Spring Boot, REST APIs, and Azure, which are relevant to building scalable services. However, they lack specific fintech or stablecoin experience and are seeking part‑time roles in Germany, while the position is full‑time in US locations. These gaps reduce the overall match.",
+    "cover_letter_opener": "I am excited about the opportunity to help Stripe Bridge revolutionize global payments with stablecoins and bring my backend and cloud expertise to your innovative team!",
+    "scored_at": "2026-09-01T00:17:16.915Z"
   },
   {
     "job_id": "420e031b86ad49f8",
