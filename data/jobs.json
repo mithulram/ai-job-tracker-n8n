@@ -1,5 +1,89 @@
 [
   {
+    "job_id": "f0f844a8a089412f",
+    "title": "Staff Infrastructure Security Engineer (USA)",
+    "company": "gitlab",
+    "location": "Remote, United States",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8769103002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-09-02T14:15:20-04:00",
+    "fit_score": 48,
+    "reasoning": "The candidate brings valuable cybersecurity research experience and strong cloud and backend development skills, which align partially with GitLab's security focus. However, the resume lacks specific infrastructure security and DevSecOps expertise, and the candidate is seeking a German part‑time role rather than a senior US‑based position, limiting overall fit.",
+    "cover_letter_opener": "I am excited to apply my cybersecurity research and cloud engineering expertise to help GitLab secure its global infrastructure as a Staff Infrastructure Security Engineer!",
+    "scored_at": "2026-09-02T18:18:48.082Z"
+  },
+  {
+    "job_id": "3b802adc60220f62",
+    "title": "Engineering Manager, Billing Configuration",
+    "company": "stripe",
+    "location": "N/A",
+    "url": "https://stripe.com/jobs/search?gh_jid=8172601",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world&#39;s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;The Billing Configuration team enables extensibility of all Billing concepts and owns the core infrastructure needed to manage configuration changes over time and custom billing logic use cases.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;What you&#39;ll do&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;As the engineering manager for Billing Configuration, you’ll own the operational and technical direction of the platforms that let Stripe users and internal teams model, customize, and evolve how ",
+    "source": "greenhouse",
+    "posted_at": "2026-09-02T13:37:58-04:00",
+    "fit_score": 25,
+    "reasoning": "The candidate demonstrates solid backend development and cloud expertise, which are relevant to Stripe's engineering work. However, they lack direct experience with billing systems, payment infrastructure, and the senior leadership responsibilities typical of an Engineering Manager role. Consequently, the overall alignment with this specific position is limited.",
+    "cover_letter_opener": "I am excited to bring my strong backend and cloud engineering background to Stripe’s Billing Configuration team and contribute to your mission of expanding the internet’s economic reach.",
+    "scored_at": "2026-09-02T18:18:48.083Z"
+  },
+  {
+    "job_id": "f4e583bf97a4524b",
+    "title": "Staff Software Engineer, Payment Systems",
+    "company": "stripe",
+    "location": "Seattle, New York, San Francisco",
+    "url": "https://stripe.com/jobs/search?gh_jid=8172164",
+    "description": "&lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/span&gt;&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Payment Intelligence is comprised of multiple product teams building AI-first solutions to some of our customers’ biggest challenges, including fraud/abuse (&lt;a href=&quot;https://stripe.com/au/radar&quot;&gt;Radar&lt;/a&gt;), payment optimizations (&lt;a href=&quot;https://stripe.com/authorization-boost&quot;&gt;AuthBoost&lt;/a&gt;), Disputes, Authentication, and merchant analytics. We’re a mix of machine engineering engineers and full-stack software engineers impacting ~every",
+    "source": "greenhouse",
+    "posted_at": "2026-09-02T13:00:30-04:00",
+    "fit_score": 30,
+    "reasoning": "The candidate has solid Java backend experience and cloud expertise, which are relevant to Stripe's engineering work, but lacks the senior-level experience and specific payment systems background expected of a Staff Software Engineer. Additionally, the candidate is seeking a part‑time or Werkstudent role in Germany, while the position is a full‑time senior role based in the US. These gaps reduce the overall fit despite transferable technical skills.",
+    "cover_letter_opener": "I am thrilled by Stripe's mission to power the internet economy and eager to bring my backend and cloud expertise to help build the next generation of payment solutions.",
+    "scored_at": "2026-09-02T18:18:48.088Z"
+  },
+  {
+    "job_id": "017b6a0b63b67343",
+    "title": "Software Engineer",
+    "company": "stripe",
+    "location": "Seattle, WA",
+    "url": "https://stripe.com/jobs/search?gh_jid=8174105",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&amp;nbsp;&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe, LLC. is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Build scalable and reliable backend services, webhooks and public-facing APIs;&lt;/li&gt; &lt;li&gt;Write high-quality, maintainable code to reliably process and evaluate data signals in real-time, solving complex problems at scale;&lt;/li&gt; &lt;li&gt;Take ownership of medium-sized technical projects, translating requirements and constraints into reliable, secure, and explainable",
+    "source": "greenhouse",
+    "posted_at": "2026-09-02T12:57:08-04:00",
+    "fit_score": 48,
+    "reasoning": "The candidate has solid backend experience with Java, Spring Boot, and cloud platforms, which aligns with Stripe's engineering needs. However, they are seeking part‑time work in Germany and aim for AI/LLM roles, while the Stripe position is a full‑time role in Seattle focused on payments, reducing overall fit.",
+    "cover_letter_opener": "I am thrilled by Stripe’s mission to power the internet economy and eager to bring my backend and cloud expertise to help build the next generation of payment solutions.",
+    "scored_at": "2026-09-02T18:18:48.086Z"
+  },
+  {
+    "job_id": "3a409995a2d67525",
+    "title": "Integration Engineer, Metronome",
+    "company": "stripe",
+    "location": "London",
+    "url": "https://stripe.com/jobs/search?gh_jid=8171222",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are &lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/span&gt;&lt;/p&gt; &lt;p&gt;Metronome is the leading usage-based billing platform built for modern software companies. With Metronome, companies can launch products faster, offer any pricing model, and streamline finance workflows without writing code. Our platform computes millions of invoices per billing period and is scaling rapidly to accommodate new customers, saving them hours of development time and manual invoicing and enabling them to use consumption data to better serve their customers. Our cust",
+    "source": "greenhouse",
+    "posted_at": "2026-09-02T10:38:07-04:00",
+    "fit_score": 55,
+    "reasoning": "The candidate brings solid backend development experience with Java, Spring Boot, and REST API design, as well as cloud expertise in Azure, which aligns with the integration focus of the role. However, they lack specific fintech or payment processing experience and are currently based in Germany while the position is in London, which reduces the overall match. Their career goal toward AI solutions also diverges from the core responsibilities of an Integration Engineer at Stripe.",
+    "cover_letter_opener": "I am excited to apply my strong integration and cloud engineering background to help Stripe accelerate its mission of increasing the internet's GDP.",
+    "scored_at": "2026-09-02T18:18:48.084Z"
+  },
+  {
+    "job_id": "2c00ce89732f2f55",
+    "title": "Risk Strategist - Screening (Financial Crimes)",
+    "company": "stripe",
+    "location": "US-Chicago; US-Atlanta; US-Remote; Canada-Toronto; Canada-Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=7874862",
+    "description": "&lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world&#39;s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;About the team&lt;/h3&gt; &lt;p&gt;The Financial Crimes Risk Strategy team owns our first-line AML and sanctions programs globally. We own the end-to-end lifecycle of financial crime controls. We set the global standards that govern how risk is managed across our programs, design and drive the development of controls, infrastructure, and tooling with Engineering, Product, and Data Science, and maintain their effectiveness as our products and the regulatory landscape evolve. We build fast, with data, and with AI integrated into how financial crime risk is detected, managed, and monitored across ",
+    "source": "greenhouse",
+    "posted_at": "2026-09-02T09:58:29-04:00",
+    "fit_score": 40,
+    "reasoning": "The candidate has solid experience in cybersecurity and threat modeling, which aligns with risk assessment aspects of the role. However, their background is focused on automotive security and software development rather than financial crimes, and they are based in Germany seeking part‑time positions, which limits direct relevance to Stripe’s full‑time Risk Strategist position.",
+    "cover_letter_opener": "I am excited to bring my cybersecurity and risk‑modeling expertise to Stripe’s Risk Strategist team, helping protect the global economy from financial crime.",
+    "scored_at": "2026-09-02T18:18:48.085Z"
+  },
+  {
     "job_id": "3b92a96da1c60356",
     "title": "Engineering Manager, Dedicated Integrations Team",
     "company": "gitlab",
@@ -56,6 +140,20 @@
     "scored_at": "2026-09-01T22:58:08.318Z"
   },
   {
+    "job_id": "8699eb576f496721",
+    "title": "Staff Software Engineer, Payments Intelligence",
+    "company": "stripe",
+    "location": "Seattle, New York, San Francisco",
+    "url": "https://stripe.com/jobs/search?gh_jid=7986004",
+    "description": "&lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/span&gt;&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Payment Intelligence is comprised of multiple product teams building AI-first solutions to some of our customers’ biggest challenges, including fraud/abuse (&lt;a href=&quot;https://stripe.com/au/radar&quot;&gt;Radar&lt;/a&gt;), payment optimizations (&lt;a href=&quot;https://stripe.com/authorization-boost&quot;&gt;AuthBoost&lt;/a&gt;), Disputes, Authentication, and merchant analytics. We’re a mix of machine engineering engineers and full-stack software engineers impacting ~every",
+    "source": "greenhouse",
+    "posted_at": "2026-09-01T17:59:17-04:00",
+    "fit_score": 30,
+    "reasoning": "The candidate has solid Java and cloud backend experience, but lacks specific payments domain knowledge and the senior-level expertise typically required for a Staff Software Engineer role at Stripe. Additionally, the resume focuses on AI and automotive cybersecurity rather than large‑scale payments intelligence, resulting in a modest fit.",
+    "cover_letter_opener": "I’m excited to bring my backend and cloud expertise to Stripe’s Payments Intelligence team and help power the next generation of internet commerce.",
+    "scored_at": "2026-09-02T18:18:48.087Z"
+  },
+  {
     "job_id": "5d98b106fc9311cb",
     "title": "Manager, Solutions Architecture- Enterprise Hunter",
     "company": "stripe",
@@ -96,6 +194,20 @@
     "reasoning": "The candidate has solid backend and cloud architecture experience with Java, Spring Boot, and Azure, which aligns with the technical foundation of a solutions architect role. However, they lack direct experience in payments, financial services, and Stripe's typical AWS-centric stack, and the role likely requires deeper domain expertise in money management. Their current focus on AI and automotive cybersecurity also diverges from the core responsibilities of this position.",
     "cover_letter_opener": "I am excited about the opportunity to bring my cloud architecture expertise to Stripe and help shape innovative money‑management solutions for customers worldwide.",
     "scored_at": "2026-09-02T02:08:12.228Z"
+  },
+  {
+    "job_id": "9b881e0f12da8ded",
+    "title": "Staff Software Engineer, Storage Abstractions",
+    "company": "stripe",
+    "location": "San Francisco, Seattle",
+    "url": "https://stripe.com/jobs/search?gh_jid=8171539",
+    "description": "&lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/span&gt;&lt;/p&gt; &lt;h3&gt;About the team&lt;/h3&gt; &lt;p&gt;The Storage Abstractions (STAX) team builds the software layer through which Stripe services access stored data. We own the database SDKs that hundreds of Ruby and Java services use to read and write data safely, reliably, and efficiently without needing to understand the underlying database, routing, or operational complexity.&lt;/p&gt; &lt;p&gt;Our work creates leverage across Stripe: by providing stable interfaces and safeguards at the storage layer, we help teams build products with confidence while enab",
+    "source": "greenhouse",
+    "posted_at": "2026-09-01T14:44:06-04:00",
+    "fit_score": 20,
+    "reasoning": "The candidate has solid backend development experience with Java, Spring Boot, and cloud services, but the role requires deep expertise in storage systems, large‑scale infrastructure, and senior‑level design, which are not demonstrated. Additionally, the position is a senior staff role based in the US, while the candidate is seeking a part‑time student position in Germany. Therefore the overall match is limited.",
+    "cover_letter_opener": "I’m excited to bring my backend and cloud expertise to Stripe’s innovative storage abstraction team and help power the internet’s financial infrastructure.",
+    "scored_at": "2026-09-02T18:18:48.092Z"
   },
   {
     "job_id": "c6e13e89d8ce2c5f",
@@ -460,6 +572,20 @@
     "reasoning": "The candidate has strong software engineering experience with Java, Spring Boot, and cloud platforms, and solid Python skills, but lacks demonstrated machine learning, data engineering, or financial services experience required for a Staff ML Engineer role. Additionally, the position is senior and located in New York, while the candidate is seeking part‑time roles in Germany, further reducing alignment.",
     "cover_letter_opener": "I am excited to bring my strong backend and cloud expertise to Stripe’s Financial Connections team, helping to build innovative machine‑learning solutions for secure open‑banking data.",
     "scored_at": "2026-09-02T07:30:52.328Z"
+  },
+  {
+    "job_id": "3e32ee5d8162d8f9",
+    "title": "Staff Software Engineer - Premium Merchant Experiences",
+    "company": "stripe",
+    "location": "Dublin",
+    "url": "https://stripe.com/jobs/search?gh_jid=7925073",
+    "description": "&lt;h3&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h3&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;The Premium Merchant Experiences team helps businesses using Stripe succeed by providing high-quality, contextual, and timely premium support options. Our Dublin-based team is a startup within Stripe, building a greenfield product – offering both automated, AI-driven support and improved access to technical experts across Stripe. In addition to building directly for Stripe&#39;s merchants, we are responsible for building robust internal tooling that empowers Stripe employees in supp",
+    "source": "greenhouse",
+    "posted_at": "2026-08-31T12:15:20-04:00",
+    "fit_score": 35,
+    "reasoning": "The candidate has solid Java backend and cloud experience with Spring Boot, REST APIs, and Azure, which aligns with Stripe’s engineering stack, but the role is a senior staff position requiring extensive payments domain expertise and leadership experience that the resume does not demonstrate. Additionally, the candidate is seeking part‑time work in Germany, whereas the job is a full‑time staff role based in Dublin.",
+    "cover_letter_opener": "I’m thrilled by Stripe’s mission to power the internet economy and eager to bring my backend and cloud expertise to help build premium merchant experiences.",
+    "scored_at": "2026-09-02T18:18:48.090Z"
   },
   {
     "job_id": "8b70c68933e0c088",
@@ -3374,6 +3500,20 @@
     "scored_at": "2026-09-02T13:09:57.549Z"
   },
   {
+    "job_id": "160ed8fb9445de76",
+    "title": "Staff Software Engineer, Service Infrastructure",
+    "company": "stripe",
+    "location": "AMER",
+    "url": "https://stripe.com/jobs/search?gh_jid=8090141",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;The Service Infrastructure team is responsible for empowering teams to build highly reliable and performant services, backing our payment systems, fraud detection, and a multitude of other products. As an infrastructure team, you will build and expand the service frameworks to make complex systems easy to use, resilient, and scalable. We build powerful interfaces for engineers that depend on these systems—deployment, load balancers, web framework, databases, Kafka, and Kubernetes—wh",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:38:46-04:00",
+    "fit_score": 30,
+    "reasoning": "The candidate has solid Java and Spring Boot backend experience and Azure cloud certifications, which align with service infrastructure work. However, the role is a senior staff position focused on large‑scale payment systems in the AMER region, while the candidate is a graduate student in Germany seeking part‑time work and lacks deep distributed systems experience. Therefore the overall fit is limited.",
+    "cover_letter_opener": "I’m thrilled by Stripe’s mission to power the internet economy and eager to bring my cloud‑native backend expertise to help build resilient service infrastructure.",
+    "scored_at": "2026-09-02T18:18:48.091Z"
+  },
+  {
     "job_id": "f2af62ad58f6ab15",
     "title": "Full Stack Engineer, Support Experience (Greater China Support)",
     "company": "stripe",
@@ -3512,6 +3652,20 @@
     "reasoning": "The candidate has solid Java and cloud experience with Azure, but the role is a senior staff position focused on large‑scale deployment platforms, typically requiring extensive experience with infrastructure automation, Kubernetes, and production‑grade systems, which are not evident in the resume. Additionally, the candidate is seeking a part‑time/werkstudent role in Germany, while the position is a full‑time senior role in Seattle, further reducing fit.",
     "cover_letter_opener": "I’m thrilled by Stripe’s mission to power the internet economy and eager to contribute my cloud‑native backend expertise to the Deployment Platform team.",
     "scored_at": "2026-09-02T13:09:57.553Z"
+  },
+  {
+    "job_id": "008d99eebc161a70",
+    "title": "Staff Software Engineer, Product Risk",
+    "company": "stripe",
+    "location": "Toronto",
+    "url": "https://stripe.com/jobs/search?gh_jid=8112043",
+    "description": "&lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/span&gt;&lt;/p&gt; &lt;h3&gt;About the team&lt;/h3&gt; &lt;p&gt;Product and Risk Data Engineering is Stripe&#39;s single source of truth data engineering layer for Payments, Risk, and Product — we enable Stripe to confidently run, measure, and grow the business by making accurate information easy to access. We curate and maintain high-quality data warehouses and pipelines that serve as the authoritative foundation for product and financial activity across Stripe, powering analytics, ML capabilities, agentic workflows, and merchant-facing data interfaces. Beyond building ",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:38:45-04:00",
+    "fit_score": 30,
+    "reasoning": "The candidate has solid backend development experience with Java, Spring Boot, and Python, and a research background in automotive cybersecurity that aligns with risk and security concerns. However, the role is a senior staff position at Stripe requiring extensive product risk experience and leadership, which the candidate’s current Werkstudent status and limited senior-level exposure do not meet. Additionally, the candidate is based in Germany while the role is in Toronto, further reducing fit.",
+    "cover_letter_opener": "I am excited to bring my cybersecurity research and backend expertise to Stripe’s Product Risk team and help safeguard the global economy.",
+    "scored_at": "2026-09-02T18:18:48.090Z"
   },
   {
     "job_id": "b280df97fb7c6a08",
@@ -3736,6 +3890,20 @@
     "reasoning": "The candidate has solid backend and cloud experience and automotive cybersecurity research, which aligns partially with Stripe's product security focus. However, the role is a full‑time position in Seattle while the candidate seeks part‑time work in Germany and aims toward AI architecture, reducing overall suitability.",
     "cover_letter_opener": "I am excited to bring my cybersecurity research and cloud‑native backend expertise to Stripe’s Product Security Data Platforms team.",
     "scored_at": "2026-09-01T18:07:36.245Z"
+  },
+  {
+    "job_id": "ef7c1f93ee60e0d3",
+    "title": "Staff Software Engineer, Stripe Dashboard",
+    "company": "stripe",
+    "location": "Seattle",
+    "url": "https://stripe.com/jobs/search?gh_jid=7746721",
+    "description": "&lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world&#39;s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;About the team&lt;/h3&gt; &lt;p&gt;The Merchant Experience team builds the UI operating system and core experiences that power decades of growth for millions of businesses globally, enabling Stripe to be the business SaaS solution of choice for next-gen companies. We own the foundational platforms and product surfaces that merchants interact with every day—from the Stripe Dashboard to the frameworks and tooling that hundreds of Stripe engineers use to build world-class user interfaces.&lt;/p&gt; &lt;p&gt;We&#39;re at an inflection point. AI is fundamentally changing how users interact with soft",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:38:42-04:00",
+    "fit_score": 30,
+    "reasoning": "The candidate has solid Java and Spring Boot backend experience and cloud skills, but the role is a senior staff position focused on large‑scale payment infrastructure and the Stripe Dashboard, which requires deep expertise in payments, distributed systems, and leadership experience that are not evident in the resume. Additionally, the candidate is seeking a part‑time student role in Germany, while the position is a full‑time staff role in Seattle.",
+    "cover_letter_opener": "I’m thrilled by Stripe’s mission to power the internet economy and eager to contribute my backend and cloud expertise to enhance the Stripe Dashboard experience.",
+    "scored_at": "2026-09-02T18:18:48.093Z"
   },
   {
     "job_id": "d3d0c7c7216a3957",
