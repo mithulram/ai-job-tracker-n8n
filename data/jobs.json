@@ -42,6 +42,20 @@
     "scored_at": "2026-09-01T22:58:08.319Z"
   },
   {
+    "job_id": "5e2dfc399133f8c5",
+    "title": "Specialist Solutions Architect, Money Management",
+    "company": "stripe",
+    "location": "NYC, SF, Chi, Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=7370967",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;At Stripe, you have an unprecedented opportunity to put the global economy within everyone’s reach. Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead.&amp;nbsp;&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;The Solutions Architecture Team partners with our users to realize their full potential through the adoption of prescriptive solutions that drive their growth and success.&lt;/p&gt; &lt;p&gt;Specialist Solutions Architects (SSA) are domain experts aligned to specific Stripe products. We have in-depth knowledge of specific solution offerings and understanding of customer’s challenges. We advise the broader pre-sales team and work with customers on complex opportunities, support revenue attainment for the product line, serve",
+    "source": "greenhouse",
+    "posted_at": "2026-09-01T15:25:33-04:00",
+    "fit_score": 35,
+    "reasoning": "The candidate has solid backend and cloud architecture experience with Java, Spring Boot, and Azure, which aligns with the technical foundation of a solutions architect role. However, they lack direct experience in payments, financial services, and Stripe's typical AWS-centric stack, and the role likely requires deeper domain expertise in money management. Their current focus on AI and automotive cybersecurity also diverges from the core responsibilities of this position.",
+    "cover_letter_opener": "I am excited about the opportunity to bring my cloud architecture expertise to Stripe and help shape innovative money‑management solutions for customers worldwide.",
+    "scored_at": "2026-09-02T02:08:12.228Z"
+  },
+  {
     "job_id": "c6e13e89d8ce2c5f",
     "title": "Software Engineer, Platform Infrastructure",
     "company": "stripe",
@@ -350,6 +364,20 @@
     "scored_at": "2026-09-01T08:11:01.750Z"
   },
   {
+    "job_id": "a80287435a6dea29",
+    "title": "Solutions Consultant, Enterprise (Presales)",
+    "company": "stripe",
+    "location": "San Francisco, CA, Chicago, IL, New York, NY",
+    "url": "https://stripe.com/jobs/search?gh_jid=8168151",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;The Solutions Architecture Team partners with our users to realize their full potential through the adoption of prescriptive solutions that drive their growth and success. We influence revenue growth across Stripe’s product portfolio, and collaborate with sales, support, product management, and Stripe’s executive team to provide the best experience to our most valued customers.&amp;nbsp;&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;As a member ",
+    "source": "greenhouse",
+    "posted_at": "2026-08-31T17:14:06-04:00",
+    "fit_score": 30,
+    "reasoning": "The candidate has strong backend and cloud development experience, especially with Azure, which aligns with the technical aspects of a Solutions Consultant role. However, they lack direct experience in payments, presales consulting, and the US market focus of Stripe, making the overall fit modest. Their career goal toward AI solutions architecture also diverges from the immediate presales focus.",
+    "cover_letter_opener": "I am excited to bring my cloud‑native development expertise and passion for innovative enterprise solutions to Stripe’s Solutions Consultant team.",
+    "scored_at": "2026-09-02T02:08:12.223Z"
+  },
+  {
     "job_id": "6467d1f89d3cfe2d",
     "title": "Data Excellence Manager",
     "company": "stripe",
@@ -460,6 +488,20 @@
     "reasoning": "The candidate demonstrates solid backend and cloud engineering skills with Java, Spring Boot, and Azure, which are relevant to Stripe’s infrastructure. However, they lack direct experience in billing systems, payments, and managerial responsibilities required for an Engineering Manager role. Consequently, the overall fit is limited.",
     "cover_letter_opener": "I’m excited to bring my backend and cloud expertise to Stripe’s Billing Configuration team and help power the next generation of internet commerce.",
     "scored_at": "2026-08-30T02:37:31.122Z"
+  },
+  {
+    "job_id": "d4690147774ad1ac",
+    "title": "Specialist Solutions Architect, Payments (Mandarin Speaking)",
+    "company": "stripe",
+    "location": "Singapore",
+    "url": "https://stripe.com/jobs/search?gh_jid=8119970",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are &lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;Who We Are&lt;/h3&gt; &lt;h4&gt;About Stripe&lt;/h4&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies from the world’s largest enterprises to the most ambitious startups use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt; &lt;h4&gt;About the Team&lt;/h4&gt; &lt;p&gt;Specialist Solutions Architects (SSAs) are domain experts aligned to specific Stripe solutions and customer buying centers. We bring deep technical and industry knowledge to complex customer opportunities, advise the broader pre-sales organisation, support pipeline development and revenue attainment, and provide critical market insight to Stripe’s product and engineering teams.&lt;/p&gt; &lt;p&gt;This role will be Stripe’s dedicated Payments and Optimised Checkout specialist in APAC. Based in Singapore, you",
+    "source": "greenhouse",
+    "posted_at": "2026-08-28T20:45:21-04:00",
+    "fit_score": 30,
+    "reasoning": "The candidate has strong backend and cloud engineering experience, which aligns with a solutions architect role, but lacks specific payments industry exposure, Mandarin language skills, and familiarity with Stripe’s typical tech stack. Additionally, the candidate is based in Germany and seeking part‑time roles, while the position is full‑time in Singapore, further reducing fit.",
+    "cover_letter_opener": "I am thrilled by Stripe’s mission to power the global economy and eager to bring my cloud‑native backend expertise to help shape innovative payment solutions.",
+    "scored_at": "2026-09-02T02:08:12.231Z"
   },
   {
     "job_id": "66825117de4a96cd",
@@ -754,6 +796,20 @@
     "reasoning": "The candidate's background is focused on software engineering, cloud infrastructure, and AI, with no demonstrated experience in marketing, branding, or regional market strategy. Additionally, the role requires leadership in Southeast Asian markets, which does not align with the candidate's current academic and technical focus in Germany. Therefore, the resume is a poor match for this Head of Marketing position.",
     "cover_letter_opener": "I am thrilled at the prospect of contributing to Stripe's mission by driving innovative growth strategies across Southeast Asia.",
     "scored_at": "2026-08-30T18:20:21.931Z"
+  },
+  {
+    "job_id": "c3c80ba95077ea56",
+    "title": "Specialist Solutions Architect, Data",
+    "company": "stripe",
+    "location": "SF, NY, Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8144262",
+    "description": "&lt;h2&gt;Who We Are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world&#39;s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;About The Team&lt;/h3&gt; &lt;p&gt;Specialist Solutions Architects (SSA) are domain experts aligned to specific Stripe solutions and customer buying centers. We have in-depth knowledge of specific solution offerings and a deep understanding of customer challenges. We align with specialist product sellers on deals, advise the broader pre-sales team on complex opportunities, support pipeline development and revenue attainment, serve as an advisor on go-to-market sales plays, and provide critical insights to our product and engineering teams.&lt;/p&gt; &lt;h2&gt;What You&#39;ll Do&lt;/h2&gt; &lt;p",
+    "source": "greenhouse",
+    "posted_at": "2026-08-26T20:33:39-04:00",
+    "fit_score": 45,
+    "reasoning": "The candidate brings solid backend development and cloud expertise with Azure, Java, and Python, which are valuable for a solutions architect role. However, the job focuses on data architecture at Stripe, typically requiring deep experience with data pipelines, analytics, and often AWS, which are not highlighted in the resume. Additionally, the candidate is seeking a part‑time student position, while Stripe’s specialist role is likely full‑time and senior-level.",
+    "cover_letter_opener": "I am thrilled by Stripe’s mission to expand the internet economy and eager to apply my cloud and backend expertise to help shape innovative data solutions for your platform.",
+    "scored_at": "2026-09-02T02:08:12.227Z"
   },
   {
     "job_id": "7d7ae71d99445546",
@@ -1652,6 +1708,34 @@
     "scored_at": "2026-08-26T00:47:21.316Z"
   },
   {
+    "job_id": "4c263e00b4be4349",
+    "title": "Staff Backend Engineer - CI Services",
+    "company": "stripe",
+    "location": "Dublin",
+    "url": "https://stripe.com/jobs/search?gh_jid=8089815",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;The Developer Productivity group is responsible for making Stripe’s developers happy and productive. We work on tools, processes, and code refactoring to accelerate Stripe engineering as Stripe scales.&lt;/p&gt; &lt;p&gt;We’re looking for people with an interest in building the tools to improve the day to day experience of Engineers in Stripe. The ideal candidate will have a passion for solving developer experience problems, and a pragmatic ability to ship results iteratively—powere",
+    "source": "greenhouse",
+    "posted_at": "2026-08-21T10:43:52-04:00",
+    "fit_score": 35,
+    "reasoning": "The candidate has solid Java and Spring Boot backend experience, which aligns with Stripe's backend engineering needs. However, the role is a senior staff position focused on CI services and requires extensive experience and seniority, while the candidate is a student seeking part‑time work and lacks specific CI/CD expertise. Additionally, the location mismatch (Dublin vs Germany) further reduces the fit.",
+    "cover_letter_opener": "I’m excited to bring my Java and Spring Boot expertise to Stripe’s world‑class backend team and help power the financial infrastructure that fuels the internet’s economy.",
+    "scored_at": "2026-09-02T02:08:12.233Z"
+  },
+  {
+    "job_id": "06f7b0c314fc2304",
+    "title": "Staff Backend Engineer, Datalake Platform",
+    "company": "stripe",
+    "location": "Dublin ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8035723",
+    "description": "&lt;p&gt;&lt;strong&gt;Who We Are&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;About Stripe&amp;nbsp;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies — from the world&#39;s largest enterprises to the most ambitious startups — use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;About the Team&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;The Datalake team builds and maintains Stripe&#39;s foundational data access and governance infrastructure — the paved path for safe, fast, and compliant access to Stripe&#39;s critical big data assets. We serve developers, data engineers, analysts, ML and AI teams, security teams, and business users across the company. The team is in the middle of a significant architectural transition as Stripe grows. We are making Stripe&#39;s data lake a first-class citizen of th",
+    "source": "greenhouse",
+    "posted_at": "2026-08-21T10:43:20-04:00",
+    "fit_score": 30,
+    "reasoning": "The candidate has solid Java backend experience with Spring Boot and cloud skills, which aligns with Stripe's backend needs. However, the role is a senior staff position focused on data lake engineering, requiring extensive experience with large‑scale data pipelines, distributed systems, and likely languages such as Scala or Go, which are not evident in the resume. Additionally, the candidate is seeking a part‑time student role in Germany, while the position is a full‑time staff role in Dublin, reducing overall fit.",
+    "cover_letter_opener": "I am excited to bring my Java and cloud expertise to Stripe’s Datalake Platform and help power the next generation of internet commerce.",
+    "scored_at": "2026-09-02T02:08:12.234Z"
+  },
+  {
     "job_id": "af758a0900f4cfc1",
     "title": "Senior Manager, Product Security Engineering (Security Posture & Supply Chain)",
     "company": "gitlab",
@@ -1778,6 +1862,20 @@
     "scored_at": "2026-08-29T22:59:41.512Z"
   },
   {
+    "job_id": "6a3eb2158a63e98e",
+    "title": "Specialist Solutions Architect, Crypto & Stablecoins",
+    "company": "stripe",
+    "location": "US-NY",
+    "url": "https://stripe.com/jobs/search?gh_jid=7120766",
+    "description": "&lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;At Stripe, you have an unprecedented opportunity to put the global economy within everyone&#39;s reach. Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world&#39;s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead.&lt;/p&gt; &lt;h3&gt;About the team&lt;/h3&gt; &lt;p&gt;The Solutions Architecture Team partners with our users to realize their full potential through the adoption of prescriptive solutions that drive their growth and success.&lt;/p&gt; &lt;p&gt;Specialist Solutions Architects (SSA) are domain experts aligned to specific Stripe products. We have in-depth knowledge of specific solution offerings and understanding of customers&#39; challenges. We advise the broader pre-sales team and work with customers on complex opportunities, support revenue attainment for the product line, serve as an advisor on go-to-market sales plays, enable and uplevel the broader GTM organi",
+    "source": "greenhouse",
+    "posted_at": "2026-08-20T14:36:18-04:00",
+    "fit_score": 30,
+    "reasoning": "The candidate has solid cloud architecture and backend development experience, especially with Azure, which aligns with a solutions architect role. However, they lack specific experience in crypto, stablecoins, payments infrastructure, and the US‑based financial domain that Stripe focuses on. Additionally, the geographic mismatch and career focus on AI rather than fintech further reduce the fit.",
+    "cover_letter_opener": "I am excited to bring my cloud architecture expertise and passion for innovative financial technologies to help Stripe shape the future of crypto and stablecoin solutions!",
+    "scored_at": "2026-09-02T02:08:12.226Z"
+  },
+  {
     "job_id": "80e6a501c10ba5de",
     "title": "Manager, Support Engineering, US Government",
     "company": "gitlab",
@@ -1876,6 +1974,20 @@
     "scored_at": "2026-09-01T22:58:08.326Z"
   },
   {
+    "job_id": "5e4c2e7df7ff0805",
+    "title": "Specialist Solutions Architect, Payments",
+    "company": "stripe",
+    "location": "London, Dublin",
+    "url": "https://stripe.com/jobs/search?gh_jid=8119967",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are &lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/span&gt;&lt;/p&gt; &lt;h3&gt;About the team&lt;/h3&gt; &lt;p class=&quot;p1&quot;&gt;Specialist Solutions Architects (SSA) are domain experts aligned to specific Stripe solutions and customer buying centers. We have in-depth knowledge of specific solution offerings and a deep understanding of customer challenges. We align with specialist product sellers on deals, advise the broader pre-sales team on complex opportunities, support pipeline development and revenue attainment, serve as an advisor on go-to-ma",
+    "source": "greenhouse",
+    "posted_at": "2026-08-20T11:49:19-04:00",
+    "fit_score": 45,
+    "reasoning": "The candidate brings solid backend development experience with Java, Spring Boot, and cloud expertise on Azure, which aligns with the architectural aspects of the role. However, they lack direct payments industry experience, familiarity with Stripe's typical tech stack (often AWS), and the seniority expected for a specialist solutions architect, while also being based in Germany. These gaps reduce the overall fit despite strong technical foundations.",
+    "cover_letter_opener": "I am thrilled by Stripe’s mission to power the internet economy and eager to apply my cloud‑native backend expertise to help shape the future of payments solutions.",
+    "scored_at": "2026-09-02T02:08:12.229Z"
+  },
+  {
     "job_id": "c8a898e51f0ebb01",
     "title": "Solutions Architect, Enterprise",
     "company": "stripe",
@@ -1944,6 +2056,20 @@
     "reasoning": "The candidate has solid backend and cloud experience with Java, Spring Boot, and Azure, but the role is a senior global leadership position focused on billing solutions at Stripe, requiring extensive payments architecture and management experience which the resume does not demonstrate. Additionally, the candidate is seeking a part‑time student role in Germany, whereas the job is a full‑time senior role based in San Francisco.",
     "cover_letter_opener": "I am excited about the opportunity to bring my cloud‑native architecture expertise to Stripe’s billing platform and help drive innovative payment solutions worldwide.",
     "scored_at": "2026-08-30T18:20:21.925Z"
+  },
+  {
+    "job_id": "ed3e77c615c5f8e5",
+    "title": "Specialist Solutions Architect, Radar (Fraud/Risk)",
+    "company": "stripe",
+    "location": "NY or SF",
+    "url": "https://stripe.com/jobs/search?gh_jid=7365914",
+    "description": "&lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world&#39;s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;About the team&lt;/h3&gt; &lt;p&gt;Specialist Solutions Architects (SSA) are domain experts aligned to specific Stripe solutions and customer buying centers. We have in-depth knowledge of specific solution offerings and understanding of customers&#39; challenges. We advise the broader pre-sales team on complex opportunities, support pipeline development and revenue attainment, serve as an advisor on go-to-market sales plays, and provide critical insights to our product and engineering teams.&lt;/p&gt; &lt;p&gt;Stripe Radar is Stripe&#39;s fully integrated fraud and risk management platform. The",
+    "source": "greenhouse",
+    "posted_at": "2026-08-20T11:36:59-04:00",
+    "fit_score": 45,
+    "reasoning": "The candidate demonstrates solid backend and cloud engineering experience with Java, Spring Boot, and Azure, and has cybersecurity research background, which aligns partially with Stripe's fraud and risk focus. However, they lack specific fraud/risk product experience, AWS familiarity, and are seeking a part‑time role in Germany rather than a full‑time position in NY/SF, reducing overall fit.",
+    "cover_letter_opener": "I am excited to bring my cybersecurity research and cloud architecture expertise to Stripe’s Radar team, helping protect merchants worldwide from fraud.",
+    "scored_at": "2026-09-02T02:08:12.232Z"
   },
   {
     "job_id": "66d1afc553fef84f",
@@ -2800,6 +2926,20 @@
     "scored_at": "2026-08-31T02:31:53.993Z"
   },
   {
+    "job_id": "f6fecdf9754627d4",
+    "title": "Specialist Solutions Architect, Tax",
+    "company": "stripe",
+    "location": "Chicago, Atlanta, Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8090244",
+    "description": "&lt;h2&gt;Who We Are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world&#39;s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;About The Team&lt;/h3&gt; &lt;p&gt;Specialist Solutions Architects (SSA) are domain experts aligned to specific Stripe solutions and customer buying centers. We have in-depth knowledge of specific solution offerings and a deep understanding of customer challenges. We align with specialist product sellers on deals, advise the broader pre-sales team on complex opportunities, support pipeline development and revenue attainment, serve as an advisor on go-to-market sales plays, and provide critical insights to our product and engineering teams.&lt;/p&gt; &lt;h2&gt;What You&#39;ll Do&lt;/h2&gt; &lt;p",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:38:48-04:00",
+    "fit_score": 35,
+    "reasoning": "The candidate brings solid Java backend and cloud experience with Azure, which aligns with the architectural aspects of the role. However, they lack specific experience in payments, tax compliance, and Stripe's technology stack (e.g., AWS, payment APIs), and are currently seeking a part‑time student position rather than a senior full‑time architect role. This gap reduces the overall fit for the Specialist Solutions Architect, Tax position.",
+    "cover_letter_opener": "I am excited about the opportunity to apply my cloud‑focused backend expertise to help Stripe build innovative, scalable tax solutions for merchants worldwide.",
+    "scored_at": "2026-09-02T02:08:12.232Z"
+  },
+  {
     "job_id": "9c539a96c63db635",
     "title": "Account Executive, Enterprise Platforms, Hunter",
     "company": "stripe",
@@ -3150,6 +3290,20 @@
     "scored_at": "2026-08-31T09:08:46.979Z"
   },
   {
+    "job_id": "c674526a8f1658e6",
+    "title": "Solutions Engineer, Privy",
+    "company": "stripe",
+    "location": "LOCATION",
+    "url": "https://stripe.com/jobs/search?gh_jid=7975567",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are &lt;/strong&gt;&lt;/h2&gt; &lt;h3 id=&quot;about-privy&quot;&gt;About Privy&lt;/h3&gt; &lt;p&gt;Our mission is to make privacy and user ownership the default online. To do so, we build simple, flexible APIs and tools for developers that make it easy to build new products on crypto rails.&lt;/p&gt; &lt;p&gt;Privy owns the abstractions and infrastructure layer above wallets, integrating across chains, third-party providers, and Stripe products like Treasury and Link. We get to solve hard technical problems while leveraging Stripe&#39;s distribution to reach customers like Ramp, Klarna, Deel, Kraken, Hyperliquid, and Fomo — powering experiences for both mainstream users and crypto natives.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;At Privy, Solutions Engineering owns the technical customer journey from evaluation through launch and beyond.&lt;/p&gt; &lt;p&gt;They are the primary technical DRI throughout the entire customer lifecycle (pre-sales, integration, and post-launch support). They help customers move fast, stay unblocked, and get to production with confidence.&lt;/p&gt; &lt;p&gt;This is a high-leverage",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:38:44-04:00",
+    "fit_score": 55,
+    "reasoning": "The candidate brings solid backend development, API design, and cloud expertise, along with a security research background that aligns with Privy's focus on privacy. However, they lack direct experience with blockchain, crypto wallets, and Stripe's specific product ecosystem, which are core to the Solutions Engineer role. This results in a moderate fit, suitable for a learning-oriented position but not a perfect match.",
+    "cover_letter_opener": "I am thrilled by Privy's mission to make privacy the default online and eager to apply my backend and security expertise to help build the next generation of crypto‑powered APIs at Stripe.",
+    "scored_at": "2026-09-02T02:08:12.224Z"
+  },
+  {
     "job_id": "3f8238a3fa79f1b1",
     "title": "Account Executive, Enterprise Platforms, Hunter",
     "company": "stripe",
@@ -3358,6 +3512,20 @@
     "reasoning": "The candidate has solid technical experience and some risk/threat modeling work in automotive cybersecurity, which aligns partially with the risk focus of the role. However, they lack direct compliance, financial services, or onboarding experience and are based in Germany while the position targets Chicago/Toronto, reducing overall fit.",
     "cover_letter_opener": "I am excited to bring my risk modeling expertise and cloud‑native development background to help Stripe build secure and compliant onboarding experiences.",
     "scored_at": "2026-09-01T00:17:16.908Z"
+  },
+  {
+    "job_id": "0a3ac4323285b068",
+    "title": "Specialist Solutions Architect, Billing",
+    "company": "stripe",
+    "location": "Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=7728618",
+    "description": "&lt;h1&gt;&lt;strong&gt;Who We Are&lt;/strong&gt;&lt;/h1&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About The Team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;The Billing Solutions Architects (SA) team is a group of specialists with a deep understanding of Stripe&#39;s products and the broader subscription, billing, and payments industry. They excel at using Stripe&#39;s platform to solve complex customer problems and collaborate with sales teams to create custom solutions and provide strategic guidance to merchants. Their contributions extend to helping achieve revenue and pipeline goals, offering insights on go-to-market plans, and prov",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:38:41-04:00",
+    "fit_score": 45,
+    "reasoning": "The candidate demonstrates solid backend development and cloud architecture experience with Java, Spring Boot, and Azure, which are relevant to a solutions architect role. However, they lack direct experience in payments, billing systems, and Stripe’s typical tech stack, and their stated career focus is AI solutions rather than billing. Therefore the overall match is moderate.",
+    "cover_letter_opener": "I am excited to bring my cloud‑native backend expertise to Stripe’s billing platform and help power the next generation of internet commerce.",
+    "scored_at": "2026-09-02T02:08:12.225Z"
   },
   {
     "job_id": "9b6ef76f1594ab85",
