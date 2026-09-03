@@ -1,5 +1,47 @@
 [
   {
+    "job_id": "3c57326f444cdf18",
+    "title": "Senior Backend Engineer",
+    "company": "gitlab",
+    "location": "Bangalore, India",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8736862002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-09-03T03:18:05-04:00",
+    "fit_score": 30,
+    "reasoning": "The candidate has solid Java and Spring Boot backend experience, which aligns with general backend engineering requirements, but lacks specific experience with GitLab's typical tech stack and senior-level responsibilities. Additionally, the candidate is based in Germany and seeking part‑time roles, whereas the posting is for a senior full‑time position in Bangalore, reducing overall fit.",
+    "cover_letter_opener": "I am excited to bring my backend expertise and passion for AI‑enhanced DevSecOps to GitLab’s innovative engineering team!",
+    "scored_at": "2026-09-03T07:34:01.503Z"
+  },
+  {
+    "job_id": "aa5e186c095da2b8",
+    "title": "Intermediate Backend Engineer",
+    "company": "gitlab",
+    "location": "Bangalore, India",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8736877002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-09-03T02:59:02-04:00",
+    "fit_score": 45,
+    "reasoning": "The candidate's 3+ years of Java backend development with Spring Boot aligns well with the core requirements of an intermediate backend engineer. However, the candidate is based in Germany seeking part‑time roles, while the position is full‑time in Bangalore, and their career focus on AI and Azure cloud diverges from GitLab's typical tech stack.",
+    "cover_letter_opener": "I am excited to bring my strong Java and Spring Boot expertise to GitLab’s innovative backend team and help drive the next generation of DevSecOps solutions.",
+    "scored_at": "2026-09-03T07:34:01.502Z"
+  },
+  {
+    "job_id": "01ff4b797c724975",
+    "title": "Software Engineer, New Grad",
+    "company": "stripe",
+    "location": "Singapore",
+    "url": "https://stripe.com/jobs/search?gh_jid=8160776",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a technology company focused on improving the conditions for economic growth and prosperity. We build programmable financial infrastructure, rethinking from first principles how financial services should work, to make it easier and cheaper for any business to start and scale. More than 10 million &lt;a href=&quot;https://stripe.com/customers&quot;&gt;businesses&lt;/a&gt; build on Stripe, spanning the economic frontier—from solo founders to established enterprises—united by a practical focus on growth. The most ambitious companies in the world use Stripe as core infrastructure to grow faster. They process trillions of dollars a year on Stripe, equivalent to around 1.6% of global GDP. While economic growth makes everyone better off, open markets also enable greater variety. When any business can easily serve a global customer base, the quality and diversity of products in the world increase, and craft and creativity are unleashed into the smallest niches. Our own growth is wholly contingent on the success of the businesses building on Stripe. ",
+    "source": "greenhouse",
+    "posted_at": "2026-09-02T23:28:52-04:00",
+    "fit_score": 40,
+    "reasoning": "The candidate has solid backend development experience with Java and Spring Boot, which aligns with Stripe’s engineering needs, but their focus on automotive cybersecurity and AI architecture, as well as a preference for German part‑time roles, does not directly match a full‑time new‑grad position in Singapore. Additionally, the resume lacks explicit fintech or payment‑system experience that Stripe typically values.",
+    "cover_letter_opener": "I am excited to bring my strong Java and cloud backend expertise to Stripe’s innovative payment platform and help shape the future of financial infrastructure.",
+    "scored_at": "2026-09-03T07:34:01.504Z"
+  },
+  {
     "job_id": "7276c8c5e1a3151b",
     "title": "Senior Software Engineer (Ruby), Security Platform: Authorization",
     "company": "gitlab",
@@ -518,6 +560,20 @@
     "scored_at": "2026-09-01T13:52:16.669Z"
   },
   {
+    "job_id": "817e403ec46dbe5f",
+    "title": "Technical Support Engineer (EMEA)",
+    "company": "stripe",
+    "location": "London",
+    "url": "https://stripe.com/jobs/search?gh_jid=7737248",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are &lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/span&gt;&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Metronome, now part of Stripe, is the leading usage-based billing platform built for modern software companies. With Metronome, companies can launch products faster, offer any pricing model, and streamline finance workflows without writing code.&lt;/p&gt; &lt;p&gt;Our platform computes millions of invoices per billing period and is scaling rapidly to accommodate new customers, saving them hours of development time",
+    "source": "greenhouse",
+    "posted_at": "2026-09-01T09:20:12-04:00",
+    "fit_score": 45,
+    "reasoning": "The candidate has solid backend and cloud engineering experience with Java, Spring Boot, Azure, and API design, which aligns with Stripe's technical environment. However, they lack direct technical support or payments processing experience and are seeking a student/part‑time role, making the match moderate rather than strong.",
+    "cover_letter_opener": "I am excited to bring my cloud‑native development expertise to Stripe’s Technical Support team and help empower merchants across EMEA.",
+    "scored_at": "2026-09-03T07:34:01.508Z"
+  },
+  {
     "job_id": "bf8d8d7acb117502",
     "title": "Design Program Manager, Research Operations",
     "company": "stripe",
@@ -544,6 +600,20 @@
     "reasoning": "The candidate's experience is heavily technical, focusing on software development, cloud, and cybersecurity, with no demonstrated sales or account management background. While their knowledge of DevSecOps and AI aligns with GitLab's product focus, the lack of relevant business development experience makes them a poor fit for an Account Executive role.",
     "cover_letter_opener": "I am excited about GitLab’s AI‑driven DevSecOps platform and eager to leverage my technical expertise to help drive new business growth in the Netherlands.",
     "scored_at": "2026-09-01T13:52:16.668Z"
+  },
+  {
+    "job_id": "6d37f2c17315f9b1",
+    "title": "Technical Support Engineer, Metronome",
+    "company": "stripe",
+    "location": "Dublin, Ireland",
+    "url": "https://stripe.com/jobs/search?gh_jid=7860377",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are &lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/span&gt;&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Metronome, now part of Stripe, is the leading usage-based billing platform built for modern software companies. With Metronome, companies can launch products faster, offer any pricing model, and streamline finance workflows without writing code.&lt;/p&gt; &lt;p&gt;Our platform computes millions of invoices per billing period and is scaling rapidly to accommodate new customers, saving them hours of development time",
+    "source": "greenhouse",
+    "posted_at": "2026-09-01T06:28:43-04:00",
+    "fit_score": 40,
+    "reasoning": "The candidate possesses solid backend development and cloud expertise with Java, Spring Boot, Azure, and Python, which are relevant to a technical support role. However, they lack direct experience with payment platforms, Stripe's ecosystem, and dedicated support functions, and are currently seeking part‑time roles in Germany rather than a full‑time position in Dublin. This results in a moderate fit.",
+    "cover_letter_opener": "I am excited to bring my strong backend and cloud engineering background to Stripe’s Technical Support Engineer team, helping merchants worldwide succeed.",
+    "scored_at": "2026-09-03T07:34:01.509Z"
   },
   {
     "job_id": "f230072638440a40",
@@ -3738,6 +3808,34 @@
     "scored_at": "2026-09-02T13:09:57.551Z"
   },
   {
+    "job_id": "2f9176e5aa1cbd15",
+    "title": "Technical Solutions Engineering Manager",
+    "company": "stripe",
+    "location": "San Francisco or Seattle",
+    "url": "https://stripe.com/jobs/search?gh_jid=8079858",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are &lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/span&gt;&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;The Manager of the Technical Solutions Engineering (TSE) team will grow and inspire the team responsible for the success of developers and our largest users integrating with Stripe&#39;s platform &amp;amp; products.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;At Stripe we consider the developer experience to be central to the overall experience of our customers. When we do o",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:38:47-04:00",
+    "fit_score": 20,
+    "reasoning": "The candidate has strong backend and cloud experience with Java, Spring Boot, and Azure, which aligns with technical aspects of the role, but lacks senior leadership experience, payments domain knowledge, and is based in Germany seeking part‑time work, whereas the position is a senior manager role in the US. Consequently, the overall fit is limited.",
+    "cover_letter_opener": "I’m thrilled by Stripe’s mission to increase the internet’s GDP and eager to bring my cloud‑native backend expertise to help power innovative payment solutions.",
+    "scored_at": "2026-09-03T07:34:01.507Z"
+  },
+  {
+    "job_id": "3758d60b76c917a6",
+    "title": "Treasury Finance AI and Quantitative Analytics, Americas",
+    "company": "stripe",
+    "location": "NYC",
+    "url": "https://stripe.com/jobs/search?gh_jid=8079132",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are &lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/span&gt;&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;At its core, Stripe is a treasury company, and the Treasury Finance team is key to building the Global Payments and Treasury Network (GPTN). We collaborate closely with product, engineering, sales, and finance teams to create innovative solutions that enhance Stripe&#39;s financial capabilities. As part of Treasury Finance&#39;s AI and Quantitative Analytics team, you&#39;ll work at the intersection of finance, ar",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:38:47-04:00",
+    "fit_score": 30,
+    "reasoning": "The candidate has strong software engineering and cloud experience, especially with Python and Azure, which are relevant to AI and infrastructure work. However, they lack direct finance, treasury, or quantitative analytics experience and are based in Germany while the role is in NYC, resulting in a modest fit.",
+    "cover_letter_opener": "I am excited to bring my AI‑focused cloud engineering background to Stripe’s Treasury Finance AI and Quantitative Analytics team.",
+    "scored_at": "2026-09-03T07:34:01.511Z"
+  },
+  {
     "job_id": "7e8ff84ee516d695",
     "title": "Credit Risk Strategy and Analytics",
     "company": "stripe",
@@ -4298,6 +4396,20 @@
     "scored_at": "2026-09-02T02:08:12.225Z"
   },
   {
+    "job_id": "25bafab01d6b4751",
+    "title": "Technical Support Engineer, Metronome",
+    "company": "stripe",
+    "location": "San Francisco, CA",
+    "url": "https://stripe.com/jobs/search?gh_jid=7733725",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are &lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/span&gt;&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Metronome, now part of Stripe, is the leading usage-based billing platform built for modern software companies. With Metronome, companies can launch products faster, offer any pricing model, and streamline finance workflows without writing code.&lt;/p&gt; &lt;p&gt;Our platform computes millions of invoices per billing period and is scaling rapidly to accommodate new customers, saving them hours of development time",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:38:41-04:00",
+    "fit_score": 30,
+    "reasoning": "The candidate possesses solid backend and cloud engineering experience with Java, Spring Boot, and Azure, which are relevant to Stripe’s technical environment. However, they lack direct experience in payment systems, technical support, and are based in Germany while the role is in San Francisco, reducing overall fit.",
+    "cover_letter_opener": "I’m excited to bring my cloud‑native backend expertise and passion for solving complex technical challenges to Stripe’s Technical Support Engineer team.",
+    "scored_at": "2026-09-03T07:34:01.510Z"
+  },
+  {
     "job_id": "9b6ef76f1594ab85",
     "title": "Android Engineer, Terminal OS Platform",
     "company": "stripe",
@@ -4366,6 +4478,20 @@
     "reasoning": "The candidate has solid backend experience with Java, Spring Boot, and cloud platforms, which aligns partially with Stripe's engineering needs. However, the role is a senior staff position requiring extensive production-scale payment systems experience, which the resume does not demonstrate, and the candidate is seeking part‑time work in Germany rather than a full‑time role in the US. Consequently, the overall fit is limited.",
     "cover_letter_opener": "I am thrilled by Stripe's mission to expand the internet economy and eager to contribute my backend and cloud expertise to the Issuing team.",
     "scored_at": "2026-09-02T13:09:57.555Z"
+  },
+  {
+    "job_id": "4a07beca3c8469f7",
+    "title": "Technical Solutions Engineer",
+    "company": "stripe",
+    "location": "Seattle, WA, Remote-US",
+    "url": "https://stripe.com/jobs/search?gh_jid=7377101",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are &lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/span&gt;&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is beloved by developers for the simplicity of our APIs, the thoroughness of our documentation, and our focus on developer experience. The Technical Solutions Engineering (TSE) team is the glue that supports our developer-users and champions developer experience as being central to the overall experience of our users. TSE interacts directly with developer-users more than any other team at Stripe, so your ro",
+    "source": "greenhouse",
+    "posted_at": "2026-08-18T17:38:40-04:00",
+    "fit_score": 55,
+    "reasoning": "The candidate has strong backend development experience with Java, Spring Boot, and cloud expertise in Azure, which aligns with the technical problem‑solving aspects of a Solutions Engineer role. However, the resume lacks direct experience with payments, Stripe’s platform, and the US market, and focuses more on AI and automotive cybersecurity, reducing overall relevance.",
+    "cover_letter_opener": "I’m excited to bring my cloud‑native backend expertise and passion for innovative technical solutions to help Stripe accelerate the internet’s GDP.",
+    "scored_at": "2026-09-03T07:34:01.506Z"
   },
   {
     "job_id": "c26c7410a6d1fccd",
