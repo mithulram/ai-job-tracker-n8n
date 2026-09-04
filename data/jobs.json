@@ -1,5 +1,33 @@
 [
   {
+    "job_id": "3cffa0824c6fd241",
+    "title": "Talent Brand Manager",
+    "company": "gitlab",
+    "location": "Remote; Remote, Canada; Remote, United States",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8753664002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-09-03T20:35:55-04:00",
+    "fit_score": 15,
+    "reasoning": "The candidate's background is heavily technical, focusing on software development, cloud, and AI solutions, with no evident experience in brand management, marketing, or talent acquisition. While their knowledge of GitLab's DevSecOps platform could be an asset, the lack of relevant branding skills makes them a poor fit for a Talent Brand Manager role.",
+    "cover_letter_opener": "I’m excited to bring my passion for GitLab’s AI‑driven DevSecOps platform and my technical expertise to help shape and amplify the GitLab talent brand worldwide.",
+    "scored_at": "2026-09-04T02:08:42.576Z"
+  },
+  {
+    "job_id": "825c4af19fb8f0df",
+    "title": "Senior Talent Brand Manager",
+    "company": "gitlab",
+    "location": "Remote; Remote, Canada; Remote, United States",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8753656002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-09-03T20:35:51-04:00",
+    "fit_score": 15,
+    "reasoning": "The candidate's background is heavily technical, focusing on software development, cloud, and AI architecture, while the role is a senior talent brand manager requiring marketing, employer branding, and people-focused skills. There is little evidence of experience in branding, talent acquisition, or related communications, resulting in a low match.",
+    "cover_letter_opener": "I’m excited to bring my passion for technology and community building to GitLab’s innovative Talent Brand team.",
+    "scored_at": "2026-09-04T02:08:42.575Z"
+  },
+  {
     "job_id": "209e22d5988e5b23",
     "title": "Regional Marketing Manager, Latin America",
     "company": "stripe",
