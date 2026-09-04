@@ -1,5 +1,33 @@
 [
   {
+    "job_id": "a8d5a36615f438d5",
+    "title": "Product Manager, Hardware",
+    "company": "stripe",
+    "location": "San Francisco, Seattle",
+    "url": "https://stripe.com/jobs/search?gh_jid=7586413",
+    "description": "&lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/span&gt;&lt;/p&gt; &lt;h3&gt;About the team&lt;/h3&gt; &lt;p&gt;Stripe Terminal helps businesses extend their online presence into the physical world. Our mission is to make it as easy for businesses to accept in-person payments as Stripe has made it to accept payments online.&lt;/p&gt; &lt;p&gt;Terminal provides an integrated in-person payments platform spanning software, payment processing, device fleet management, and hardware. Our hardware portfolio includes Stripe-designed readers and accessories as well as devices from third-party hardware partners. Together, these",
+    "source": "greenhouse",
+    "posted_at": "2026-09-04T13:18:26-04:00",
+    "fit_score": 18,
+    "reasoning": "The candidate's background is focused on software development, cloud services, and AI, with no evident hardware or product management experience. Additionally, the candidate is based in Germany and seeks part‑time roles, while the position is a full‑time product manager role in the US. Therefore the overall fit is low despite transferable technical skills.",
+    "cover_letter_opener": "I am thrilled by Stripe’s mission to expand the internet economy and eager to bring my technical expertise to help shape innovative hardware products.",
+    "scored_at": "2026-09-04T17:57:23.502Z"
+  },
+  {
+    "job_id": "81dcbf7ffe7a11dd",
+    "title": "Investigator",
+    "company": "stripe",
+    "location": "US Remote ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8172491",
+    "description": "&lt;h1&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h1&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Abuse Operations is the front-line incident response and remediation function handling active product abuse and fraud impacting Stripe and its merchants. This multi-disciplinary group, spanning Incident Managers, Investigators, Forward Deployed Security Engineers, and Data Scientists, neutralizes active attacks, gathers requirements for operational tooling, and leads incidents. The team&amp;nbsp; works directly with impacted merchants to resolve technical incidents and policy abuse ",
+    "source": "greenhouse",
+    "posted_at": "2026-09-04T11:26:13-04:00",
+    "fit_score": 15,
+    "reasoning": "The candidate’s background is in software development, cloud architecture, and AI, which does not align with the investigative focus of the Stripe role. Additionally, the candidate seeks a part‑time position in Germany, while the posting is for a US‑based remote investigator role.",
+    "cover_letter_opener": "I’m excited about the chance to help Stripe safeguard the global economy by bringing my technical expertise and analytical mindset to the Investigator team.",
+    "scored_at": "2026-09-04T17:57:23.501Z"
+  },
+  {
     "job_id": "badbf182db9c4d9d",
     "title": "Senior Mechanical and Industrial Design Engineer",
     "company": "stripe",
