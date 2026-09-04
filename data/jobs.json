@@ -1,5 +1,33 @@
 [
   {
+    "job_id": "cd811b238d7b9047",
+    "title": "Product Support Specialist",
+    "company": "stripe",
+    "location": "Chicago",
+    "url": "https://stripe.com/jobs/search?gh_jid=8148497",
+    "description": "&lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/span&gt;&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;As part of our growing, global Product Support team, you will be a critical driver in delivering exceptional user experiences. This role goes beyond basic troubleshooting—it&#39;s about using your technical expertise, analytical mindset, and project management skills to strategically improve our support systems, processes, and product quality.&lt;/p&gt; &lt;p&gt;You will take ownership of complex, technical user issues and work across teams, including Engineering and Product, to ",
+    "source": "greenhouse",
+    "posted_at": "2026-09-04T16:41:49-04:00",
+    "fit_score": 25,
+    "reasoning": "The candidate’s strong backend and cloud experience is relevant, but the resume focuses on automotive cybersecurity and AI aspirations rather than product support or payments. Additionally, the candidate is based in Germany and seeks a part‑time role, which does not align with Stripe’s Chicago full‑time support position.",
+    "cover_letter_opener": "I’m excited to bring my technical expertise and passion for innovative solutions to Stripe’s product support team and help drive the mission of expanding the internet’s GDP.",
+    "scored_at": "2026-09-04T22:41:41.680Z"
+  },
+  {
+    "job_id": "051c1c53b35c08ef",
+    "title": "Senior Security Compliance Engineer, Public Sector",
+    "company": "gitlab",
+    "location": "Remote, United States",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8770747002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-09-04T16:27:46-04:00",
+    "fit_score": 35,
+    "reasoning": "The candidate has relevant experience in automotive cybersecurity research and strong cloud and backend skills, which align with GitLab's DevSecOps focus. However, they are a junior-level student seeking part‑time work in Germany, lack senior compliance expertise, and the role is a senior remote US position, reducing overall fit.",
+    "cover_letter_opener": "I’m excited to bring my cybersecurity research and cloud expertise to GitLab’s innovative DevSecOps team, helping secure the public sector with cutting‑edge solutions.",
+    "scored_at": "2026-09-04T22:41:41.678Z"
+  },
+  {
     "job_id": "a8d5a36615f438d5",
     "title": "Product Manager, Hardware",
     "company": "stripe",
