@@ -1,5 +1,47 @@
 [
   {
+    "job_id": "a0bdd5df5121051b",
+    "title": "New Business Account Executive - Netherlands",
+    "company": "gitlab",
+    "location": "Remote, Netherlands",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8781246002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-09-04T02:18:59-04:00",
+    "fit_score": 20,
+    "reasoning": "The candidate's background is heavily technical, focusing on software development, cloud, and AI, while the role is a sales-oriented New Business Account Executive requiring business development and client relationship skills. Lack of demonstrated sales or account management experience leads to a low fit, though their knowledge of DevSecOps and AI could be an asset if they transition to a customer‑facing role.",
+    "cover_letter_opener": "I am thrilled by GitLab’s AI‑driven DevSecOps platform and eager to leverage my technical expertise to help Dutch customers accelerate their digital transformation.",
+    "scored_at": "2026-09-04T07:35:49.396Z"
+  },
+  {
+    "job_id": "e5259c81abc93eda",
+    "title": "Bridge Operations Associate",
+    "company": "stripe",
+    "location": "Bengaluru",
+    "url": "https://stripe.com/jobs/search?gh_jid=7957302",
+    "description": "&lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;p&gt;Bridge, a Stripe company, is a rapidly growing business and the number of developers integrating our APIs is growing quickly. We provide Slack-based support to our developers on a wide range of topics in close partnership with our internal engineering team. We’re a small but mighty team that’s expanding global coverage and is looking to make our first Product Support Specialists hires in Mexico City.&lt;/p&gt; &lt;h3&gt;About the team&lt;/h3&gt; &lt;p&gt;In this role, you’ll be working directly with developers integrating Bridge APIs and helping them resolve their issues. You will take ownership",
+    "source": "greenhouse",
+    "posted_at": "2026-09-04T02:14:53-04:00",
+    "fit_score": 25,
+    "reasoning": "The candidate has solid software engineering and cloud experience, but the Bridge Operations Associate role at Stripe focuses on operational coordination and financial infrastructure rather than development. Additionally, the candidate is based in Germany and seeking part‑time roles, while the position is a full‑time role in Bengaluru, leading to a low overall match.",
+    "cover_letter_opener": "I am excited to bring my strong technical background and passion for seamless financial operations to Stripe’s Bridge Operations team.",
+    "scored_at": "2026-09-04T07:35:49.397Z"
+  },
+  {
+    "job_id": "569fc27ee54c2492",
+    "title": "Sales Manager, Enterprise Platforms, Hunter Team",
+    "company": "stripe",
+    "location": "New York, NY",
+    "url": "https://stripe.com/jobs/search?gh_jid=8155378",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;The Platform Sales team works with B2B Software Platforms to help them facilitate payments for their customers using our Stripe Connect product. Software Platforms, also known as B2B Indirect, are software platform businesses who serve other businesses. Platforms already using Stripe include Shopify, Lightspeed and Mindbody.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/h3&gt; &lt;ul&gt; &lt;li&",
+    "source": "greenhouse",
+    "posted_at": "2026-09-03T22:24:22-04:00",
+    "fit_score": 12,
+    "reasoning": "The candidate's background is heavily technical, focusing on software development, cloud infrastructure, and AI, with no demonstrated sales or enterprise platform experience. Additionally, the candidate seeks part‑time roles in Germany, while the position is a full‑time sales manager role based in New York, creating a significant mismatch.",
+    "cover_letter_opener": "I am thrilled about the opportunity to combine my technical expertise with Stripe's mission to empower businesses worldwide as part of the Enterprise Platforms sales team.",
+    "scored_at": "2026-09-04T07:35:49.398Z"
+  },
+  {
     "job_id": "3cffa0824c6fd241",
     "title": "Talent Brand Manager",
     "company": "gitlab",
