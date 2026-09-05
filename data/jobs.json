@@ -1,5 +1,33 @@
 [
   {
+    "job_id": "5d99570aaa6aaef7",
+    "title": "Staff Security Researcher",
+    "company": "gitlab",
+    "location": "Remote, Canada; Remote, Israel; Remote, United Kingdom; Remote, United States",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8782153002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-09-05T13:56:27-04:00",
+    "fit_score": 45,
+    "reasoning": "The candidate has relevant security research experience in automotive cybersecurity and strong software development skills, which align with GitLab's DevSecOps focus. However, the role is a senior staff position requiring extensive security research expertise and experience that the resume does not demonstrate, leading to a moderate fit.",
+    "cover_letter_opener": "I am excited to bring my cybersecurity research background and cloud‑native development expertise to GitLab’s innovative DevSecOps team.",
+    "scored_at": "2026-09-05T19:46:22.877Z"
+  },
+  {
+    "job_id": "eea3c2b1bb2c9e4a",
+    "title": "Principal Security Researcher",
+    "company": "gitlab",
+    "location": "Remote, Canada; Remote, Israel; Remote, United Kingdom; Remote, United States",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8731718002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-09-05T13:47:29-04:00",
+    "fit_score": 35,
+    "reasoning": "The candidate has relevant experience in automotive cybersecurity and threat modeling, and holds several cloud and programming certifications, which align with GitLab's security focus. However, the role is a senior principal position requiring extensive DevSecOps and security research expertise, which the candidate's primarily backend and student‑level experience does not fully demonstrate.",
+    "cover_letter_opener": "I am excited to bring my cybersecurity research background and cloud expertise to GitLab’s cutting‑edge DevSecOps team and help shape the future of secure software delivery.",
+    "scored_at": "2026-09-05T19:46:22.876Z"
+  },
+  {
     "job_id": "cd811b238d7b9047",
     "title": "Product Support Specialist",
     "company": "stripe",
