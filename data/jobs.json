@@ -1,5 +1,19 @@
 [
   {
+    "job_id": "4e7bb891f9d64cc2",
+    "title": "Forward Deployed Security Engineer",
+    "company": "stripe",
+    "location": "Dublin",
+    "url": "https://stripe.com/jobs/search?gh_jid=8181003",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are &lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;h3&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/span&gt;&lt;/h3&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Abuse Operations is the front-line incident response and remediation function handling active product abuse and fraud impacting Stripe and its merchants. This multi-disciplinary group, spanning Incident Managers, Investigators, Forward Deployed Security Engineers, and Data Scientists, neutralizes active attacks, gathers requirements for operational tooling, and leads incidents. The team works directly with impac",
+    "source": "greenhouse",
+    "posted_at": "2026-09-06T11:22:28-04:00",
+    "fit_score": 55,
+    "reasoning": "The candidate brings solid backend development experience and a research background in automotive cybersecurity, which aligns with the security focus of the role. However, they lack direct experience with payment platforms, Stripe's typical tech stack, and are currently seeking part‑time work in Germany rather than a full‑time position in Dublin. These gaps reduce the overall match despite strong cloud and programming skills.",
+    "cover_letter_opener": "I am excited to bring my cybersecurity research and cloud‑native development expertise to Stripe’s mission of securing the internet’s financial infrastructure!",
+    "scored_at": "2026-09-06T17:28:11.469Z"
+  },
+  {
     "job_id": "5d99570aaa6aaef7",
     "title": "Staff Security Researcher",
     "company": "gitlab",
