@@ -1,5 +1,19 @@
 [
   {
+    "job_id": "06939774497406b0",
+    "title": "Software Engineer, Intern",
+    "company": "stripe",
+    "location": "Singapore",
+    "url": "https://stripe.com/jobs/search?gh_jid=8130883",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a technology company focused on improving the conditions for economic growth and prosperity. We build programmable financial infrastructure, rethinking from first principles how financial services should work, to make it easier and cheaper for any business to start and scale. More than 10 million &lt;a href=&quot;https://stripe.com/customers&quot;&gt;businesses&lt;/a&gt; build on Stripe, spanning the economic frontier—from solo founders to established enterprises—united by a practical focus on growth. The most ambitious companies in the world use Stripe as core infrastructure to grow faster. They process trillions of dollars a year on Stripe, equivalent to around 1.6% of global GDP. While economic growth makes everyone better off, open markets also enable greater variety. When any business can easily serve a global customer base, the quality and diversity of products in the world increase, and craft and creativity are unleashed into the smallest niches. Our own growth is wholly contingent on the success of the businesses building on Stripe. ",
+    "source": "greenhouse",
+    "posted_at": "2026-09-07T01:44:20-04:00",
+    "fit_score": 45,
+    "reasoning": "The candidate has solid backend and cloud engineering experience with Java, Spring Boot, and Azure, which aligns with Stripe's engineering needs. However, they lack direct fintech or payment processing experience and are seeking a part‑time role in Germany rather than a full‑time internship in Singapore, reducing overall fit.",
+    "cover_letter_opener": "I am excited to bring my backend and cloud expertise to Stripe’s innovative financial infrastructure team.",
+    "scored_at": "2026-09-07T07:44:47.078Z"
+  },
+  {
     "job_id": "4e7bb891f9d64cc2",
     "title": "Forward Deployed Security Engineer",
     "company": "stripe",
