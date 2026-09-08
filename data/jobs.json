@@ -1,5 +1,47 @@
 [
   {
+    "job_id": "ae419439614fc0bf",
+    "title": "Account Executive, Platforms Grower (French fluency)",
+    "company": "stripe",
+    "location": "Paris",
+    "url": "https://stripe.com/jobs/search?gh_jid=8177634",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;The Platform Sales team works with B2B Software Platforms to help them facilitate payments for their customers using our Stripe Connect product. Software Platforms, also known as B2B Indirect, are software platform businesses who serve other businesses. Platforms already using Stripe include Planity, TheFork, Prestashop and Shopify. As a key member to the Stripe Platforms team, you will manage and elevate relationships with a named account list while identifying new growth opportuni",
+    "source": "greenhouse",
+    "posted_at": "2026-09-08T09:00:53-04:00",
+    "fit_score": 12,
+    "reasoning": "The candidate's background is heavily technical, focusing on software development, cloud, and AI, with no demonstrated sales, account management, or French language experience required for the Account Executive role. Consequently, the resume aligns poorly with the core responsibilities and language requirements of the position.",
+    "cover_letter_opener": "I am thrilled by the opportunity to contribute to Stripe's mission of expanding the internet economy and eager to bring my technical expertise to help grow the Platforms ecosystem.",
+    "scored_at": "2026-09-08T13:13:55.168Z"
+  },
+  {
+    "job_id": "73c26e644f224939",
+    "title": "Account Executive, Product Sales (Terminal)",
+    "company": "stripe",
+    "location": "Dublin or London",
+    "url": "https://stripe.com/jobs/search?gh_jid=7389692",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Product Sales is a team of deep functional and technical specialists who lead and advise on opportunities for strategically important products in Stripe’s portfolio. The Terminal Product Sales team helps businesses and software platforms extend Stripe payments into in-person commerce. This role will focus on platform businesses in EMEA, partnering with core Account Executives and cross-functional teams to help platforms offer in-person payments to their own customers.&lt;/p&gt; &lt;",
+    "source": "greenhouse",
+    "posted_at": "2026-09-08T08:22:24-04:00",
+    "fit_score": 15,
+    "reasoning": "The candidate's background is heavily technical, focusing on software development, cloud, and AI, with no demonstrated sales or account management experience. Additionally, the candidate is based in Germany and seeking part‑time roles, which does not align with the full‑time Account Executive position in Dublin/London.",
+    "cover_letter_opener": "I am thrilled by Stripe’s mission to increase the GDP of the internet and eager to help businesses grow by championing your innovative Terminal product.",
+    "scored_at": "2026-09-08T13:13:55.170Z"
+  },
+  {
+    "job_id": "e457ae59c18cd735",
+    "title": "Principal Technical Program Manager",
+    "company": "gitlab",
+    "location": "Bangalore, India",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8784056002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-09-08T07:21:57-04:00",
+    "fit_score": 20,
+    "reasoning": "The candidate has strong software development and cloud experience but lacks senior program management and DevSecOps expertise required for a Principal Technical Program Manager role. Additionally, the candidate is seeking part‑time work in Germany, while the position is a senior full‑time role based in Bangalore. The mismatch in seniority, focus, and location limits the fit.",
+    "cover_letter_opener": "I am thrilled by GitLab’s AI‑driven DevSecOps vision and eager to bring my cloud and software engineering expertise to help shape its next generation of intelligent orchestration.",
+    "scored_at": "2026-09-08T13:13:55.167Z"
+  },
+  {
     "job_id": "06939774497406b0",
     "title": "Software Engineer, Intern",
     "company": "stripe",
