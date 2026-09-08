@@ -1,5 +1,19 @@
 [
   {
+    "job_id": "4dac443f8598e560",
+    "title": "Senior Backend Engineer, Trusted Agentic Development",
+    "company": "gitlab",
+    "location": "Remote, Poland",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8760233002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-09-08T16:44:08-04:00",
+    "fit_score": 40,
+    "reasoning": "The candidate has solid backend experience with Java and Spring Boot and a background in cybersecurity, which aligns with GitLab's focus on secure DevOps. However, the role is senior-level, expects extensive experience with GitLab's stack and remote work in Poland, while the candidate is a student seeking part‑time work in Germany, resulting in a moderate fit.",
+    "cover_letter_opener": "I am excited to bring my Java backend and cybersecurity expertise to GitLab’s Trusted Agentic Development team and help drive AI‑powered, secure software delivery.",
+    "scored_at": "2026-09-08T23:06:07.367Z"
+  },
+  {
     "job_id": "86260c5a1a4fff72",
     "title": "Site Reliability Engineer, Infrastructure Platforms — UK (Intermediate to Senior Staff)",
     "company": "gitlab",
