@@ -1,5 +1,47 @@
 [
   {
+    "job_id": "a5e9292fe6489471",
+    "title": "Intermediate Security Engineer, Security Incident Response Team (SIRT)",
+    "company": "gitlab",
+    "location": "Remote, Australia",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8782306002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-09-09T09:11:30-04:00",
+    "fit_score": 50,
+    "reasoning": "The candidate's background in automotive cybersecurity research and strong cloud/backend development skills align partially with GitLab's security focus. However, they lack direct incident response experience and the role is remote Australia while the candidate is based in Germany, reducing overall fit.",
+    "cover_letter_opener": "I am excited to bring my cybersecurity research and cloud expertise to GitLab’s Security Incident Response Team to help protect developers worldwide.",
+    "scored_at": "2026-09-09T13:19:32.301Z"
+  },
+  {
+    "job_id": "c32024c568288002",
+    "title": "Solutions Architect, Commercial, UK/I",
+    "company": "stripe",
+    "location": "Dublin",
+    "url": "https://stripe.com/jobs/search?gh_jid=8144264",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe’s Commercial Solutions Architecture (SA) team works with technical and business leaders (CTO/ CIO/ CEO/ Founders etc.), payments leaders and product engineering teams in the mid-market segment to evangelize Stripe’s solutions in the market. A solutions architect’s role is to build relationships with decision makers and think strategically about the business needs of Stripe’s customers. Solution Architects identify and propose Stripe solutions to solve complex business challen",
+    "source": "greenhouse",
+    "posted_at": "2026-09-09T05:24:00-04:00",
+    "fit_score": 35,
+    "reasoning": "The candidate has strong backend and cloud experience with Java, Spring Boot, and Azure, which are relevant to a Solutions Architect role. However, they lack direct experience with payment platforms, Stripe's ecosystem, and the commercial focus of the position, and they are currently based in Germany seeking part‑time work. These gaps reduce the overall alignment with the senior, full‑time role in Dublin.",
+    "cover_letter_opener": "I am thrilled by Stripe’s mission to expand the internet’s GDP and eager to bring my cloud‑native architecture expertise to help power the next generation of global commerce.",
+    "scored_at": "2026-09-09T13:19:32.304Z"
+  },
+  {
+    "job_id": "d7309bf45c848100",
+    "title": "Strategic Account Executive, Poland",
+    "company": "gitlab",
+    "location": "Remote, Poland",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8789017002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-09-09T04:50:17-04:00",
+    "fit_score": 20,
+    "reasoning": "The candidate has strong technical expertise in software development and cloud platforms, but the role is a sales-focused Strategic Account Executive requiring proven sales and account management experience, which is not evident in the resume. Additionally, the candidate is seeking a part‑time technical position in Germany, whereas the job is a full‑time remote role targeting Poland.",
+    "cover_letter_opener": "I am excited about GitLab’s AI‑driven DevSecOps platform and eager to leverage my technical background to help Polish customers achieve faster, more secure software delivery.",
+    "scored_at": "2026-09-09T13:19:32.303Z"
+  },
+  {
     "job_id": "8c0895736156ed4c",
     "title": "Senior Software Engineer, NLP",
     "company": "gitlab",
