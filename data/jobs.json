@@ -1,5 +1,33 @@
 [
   {
+    "job_id": "958c83a524df2e93",
+    "title": "Security Incident Response Manager, Abuse Operations",
+    "company": "stripe",
+    "location": "Seattle, SF, NYC, Chicago, Atlanta, Remote in the US",
+    "url": "https://stripe.com/jobs/search?gh_jid=8172497",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are &lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/span&gt;&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Abuse Operations is the front-line incident response and remediation function handling active product abuse and fraud impacting Stripe and its merchants. This multi-disciplinary group, spanning Incident Managers, Investigators, Forward Deployed Security Engineers, and Data Scientists, neutralizes active attacks, gathers requirements for operational tooling, and leads incidents. The team works directly with impacte",
+    "source": "greenhouse",
+    "posted_at": "2026-09-09T18:07:04-04:00",
+    "fit_score": 30,
+    "reasoning": "The candidate has solid software engineering experience and research in automotive cybersecurity and threat modeling, which aligns partially with Stripe's security focus. However, they lack direct incident response management experience and the role is US‑based, while the candidate seeks part‑time work in Germany, resulting in a modest fit.",
+    "cover_letter_opener": "I’m excited to bring my cybersecurity research and cloud engineering expertise to Stripe’s Abuse Operations team and help protect the internet’s financial infrastructure.",
+    "scored_at": "2026-09-09T22:53:03.420Z"
+  },
+  {
+    "job_id": "56f11901eb7a7e89",
+    "title": "Engineering Manager of Managers, Service Infrastructure",
+    "company": "stripe",
+    "location": "Seattle, San Francisco",
+    "url": "https://stripe.com/jobs/search?gh_jid=8155381",
+    "description": "&lt;h2&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Service Infrastructure enables Stripe’s engineers to build and ship products using efficient, reliable, service oriented architectures. This organization sits at the boundary between Infrastructure and Product where they engineer Stripe’s service frameworks, standard user-facing API semantics, async orchestration platforms, developer tooling, and mission critical product infrastructure (e.g. webhook fulfillment). Key priorities for this group include delivering an amazing internal developer experience, enabling Stripes to effectively leverage",
+    "source": "greenhouse",
+    "posted_at": "2026-09-09T14:36:09-04:00",
+    "fit_score": 25,
+    "reasoning": "The candidate has solid backend and cloud development experience with Java, Spring Boot, and Azure, which aligns with service infrastructure work. However, the role is a senior engineering manager position requiring extensive people‑management and large‑scale payments experience, which the resume does not demonstrate, and the candidate is based in Germany seeking a student role. Therefore the overall fit is limited.",
+    "cover_letter_opener": "I am excited about the opportunity to help Stripe scale its service infrastructure and deliver reliable payment solutions worldwide.",
+    "scored_at": "2026-09-09T22:53:03.419Z"
+  },
+  {
     "job_id": "c9eea3f0579fdbbc",
     "title": "Staff Backend Engineer, Database Automation (Go)",
     "company": "gitlab",
