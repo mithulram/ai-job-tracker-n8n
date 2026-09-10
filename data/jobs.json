@@ -1,5 +1,19 @@
 [
   {
+    "job_id": "b89aa6fe7027a9a4",
+    "title": "Public Sector Strategic Account Executive, Federal Civilian",
+    "company": "gitlab",
+    "location": "Remote, United States",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8737852002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-09-10T17:50:06-04:00",
+    "fit_score": 15,
+    "reasoning": "The candidate’s experience is heavily technical, focusing on software development, cloud, and cybersecurity, while the role is a strategic sales position targeting federal civilian accounts. There is little evidence of sales, account management, or public‑sector experience, and the candidate is based in Germany seeking part‑time work, which further reduces alignment. Consequently, the resume matches the job requirements only minimally.",
+    "cover_letter_opener": "I am thrilled about the opportunity to combine my cloud and security expertise with GitLab’s AI‑driven DevSecOps platform to empower federal civilian agencies.",
+    "scored_at": "2026-09-10T22:53:52.334Z"
+  },
+  {
     "job_id": "a1151bdd31840f75",
     "title": "Channel Sales Executive, SaaS Platforms",
     "company": "stripe",
