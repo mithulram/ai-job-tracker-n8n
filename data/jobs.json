@@ -1,5 +1,33 @@
 [
   {
+    "job_id": "abbc69927762186e",
+    "title": "Security Engineer",
+    "company": "stripe",
+    "location": "US Remote ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8174965",
+    "description": "&lt;h1&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h1&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Abuse Control Engineering (ACE) is Stripe’s rapid-response technical defense and control incubator. When urgent abuse vectors emerge, ACE bridges the gap using real attacker telemetry to prototype, test, and deploy software safeguards before vulnerabilities can be exploited at scale. We partner closely with Fraud, Risk and Product Engineering to run rigorous experiments, balancing aggressive risk mitigation against legitimate user conversion. Operating as both a strike team and an i",
+    "source": "greenhouse",
+    "posted_at": "2026-09-09T20:41:43-04:00",
+    "fit_score": 55,
+    "reasoning": "The candidate’s experience in automotive cybersecurity research and threat modeling aligns well with the security focus of the role, and their strong backend and cloud skills provide a solid technical foundation. However, they have limited direct experience with payment systems, Stripe’s typical tech stack, and are seeking a part‑time position in Germany, which may not match the full‑time US‑remote expectations. Therefore the overall fit is moderate.",
+    "cover_letter_opener": "I’m excited to bring my cybersecurity research and cloud backend expertise to Stripe’s mission of securing the internet’s financial infrastructure.",
+    "scored_at": "2026-09-10T02:15:21.879Z"
+  },
+  {
+    "job_id": "d29fd653ba315dc0",
+    "title": "Director, Social Media",
+    "company": "gitlab",
+    "location": "Remote, Canada; Remote, United States",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8792475002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-09-09T19:09:52-04:00",
+    "fit_score": 15,
+    "reasoning": "The candidate’s background is focused on backend and mobile development, cloud architecture, and AI solutions, with no experience in social media strategy, content creation, or leadership of marketing teams required for a Director of Social Media role. While the resume shows strong technical skills that could be valuable to GitLab’s engineering side, it does not align with the core responsibilities of the position.",
+    "cover_letter_opener": "I’m excited about GitLab’s AI‑driven platform and would love to bring my passion for innovative technology to help shape its social media presence.",
+    "scored_at": "2026-09-10T02:15:21.878Z"
+  },
+  {
     "job_id": "958c83a524df2e93",
     "title": "Security Incident Response Manager, Abuse Operations",
     "company": "stripe",
