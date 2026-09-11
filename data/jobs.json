@@ -1,5 +1,47 @@
 [
   {
+    "job_id": "af9fee343755adf8",
+    "title": "Manager, Solutions Architecture - Platforms (Chicago)",
+    "company": "stripe",
+    "location": "Chicago, IL",
+    "url": "https://stripe.com/jobs/search?gh_jid=8175667",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who We Are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About The Team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;The Platforms Solutions Architecture Team partners with our users to realize their full potential through the adoption of prescriptive solutions that drive their growth and success.&lt;/p&gt; &lt;p&gt;We work with C-level executives, finance leaders, product design and engineering teams at global brands and platforms who are building financial services solutions with Stripe. Our SA team works closely with Account Executives, Professional Services, Customer Success Managers, Partners",
+    "source": "greenhouse",
+    "posted_at": "2026-09-11T13:41:41-04:00",
+    "fit_score": 30,
+    "reasoning": "The candidate has strong cloud and backend development experience, especially with Azure and Java, which are relevant to solutions architecture. However, the role is a senior manager position at Stripe in Chicago, requiring extensive payments platform experience and leadership, which the resume does not demonstrate, and the candidate is seeking part‑time work in Germany. This significant gap in seniority, domain expertise, and location reduces the overall fit.",
+    "cover_letter_opener": "I am thrilled by Stripe’s mission to power the internet economy and eager to bring my cloud architecture and backend expertise to help build the next generation of payment platforms.",
+    "scored_at": "2026-09-11T18:03:38.853Z"
+  },
+  {
+    "job_id": "03802ddf24349698",
+    "title": "Candidate Experience Specialist, Contractor",
+    "company": "gitlab",
+    "location": "Remote, United Kingdom",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8801523002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-09-11T13:28:55-04:00",
+    "fit_score": 20,
+    "reasoning": "The candidate’s experience is heavily focused on software development, cloud infrastructure, and automotive cybersecurity, which does not align with the core responsibilities of a Candidate Experience Specialist that center on recruitment, candidate communication, and process optimization. While the candidate demonstrates strong technical skills and a passion for AI, there is no evidence of relevant HR or talent acquisition experience, resulting in a low fit.",
+    "cover_letter_opener": "I am excited to bring my technical expertise and passion for improving processes to GitLab’s Candidate Experience team, helping to create a seamless and engaging journey for every applicant.",
+    "scored_at": "2026-09-11T18:03:38.852Z"
+  },
+  {
+    "job_id": "1f64f543a64cd7ba",
+    "title": "Distinguished Engineer, Agentic SDLC & Non‑Linear Productivity",
+    "company": "gitlab",
+    "location": "Remote, Canada; Remote, Poland; Remote, United Kingdom; Remote, United States",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8786095002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-09-11T12:07:40-04:00",
+    "fit_score": 20,
+    "reasoning": "The candidate is an early‑career student with solid Java, cloud, and AI interests, but lacks the senior engineering experience and deep DevSecOps expertise required for a Distinguished Engineer role at GitLab. While their background in backend development and Azure aligns partially with GitLab’s cloud focus, the mismatch in seniority and specific GitLab product knowledge limits the fit.",
+    "cover_letter_opener": "I am thrilled by GitLab’s vision of AI‑powered productivity and eager to bring my cloud and backend expertise to help shape the next generation of the Agentic SDLC.",
+    "scored_at": "2026-09-11T18:03:38.852Z"
+  },
+  {
     "job_id": "bfd470d96642dcb4",
     "title": "Senior Software Engineer, Product Velocity",
     "company": "stripe",
