@@ -1,5 +1,19 @@
 [
   {
+    "job_id": "bfd470d96642dcb4",
+    "title": "Senior Software Engineer, Product Velocity",
+    "company": "stripe",
+    "location": "Seattle, WA",
+    "url": "https://stripe.com/jobs/search?gh_jid=8194328",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&amp;nbsp;&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe, LLC. is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Design and build internal products used daily by engineering, product, and cross-functional teams across Stripe.&amp;nbsp;&lt;/li&gt; &lt;li&gt;Own end-to-end systems—spanning frontend, backend, data, and integrations—that remove bottlenecks and meaningfully increase product development velocity.&amp;nbsp;&lt;/li&gt; &lt;li&gt;Collaborate with partner teams to understand workflows,",
+    "source": "greenhouse",
+    "posted_at": "2026-09-10T20:19:20-04:00",
+    "fit_score": 30,
+    "reasoning": "The candidate has solid Java and cloud experience but is still a student seeking part‑time work and lacks senior‑level product development and payments domain expertise required for a Senior Software Engineer at Stripe. Additionally, the role is based in Seattle, while the candidate is based in Germany, further reducing fit.",
+    "cover_letter_opener": "I’m thrilled by Stripe’s mission to power the internet economy and eager to contribute to the Product Velocity team’s innovative engineering challenges.",
+    "scored_at": "2026-09-11T02:11:08.346Z"
+  },
+  {
     "job_id": "b89aa6fe7027a9a4",
     "title": "Public Sector Strategic Account Executive, Federal Civilian",
     "company": "gitlab",
