@@ -1,5 +1,33 @@
 [
   {
+    "job_id": "b5ff67bd9349a370",
+    "title": "Senior Engineering Manager - Continuous Deployment",
+    "company": "gitlab",
+    "location": "Bangalore, India",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8755524002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-09-15T02:59:05-04:00",
+    "fit_score": 20,
+    "reasoning": "The candidate has solid backend and cloud experience but lacks senior leadership and extensive CI/CD expertise required for a Senior Engineering Manager role. Additionally, the position is based in Bangalore, while the candidate is seeking part‑time work in Germany, creating a geographic mismatch. However, their experience with cloud platforms and automation concepts provides some relevance to GitLab's continuous deployment focus.",
+    "cover_letter_opener": "I am excited about the opportunity to contribute to GitLab's AI‑driven continuous deployment vision and help accelerate secure software delivery worldwide.",
+    "scored_at": "2026-09-15T08:14:10.667Z"
+  },
+  {
+    "job_id": "216a45c385720e18",
+    "title": "Senior Ecosystem Sales Manager (ESM)- ASEAN",
+    "company": "gitlab",
+    "location": "Remote, Singapore",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8808524002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-09-14T23:32:24-04:00",
+    "fit_score": 15,
+    "reasoning": "The candidate has strong technical skills in backend development, cloud, and cybersecurity but lacks sales, partnership, or ecosystem management experience required for a Senior Ecosystem Sales Manager role. Additionally, the focus on AI Solutions Architect and German location does not align with the ASEAN sales focus of the GitLab position.",
+    "cover_letter_opener": "I am excited about the opportunity to leverage my deep technical background and passion for DevSecOps to drive GitLab’s ecosystem growth across the ASEAN region.",
+    "scored_at": "2026-09-15T08:14:10.666Z"
+  },
+  {
     "job_id": "feeda2f45d2e12fc",
     "title": "Software Engineer, Backend",
     "company": "stripe",
