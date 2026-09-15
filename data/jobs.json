@@ -1,5 +1,47 @@
 [
   {
+    "job_id": "9312587de18b3020",
+    "title": "Engineering Manager, Agentic Commerce",
+    "company": "stripe",
+    "location": "N/A",
+    "url": "https://stripe.com/jobs/search?gh_jid=8172499",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies, from the world’s largest enterprises to the most ambitious startups, use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Agentic payments is a team that’s building new APIs and integration experiences for agentic commerce online. We think that the proliferation of consumer-facing AI experiences will unlock new ways that consumers buy things online, and our existing payments experiences need to evolve to new commercial models that cutting-edge builders are starting. Our first launch, Instant Checkout in collaboration with OpenAI, took the industry by storm and we’re bringing experiences like that to ",
+    "source": "greenhouse",
+    "posted_at": "2026-09-15T19:00:07-04:00",
+    "fit_score": 20,
+    "reasoning": "The candidate has solid backend development experience with Java, Spring Boot, and cloud platforms, which aligns with Stripe’s engineering needs. However, the role is an Engineering Manager position requiring extensive leadership, payments domain expertise, and senior-level experience, which the candidate’s current student and junior-level background does not demonstrate. Consequently, the overall fit is limited.",
+    "cover_letter_opener": "I am excited to bring my strong backend and cloud expertise to Stripe’s Agentic Commerce team and help drive innovative payment solutions.",
+    "scored_at": "2026-09-15T23:22:23.725Z"
+  },
+  {
+    "job_id": "239916d30cad71af",
+    "title": "Contract Talent Acquisition Sourcer, Sales (AMER)",
+    "company": "gitlab",
+    "location": "Remote, Canada; Remote, United States",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8797735002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-09-15T17:50:56-04:00",
+    "fit_score": 12,
+    "reasoning": "The candidate’s experience is focused on software development, cloud infrastructure, and AI, with no demonstrated talent acquisition or sales background. Additionally, the candidate is based in Germany seeking engineering roles, while the position is a remote contract sourcing role targeting the AMER market. These mismatches result in a low fit score.",
+    "cover_letter_opener": "I am excited about the opportunity to leverage my strong technical background and passion for GitLab’s AI‑driven culture to help identify top talent for your Sales team.",
+    "scored_at": "2026-09-15T23:22:23.724Z"
+  },
+  {
+    "job_id": "363461cf2bd7b25b",
+    "title": "Engineering Manager, Machine Learning - Credit Risk",
+    "company": "stripe",
+    "location": "N/A",
+    "url": "https://stripe.com/jobs/search?gh_jid=8205280",
+    "description": "&lt;h1 id=&quot;engineering-manager-machine-learning-credit-risk&quot;&gt;Engineering Manager, Machine Learning Credit Risk&lt;/h1&gt; &lt;h2 id=&quot;who-we-are&quot;&gt;Who we are&lt;/h2&gt; &lt;h3 id=&quot;about-stripe&quot;&gt;About Stripe&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies from the world’s largest enterprises to the most ambitious startups use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3 id=&quot;about-the-team&quot;&gt;About the team&lt;/h3&gt; &lt;p&gt;The Credit Risk team develops intelligent systems that help Stripe identify high-risk accounts, minimize credit losses, and improve profitability. Credit risk is a complex machine learning problem that requires us to distinguish emerging risk from healthy business activity while giving legitimate users a clear and reliable experience.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-09-15T16:51:21-04:00",
+    "fit_score": 20,
+    "reasoning": "The candidate has strong software engineering and cloud skills, especially in Python and Azure, which are relevant to building ML infrastructure. However, they lack direct experience in machine learning, credit‑risk modeling, and leadership responsibilities required for an engineering manager role. Consequently, the overall match to this senior ML management position is limited.",
+    "cover_letter_opener": "I am excited to bring my cloud‑native backend expertise and passion for AI to Stripe’s Machine Learning team tackling credit‑risk challenges.",
+    "scored_at": "2026-09-15T23:22:23.726Z"
+  },
+  {
     "job_id": "055219c1534b8378",
     "title": "Solutions Architect, Public Sector - East",
     "company": "gitlab",
