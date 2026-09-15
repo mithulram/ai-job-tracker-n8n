@@ -1,5 +1,47 @@
 [
   {
+    "job_id": "feeda2f45d2e12fc",
+    "title": "Software Engineer, Backend",
+    "company": "stripe",
+    "location": "Seattle, WA",
+    "url": "https://stripe.com/jobs/search?gh_jid=8198280",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are &lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe, LLC. is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Develop scalable computer systems that manage a large volume of information and use them to fulfill business goals for the company and its partners.&lt;/li&gt; &lt;li&gt;Improve backend scalability and performance by integrating lightweight backend framework, overhauling APIs and optimizing database systems.&lt;/li&gt; &lt;li&gt;Design and build tools that ingest and process signals from va",
+    "source": "greenhouse",
+    "posted_at": "2026-09-14T18:11:13-04:00",
+    "fit_score": 55,
+    "reasoning": "The candidate has strong Java and Spring Boot backend experience along with cloud expertise that aligns with Stripe’s backend engineering needs. However, they lack direct payments or fintech experience, are based in Germany seeking part‑time work, and the role is a full‑time position in Seattle, which reduces overall fit.",
+    "cover_letter_opener": "I am excited to bring my Java backend and cloud expertise to Stripe’s innovative payment platform and help power the internet’s economy.",
+    "scored_at": "2026-09-15T02:35:58.053Z"
+  },
+  {
+    "job_id": "57a7b6f421488542",
+    "title": "Software Engineer, Payins Card Networks",
+    "company": "stripe",
+    "location": "Seattle, WA",
+    "url": "https://stripe.com/jobs/search?gh_jid=8198207",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are &lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe, LLC. is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Build, develop, test, and deploy software infrastructure;&amp;nbsp;&lt;/li&gt; &lt;li&gt;Modify existing software to correct errors or to improve its performance;&amp;nbsp;&lt;/li&gt; &lt;li&gt;Develop and direct software system testing and validation procedures, programming, and documentation;&amp;nbsp;&lt;/li&gt; &lt;li&gt;Build, test, and maintain software development for the company’s v",
+    "source": "greenhouse",
+    "posted_at": "2026-09-14T17:46:08-04:00",
+    "fit_score": 45,
+    "reasoning": "The candidate has solid Java backend experience with Spring Boot and REST API design, which aligns with Stripe's engineering needs. However, they lack direct experience in payment processing or card network systems and are seeking a part‑time role in Germany, while the position is a full‑time role in Seattle. These gaps lower the overall fit despite strong cloud and backend skills.",
+    "cover_letter_opener": "I am excited to bring my Java and cloud backend expertise to Stripe’s Payins Card Networks team and help power the future of internet payments!",
+    "scored_at": "2026-09-15T02:35:58.055Z"
+  },
+  {
+    "job_id": "3d95cb32f9e9731a",
+    "title": "Software Engineer, High Availability and Disaster Recovery",
+    "company": "stripe",
+    "location": "Seattle, WA",
+    "url": "https://stripe.com/jobs/search?gh_jid=8197135",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are &lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe, LLC. is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Develop global architecture by combining less-available components and data centers into a highly available and resilient whole.&amp;nbsp;&lt;/li&gt; &lt;li&gt;Work on latency-critical, time-sensitive and data redundancy solutions.&amp;nbsp;&lt;/li&gt; &lt;li&gt;Solve broad range of problems, including investigating Mongo write concerns, minimizing cross-region TLS handshakes, and develop n",
+    "source": "greenhouse",
+    "posted_at": "2026-09-14T17:21:04-04:00",
+    "fit_score": 45,
+    "reasoning": "The candidate has solid backend development experience with Java, Spring Boot, and cloud platforms like Azure, which aligns with Stripe's need for robust, scalable services. However, they lack explicit high‑availability and disaster‑recovery experience and are based in Germany while the role is in Seattle, reducing overall fit.",
+    "cover_letter_opener": "I am excited to bring my expertise in building resilient, cloud‑native backend systems to Stripe’s high‑availability and disaster‑recovery team.",
+    "scored_at": "2026-09-15T02:35:58.054Z"
+  },
+  {
     "job_id": "6e8d784772af96a6",
     "title": "Field CTO, Public Sector",
     "company": "gitlab",
