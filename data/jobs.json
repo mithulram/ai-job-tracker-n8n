@@ -1,5 +1,19 @@
 [
   {
+    "job_id": "8eca3140a788e455",
+    "title": "Account Executive, UK Velocity Hunter",
+    "company": "stripe",
+    "location": "London or Dublin",
+    "url": "https://stripe.com/jobs/search?gh_jid=8130729",
+    "description": "&lt;h2 id=&quot;who-we-are&quot;&gt;Who we are&lt;/h2&gt; &lt;h3 id=&quot;about-stripe&quot;&gt;About Stripe&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3 id=&quot;about-the-team-and-what-youll-do&quot;&gt;About the team&lt;/h3&gt; &lt;p&gt;The UK Commercial New Business team focuses on acquiring new mid-market customers (companies with 100 to 1,000 employees). This team of core AE’s are responsible for selling the full suite of Stripe products, acting as the primary point of contact for prospective new users. This team works closely with cross-functional teams including product sales specialists, solution architects, channel &amp;amp; alliances, deal pricing, SDR and many more.&lt;/p&gt; &lt;p&gt;&amp;n",
+    "source": "greenhouse",
+    "posted_at": "2026-09-16T05:49:25-04:00",
+    "fit_score": 10,
+    "reasoning": "The candidate's background is heavily technical, focusing on software development, cloud, and AI, with no demonstrated sales or account management experience. Additionally, the candidate is based in Germany and seeking part‑time roles, while the Stripe position is a full‑time sales role in London/Dublin. Therefore the fit is minimal.",
+    "cover_letter_opener": "I am excited about the opportunity to bring my technical expertise and passion for innovative fintech solutions to Stripe’s UK Velocity Hunter team.",
+    "scored_at": "2026-09-16T13:56:41.495Z"
+  },
+  {
     "job_id": "627c0bc0b0748e37",
     "title": "Intermediate Technical Program Manager",
     "company": "gitlab",
