@@ -1,5 +1,33 @@
 [
   {
+    "job_id": "cdebdc9e2a48a134",
+    "title": "Associate Revenue Operations Analyst, Policy & Rules of Engagement",
+    "company": "gitlab",
+    "location": "Remote, United States",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8808115002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-09-16T16:43:54-04:00",
+    "fit_score": 20,
+    "reasoning": "The candidate's background is heavily technical in software development, cloud, and cybersecurity, while the role focuses on revenue operations, policy, and analytics, which are not highlighted in the resume. Additionally, the candidate seeks a part‑time position in Germany, whereas the job is a remote US role likely requiring US work eligibility.",
+    "cover_letter_opener": "I’m thrilled by GitLab’s AI‑driven platform and eager to apply my analytical mindset to help shape revenue operations and policy excellence.",
+    "scored_at": "2026-09-16T23:27:55.136Z"
+  },
+  {
+    "job_id": "3362071d1a22826d",
+    "title": "Capital Markets, FX Specialist",
+    "company": "stripe",
+    "location": "New York",
+    "url": "https://stripe.com/jobs/search?gh_jid=8206733",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are &lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/span&gt;&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;At its core, Stripe is a treasury company, and the Treasury Finance team (TFIN) is key to building the Global Payments and Treasury Network (GPTN).&amp;nbsp; Within TFIN, the FX team collaborates closely with product, engineering, sales, and finance teams to manage Stripe’s Corporate and User related FX risk. This includes creating pricing models to keep pace with product expansion and developing hedging strategie",
+    "source": "greenhouse",
+    "posted_at": "2026-09-16T15:59:38-04:00",
+    "fit_score": 20,
+    "reasoning": "The candidate's background is focused on automotive cybersecurity, Java backend, and cloud services, which does not align with the capital markets and foreign exchange expertise required for the Stripe role. Additionally, the position is based in New York, while the candidate is seeking part‑time work in Germany, creating a location mismatch. However, their experience with cloud infrastructure and API design could be loosely transferable to fintech systems.",
+    "cover_letter_opener": "I am excited to bring my strong cloud and backend development expertise to Stripe’s Capital Markets team and help drive innovative FX solutions.",
+    "scored_at": "2026-09-16T23:27:55.137Z"
+  },
+  {
     "job_id": "c94778b1d2527f31",
     "title": "Engineering Manager, DevOps",
     "company": "gitlab",
