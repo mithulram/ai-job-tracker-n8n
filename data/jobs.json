@@ -1,5 +1,33 @@
 [
   {
+    "job_id": "dcb42cffc2f07a76",
+    "title": "Product Manager: New Grad Accelerator",
+    "company": "stripe",
+    "location": "San Francisco, New York City, Seattle",
+    "url": "https://stripe.com/jobs/search?gh_jid=7737124",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&amp;nbsp;&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/span&gt;&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the role&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is looking for AI-enabled builders. If you are looking to apply your skills at a company that deeply cares about quality with global scale, we&#39;d love to hear from you. We&#39;re looking for early career engineers who can solve problems, write code, ship features, and iterate quickly, all with a core focus on elevating Stripe’s craft and quality. This is a 12-month intensive training program whe",
+    "source": "greenhouse",
+    "posted_at": "2026-09-15T22:07:33-04:00",
+    "fit_score": 15,
+    "reasoning": "The candidate has strong software engineering and cloud experience but lacks product management, fintech, and payment domain expertise required for Stripe's New Grad PM role. Additionally, they are seeking part‑time positions in Germany, while the role is full‑time in the US, further reducing fit. However, their technical background could provide a solid foundation for a product‑focused career.",
+    "cover_letter_opener": "I’m thrilled by Stripe’s mission to increase the internet’s GDP and eager to bring my engineering expertise to the New Grad Product Manager Accelerator.",
+    "scored_at": "2026-09-16T02:31:06.712Z"
+  },
+  {
+    "job_id": "42e5cf8686cf0186",
+    "title": "Backend Engineer, Intelligent Commerce",
+    "company": "stripe",
+    "location": "N/A",
+    "url": "https://stripe.com/jobs/search?gh_jid=7988264",
+    "description": "&lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/span&gt;&lt;/p&gt; &lt;h3&gt;About the team&lt;/h3&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;h2&gt;What you’ll do&lt;/h2&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;h3&gt;Responsibilities&lt;/h3&gt; &lt;ul&gt; &lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt; &lt;li style=&quot;font-weight: 400;&quot;&gt;&amp;nbsp;&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;&lt;strong&gt;Who you are&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We’re looking for someone who meets the minimum r",
+    "source": "greenhouse",
+    "posted_at": "2026-09-15T19:32:22-04:00",
+    "fit_score": 70,
+    "reasoning": "The candidate has solid backend experience with Java, Spring Boot, REST APIs, and cloud platforms, which aligns well with Stripe's backend engineering needs. However, they lack direct payments or e‑commerce domain experience and specific Stripe technology exposure, which lowers the match slightly.",
+    "cover_letter_opener": "I am excited to bring my Java and cloud backend expertise to Stripe’s Intelligent Commerce team and help power the next generation of internet commerce.",
+    "scored_at": "2026-09-16T02:31:06.711Z"
+  },
+  {
     "job_id": "9312587de18b3020",
     "title": "Engineering Manager, Agentic Commerce",
     "company": "stripe",
