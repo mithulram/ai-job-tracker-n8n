@@ -1,5 +1,33 @@
 [
   {
+    "job_id": "627c0bc0b0748e37",
+    "title": "Intermediate Technical Program Manager",
+    "company": "gitlab",
+    "location": "Bangalore, India",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8784185002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-09-16T00:25:42-04:00",
+    "fit_score": 20,
+    "reasoning": "The candidate's background is primarily in software development and cloud engineering, with no explicit program management or DevSecOps experience required for the Technical Program Manager role. Additionally, the candidate seeks part‑time positions in Germany, while the job is a full‑time role based in Bangalore, leading to a low overall fit.",
+    "cover_letter_opener": "I am excited about the opportunity to bring my cloud‑focused software engineering expertise to GitLab’s innovative DevSecOps platform and help drive impactful technical programs.",
+    "scored_at": "2026-09-16T08:08:05.557Z"
+  },
+  {
+    "job_id": "96f177ba23705c5e",
+    "title": "Senior Customer Success Engineer, Japan",
+    "company": "gitlab",
+    "location": "Remote, Japan",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8808549002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-09-15T23:23:18-04:00",
+    "fit_score": 22,
+    "reasoning": "The candidate has strong software engineering and cloud experience, but lacks senior-level customer success and DevSecOps expertise required for a Senior Customer Success Engineer role. Additionally, the resume does not demonstrate experience with GitLab, Japanese market knowledge, or the specific customer‑facing skills emphasized in the posting.",
+    "cover_letter_opener": "I am excited about the opportunity to combine my cloud and backend expertise with GitLab’s AI‑driven DevSecOps platform to help Japanese customers succeed.",
+    "scored_at": "2026-09-16T08:08:05.561Z"
+  },
+  {
     "job_id": "dcb42cffc2f07a76",
     "title": "Product Manager: New Grad Accelerator",
     "company": "stripe",
