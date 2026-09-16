@@ -1,5 +1,33 @@
 [
   {
+    "job_id": "c94778b1d2527f31",
+    "title": "Engineering Manager, DevOps",
+    "company": "gitlab",
+    "location": "Remote, Canada; Remote, United States",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8789547002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-09-16T13:48:08-04:00",
+    "fit_score": 30,
+    "reasoning": "The candidate has solid backend and cloud engineering experience with Java, Spring Boot, and Azure, which aligns partially with DevOps responsibilities. However, they lack direct DevOps toolchain expertise, GitLab CI/CD experience, and managerial leadership required for an Engineering Manager role, resulting in a modest fit.",
+    "cover_letter_opener": "I am excited to bring my cloud and backend expertise to GitLab’s innovative DevSecOps team and help drive seamless, secure software delivery.",
+    "scored_at": "2026-09-16T18:36:42.479Z"
+  },
+  {
+    "job_id": "482fe3048496e082",
+    "title": "Engineering Manager, Abuse Control Engineering",
+    "company": "stripe",
+    "location": "Seattle, SF, NYC, Remote in the US",
+    "url": "https://stripe.com/jobs/search?gh_jid=8172489",
+    "description": "&lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/span&gt;&lt;/p&gt; &lt;h3&gt;About the team&lt;/h3&gt; &lt;p&gt;Abuse Control Engineering (ACE) is Stripe’s rapid-response technical defense and control incubator. When urgent abuse vectors emerge, ACE bridges the gap using real attacker telemetry to prototype, test, and deploy software safeguards before vulnerabilities can be exploited at scale. We partner closely with Fraud, Risk and Product Engineering to run rigorous experiments, balancing aggressive risk mitigation against legitimate user conversion. Operating as both a strike team and an incubator, ACE builds autom",
+    "source": "greenhouse",
+    "posted_at": "2026-09-16T10:52:39-04:00",
+    "fit_score": 20,
+    "reasoning": "The candidate has strong backend and cloud skills and experience in automotive cybersecurity, which aligns partially with Stripe's focus on security. However, they lack engineering management experience, specific abuse/fraud detection expertise, and are based in Germany seeking part‑time roles, making them a poor fit for a senior manager position in the US.",
+    "cover_letter_opener": "I am excited about the opportunity to bring my cybersecurity and cloud engineering expertise to Stripe’s Abuse Control Engineering team and help protect the global internet economy.",
+    "scored_at": "2026-09-16T18:36:42.480Z"
+  },
+  {
     "job_id": "8eca3140a788e455",
     "title": "Account Executive, UK Velocity Hunter",
     "company": "stripe",
