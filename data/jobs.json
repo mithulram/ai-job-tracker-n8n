@@ -1,5 +1,33 @@
 [
   {
+    "job_id": "601b14af2349b4ce",
+    "title": "Staff Software Engineer",
+    "company": "gitlab",
+    "location": "Remote",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8755304002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-09-17T09:11:17-04:00",
+    "fit_score": 45,
+    "reasoning": "The candidate brings strong Java, Spring Boot, and cloud (Azure) experience, which aligns with many backend requirements at GitLab. However, the role targets a senior staff engineer with deep DevSecOps, GitLab CI/CD, and possibly Ruby/Go expertise, which are not evident in the resume, and the candidate is seeking a part‑time/werkstudent position rather than a full‑time senior role. This gap reduces the overall fit.",
+    "cover_letter_opener": "I am thrilled by GitLab’s AI‑driven DevSecOps vision and eager to contribute my cloud‑native backend expertise to help accelerate secure software delivery.",
+    "scored_at": "2026-09-17T14:00:31.442Z"
+  },
+  {
+    "job_id": "46f36a4d6d6fa609",
+    "title": "Staff Software Engineer",
+    "company": "gitlab",
+    "location": "Remote",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8754823002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-09-17T09:10:39-04:00",
+    "fit_score": 35,
+    "reasoning": "The candidate has solid backend and cloud experience with Java, Spring Boot, and Azure, which aligns with GitLab's focus on scalable infrastructure. However, the role is a senior Staff Software Engineer position, while the candidate is seeking a Werkstudent/part-time role and lacks specific experience with GitLab's primary tech stack (Ruby, Go). This seniority and technology mismatch reduces the overall fit.",
+    "cover_letter_opener": "I am excited about the opportunity to bring my cloud‑native backend expertise to GitLab’s innovative DevSecOps platform and contribute to its AI‑driven productivity vision.",
+    "scored_at": "2026-09-17T14:00:31.444Z"
+  },
+  {
     "job_id": "cdebdc9e2a48a134",
     "title": "Associate Revenue Operations Analyst, Policy & Rules of Engagement",
     "company": "gitlab",
