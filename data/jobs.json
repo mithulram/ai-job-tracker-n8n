@@ -1,5 +1,19 @@
 [
   {
+    "job_id": "04589828b3c93d8d",
+    "title": "Staff Program Manager, CCO Programs",
+    "company": "gitlab",
+    "location": "Remote, Canada; Remote, United States",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8822279002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-09-18T16:39:16-04:00",
+    "fit_score": 25,
+    "reasoning": "The candidate has strong technical skills in backend development, cloud (Azure), and cybersecurity, which are relevant to GitLab's DevSecOps focus, but lacks program management experience and senior leadership background required for a Staff Program Manager role. Additionally, the resume targets engineering positions rather than a strategic program management position, resulting in a low overall match.",
+    "cover_letter_opener": "I am excited about the opportunity to bring my cloud and security expertise to GitLab’s CCO Programs and help drive AI‑powered DevSecOps initiatives forward.",
+    "scored_at": "2026-09-18T22:57:24.693Z"
+  },
+  {
     "job_id": "213fda9fcb7da5bf",
     "title": "Senior Backend Engineer, Platform Enablement",
     "company": "gitlab",
