@@ -1,5 +1,33 @@
 [
   {
+    "job_id": "a22ada81bf361466",
+    "title": "Software Engineer, Early Career — Immediate Start",
+    "company": "stripe",
+    "location": "Toronto",
+    "url": "https://stripe.com/jobs/search?gh_jid=8212517",
+    "description": "&lt;h2&gt;&lt;strong&gt;This role is for applicants actively looking to start before December 1, 2026.&lt;/strong&gt;&lt;/h2&gt; &lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a technology company focused on improving the conditions for economic growth and prosperity. We build programmable financial infrastructure, rethinking from first principles how financial services should work, to make it easier and cheaper for any business to start and scale. More than 10 million &lt;a href=&quot;https://stripe.com/customers&quot;&gt;businesses&lt;/a&gt; build on Stripe, spanning the economic frontier—from solo founders to established enterprises—united by a practical focus on growth. The most ambitious companies in the world use Stripe as core infrastructure to grow faster. They process trillions of dollars a year on Stripe, equivalent to around 1.6% of global GDP. While economic growth makes everyone better off, open markets also enable greater variety. When any business can easily serve a global customer base, the quality and diversity of products in the world increase, and craft and creativity ",
+    "source": "greenhouse",
+    "posted_at": "2026-09-17T19:35:28-04:00",
+    "fit_score": 30,
+    "reasoning": "The candidate has solid backend experience with Java, Spring Boot and Python, which aligns with Stripe's engineering stack, but they are currently based in Germany seeking part‑time Werkstudent work and aim for AI‑focused roles, whereas the posting requires a full‑time early‑career engineer in Toronto ready to start immediately. This geographic and employment‑type mismatch reduces the overall fit.",
+    "cover_letter_opener": "I’m thrilled to apply to Stripe’s Early‑Career Software Engineer team, eager to help build the next generation of programmable financial infrastructure.",
+    "scored_at": "2026-09-18T02:20:22.945Z"
+  },
+  {
+    "job_id": "449e4ce32f684bba",
+    "title": "Software Engineer, Early Career — Immediate Start",
+    "company": "stripe",
+    "location": "San Francisco, Seattle, New York",
+    "url": "https://stripe.com/jobs/search?gh_jid=8212508",
+    "description": "&lt;h2&gt;&lt;strong&gt;This role is for applicants actively looking to start before December 1, 2026.&lt;/strong&gt;&lt;/h2&gt; &lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a technology company focused on improving the conditions for economic growth and prosperity. We build programmable financial infrastructure, rethinking from first principles how financial services should work, to make it easier and cheaper for any business to start and scale. More than 10 million &lt;a href=&quot;https://stripe.com/customers&quot;&gt;businesses&lt;/a&gt; build on Stripe, spanning the economic frontier—from solo founders to established enterprises—united by a practical focus on growth. The most ambitious companies in the world use Stripe as core infrastructure to grow faster. They process trillions of dollars a year on Stripe, equivalent to around 1.6% of global GDP. While economic growth makes everyone better off, open markets also enable greater variety. When any business can easily serve a global customer base, the quality and diversity of products in the world increase, and craft and creativity ",
+    "source": "greenhouse",
+    "posted_at": "2026-09-17T19:28:54-04:00",
+    "fit_score": 45,
+    "reasoning": "The candidate brings strong Java backend and cloud experience with Spring Boot, Python, and Azure, which aligns with Stripe’s engineering needs. However, they are seeking a part‑time, Germany‑based role while Stripe’s early‑career position is full‑time and US‑located, reducing overall fit.",
+    "cover_letter_opener": "I’m excited to bring my backend and cloud expertise to Stripe’s innovative payment platform and help power the next generation of financial services.",
+    "scored_at": "2026-09-18T02:20:22.944Z"
+  },
+  {
     "job_id": "4b3ca709a95a707c",
     "title": "Public Sector Enablement Lead",
     "company": "gitlab",
