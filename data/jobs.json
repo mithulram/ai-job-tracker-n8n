@@ -1,5 +1,47 @@
 [
   {
+    "job_id": "389f8c470ad18346",
+    "title": "Engagement Manager - French Speaking",
+    "company": "gitlab",
+    "location": "Remote, United Kingdom",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8809512002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-09-21T15:34:12-04:00",
+    "fit_score": 20,
+    "reasoning": "The candidate has a solid technical background in Java, cloud services, and AI, which aligns with GitLab's focus on DevSecOps and AI integration. However, the resume does not demonstrate French language proficiency, engagement management or client‑facing experience, which are essential for this role, resulting in a low overall fit.",
+    "cover_letter_opener": "I am excited to bring my cloud and AI expertise to GitLab’s innovative DevSecOps platform and contribute to its remote, AI‑driven success.",
+    "scored_at": "2026-09-21T21:29:08.373Z"
+  },
+  {
+    "job_id": "d56b674932bc0985",
+    "title": "Senior Manager, Public Sector Renewals",
+    "company": "gitlab",
+    "location": "Remote, United States",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8820804002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-09-21T14:49:00-04:00",
+    "fit_score": 15,
+    "reasoning": "The candidate has strong technical skills in Java, cloud (Azure) and security, but lacks senior management experience, public‑sector renewal expertise, and the required US‑based focus for this senior role. Consequently the resume aligns only minimally with the job’s core responsibilities.",
+    "cover_letter_opener": "I am excited about GitLab’s AI‑driven DevSecOps platform and eager to bring my cloud and security expertise to help drive public‑sector renewal success.",
+    "scored_at": "2026-09-21T21:29:08.374Z"
+  },
+  {
+    "job_id": "bbde3f728d350267",
+    "title": "Solutions Architect, (Italian fluency)",
+    "company": "stripe",
+    "location": "LOCATION",
+    "url": "https://stripe.com/jobs/search?gh_jid=8144233",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are &lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/span&gt;&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;The Solutions Architecture team works with our largest, most complex users to understand their technical requirements and map those to Stripe technology.&lt;/p&gt; &lt;p&gt;As a Solutions Architect, you&#39;ll partner with Sales to technically qualify new business opportunities, demonstrate the art of the possible with the Stripe Platform, and design robust technical solutions to enable payment transactions, manag",
+    "source": "greenhouse",
+    "posted_at": "2026-09-21T12:15:16-04:00",
+    "fit_score": 35,
+    "reasoning": "The candidate has strong cloud and backend development experience with Azure, Spring Boot, and REST APIs, which are relevant to a Solutions Architect role. However, the resume does not demonstrate Italian language proficiency or specific fintech/payment processing experience that Stripe requires. The career focus on AI solutions also diverges from the core responsibilities of this position.",
+    "cover_letter_opener": "I am excited about Stripe’s mission to power the internet economy and eager to bring my cloud architecture expertise to help build innovative payment solutions.",
+    "scored_at": "2026-09-21T21:29:08.375Z"
+  },
+  {
     "job_id": "fdfd4b03386a9df7",
     "title": "Staff Product Manager, Payments Intelligence",
     "company": "stripe",
