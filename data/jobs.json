@@ -1,5 +1,47 @@
 [
   {
+    "job_id": "fdfd4b03386a9df7",
+    "title": "Staff Product Manager, Payments Intelligence",
+    "company": "stripe",
+    "location": "NYC, SF, Seattle, US - Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8209996",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;The Payments Intelligence organization optimizes each of the billions of dollars of transactions processed by Stripe annually on behalf of our users, maximizing successful transactions while minimizing payment costs and fraud. We own products like Radar, Authorization Boost, and Disputes, building fast and scalable services and creating intuitive user experiences. We serve real-time predictions as part of Stripe’s payment infrastructure and architect controls that leverage AI to opt",
+    "source": "greenhouse",
+    "posted_at": "2026-09-21T08:39:58-04:00",
+    "fit_score": 12,
+    "reasoning": "The candidate has solid software engineering experience and cloud certifications, but lacks product management experience, especially at a senior staff level. They also do not demonstrate direct payments or financial services expertise, which are core to the role. Consequently, the overall alignment with the Staff Product Manager, Payments Intelligence position is limited.",
+    "cover_letter_opener": "I’m thrilled to apply for the Staff Product Manager, Payments Intelligence role at Stripe, where I can combine my strong technical background and passion for innovative financial infrastructure to help accelerate the internet’s economy.",
+    "scored_at": "2026-09-21T15:32:12.687Z"
+  },
+  {
+    "job_id": "cca613dc21d57937",
+    "title": "Software Engineer, Stripe Data Pipeline",
+    "company": "stripe",
+    "location": "Bangalore",
+    "url": "https://stripe.com/jobs/search?gh_jid=8209970",
+    "description": "&lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world&#39;s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;About the team&lt;/h3&gt; &lt;p&gt;&lt;strong&gt;Stripe Data Pipeline&lt;/strong&gt;—The Stripe Data Pipeline (SDP) team owns a critical product that delivers all of a merchant&#39;s Stripe data directly into their data warehouse. We serve major technology companies and Fortune 100 enterprises, delivering petabytes of data daily with high reliability, low latency, and strong correctness guarantees. SDP is marching towards 99.99% availability and near real-time data freshness across multiple warehouse platforms. Merchants depend on this data for their own billing, reconciliation and analytics, a",
+    "source": "greenhouse",
+    "posted_at": "2026-09-21T07:18:26-04:00",
+    "fit_score": 35,
+    "reasoning": "The candidate has solid Java and Python backend experience and cloud certifications that align with building data pipelines, but lacks direct data‑engineering or streaming tool experience and is seeking part‑time work in Germany rather than a full‑time role in Bangalore. This geographic and role‑type mismatch reduces the overall fit.",
+    "cover_letter_opener": "I am excited to bring my backend and cloud expertise to Stripe’s Data Pipeline team and help power the financial infrastructure that fuels the internet’s economy.",
+    "scored_at": "2026-09-21T15:32:12.685Z"
+  },
+  {
+    "job_id": "d41c3d9e687e4c76",
+    "title": "Enterprise Account Executive, Privy",
+    "company": "stripe",
+    "location": "New York",
+    "url": "https://stripe.com/jobs/search?gh_jid=8196271",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Privy&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Our mission is to make privacy and user ownership the default online. We build simple, flexible application programming interfaces (APIs) and tools that help developers create products on crypto infrastructure.&lt;/p&gt; &lt;p&gt;Privy provides the abstraction and infrastructure layer above wallets, integrating across blockchain networks, third-party providers, and Stripe products such as Treasury and Link. We solve complex technical problems while using Stripe’s global reach to support customers including Ramp, Klarna, Deel, Kraken, Hyperliquid, and Fomo. Our technology powers experiences for both mainstream users and crypto-native audiences.&lt;/p&gt; &lt;p&gt;Learn more:&amp;nbsp;&lt;a href=&quot;https://privy.io/blog/announcing-our-acquisition-by-stripe&quot;&gt;[Privy and Stripe: Bringing crypto to everyone&lt;/a&gt;]&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;The Account Executive, Product team connects Privy’s technology with companies building new products across fintech and crypto. The team works closel",
+    "source": "greenhouse",
+    "posted_at": "2026-09-21T06:04:58-04:00",
+    "fit_score": 20,
+    "reasoning": "The candidate has strong technical expertise in backend, cloud, and AI but lacks sales, account management, and crypto experience required for an Enterprise Account Executive role. While their technical background could help understand Privy's APIs, the resume does not demonstrate the business development or client‑facing skills the position demands.",
+    "cover_letter_opener": "I am thrilled by Privy's mission to make privacy the default and eager to combine my technical expertise with a passion for enterprise solutions to drive growth for Stripe.",
+    "scored_at": "2026-09-21T15:32:12.684Z"
+  },
+  {
     "job_id": "04589828b3c93d8d",
     "title": "Staff Program Manager, CCO Programs",
     "company": "gitlab",
