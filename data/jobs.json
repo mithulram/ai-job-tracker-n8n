@@ -1,5 +1,19 @@
 [
   {
+    "job_id": "7d9cefd5bcb506ea",
+    "title": "Software Engineer, Core Technology",
+    "company": "stripe",
+    "location": "Bangalore",
+    "url": "https://stripe.com/jobs/search?gh_jid=7618977",
+    "description": "&lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world&#39;s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;About the team&lt;/h3&gt; &lt;p&gt;Stripe Infrastructure is responsible for the reliability, scale, performance, and cost of Stripe&#39;s systems and the productivity and sentiment of Stripe&#39;s people. You may work on a wide variety of critical business areas including&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Core Infrastructure—We&#39;re the home for Stripe&#39;s critical tier-0 infrastructure systems (Compute, Networking, DocumentDB, Distributed Caching, and High assurance engineering). We build the foundational platform for Stripe products and services to allow them to operate at scale. We drive re",
+    "source": "greenhouse",
+    "posted_at": "2026-09-21T23:51:56-04:00",
+    "fit_score": 45,
+    "reasoning": "The candidate has solid Java backend and cloud experience with Spring Boot and Azure, which aligns with Stripe's core technology needs. However, the candidate is seeking a part‑time role in Germany while the position is full‑time in Bangalore, and their career focus on AI and automotive cybersecurity does not directly match Stripe’s payments infrastructure, reducing overall fit.",
+    "cover_letter_opener": "I’m thrilled by Stripe’s mission to power the internet economy and eager to bring my Java and cloud expertise to help build the next generation of core payment technologies.",
+    "scored_at": "2026-09-22T08:07:18.525Z"
+  },
+  {
     "job_id": "4b7c0cb39f9b233d",
     "title": "AI Solutions Developer",
     "company": "stripe",
