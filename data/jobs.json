@@ -1,5 +1,33 @@
 [
   {
+    "job_id": "5e23017e5a34facb",
+    "title": "Design Engineer, Expansion",
+    "company": "stripe",
+    "location": "US, Canada",
+    "url": "https://stripe.com/jobs/search?gh_jid=8212314",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are &lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/span&gt;&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Web Presence and Platform is organized into two pillars, each of which is grouped into pods that focus on the central tenets of Stripe&#39;s public mission. The Presence pillar creates industry-leading designs for Stripe&#39;s front door surfaces, educating customers about the power of our platform, sharing Stripe&#39;s ideas and expertise with the public, and driving adoption. The Platform pillar builds the inter",
+    "source": "greenhouse",
+    "posted_at": "2026-09-22T11:54:37-04:00",
+    "fit_score": 30,
+    "reasoning": "The candidate has strong backend and cloud engineering experience, but the Design Engineer, Expansion role at Stripe focuses on financial infrastructure and hardware/software design, which does not directly align with the candidate's automotive cybersecurity and AI architect aspirations. Additionally, the candidate is based in Germany and seeking part‑time work, while the position is full‑time in the US/Canada, further reducing fit.",
+    "cover_letter_opener": "I am excited about the opportunity to bring my cloud‑native backend expertise and passion for innovative design to Stripe’s Expansion team and help shape the future of internet commerce.",
+    "scored_at": "2026-09-22T18:28:13.308Z"
+  },
+  {
+    "job_id": "88674b3a7d766b0c",
+    "title": "Account Executive, Platforms - Hunter",
+    "company": "stripe",
+    "location": "Chicago",
+    "url": "https://stripe.com/jobs/search?gh_jid=8222009",
+    "description": "&lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;The Platform Sales team works with B2B Software Platforms to help them facilitate payments for their customers using our Stripe Connect product. Software Platforms, also known as B2B Indirect, are software platform businesses who serve other businesses. Platforms already using Stripe include Shopify, Lightspeed and Mindbody.&lt;/p&gt; &lt;p&gt;As a key member to the Stripe Platforms team, you will manage and elevate relationships with a named account list while identifying new growth opportunities and ways Stripe can exceed expectations.&lt;/",
+    "source": "greenhouse",
+    "posted_at": "2026-09-22T10:44:59-04:00",
+    "fit_score": 15,
+    "reasoning": "The candidate’s experience is heavily technical, focusing on software development, cloud, and AI, with no demonstrated sales or account management background. Additionally, the role is a Chicago-based sales position, while the candidate is seeking part‑time engineering work in Germany, leading to a poor overall match.",
+    "cover_letter_opener": "I’m thrilled by Stripe’s mission to expand the internet’s economy and eager to leverage my technical expertise to help businesses adopt your platform as an Account Executive.",
+    "scored_at": "2026-09-22T18:28:13.307Z"
+  },
+  {
     "job_id": "93652723d0a18d1b",
     "title": "Enterprise Account Executive, Privy",
     "company": "stripe",
