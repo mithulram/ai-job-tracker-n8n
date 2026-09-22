@@ -1,5 +1,19 @@
 [
   {
+    "job_id": "4b7c0cb39f9b233d",
+    "title": "AI Solutions Developer",
+    "company": "stripe",
+    "location": "SEA. SF, NYC, CHI",
+    "url": "https://stripe.com/jobs/search?gh_jid=8221776",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&amp;nbsp;&amp;nbsp;&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;You&#39;ll be joining the Finance Operational Excellence team, reporting to the Head of Finance Operational Excellence. We are finance transformation and AI experts working side-by-side with Finance, Product, and Engineering teams to redefine processes and build the finance organization of the future.&amp;nbsp;This is an opportunity for someone who enjoys working across disciplines: part solution developer, part data architect, part workflow designer, and part coach.",
+    "source": "greenhouse",
+    "posted_at": "2026-09-21T17:44:55-04:00",
+    "fit_score": 55,
+    "reasoning": "The candidate brings solid backend development experience with Java, Python, and cloud platforms, and holds multiple Azure certifications that are valuable for building scalable AI solutions. However, the resume lacks direct experience with AI/LLM model integration and the payments ecosystem, and the candidate is currently based in Germany while the role is US‑based. Therefore the overall fit is moderate.",
+    "cover_letter_opener": "I’m excited to bring my cloud‑native backend expertise and passion for AI to Stripe’s mission of expanding the internet’s GDP!",
+    "scored_at": "2026-09-22T02:32:54.166Z"
+  },
+  {
     "job_id": "389f8c470ad18346",
     "title": "Engagement Manager - French Speaking",
     "company": "gitlab",
@@ -26,6 +40,34 @@
     "reasoning": "The candidate has strong technical skills in Java, cloud (Azure) and security, but lacks senior management experience, public‑sector renewal expertise, and the required US‑based focus for this senior role. Consequently the resume aligns only minimally with the job’s core responsibilities.",
     "cover_letter_opener": "I am excited about GitLab’s AI‑driven DevSecOps platform and eager to bring my cloud and security expertise to help drive public‑sector renewal success.",
     "scored_at": "2026-09-21T21:29:08.374Z"
+  },
+  {
+    "job_id": "fe68729ca5523a58",
+    "title": "Staff Engineer, Payments",
+    "company": "stripe",
+    "location": "Bengaluru",
+    "url": "https://stripe.com/jobs/search?gh_jid=8185014",
+    "description": "&lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/span&gt;&lt;/p&gt; &lt;h3&gt;About the team&lt;/h3&gt; &lt;p&gt;Payments is at the core of Stripe’s mission to increase the GDP of the internet. As we expand our payments footprint in India, we are looking for a Staff Engineer to set the technical direction for our next generation of payment offerings in the market.&lt;/p&gt; &lt;p&gt;As a Staff Engineer on the India Payments team, you will build on Stripe’s foundational platforms and lead the architectural evolution of critical systems that process money movement every millisecond. Working across the payments stack, you",
+    "source": "greenhouse",
+    "posted_at": "2026-09-21T13:04:24-04:00",
+    "fit_score": 25,
+    "reasoning": "The candidate has solid backend development experience with Java and Spring Boot, which aligns with Stripe's engineering stack, but lacks specific payments domain expertise and senior-level experience required for a Staff Engineer role. Additionally, the candidate is seeking a part-time student position in Germany, whereas the role is a full-time senior position based in Bengaluru, leading to a poor overall match.",
+    "cover_letter_opener": "I am thrilled by Stripe's mission to expand the internet's GDP and eager to contribute my backend expertise to your innovative payments platform.",
+    "scored_at": "2026-09-22T02:32:54.168Z"
+  },
+  {
+    "job_id": "a2a9a220b0daf42b",
+    "title": "Machine Learning Engineer, Link",
+    "company": "stripe",
+    "location": "New York City ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8197886",
+    "description": "&lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/span&gt;&lt;/p&gt; &lt;h3&gt;About the team&lt;/h3&gt; &lt;p&gt;Link is a digital wallet designed for fast and secure online payments. It allows consumers to save and use their preferred payment methods across the Link network, helping them check out quickly and securely wherever Link is accepted.&lt;/p&gt; &lt;p&gt;The Link Fraud and Auth team works to make Link the most trusted and highest-performing way to pay. We protect consumers and merchants from fraud, abuse, and financial loss while maximizing authorization rates for good users. Our work spans consumer-facing ex",
+    "source": "greenhouse",
+    "posted_at": "2026-09-21T12:52:34-04:00",
+    "fit_score": 30,
+    "reasoning": "The candidate has strong backend and cloud engineering experience, especially with Python and Azure, which are useful for building ML infrastructure, but the resume lacks direct machine‑learning model development, data‑science, or relevant frameworks experience. Additionally, the candidate is based in Germany and seeking part‑time roles, while the Stripe position is a full‑time role in New York City, further reducing fit.",
+    "cover_letter_opener": "I am excited to bring my cloud‑native backend expertise and passion for AI to Stripe’s Machine Learning Engineer team, helping power innovative financial solutions.",
+    "scored_at": "2026-09-22T02:32:54.167Z"
   },
   {
     "job_id": "bbde3f728d350267",
