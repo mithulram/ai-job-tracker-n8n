@@ -1,5 +1,19 @@
 [
   {
+    "job_id": "93652723d0a18d1b",
+    "title": "Enterprise Account Executive, Privy",
+    "company": "stripe",
+    "location": "New York",
+    "url": "https://stripe.com/jobs/search?gh_jid=8220653",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Privy&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Our mission is to make privacy and user ownership the default online. We build simple, flexible application programming interfaces (APIs) and tools that help developers create products on crypto infrastructure.&lt;/p&gt; &lt;p&gt;Privy provides the abstraction and infrastructure layer above wallets, integrating across blockchain networks, third-party providers, and Stripe products such as Treasury and Link. We solve complex technical problems while using Stripe’s global reach to support customers including Ramp, Klarna, Deel, Kraken, Hyperliquid, and Fomo. Our technology powers experiences for both mainstream users and crypto-native audiences.&lt;/p&gt; &lt;p&gt;Learn more:&amp;nbsp;&lt;a href=&quot;https://privy.io/blog/announcing-our-acquisition-by-stripe&quot;&gt;[Privy and Stripe: Bringing crypto to everyone&lt;/a&gt;]&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;The Account Executive, Product team connects Privy’s technology with companies building new products across fintech and crypto. The team works closel",
+    "source": "greenhouse",
+    "posted_at": "2026-09-22T08:29:55-04:00",
+    "fit_score": 15,
+    "reasoning": "The candidate's background is heavily technical, focusing on software development, cloud, and AI, whereas the role is a sales-oriented Enterprise Account Executive position. Additionally, the candidate is seeking part‑time engineering work in Germany, not a full‑time sales role in New York, leading to a poor overall match.",
+    "cover_letter_opener": "I am thrilled by the chance to bring my technical expertise and passion for privacy‑first solutions to Stripe’s Privy team as an Enterprise Account Executive.",
+    "scored_at": "2026-09-22T13:49:24.958Z"
+  },
+  {
     "job_id": "7d9cefd5bcb506ea",
     "title": "Software Engineer, Core Technology",
     "company": "stripe",
