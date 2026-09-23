@@ -1,5 +1,33 @@
 [
   {
+    "job_id": "294c870112341a70",
+    "title": "Product Designer, Design Systems",
+    "company": "stripe",
+    "location": "Spain",
+    "url": "https://stripe.com/jobs/search?gh_jid=7983076",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Sail is Stripe’s user interface platform and design system. We build the design language, components, tools, and front-end foundations that product teams use to create coherent, accessible, responsive, and high-quality experiences. Designers on Sail work closely with engineers and designers across Stripe to turn recurring product needs into durable solutions.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;As a Product Designer on Sail, you’ll con",
+    "source": "greenhouse",
+    "posted_at": "2026-09-23T03:09:25-04:00",
+    "fit_score": 15,
+    "reasoning": "The candidate's background is heavily focused on backend development, cloud infrastructure, and AI, with no evident experience in product design or design systems, which are core to the Stripe role. Additionally, the candidate seeks a Werkstudent position in Germany, while the job is a full-time product designer role based in Spain, further reducing relevance.",
+    "cover_letter_opener": "I am excited about the opportunity to bring my strong technical foundation and passion for innovative solutions to Stripe’s Design Systems team in Spain.",
+    "scored_at": "2026-09-23T08:09:33.335Z"
+  },
+  {
+    "job_id": "6a075282eb82d83b",
+    "title": "Integration Reliability Engineer, Technical Operations",
+    "company": "stripe",
+    "location": "Singapore",
+    "url": "https://stripe.com/jobs/search?gh_jid=8186445",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a technology company focused on improving the conditions for economic growth and prosperity. We build programmable financial infrastructure, rethinking from first principles how financial services should work, to make it easier and cheaper for any business to start and scale. More than 10 million &lt;a href=&quot;https://stripe.com/customers&quot;&gt;businesses&lt;/a&gt; build on Stripe, spanning the economic frontier—from solo founders to established enterprises—united by a practical focus on growth. The most ambitious companies in the world use Stripe as core infrastructure to grow faster. They process trillions of dollars a year on Stripe, equivalent to around 1.6% of global GDP. While economic growth makes everyone better off, open markets also enable greater variety. When any business can easily serve a global customer base, the quality and diversity of products in the world increase, and craft and creativity are unleashed into the smallest niches. Our own growth is wholly contingent on the success of the businesses building on Stripe. ",
+    "source": "greenhouse",
+    "posted_at": "2026-09-22T23:28:48-04:00",
+    "fit_score": 35,
+    "reasoning": "The candidate has strong backend and cloud experience with Java, Spring Boot, Azure, and Python, which are relevant to integration and reliability work. However, they lack specific experience in financial services, reliability engineering practices, and are based in Germany while the role is in Singapore, reducing overall alignment. Their career focus on AI solutions also diverges from the core responsibilities of this position.",
+    "cover_letter_opener": "I am excited to bring my backend and cloud expertise to Stripe’s Integration Reliability Engineering team, helping ensure seamless, reliable financial integrations worldwide.",
+    "scored_at": "2026-09-23T08:09:33.334Z"
+  },
+  {
     "job_id": "4b2f1b7fb28b23fd",
     "title": "Staff Enterprise Architect",
     "company": "gitlab",
