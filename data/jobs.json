@@ -1,5 +1,33 @@
 [
   {
+    "job_id": "a92c0a60a7d5d27c",
+    "title": "Senior Developer Advocate",
+    "company": "gitlab",
+    "location": "Remote, Canada; Remote, United States",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8838202002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-09-23T16:17:55-04:00",
+    "fit_score": 45,
+    "reasoning": "The candidate has strong backend and cloud engineering experience, especially with Java, Spring Boot, Azure, and security, which aligns with GitLab's DevSecOps focus. However, they lack direct experience in developer advocacy, community engagement, and specific GitLab tooling, and are seeking a student/part‑time role rather than a senior position, reducing overall fit.",
+    "cover_letter_opener": "I’m thrilled by GitLab’s AI‑driven DevSecOps vision and eager to leverage my cloud‑native backend expertise to champion the platform as a Senior Developer Advocate.",
+    "scored_at": "2026-09-23T23:24:18.676Z"
+  },
+  {
+    "job_id": "d9325c230afb211c",
+    "title": "Strategic Account Executive - San Francisco",
+    "company": "gitlab",
+    "location": "Remote",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8691382002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-09-23T15:14:41-04:00",
+    "fit_score": 20,
+    "reasoning": "The candidate's background is heavily technical, focusing on software development, cloud, and AI, while the role is a strategic sales position requiring account management and business development experience. Additionally, the candidate seeks a part‑time engineering role in Germany, whereas the job is a full‑time remote sales role targeting the US market, leading to a low overall match.",
+    "cover_letter_opener": "I’m thrilled by GitLab’s AI‑driven DevSecOps platform and eager to leverage my technical expertise to help customers achieve faster, more secure software delivery.",
+    "scored_at": "2026-09-23T23:24:18.678Z"
+  },
+  {
     "job_id": "3b846360998772c7",
     "title": "Principal Site Reliability Engineer, Platform Engineering: Dedicated",
     "company": "gitlab",
