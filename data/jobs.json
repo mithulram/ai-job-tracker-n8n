@@ -1,5 +1,47 @@
 [
   {
+    "job_id": "3debb1fdfd63d96d",
+    "title": "Backend Engineer, Create: Source Code Experience (Ruby)",
+    "company": "gitlab",
+    "location": "Remote, Canada",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8687926002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-09-24T17:59:52-04:00",
+    "fit_score": 30,
+    "reasoning": "The candidate demonstrates solid backend development skills with Java, Spring Boot, and cloud services, but lacks any experience in Ruby, which is central to this role. Additionally, the candidate is seeking part‑time work in Germany, whereas the position is a remote full‑time role targeting Canada, further reducing alignment. These gaps result in a modest fit score.",
+    "cover_letter_opener": "I’m excited to bring my proven backend engineering expertise to GitLab’s innovative Source Code Experience team and help drive the next generation of DevSecOps solutions.",
+    "scored_at": "2026-09-24T23:44:26.112Z"
+  },
+  {
+    "job_id": "88806adee5eef04d",
+    "title": "Backend Engineer, Create: Repository Management",
+    "company": "gitlab",
+    "location": "Remote, United Kingdom",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8843512002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-09-24T17:59:06-04:00",
+    "fit_score": 55,
+    "reasoning": "The candidate has solid backend experience with Java, Spring Boot, REST APIs and cloud infrastructure, which aligns with many of the technical requirements for a Backend Engineer at GitLab. However, the resume does not show direct experience with GitLab’s core technologies, DevSecOps tooling, or the preferred languages such as Ruby or Go, resulting in a moderate overall fit.",
+    "cover_letter_opener": "I’m excited to bring my Java and cloud expertise to GitLab’s intelligent orchestration platform and help accelerate secure software delivery for millions of users.",
+    "scored_at": "2026-09-24T23:44:26.111Z"
+  },
+  {
+    "job_id": "2ae91219a580f1bf",
+    "title": "Director, Legal - Employment",
+    "company": "gitlab",
+    "location": "Remote Ireland; Remote, United Kingdom",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8842584002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-09-24T16:38:47-04:00",
+    "fit_score": 8,
+    "reasoning": "The candidate's background is focused on software engineering, cloud, and AI solutions, with no experience in legal matters, employment law, or director-level responsibilities. While they have strong technical skills, the job requires legal expertise and leadership in employment law, which are not demonstrated in the resume.",
+    "cover_letter_opener": "I am excited about the opportunity to bring my analytical mindset and passion for innovative solutions to the Director, Legal - Employment role at GitLab.",
+    "scored_at": "2026-09-24T23:44:26.113Z"
+  },
+  {
     "job_id": "8bf4bd52604519cc",
     "title": "Senior Software Engineer, Backend",
     "company": "stripe",
