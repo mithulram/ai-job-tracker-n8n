@@ -1,5 +1,47 @@
 [
   {
+    "job_id": "b4ef11d90e048bd0",
+    "title": "Staff Software Engineer - NLP",
+    "company": "gitlab",
+    "location": "Bangalore, India",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8781299002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-09-24T02:04:48-04:00",
+    "fit_score": 30,
+    "reasoning": "The candidate has solid backend and cloud engineering experience with Java, Python, and Azure, which aligns with GitLab's cloud infrastructure needs. However, they lack specific NLP or large‑language‑model experience, senior staff‑level expertise, and are based in Germany rather than Bangalore, reducing overall fit.",
+    "cover_letter_opener": "I am excited about GitLab’s AI‑driven DevSecOps platform and eager to bring my cloud and backend expertise to help advance its NLP capabilities.",
+    "scored_at": "2026-09-24T13:57:54.658Z"
+  },
+  {
+    "job_id": "b976d484e0f023d5",
+    "title": "Staff Frontend Engineer",
+    "company": "gitlab",
+    "location": "Bangalore, India",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8826965002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-09-24T01:45:23-04:00",
+    "fit_score": 20,
+    "reasoning": "The candidate's experience is primarily backend, Java, and mobile development, while the role requires senior-level frontend expertise at GitLab. Additionally, the candidate is based in Germany and seeks part‑time work, which does not align with a staff position in Bangalore. However, their cloud and AI interests show some relevance to GitLab's AI focus.",
+    "cover_letter_opener": "I am excited about GitLab’s AI‑driven DevSecOps platform and eager to bring my cloud and software engineering expertise to help shape the next generation of frontend experiences.",
+    "scored_at": "2026-09-24T13:57:54.657Z"
+  },
+  {
+    "job_id": "b4c196f8ad05dddd",
+    "title": "Senior Frontend Engineer",
+    "company": "gitlab",
+    "location": "Bangalore, India",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8826920002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-09-24T01:24:21-04:00",
+    "fit_score": 20,
+    "reasoning": "The candidate's expertise lies primarily in backend Java, mobile development, and cloud infrastructure, with no explicit frontend technologies such as JavaScript frameworks mentioned. Additionally, the role is a senior position based in Bangalore, while the candidate is a student in Germany seeking part‑time work, resulting in a poor overall match.",
+    "cover_letter_opener": "I am thrilled about the opportunity to contribute my strong engineering background and passion for creating seamless user experiences to GitLab’s senior frontend team.",
+    "scored_at": "2026-09-24T13:57:54.656Z"
+  },
+  {
     "job_id": "a92c0a60a7d5d27c",
     "title": "Senior Developer Advocate",
     "company": "gitlab",
