@@ -1,5 +1,47 @@
 [
   {
+    "job_id": "8bf4bd52604519cc",
+    "title": "Senior Software Engineer, Backend",
+    "company": "stripe",
+    "location": "Seattle, WA",
+    "url": "https://stripe.com/jobs/search?gh_jid=8230952",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe, LLC. is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Building and operating critical, large-scale systems that manage massive volumes of financial information, to fulfill business goals for Stripe and its partners;&lt;/li&gt; &lt;li&gt;Navigate a complex fintech environment with numerous compliance regulations, translating internal and external business needs into robust software requirements and scalable distributed systems;&lt;/li&gt; &lt;li",
+    "source": "greenhouse",
+    "posted_at": "2026-09-24T12:53:45-04:00",
+    "fit_score": 30,
+    "reasoning": "The candidate has solid Java and Spring Boot backend experience, which aligns with Stripe's backend needs, but the role is senior-level and full-time in Seattle, while the candidate is a part‑time student in Germany targeting AI architect roles. This mismatch in seniority, location, and career focus reduces the overall fit.",
+    "cover_letter_opener": "I am excited to bring my strong Java and cloud backend expertise to Stripe’s innovative payment platform and contribute to building the internet’s financial infrastructure.",
+    "scored_at": "2026-09-24T18:47:54.676Z"
+  },
+  {
+    "job_id": "77e0726bcdb68f07",
+    "title": "Engineering Manager - LPM Foundations",
+    "company": "stripe",
+    "location": "Dublin",
+    "url": "https://stripe.com/jobs/search?gh_jid=8230300",
+    "description": "&lt;h2&gt;About Stripe&lt;/h2&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt; &lt;h2&gt;About the team&lt;/h2&gt; &lt;p&gt;The payments landscape is changing rapidly, with businesses and their customers relying on a growing mix of local payment methods, cards, wallets, bank payments, buy now, pay later, and digital currencies. Stripe’s Local Payment Methods (LPM) business is one of our fastest-growing payments businesses.&lt;/p&gt; &lt;p&gt;LPM Foundations builds and operates the core platform that enables Stripe’s Local Payment Method teams—and their first- and third-party developers—to build, integrate, and run high-quality payment methods at scale. We turn complex product integrations into reusable, self-service plat",
+    "source": "greenhouse",
+    "posted_at": "2026-09-24T12:04:58-04:00",
+    "fit_score": 20,
+    "reasoning": "The candidate has solid Java and cloud experience but lacks senior leadership and engineering management background required for an Engineering Manager role. Additionally, the position is full-time in Dublin while the candidate is seeking part‑time work in Germany, creating a location and commitment mismatch.",
+    "cover_letter_opener": "I am thrilled by Stripe’s mission to increase the GDP of the internet and eager to contribute my cloud‑native engineering expertise to the LPM Foundations team.",
+    "scored_at": "2026-09-24T18:47:54.675Z"
+  },
+  {
+    "job_id": "f632e4e36943adfa",
+    "title": "Intermediate Security Analyst, Vulnerability Operations (North America)",
+    "company": "gitlab",
+    "location": "Remote, Canada; Remote, United States",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8821526002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-09-24T12:04:49-04:00",
+    "fit_score": 50,
+    "reasoning": "The candidate has solid cloud and backend development experience and research in automotive cybersecurity, which aligns with GitLab's security focus. However, they lack direct vulnerability operations experience and are based in Germany while the role targets North America, reducing overall fit.",
+    "cover_letter_opener": "I am excited to bring my cybersecurity research and cloud expertise to GitLab’s Vulnerability Operations team to help secure the world’s code.",
+    "scored_at": "2026-09-24T18:47:54.674Z"
+  },
+  {
     "job_id": "b4ef11d90e048bd0",
     "title": "Staff Software Engineer - NLP",
     "company": "gitlab",
