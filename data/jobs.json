@@ -1,5 +1,33 @@
 [
   {
+    "job_id": "36ce3407e56543e8",
+    "title": "Fraud Strategist",
+    "company": "stripe",
+    "location": "Singapore",
+    "url": "https://stripe.com/jobs/search?gh_jid=8195058",
+    "description": "&lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies, from the world’s largest enterprises to the most ambitious startups, use Stripe to accept payments, grow their revenue, and pursue new business opportunities. Our mission is to increase the GDP of the internet. We have significant work ahead, which gives you the opportunity to do important work that expands access to the global economy.&lt;/p&gt; &lt;h3&gt;About the APAC Risk team&lt;/h3&gt; &lt;p&gt;The APAC Risk team helps Stripe launch and grow products responsibly across a diverse and rapidly evolving region. We work closely with global and regional partners across Product, Engineering, Data Science, Operations, Partnerships, and Risk to identify emerging risks, define practical controls, and make risk decisions easier to execute at scale.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;The team supports Stripe’s growth in APAC by combining deep regional context with strong analytical judgment. We assess how fraud patterns, payment methods, user behavior, market structures, and regulatory expectations vary across countr",
+    "source": "greenhouse",
+    "posted_at": "2026-09-28T00:18:45-04:00",
+    "fit_score": 35,
+    "reasoning": "The candidate has solid experience in risk and threat modeling from automotive cybersecurity, and strong backend and cloud skills, which are relevant to Stripe's fraud strategy work. However, they lack direct experience in financial fraud detection, the preferred tech stack, and are based in Germany while the role is in Singapore, reducing overall alignment.",
+    "cover_letter_opener": "I am excited to bring my risk‑modeling expertise and cloud‑native development background to Stripe’s APAC Risk team to help combat fraud across the region.",
+    "scored_at": "2026-09-28T09:11:21.027Z"
+  },
+  {
+    "job_id": "30b3fc5c7b8dca84",
+    "title": "Senior Manager of Success Architects",
+    "company": "gitlab",
+    "location": "Remote, Singapore",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8842171002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-09-28T00:16:21-04:00",
+    "fit_score": 20,
+    "reasoning": "The candidate is an early‑career student with strong Java, cloud, and AI interests, but the role requires senior managerial experience in DevSecOps and success architecture, which they lack. Additionally, the job is remote Singapore‑based while the candidate seeks part‑time work in Germany, further reducing alignment.",
+    "cover_letter_opener": "I am thrilled by GitLab’s AI‑driven DevSecOps vision and eager to contribute my cloud and backend expertise to empower customers as a Success Architect.",
+    "scored_at": "2026-09-28T09:11:21.025Z"
+  },
+  {
     "job_id": "2fa2ed271a741bb1",
     "title": "Engineering Manager",
     "company": "gitlab",
