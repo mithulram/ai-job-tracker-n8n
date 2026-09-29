@@ -1,5 +1,47 @@
 [
   {
+    "job_id": "d1277af117a228c0",
+    "title": "Android BSP Engineer",
+    "company": "stripe",
+    "location": "Taipei, Taiwan",
+    "url": "https://stripe.com/jobs/search?gh_jid=8239006",
+    "description": "&lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&amp;nbsp;&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe Terminal helps Stripe users extend their online presence into the physical world. The Terminal team’s mission is to make it as easy for businesses to accept in-person payments as the Stripe API has done for online payments. With Terminal, businesses can unlock in-person payments use cases that are right for their business model—whether it’s creating a flagship retail experience, extending their website to a pop-up store, or enabling a mobile point-of-sale at their next event.&amp;nbsp;&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;What w",
+    "source": "greenhouse",
+    "posted_at": "2026-09-29T01:26:45-04:00",
+    "fit_score": 20,
+    "reasoning": "The candidate has strong mobile development experience with Flutter and solid backend expertise, but lacks the low‑level Android, C/C++ and hardware integration skills typically required for a BSP engineer. Additionally, the resume emphasizes cloud and AI aspirations and is based in Germany, while the role is located in Taipei and focuses on embedded systems. Consequently, the overall alignment with the job requirements is limited.",
+    "cover_letter_opener": "I am excited to bring my mobile development expertise and passion for innovative engineering to Stripe’s Android BSP team in Taipei.",
+    "scored_at": "2026-09-29T09:21:21.045Z"
+  },
+  {
+    "job_id": "827c1eef2beb8f24",
+    "title": "Full Stack Engineer, Enterprise Engineering",
+    "company": "stripe",
+    "location": "N/A",
+    "url": "https://stripe.com/jobs/search?gh_jid=8214618",
+    "description": "&lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/span&gt;&lt;/p&gt; &lt;h3&gt;About the team&lt;/h3&gt; &lt;p&gt;As part of the Enterprise Product team, the Enterprise Engineering team is responsible for bridging the gap between Stripe&#39;s core capabilities and the bespoke needs of the world&#39;s largest organizations. Our mission is to improve Stripe&#39;s product-market fit with enterprise users to win more deals and grow revenue, while giving every enterprise user an excellent experience as they onboard, activate, and grow their business with Stripe.&lt;/p&gt; &lt;p&gt;Enterprise Engineering tackles ambiguous, co",
+    "source": "greenhouse",
+    "posted_at": "2026-09-28T22:57:48-04:00",
+    "fit_score": 55,
+    "reasoning": "The candidate has solid backend experience with Java, Spring Boot, and cloud platforms like Azure, which aligns with full‑stack development needs. However, the resume lacks direct experience with payment systems, Stripe’s tech stack, or enterprise‑scale web technologies commonly used at Stripe, limiting the overall match. The strong cloud and API design skills still make the candidate a viable contender for a junior or Werkstudent role.",
+    "cover_letter_opener": "I am excited to bring my strong backend and cloud expertise to Stripe’s Enterprise Engineering team and help power the next generation of internet commerce.",
+    "scored_at": "2026-09-29T09:21:21.047Z"
+  },
+  {
+    "job_id": "6e0d851625b4817c",
+    "title": "Full Stack Engineer, Enterprise Engineering",
+    "company": "stripe",
+    "location": "N/A",
+    "url": "https://stripe.com/jobs/search?gh_jid=8214616",
+    "description": "&lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/span&gt;&lt;/p&gt; &lt;h3&gt;About the team&lt;/h3&gt; &lt;p&gt;As part of the Enterprise Product team, the Enterprise Engineering team is responsible for bridging the gap between Stripe&#39;s core capabilities and the bespoke needs of the world&#39;s largest organizations. Our mission is to improve Stripe&#39;s product-market fit with enterprise users to win more deals and grow revenue, while giving every enterprise user an excellent experience as they onboard, activate, and grow their business with Stripe.&lt;/p&gt; &lt;p&gt;Enterprise Engineering tackles ambiguous, co",
+    "source": "greenhouse",
+    "posted_at": "2026-09-28T22:54:32-04:00",
+    "fit_score": 55,
+    "reasoning": "The candidate brings strong backend experience with Java, Spring Boot, and cloud platforms like Azure, as well as REST API design, which aligns with full‑stack development needs. However, they lack direct experience with Stripe’s typical tech stack (e.g., JavaScript/React, Ruby, Go) and the payments domain, and their current focus is on AI/LLM roles, which reduces the immediate match. Therefore the fit is moderate.",
+    "cover_letter_opener": "I’m excited to bring my Java and cloud expertise to Stripe’s Enterprise Engineering team and help power the financial infrastructure that fuels the internet’s economy.",
+    "scored_at": "2026-09-29T09:21:21.048Z"
+  },
+  {
     "job_id": "224180e58ed49eaa",
     "title": "Americas Field Marketing, AI",
     "company": "stripe",
