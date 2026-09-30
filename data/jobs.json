@@ -1,5 +1,33 @@
 [
   {
+    "job_id": "fce1a6dce84e1890",
+    "title": "Senior Solutions Architect- Sydney",
+    "company": "gitlab",
+    "location": "Remote",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8826637002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-09-29T23:01:20-04:00",
+    "fit_score": 35,
+    "reasoning": "The candidate has strong cloud and backend development experience and certifications that align with the technical aspects of a Solutions Architect role. However, the position is senior-level and focuses on DevSecOps orchestration with GitLab’s platform, which the resume does not demonstrate, and the candidate is still a student seeking part‑time work. Therefore the overall match is limited.",
+    "cover_letter_opener": "I am excited to bring my cloud‑native development and cybersecurity expertise to GitLab’s remote Senior Solutions Architect team, driving AI‑enhanced DevSecOps solutions.",
+    "scored_at": "2026-09-30T03:08:37.592Z"
+  },
+  {
+    "job_id": "e2d16af91f70578c",
+    "title": "Associate Renewals Manager",
+    "company": "gitlab",
+    "location": "Remote, Canada; Remote, United States",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8857185002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-09-29T18:10:23-04:00",
+    "fit_score": 15,
+    "reasoning": "The candidate’s experience is heavily technical, focusing on backend development, cloud, and AI, with no demonstrated sales, account management, or renewals expertise required for an Associate Renewals Manager role. Consequently, the alignment with the core responsibilities of managing customer renewals and driving revenue is minimal. While the candidate’s enthusiasm for AI aligns with GitLab’s culture, the skill gap lowers the overall fit.",
+    "cover_letter_opener": "I’m excited to bring my passion for AI‑driven cloud solutions to GitLab’s innovative team and help accelerate customer success through intelligent renewal strategies.",
+    "scored_at": "2026-09-30T03:08:37.591Z"
+  },
+  {
     "job_id": "4f73265f70356c60",
     "title": "Senior Security Risk Engineer",
     "company": "gitlab",
