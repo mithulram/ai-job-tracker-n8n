@@ -1,5 +1,19 @@
 [
   {
+    "job_id": "38a7030457bdf056",
+    "title": "Staff Engineer, Revenue Experiences",
+    "company": "stripe",
+    "location": "Bengaluru",
+    "url": "https://stripe.com/jobs/search?gh_jid=8222459",
+    "description": "&lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/span&gt;&lt;/p&gt; &lt;h3&gt;About the team&lt;/h3&gt; &lt;p&gt;The Commercial Experiences Engineering team is part of the Commerce Systems organization at Stripe. We focus on ensuring that our users, both internal and external, have a best-in-class experience with billing at Stripe. This includes working on the systems and processes needed to bill our largest and most complex customers, as well as designing and delivering experiences to help guide users through their billing, from fee explainability to deep diving on product usage optimization. We are a cross-functional",
+    "source": "greenhouse",
+    "posted_at": "2026-09-30T05:47:45-04:00",
+    "fit_score": 30,
+    "reasoning": "The candidate has solid backend and cloud experience with Java, Spring Boot, and Azure, which aligns with Stripe's engineering stack, but lacks specific payments or revenue experience and senior-level leadership required for a Staff Engineer role. Additionally, the candidate is seeking a part-time or Werkstudent position while studying, whereas the role is a full-time senior position based in Bengaluru. The geographic and seniority mismatches significantly lower the overall fit.",
+    "cover_letter_opener": "I am thrilled by Stripe's mission to expand the internet's GDP and eager to contribute my backend and cloud expertise to the Revenue Experiences team!",
+    "scored_at": "2026-09-30T11:39:31.338Z"
+  },
+  {
     "job_id": "fce1a6dce84e1890",
     "title": "Senior Solutions Architect- Sydney",
     "company": "gitlab",
