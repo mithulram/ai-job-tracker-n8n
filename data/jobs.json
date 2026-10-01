@@ -1,5 +1,19 @@
 [
   {
+    "job_id": "4a82ac75bddeabda",
+    "title": "Software Engineer, Stripe Tax",
+    "company": "stripe",
+    "location": "Barcelona",
+    "url": "https://stripe.com/jobs/search?gh_jid=8232358",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&amp;nbsp;&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Collecting and filing sales &amp;amp; indirect taxes is a classic area for technology disruption. Companies selling across countries, states, and even smaller jurisdictions have to navigate through a myriad of tax rates, product-level tax exemptions, filing requirements, and registration obligations. The rules are constantly changing, and not accurately calculating and filing tax can have legal ramifications.&lt;/p&gt; &lt;p&gt;It’s no surprise then that solving fo",
+    "source": "greenhouse",
+    "posted_at": "2026-10-01T05:59:51-04:00",
+    "fit_score": 45,
+    "reasoning": "The candidate has strong Java and Spring Boot backend experience and cloud expertise, which align with Stripe's engineering needs, but lacks direct experience in tax or payments systems and is based in Germany while the role is in Barcelona. Additionally, the candidate's career focus on AI solutions architecture diverges from the core responsibilities of a Stripe Tax engineer.",
+    "cover_letter_opener": "I am thrilled by the opportunity to bring my backend and cloud expertise to Stripe's Tax team and help power seamless global commerce.",
+    "scored_at": "2026-10-01T12:08:11.547Z"
+  },
+  {
     "job_id": "9b736a5ce39b9116",
     "title": "Associate Renewals Manager, India",
     "company": "gitlab",
