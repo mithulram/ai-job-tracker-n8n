@@ -1,5 +1,19 @@
 [
   {
+    "job_id": "2098c5f8b759f933",
+    "title": "Senior Professional Services Engineer, Japan",
+    "company": "gitlab",
+    "location": "Remote, Japan",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8859657002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-10-01T20:31:07-04:00",
+    "fit_score": 30,
+    "reasoning": "The candidate has solid cloud, security, and backend development experience, which aligns with GitLab's DevSecOps focus, but lacks senior‑level experience and specific familiarity with GitLab's core technologies. Additionally, the candidate is based in Germany and seeks a Werkstudent role, whereas the position is a senior remote role targeting Japan.",
+    "cover_letter_opener": "I am excited to bring my AI‑focused cloud and security expertise to GitLab’s innovative DevSecOps platform and help accelerate secure software delivery worldwide.",
+    "scored_at": "2026-10-02T09:13:01.838Z"
+  },
+  {
     "job_id": "6a4d12527691377b",
     "title": "Associate Revenue Operations Manager, India",
     "company": "gitlab",
