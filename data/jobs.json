@@ -1,5 +1,47 @@
 [
   {
+    "job_id": "e1cb101c98af869f",
+    "title": "Regional Sales Director, National Security Group",
+    "company": "gitlab",
+    "location": "Remote, United States",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8858174002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-10-02T21:56:25-04:00",
+    "fit_score": 15,
+    "reasoning": "The candidate's background is heavily technical, focusing on software development, cloud, and AI, with no demonstrated sales or leadership experience required for a Regional Sales Director role. Additionally, the position is remote US and targets security sales, while the candidate seeks part‑time engineering work in Germany, resulting in a poor overall match.",
+    "cover_letter_opener": "I am excited about GitLab’s mission to accelerate secure software delivery and would love to bring my technical expertise to help drive growth for the National Security Group.",
+    "scored_at": "2026-10-03T03:02:16.969Z"
+  },
+  {
+    "job_id": "4c106a27e19b9d8a",
+    "title": "Software Engineer, Revenue and Financial Automation",
+    "company": "stripe",
+    "location": "N/A",
+    "url": "https://stripe.com/jobs/search?gh_jid=8076616",
+    "description": "&lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;About the team&lt;/h3&gt; &lt;p&gt;The Revenue and Financial Automation (RFA) team at Stripe is building a modern, revenue-focused, financial management platform for fast growing, digital native companies. Sub-orgs within RFA: Atlas, Business Network, Tax, Billing, and Reporting &amp;amp; Accounting &amp;amp; Data Services (RADS).&amp;nbsp;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Atlas&lt;/strong&gt;: Atlas makes starting an internet company faster and simpler by decreasing the complexity and bundling everything you need. Founders, from anywhere in the world, can create a company, open a bank acco",
+    "source": "greenhouse",
+    "posted_at": "2026-10-02T19:20:36-04:00",
+    "fit_score": 55,
+    "reasoning": "The candidate brings solid Java backend, REST API, and cloud expertise that align with Stripe's engineering needs, but lacks direct experience in payment processing or financial automation. Their focus on AI solutions and automotive cybersecurity does not directly match the core domain of revenue and financial automation, reducing overall relevance. Nonetheless, strong cloud and backend skills make them a potentially adaptable fit for a junior or Werkstudent role.",
+    "cover_letter_opener": "I am excited to bring my Java and cloud engineering experience to Stripe’s Revenue and Financial Automation team, helping build the next generation of financial infrastructure!",
+    "scored_at": "2026-10-03T03:02:16.972Z"
+  },
+  {
+    "job_id": "e52f0e7a7272ae67",
+    "title": "Full Stack Engineer, Revenue",
+    "company": "stripe",
+    "location": "N/A",
+    "url": "https://stripe.com/jobs/search?gh_jid=8234357",
+    "description": "&lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/span&gt;&lt;/p&gt; &lt;h3&gt;About the team&lt;/h3&gt; &lt;p&gt;The Revenue and Financial Automation (RFA) team at Stripe is building a modern, revenue-focused, financial management platform for fast growing, digital native companies. Hundreds of thousands of businesses of all sizes and types use Stripe Billing to collect revenue for recurring and one-time payments across a variety of different pricing models—from selling SaaS subscriptions, to orchestrating multi-stage contracts, providing recovery and retention tools to prevent customer churn,—and with the acquisition ",
+    "source": "greenhouse",
+    "posted_at": "2026-10-02T18:15:23-04:00",
+    "fit_score": 55,
+    "reasoning": "The candidate has strong backend experience with Java, Spring Boot, and cloud platforms like Azure, which aligns with full‑stack development needs. However, the resume lacks direct experience in payment processing, Stripe's ecosystem, or the specific revenue‑focused technologies typically required for this role. Additionally, the candidate is still a student seeking part‑time work, which may not match the full‑time expectations of a senior full‑stack engineer at Stripe.",
+    "cover_letter_opener": "I am thrilled by Stripe's mission to power the internet economy and eager to contribute my full‑stack and cloud expertise to the Revenue team!",
+    "scored_at": "2026-10-03T03:02:16.970Z"
+  },
+  {
     "job_id": "f6efcda94c5064bf",
     "title": "Staff Software Engineer, Infrastructure",
     "company": "stripe",
