@@ -1,5 +1,47 @@
 [
   {
+    "job_id": "e88eedfdf2b759f0",
+    "title": "Security Engineer, New Grad",
+    "company": "stripe",
+    "location": "Dublin",
+    "url": "https://stripe.com/jobs/search?gh_jid=8257892",
+    "description": "&lt;div&gt;&lt;strong&gt;Who we are:&lt;br&gt;&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;br&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;br&gt;&lt;br&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;br&gt;Stripe offers an interesting middle ground between joining a small startup and going to work for a multinational company. We have systems and processes optimized for early-career professionals. You will be in an environment that prizes rigor, discipline, and reliability—from our products, from our ways of working, and from our colleagues. You will learn how the best teams put together extremely reliable systems, and you will be responsible for operating these systems, with adequate backup when thi",
+    "source": "greenhouse",
+    "posted_at": "2026-10-07T04:45:47-04:00",
+    "fit_score": 55,
+    "reasoning": "The candidate's experience in automotive cybersecurity research and threat modeling aligns with the security focus of the role, and their strong software engineering background in Java and cloud platforms is valuable. However, they lack direct security engineering experience at scale, their career goal is AI solutions rather than security, and they are based in Germany while the position is in Dublin, reducing overall fit.",
+    "cover_letter_opener": "I am excited to bring my cybersecurity research and full‑stack development expertise to Stripe’s Security Engineering team and help secure the future of internet payments.",
+    "scored_at": "2026-10-07T09:35:17.117Z"
+  },
+  {
+    "job_id": "16e172bdea56cfd4",
+    "title": "Specialist Solutions Architect, Radar (APAC)",
+    "company": "stripe",
+    "location": "Singapore",
+    "url": "https://stripe.com/jobs/search?gh_jid=8225567",
+    "description": "&lt;h1&gt;Specialist Solutions Architect, Radar (Fraud)&lt;/h1&gt; &lt;h2&gt;Who We Are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world&#39;s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;About The Team&lt;/h3&gt; &lt;p&gt;Specialist Solutions Architects (SSA) are domain experts aligned to specific Stripe solutions and customer buying centers. We have in-depth knowledge of specific solution offerings and a deep understanding of customer challenges. We align with specialist product sellers on deals, advise the broader pre-sales team on complex opportunities, support pipeline development and revenue attainment, serve as an advisor on go-to-market sales plays, and provide critical insights to our product and enginee",
+    "source": "greenhouse",
+    "posted_at": "2026-10-06T20:52:12-04:00",
+    "fit_score": 35,
+    "reasoning": "The candidate possesses solid backend development and cloud architecture skills, especially with Java, Spring Boot, and Azure, which are relevant to a solutions architect role. However, they lack direct experience with payment processing, fraud detection, and Stripe’s Radar platform, and they are based in Germany seeking part‑time work, while the position is a full‑time role in Singapore. Consequently, the overall fit is moderate.",
+    "cover_letter_opener": "I am excited to bring my cloud‑native backend expertise and passion for security to Stripe’s Radar team, helping protect merchants worldwide from fraud.",
+    "scored_at": "2026-10-07T09:35:17.118Z"
+  },
+  {
+    "job_id": "d15df2a8d0acf9ec",
+    "title": "Director, Global People Operations & Compliance",
+    "company": "gitlab",
+    "location": "Remote, Canada; Remote, United States",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8872500002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-10-06T20:46:38-04:00",
+    "fit_score": 12,
+    "reasoning": "The candidate’s background is heavily technical, focusing on software development, cloud, and AI, whereas the role is a senior people‑operations and compliance leadership position. Additionally, the required seniority, HR expertise, and geographic focus differ from the candidate’s current student status and engineering focus.",
+    "cover_letter_opener": "I am thrilled at the prospect of bringing my passion for innovative technology and collaborative culture to support GitLab’s global people operations and compliance initiatives.",
+    "scored_at": "2026-10-07T09:35:17.116Z"
+  },
+  {
     "job_id": "bb6d6ca125931326",
     "title": "Fraud Architect",
     "company": "stripe",
