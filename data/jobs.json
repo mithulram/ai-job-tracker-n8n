@@ -1,5 +1,33 @@
 [
   {
+    "job_id": "bb6d6ca125931326",
+    "title": "Fraud Architect",
+    "company": "stripe",
+    "location": "SF-HQ, Chicago, New York, US-Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8203220",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are &lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world&#39;s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;The Fraud Architect team helps Stripe’s largest and most complex users manage fraud and abuse across the customer lifecycle. We combine deep fraud expertise, technical investigation, and product knowledge to help users understand emerging threats, optimize Radar, and implement durable prevention strategies tailored to their business and risk tolerance. Our goal is to enable users’ growth by proactively reducing fraud while protecting legitimate customer activity and turning",
+    "source": "greenhouse",
+    "posted_at": "2026-10-06T19:50:04-04:00",
+    "fit_score": 55,
+    "reasoning": "The candidate's background in automotive cybersecurity, risk/threat modeling, and strong backend/cloud experience aligns well with the security focus of a Fraud Architect role. However, they lack direct experience in payments, fraud detection systems, and Stripe's typical tech stack, which limits the overall match. Their AI and cloud aspirations are promising but still need more domain‑specific exposure.",
+    "cover_letter_opener": "I am thrilled by Stripe’s mission to power the internet economy and eager to bring my cybersecurity and cloud expertise to help build world‑class fraud‑prevention solutions.",
+    "scored_at": "2026-10-07T00:17:26.005Z"
+  },
+  {
+    "job_id": "d2cd798e97a36c4d",
+    "title": "Product Manager, Ecosystem",
+    "company": "stripe",
+    "location": "US",
+    "url": "https://stripe.com/jobs/search?gh_jid=8234705",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to ambitious startups—use Stripe to accept payments, grow revenue, and create new business opportunities. Our mission is to increase the GDP of the internet.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe’s ecosystem enables third-party developers and technology partners to extend products such as Payments, Billing, Tax, Checkout, and Workflows. The Ecosystem team builds the Stripe Apps Marketplace and the distribution, platform, and incentive systems that connect businesses with valuable third-party solutions.&lt;/p&gt; &lt;p&gt;Our goal is to create a compounding ecosystem: better distribution generates merchant demand and stronger partner returns; those returns attract more high-quality apps; and those apps broaden Stripe’s product fit and value to users.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;We’re looking for an Ecosystem Product Lead to ow",
+    "source": "greenhouse",
+    "posted_at": "2026-10-06T16:43:43-04:00",
+    "fit_score": 20,
+    "reasoning": "The candidate has strong software engineering and cloud experience but lacks product management background and domain knowledge in payments and ecosystems. Additionally, the role is US‑based while the candidate is seeking a German part‑time position, further reducing alignment.",
+    "cover_letter_opener": "I’m excited about Stripe’s ecosystem and eager to bring my technical expertise and passion for innovative solutions to help shape the next generation of developer experiences.",
+    "scored_at": "2026-10-07T00:17:26.006Z"
+  },
+  {
     "job_id": "01a0d02e89c29c0b",
     "title": "Solutions Architect, SMB",
     "company": "stripe",
