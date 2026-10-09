@@ -1,5 +1,19 @@
 [
   {
+    "job_id": "8684ab2e3bbed5aa",
+    "title": "Engineering Manager - Support Experience",
+    "company": "stripe",
+    "location": "Dublin",
+    "url": "https://stripe.com/jobs/search?gh_jid=8264421",
+    "description": "&lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world&#39;s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;h3&gt;About the team&lt;/h3&gt; &lt;p&gt;The Premium Support Experience team builds products to enable, support, and grow businesses in their usage of Stripe. Our Dublin-based team is a startup within Stripe, building a greenfield product to provide a high-quality, differentiated support experience for our largest, most complex, and most engaged users. Besides building directly for Stripe&#39;s users, we&#39;re responsible for improving internal tooling and processes that set the foundations for their end-to-end experience.&lt;/p&gt; &lt;p&gt;The team is part of the Supp",
+    "source": "greenhouse",
+    "posted_at": "2026-10-09T03:05:10-04:00",
+    "fit_score": 35,
+    "reasoning": "The candidate demonstrates solid backend and cloud engineering skills with Java, Spring Boot, Azure, and Python, which are relevant to Stripe's technical environment. However, they lack direct experience in engineering management, support operations, and the payments domain that the role demands. Consequently, the overall fit is moderate but below the threshold for a senior managerial position.",
+    "cover_letter_opener": "I am excited about the opportunity to bring my cloud‑native development expertise to Stripe’s Engineering team and help elevate the support experience for your global customers.",
+    "scored_at": "2026-10-09T09:51:32.351Z"
+  },
+  {
     "job_id": "5213e51884a01fab",
     "title": "Staff Software Engineer,",
     "company": "stripe",
