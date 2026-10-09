@@ -1,5 +1,33 @@
 [
   {
+    "job_id": "5213e51884a01fab",
+    "title": "Staff Software Engineer,",
+    "company": "stripe",
+    "location": "Seattle, San Francisco, Seattle, New York, Toronto",
+    "url": "https://stripe.com/jobs/search?gh_jid=8209967",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;In this role, you will be joining the High Availability and Disaster Recovery team. At Stripe, availability is a core feature of our products. This team designs and builds new solutions to allow latency-critical, stateful applications to survive any type of disaster. We build distributed systems on top of unreliable architecture to provide highly available and resilient customer solutions. This team is creating greenfield solutions which will serve as the basis for Stripe’s architec",
+    "source": "greenhouse",
+    "posted_at": "2026-10-08T17:52:40-04:00",
+    "fit_score": 30,
+    "reasoning": "The candidate has solid backend development experience with Java, Spring Boot, and cloud services, which aligns with general software engineering requirements. However, the role is a senior Staff Software Engineer position at Stripe, demanding extensive experience in large-scale payment systems, likely in languages such as Python, Ruby, or Go, which the resume does not demonstrate. Additionally, the candidate is seeking a part‑time or Werkstudent role while completing a Master's, whereas Stripe's posting targets a full‑time senior position.",
+    "cover_letter_opener": "I am thrilled by Stripe's mission to expand the internet economy and eager to contribute my cloud‑native backend expertise to your innovative payment platform.",
+    "scored_at": "2026-10-09T00:53:15.283Z"
+  },
+  {
+    "job_id": "5d1bda0854e90ad1",
+    "title": "Solutions Architect, AI",
+    "company": "stripe",
+    "location": "NYC, SF, or Chicago",
+    "url": "https://stripe.com/jobs/search?gh_jid=8248509",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;The AI Solutions Architecture team is a group of specialists with a deep understanding of Stripe&#39;s products that partners with AI users to realize their full potential through the adoption of prescriptive solutions that drive their growth and success. SAs on this team leverage their expertise in the broader subscription, billing, and payments industry to influence revenue growth across Stripe’s product portfolio, and collaborate with sales, support, product management, a",
+    "source": "greenhouse",
+    "posted_at": "2026-10-08T15:18:27-04:00",
+    "fit_score": 35,
+    "reasoning": "The candidate has strong cloud and backend architecture experience with Azure and Spring Boot, which aligns with a solutions architect role. However, they lack direct AI/LLM project experience and are based in Germany seeking part‑time work, while Stripe’s role is full‑time in US locations, reducing overall fit.",
+    "cover_letter_opener": "I’m excited to bring my cloud architecture expertise and passion for AI to help Stripe accelerate the internet’s GDP.",
+    "scored_at": "2026-10-09T00:53:15.282Z"
+  },
+  {
     "job_id": "86fe57f84391f18a",
     "title": "Manager, Support Engineering (AMER)",
     "company": "gitlab",
