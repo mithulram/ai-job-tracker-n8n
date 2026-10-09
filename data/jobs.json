@@ -1,5 +1,47 @@
 [
   {
+    "job_id": "9a63ed4da469a1fd",
+    "title": "People Systems Engineer",
+    "company": "gitlab",
+    "location": "Bangalore, India; Remote, Poland",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8861748002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-10-09T16:56:20-04:00",
+    "fit_score": 35,
+    "reasoning": "The candidate has strong backend and cloud experience with Java, Spring Boot, Azure, and cybersecurity, which are relevant to a People Systems Engineer role. However, the resume lacks direct experience with GitLab, DevSecOps tooling, and the specific people systems domain, and the candidate is focused on AI solutions rather than the core responsibilities of this position.",
+    "cover_letter_opener": "I am excited about the opportunity to bring my cloud and security expertise to GitLab’s People Systems team and help drive intelligent DevSecOps solutions.",
+    "scored_at": "2026-10-09T22:04:36.724Z"
+  },
+  {
+    "job_id": "439b8500989c0315",
+    "title": "People Technology Analyst - Workday",
+    "company": "gitlab",
+    "location": "Remote, United States",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8861782002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-10-09T16:43:50-04:00",
+    "fit_score": 20,
+    "reasoning": "The candidate’s background is strong in backend development, cloud (Azure) and AI aspirations, but the role focuses on Workday people‑technology and HR analytics, which the resume does not address. Additionally, the candidate is based in Germany seeking part‑time work, while the position is a full‑time remote role for the US market.",
+    "cover_letter_opener": "I am thrilled to apply my cloud‑native development experience and AI enthusiasm to help GitLab’s People Technology team transform Workday solutions.",
+    "scored_at": "2026-10-09T22:04:36.725Z"
+  },
+  {
+    "job_id": "d0d18751562a4489",
+    "title": "Lead Legal Counsel, Corporate",
+    "company": "gitlab",
+    "location": "Remote, United States",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8842630002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-10-09T16:18:43-04:00",
+    "fit_score": 5,
+    "reasoning": "The candidate's background is in software engineering, cloud, and AI, with no legal education or experience. The Lead Legal Counsel role requires extensive legal expertise, corporate law knowledge, and relevant certifications, which are absent from the resume. Therefore, the alignment between the candidate and the job is minimal.",
+    "cover_letter_opener": "I am excited about GitLab’s innovative DevSecOps platform and eager to contribute my passion for technology-driven solutions to your corporate legal team.",
+    "scored_at": "2026-10-09T22:04:36.723Z"
+  },
+  {
     "job_id": "9f771d70ca5f8442",
     "title": "Software Engineer, Operator Tooling",
     "company": "stripe",
