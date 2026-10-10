@@ -1,5 +1,47 @@
 [
   {
+    "job_id": "9eb7c781ed3bb283",
+    "title": "Senior Software Engineer, Security Factory: Code Security",
+    "company": "gitlab",
+    "location": "Remote, Canada; Remote, United States",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8738179002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-10-09T20:31:32-04:00",
+    "fit_score": 45,
+    "reasoning": "The candidate has solid backend development experience with Java and Spring Boot and a research background in automotive cybersecurity, which aligns with GitLab's security focus. However, the role is senior-level, expects extensive code security and DevSecOps expertise, and is remote for North America, while the candidate is based in Germany and seeks a junior/part‑time position. These gaps lower the overall fit.",
+    "cover_letter_opener": "I am excited to bring my cybersecurity research and Java backend expertise to GitLab’s Code Security team, helping to build even more secure software for millions of developers worldwide.",
+    "scored_at": "2026-10-10T03:29:40.323Z"
+  },
+  {
+    "job_id": "a00f3dff162c7ccb",
+    "title": "Staff Software Engineer, Security Factory: Static Analysis",
+    "company": "gitlab",
+    "location": "Remote, Canada; Remote, Israel; Remote, United Kingdom; Remote, United States",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8693563002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-10-09T20:28:56-04:00",
+    "fit_score": 30,
+    "reasoning": "The candidate has solid backend and cybersecurity research experience, including work on automotive threat modeling, which aligns with GitLab's security focus. However, the role demands extensive static analysis expertise and senior-level responsibilities that the candidate’s current experience and junior status do not fully meet.",
+    "cover_letter_opener": "I’m excited to bring my cybersecurity research and cloud‑native development skills to GitLab’s Security Factory team, helping to advance static analysis for developers worldwide!",
+    "scored_at": "2026-10-10T03:29:40.324Z"
+  },
+  {
+    "job_id": "9d6eccede7f41c07",
+    "title": "Senior Revenue Operations Manager",
+    "company": "gitlab",
+    "location": "Remote, Canada; Remote, United States",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8882059002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-10-09T19:40:28-04:00",
+    "fit_score": 15,
+    "reasoning": "The candidate's experience is heavily focused on software development, cloud infrastructure, and AI integration, which does not align with the core responsibilities of a Senior Revenue Operations Manager. There is no evidence of revenue operations, sales analytics, or related business process expertise in the resume.",
+    "cover_letter_opener": "I am excited to bring my data‑driven technical expertise to GitLab’s Revenue Operations team and help accelerate growth through intelligent automation.",
+    "scored_at": "2026-10-10T03:29:40.321Z"
+  },
+  {
     "job_id": "9a63ed4da469a1fd",
     "title": "People Systems Engineer",
     "company": "gitlab",
