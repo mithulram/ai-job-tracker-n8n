@@ -1,5 +1,19 @@
 [
   {
+    "job_id": "b3d311ee59080596",
+    "title": "Writer, Content Marketing",
+    "company": "stripe",
+    "location": "US Hybrid",
+    "url": "https://stripe.com/jobs/search?gh_jid=8265686",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are &lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/span&gt;&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;h2&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;We’re looking for an experienced writer to develop data-backed theses and original content pieces about how startups and AI-native businesses launch, monetize, and grow. In this role, you’ll collaborate closely with contributors across the product marketing, product, engineering, and demand generation teams to produce compelling content that engages ",
+    "source": "greenhouse",
+    "posted_at": "2026-10-10T21:56:41-04:00",
+    "fit_score": 12,
+    "reasoning": "The candidate's background is focused on software engineering, cloud infrastructure, and AI, with no evident experience in writing, content creation, or marketing. While they demonstrate strong technical skills, the job requires expertise in content marketing and storytelling, which are not reflected in the resume.",
+    "cover_letter_opener": "I’m thrilled by Stripe’s mission to grow the internet’s economy and eager to craft compelling stories that showcase its impact.",
+    "scored_at": "2026-10-11T04:51:05.790Z"
+  },
+  {
     "job_id": "9eb7c781ed3bb283",
     "title": "Senior Software Engineer, Security Factory: Code Security",
     "company": "gitlab",
