@@ -1,5 +1,47 @@
 [
   {
+    "job_id": "bc1ba798ad05cff2",
+    "title": "Account Executive, Platforms (Grower)",
+    "company": "stripe",
+    "location": "US-SF, US-NY, US-Remote, Chicago",
+    "url": "https://stripe.com/jobs/search?gh_jid=8274920",
+    "description": "&lt;div&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;br&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/div&gt; &lt;div&gt;&lt;br&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;br&gt;The Platform Velocity Sales team works with B2B Software Platforms to help them facilitate payments for their customers using our Stripe Connect product. Software Platforms, also known as B2B Indirect, are software platform businesses who serve other businesses. You will work with the next wave of startup platforms already using Stripe.&lt;br&gt;As a key member of the Stripe Platforms team, you will manage and elevate relationships with a named account list while identifying new growth opportunities and ways Stripe can exceed expectations.&lt;br&gt;I",
+    "source": "greenhouse",
+    "posted_at": "2026-10-12T18:07:01-04:00",
+    "fit_score": 12,
+    "reasoning": "The candidate’s background is heavily technical, focusing on software development, cloud infrastructure, and AI, whereas the role is a sales‑oriented Account Executive position requiring revenue generation and client relationship skills. Lack of demonstrated sales or account management experience leads to a low match, though the technical knowledge could help understand Stripe’s platform.",
+    "cover_letter_opener": "I’m excited to bring my deep technical expertise and passion for Stripe’s mission to help grow platform adoption and drive customer success.",
+    "scored_at": "2026-10-12T22:21:03.702Z"
+  },
+  {
+    "job_id": "a0c42ff6c9755649",
+    "title": "Staff Software Engineer - Stripe Tax",
+    "company": "stripe",
+    "location": "Dublin ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8274582",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&amp;nbsp;&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Collecting and filing sales &amp;amp; indirect taxes is a classic area for technology disruption. Companies selling across countries, states, and even smaller jurisdictions have to navigate through a myriad of tax rates, product-level tax exemptions, filing requirements, and registration obligations. The rules are constantly changing, and not accurately calculating and filing tax can have legal ramifications.&lt;/p&gt; &lt;p&gt;It’s no surprise then that solving ta",
+    "source": "greenhouse",
+    "posted_at": "2026-10-12T15:46:02-04:00",
+    "fit_score": 35,
+    "reasoning": "The candidate has strong Java/Spring Boot and cloud experience which aligns with backend development needs, but lacks specific payments or tax domain expertise and senior staff-level experience required for a Staff Software Engineer role. Additionally, the candidate is based in Germany seeking part‑time work, while the position is a full‑time senior role in Dublin.",
+    "cover_letter_opener": "I am thrilled by Stripe’s mission and eager to bring my backend and cloud expertise to help build the next generation of Stripe Tax solutions.",
+    "scored_at": "2026-10-12T22:21:03.704Z"
+  },
+  {
+    "job_id": "76344ac4f3321627",
+    "title": "Android Engineer, Terminal - CA",
+    "company": "stripe",
+    "location": "Toronto, CA",
+    "url": "https://stripe.com/jobs/search?gh_jid=8274893",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe Terminal helps our users extend their online presence to the physical world. The Terminal team’s mission is to make it as easy for businesses to accept in-person payments as the Stripe API has done for online payments. Stripe was founded to make it easier for developers to accept payments. We’ve solved a small part of that problem, but our ambition is to go much further.&amp;nbsp;&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;",
+    "source": "greenhouse",
+    "posted_at": "2026-10-12T15:16:00-04:00",
+    "fit_score": 45,
+    "reasoning": "The candidate has solid mobile development experience with Flutter and backend expertise, which aligns with general Android engineering skills, but lacks native Android/Kotlin experience and is based in Germany while the role is in Toronto, reducing immediate fit. Additionally, their career focus on AI solutions architecture diverges from Stripe's core payment platform needs.",
+    "cover_letter_opener": "I am excited to bring my strong mobile development background and passion for building secure, scalable payment experiences to Stripe’s Android engineering team.",
+    "scored_at": "2026-10-12T22:21:03.703Z"
+  },
+  {
     "job_id": "b3d311ee59080596",
     "title": "Writer, Content Marketing",
     "company": "stripe",
