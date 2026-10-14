@@ -1,5 +1,47 @@
 [
   {
+    "job_id": "911070af92a3859c",
+    "title": "Product Manager, Sandboxes",
+    "company": "stripe",
+    "location": "Seattle, San Francisco",
+    "url": "https://stripe.com/jobs/search?gh_jid=8275556",
+    "description": "&lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/span&gt;&lt;/p&gt; &lt;h3&gt;About the team&lt;/h3&gt; &lt;p&gt;AI agents are increasingly building Stripe integrations alongside professional developers and vibe coders. To build and test these integrations safely, without affecting live accounts or moving real funds, agents require isolated sandbox environments.&lt;/p&gt; &lt;p&gt;In this role, you will own the end-to-end product experience for Stripe Sandboxes and the broader testing platform, guiding the journey from a developer&#39;s first sandbox creation to an agent validating complex payment flows at scale. Becau",
+    "source": "greenhouse",
+    "posted_at": "2026-10-14T14:19:33-04:00",
+    "fit_score": 20,
+    "reasoning": "The candidate’s experience is primarily in backend and mobile development, cloud infrastructure, and automotive cybersecurity, which does not align with the product management responsibilities and financial‑services focus of Stripe’s Sandboxes team. Additionally, the candidate is seeking a part‑time student role in Germany, while the position is a full‑time product manager role based in Seattle/San Francisco. However, their technical background and experience with cloud platforms could provide useful insight into sandbox infrastructure.",
+    "cover_letter_opener": "I’m thrilled by Stripe’s mission to expand the internet’s economy and eager to help shape the next generation of sandbox products that empower developers worldwide.",
+    "scored_at": "2026-10-14T19:07:12.451Z"
+  },
+  {
+    "job_id": "5ce95c57f3093b3e",
+    "title": "IT Support Engineer",
+    "company": "stripe",
+    "location": "New York",
+    "url": "https://stripe.com/jobs/search?gh_jid=8265151",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;The Corporate Technology (CorpTech) Services team is a strategic support partner to all Stripes, in office and remote.&amp;nbsp; We ensure the successful operation of new hires, account off-boards and critical business systems with a global team.&amp;nbsp;&lt;/p&gt; &lt;p&gt;We’re looking for a Tier 1 Support Engineer to join the AMER CorpTech Services team to provide in-person, thoughtful and individualized support for all Stripes. Stripe is looking for individuals who can ",
+    "source": "greenhouse",
+    "posted_at": "2026-10-14T13:41:08-04:00",
+    "fit_score": 25,
+    "reasoning": "The candidate’s background is focused on software development, cloud architecture, and research in automotive cybersecurity, which does not align closely with the day‑to‑day troubleshooting and user‑focused responsibilities of an IT Support Engineer. Additionally, the candidate is seeking part‑time work in Germany, while the role is based in New York, further reducing relevance.",
+    "cover_letter_opener": "I am excited about the opportunity to bring my strong technical foundation and passion for problem‑solving to support Stripe’s innovative financial platform.",
+    "scored_at": "2026-10-14T19:07:12.450Z"
+  },
+  {
+    "job_id": "c7545bf84f3c4f71",
+    "title": "Renewals Manager",
+    "company": "gitlab",
+    "location": "Remote Ireland",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8885535002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-10-14T12:22:10-04:00",
+    "fit_score": 15,
+    "reasoning": "The candidate's background is heavily technical, focusing on software development, cloud, and AI architecture, with no evident experience in sales, account management, or renewals. The Renewals Manager role requires strong customer relationship and revenue retention skills, which are not demonstrated in the resume. Consequently, the fit is low.",
+    "cover_letter_opener": "I am excited about GitLab's AI‑driven platform and eager to apply my technical expertise to help drive customer success and renewals for your remote team.",
+    "scored_at": "2026-10-14T19:07:12.449Z"
+  },
+  {
     "job_id": "f3231c70f20dec72",
     "title": "Software Engineer, Storage Integrations",
     "company": "stripe",
