@@ -1,5 +1,47 @@
 [
   {
+    "job_id": "0673db97ce8fe3b3",
+    "title": "Cloud Platform Engineer",
+    "company": "gitlab",
+    "location": "Remote, Canada; Remote, United States",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8889193002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-10-14T18:58:44-04:00",
+    "fit_score": 48,
+    "reasoning": "The candidate brings solid cloud expertise with Azure certifications and extensive backend development experience, which aligns with many Cloud Platform Engineer responsibilities. However, the resume lacks specific DevSecOps, GitLab CI/CD, and Kubernetes experience, and the candidate’s location preference for Germany may not match the remote Canada/US focus, limiting overall fit.",
+    "cover_letter_opener": "I am excited to contribute my cloud architecture and AI integration skills to GitLab’s innovative, AI‑powered DevSecOps platform!",
+    "scored_at": "2026-10-14T23:34:57.740Z"
+  },
+  {
+    "job_id": "625d5708b829ea2e",
+    "title": "Product Designer, Terminal",
+    "company": "stripe",
+    "location": "US Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8282390",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;The Product Design team is made up of several groups that define, create, and deliver all user-facing aspects of Stripe’s brand and product. Product Designers are strategic partners to Engineering and Product Management within their product area. In close collaboration with product teams, they shape user experiences, then translate them into high-quality designs that can be tested, shipped, and refined. Designers are responsible for building elegant, functional products that users l",
+    "source": "greenhouse",
+    "posted_at": "2026-10-14T15:54:05-04:00",
+    "fit_score": 12,
+    "reasoning": "The candidate's background is focused on backend development, cloud infrastructure, and AI, with no evident product design or UI/UX experience. Stripe's Terminal product designer role requires strong design skills and experience in financial product interfaces, which are not reflected in the resume. Therefore, the match is low.",
+    "cover_letter_opener": "I am excited about the opportunity to contribute to Stripe's innovative Terminal products and help shape the future of online payments.",
+    "scored_at": "2026-10-14T23:34:57.741Z"
+  },
+  {
+    "job_id": "c6d67e25e8d2ec1d",
+    "title": "Regional Sales Director, Enterprise - Southeast",
+    "company": "gitlab",
+    "location": "Remote, United States",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8879798002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-10-14T15:51:31-04:00",
+    "fit_score": 10,
+    "reasoning": "The candidate's background is in software development, cloud, and AI, with no sales or leadership experience, making them a poor match for a senior regional sales director role. Additionally, the candidate is based in Germany and seeking part‑time engineering work, while the position is a full‑time remote sales leadership role for the US market.",
+    "cover_letter_opener": "I am excited about the opportunity to leverage my technical expertise and passion for GitLab’s AI‑driven platform to help enterprises across the Southeast achieve their DevSecOps goals.",
+    "scored_at": "2026-10-14T23:34:57.741Z"
+  },
+  {
     "job_id": "911070af92a3859c",
     "title": "Product Manager, Sandboxes",
     "company": "stripe",
