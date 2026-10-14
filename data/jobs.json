@@ -1,5 +1,19 @@
 [
   {
+    "job_id": "f3231c70f20dec72",
+    "title": "Software Engineer, Storage Integrations",
+    "company": "stripe",
+    "location": "Bucharest",
+    "url": "https://stripe.com/jobs/search?gh_jid=8231178",
+    "description": "&lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/span&gt;&lt;/p&gt; &lt;h3&gt;About the team&lt;/h3&gt; &lt;p&gt;Storage Integrations, part of Money Movement Integrations, builds and operates the connections between Stripe and our banking and financial technology partners. Our systems help businesses receive, hold, and move money through Stripe’s financial accounts and treasury products. We turn differences between financial partners into reliable capabilities that other Stripe teams can build on.&lt;/p&gt; &lt;p&gt;In this role you’ll work with engineering, product, and financial operations partners across Stripe. We ",
+    "source": "greenhouse",
+    "posted_at": "2026-10-14T07:44:20-04:00",
+    "fit_score": 30,
+    "reasoning": "The candidate has strong backend development experience with Java and Spring Boot, as well as cloud expertise in Azure, which are relevant to building robust services. However, the role focuses on storage integration at Stripe and requires experience with payment infrastructure and data storage technologies, which are not highlighted in the resume. Additionally, the candidate is seeking part‑time work in Germany, while the position is a full‑time role in Bucharest.",
+    "cover_letter_opener": "I’m excited to bring my Java and cloud backend expertise to Stripe’s Storage Integrations team and help power the financial infrastructure of the internet.",
+    "scored_at": "2026-10-14T14:15:37.725Z"
+  },
+  {
     "job_id": "ad45f0c4050ff0b9",
     "title": "Regional Sales Director, Commercial - LATAM",
     "company": "gitlab",
