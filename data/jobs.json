@@ -1,5 +1,47 @@
 [
   {
+    "job_id": "ad45f0c4050ff0b9",
+    "title": "Regional Sales Director, Commercial - LATAM",
+    "company": "gitlab",
+    "location": "Remote, Brazil",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8875275002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-10-13T18:47:44-04:00",
+    "fit_score": 12,
+    "reasoning": "The candidate's background is heavily technical, focusing on software development, cloud, and cybersecurity, with no demonstrated sales or regional leadership experience. Additionally, the candidate is based in Germany and seeking engineering roles, which does not align with a remote Brazil sales director position.",
+    "cover_letter_opener": "I am excited about the opportunity to drive GitLab's growth across LATAM and bring my passion for innovative technology solutions to the Regional Sales Director role.",
+    "scored_at": "2026-10-14T08:15:58.243Z"
+  },
+  {
+    "job_id": "2840a95582d87007",
+    "title": "Solutions Architect, Metronome (Startups)",
+    "company": "stripe",
+    "location": "SF, NYC, Chicago, US-Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8072257",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&amp;nbsp;&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;About Stripe / Metronome&amp;nbsp;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world&#39;s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;p&gt;Metronome is the leading usage-based billing platform built for modern software companies. With Metronome, now a Stripe product, companies can launch products faster, offer any pricing model, and streamline finance workflows without writing code.&lt;/p&gt; &lt;p&gt;Our platform computes hundreds of millions of invoices per billing period and continues to scale rapidly to accommodate new customers. We save them days of development time and manual invoicing, enabling them to use their billing data to better serve their customers. Our cus",
+    "source": "greenhouse",
+    "posted_at": "2026-10-13T17:52:03-04:00",
+    "fit_score": 58,
+    "reasoning": "The candidate has strong backend and cloud architecture experience with Java, Spring Boot, Azure, and API design, which aligns with the core responsibilities of a Solutions Architect. However, they lack direct payments or Stripe-specific experience and are based in Germany, while the role targets US locations, reducing overall fit. Their interest in AI and cloud integration adds potential value but does not fully match the fintech focus of the position.",
+    "cover_letter_opener": "I am thrilled by Stripe's mission to power the internet economy and eager to bring my cloud architecture and backend expertise to help shape Metronome's innovative solutions.",
+    "scored_at": "2026-10-14T08:15:58.244Z"
+  },
+  {
+    "job_id": "41ba06dfe5c5fef9",
+    "title": "Specialist Solutions Architecture, Link",
+    "company": "stripe",
+    "location": "US-Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8279202",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are &lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/span&gt;&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Specialist Solutions Architects (SSA) are domain experts aligned to specific Stripe solutions and customer buying centers. We have in-depth knowledge of specific solution offerings and a deep understanding of customer challenges. We align with specialist product sellers on deals, advise the broader pre-sales team on complex opportunities, support pipeline development and revenue attainment, serve as an advisor on ",
+    "source": "greenhouse",
+    "posted_at": "2026-10-13T16:35:09-04:00",
+    "fit_score": 45,
+    "reasoning": "The candidate has solid backend and cloud experience with Azure and Spring Boot, which aligns with a solutions architecture role, but lacks direct payments or Stripe-specific experience and is seeking a part‑time position in Germany while the role is a full‑time US‑remote specialist position. Consequently, the overall match is moderate.",
+    "cover_letter_opener": "I am excited to bring my cloud‑native backend expertise to Stripe’s mission of expanding the internet’s GDP and help shape innovative payment solutions.",
+    "scored_at": "2026-10-14T08:15:58.245Z"
+  },
+  {
     "job_id": "0e9143039bee7c73",
     "title": "Staff Product Manager, Agentic Test Intelligence",
     "company": "gitlab",
