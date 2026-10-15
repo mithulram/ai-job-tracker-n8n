@@ -1,5 +1,47 @@
 [
   {
+    "job_id": "5db1c6b7e3cd6a17",
+    "title": "Intermediate Backend Engineer, Cells Infrastructure",
+    "company": "gitlab",
+    "location": "Bangalore, India",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8881474002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-10-15T02:29:57-04:00",
+    "fit_score": 35,
+    "reasoning": "The candidate has solid backend experience with Java, Spring Boot, and REST API design, which aligns with many of the responsibilities of a backend engineer. However, the role at GitLab emphasizes their specific tech stack and infrastructure, and the candidate is seeking part‑time work in Germany rather than a full‑time position in Bangalore, reducing overall fit. Consequently, the match is moderate.",
+    "cover_letter_opener": "I am excited about the opportunity to bring my Java and cloud backend expertise to GitLab’s Cells Infrastructure team and help drive innovative DevSecOps solutions.",
+    "scored_at": "2026-10-15T07:53:52.447Z"
+  },
+  {
+    "job_id": "b536fa4edfebb37b",
+    "title": "Site Reliability Engineer, Cells Infrastructure",
+    "company": "gitlab",
+    "location": "Bangalore, India",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8867756002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-10-15T02:28:38-04:00",
+    "fit_score": 30,
+    "reasoning": "The candidate brings solid Java and cloud engineering experience with Azure, which aligns with infrastructure work, but lacks direct SRE experience such as Kubernetes, monitoring, and GitLab CI/CD pipelines. Additionally, the candidate is based in Germany seeking part‑time roles, while the position is a full‑time SRE role in Bangalore, reducing overall fit.",
+    "cover_letter_opener": "I am excited to bring my cloud‑native backend expertise to GitLab’s Site Reliability Engineering team and help power the Cells Infrastructure worldwide.",
+    "scored_at": "2026-10-15T07:53:52.448Z"
+  },
+  {
+    "job_id": "b28272e158d02f12",
+    "title": "Product Manager, Global Self-Serve Product",
+    "company": "stripe",
+    "location": "Singapore",
+    "url": "https://stripe.com/jobs/search?gh_jid=8267105",
+    "description": "&lt;h1&gt;Product Manager, Global Self-Serve Product&lt;/h1&gt; &lt;h2&gt;About Stripe&lt;/h2&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world&#39;s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;h2&gt;About the team&lt;/h2&gt; &lt;p&gt;The Global Self-Serve Product team&#39;s goal is to make Stripe the #1 self-serve financial infrastructure provider for users outside the U.S. We drive product-led growth for the millions of users who adopt Stripe without a sales relationship, and we own self-serve activation goals across our ex-US business.&lt;/p&gt; &lt;p&gt;We&#39;re a cross-functional team of Engineers, Data Scientists, Growth Marketing Managers, Designers, and Product Managers, organized around three focus areas:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Growing our s",
+    "source": "greenhouse",
+    "posted_at": "2026-10-15T00:40:29-04:00",
+    "fit_score": 20,
+    "reasoning": "The candidate has strong technical skills in backend development and cloud platforms, but lacks product management experience and familiarity with fintech or self‑serve payment products. Additionally, the role is based in Singapore while the candidate is seeking positions in Germany, creating a geographic mismatch. While the technical background could be valuable, the overall fit for a Product Manager role at Stripe is limited.",
+    "cover_letter_opener": "I am thrilled by Stripe’s mission to expand the global economy and eager to bring my technical expertise to help shape the next generation of self‑serve payment solutions.",
+    "scored_at": "2026-10-15T07:53:52.449Z"
+  },
+  {
     "job_id": "0673db97ce8fe3b3",
     "title": "Cloud Platform Engineer",
     "company": "gitlab",
