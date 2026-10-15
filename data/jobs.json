@@ -1,5 +1,47 @@
 [
   {
+    "job_id": "2013b05a338a31d1",
+    "title": "Staff Software Engineer, Alloy Integrations",
+    "company": "stripe",
+    "location": "Seattle",
+    "url": "https://stripe.com/jobs/search?gh_jid=8257935",
+    "description": "&lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/span&gt;&lt;/p&gt; &lt;h3&gt;About the team&lt;/h3&gt; &lt;p&gt;In this role, you&#39;d be joining the Alloy Integrations team. We own how Metronome&#39;s customers collect payments and recognize revenue. We build and run the integrations that connect Metronome&#39;s usage-based billing platform to the systems businesses depend on to get paid: Stripe invoicing and payments, cloud marketplaces (AWS, Azure, and Google Cloud), ERP systems like NetSuite and QuickBooks, and CRM systems like Salesforce. We also bring Stripe products such as Checkout into Metronome, so customer",
+    "source": "greenhouse",
+    "posted_at": "2026-10-15T13:11:37-04:00",
+    "fit_score": 25,
+    "reasoning": "The candidate has solid Java backend experience with Spring Boot, which aligns with Stripe's engineering stack, but the role is a senior staff position requiring extensive large‑scale systems and payments integration experience that the resume does not demonstrate. Additionally, the candidate is seeking a part‑time student role in Germany, while the position is a full‑time staff role based in Seattle.",
+    "cover_letter_opener": "I am excited about the opportunity to bring my backend expertise and passion for building secure, scalable integrations to Stripe’s innovative payments platform.",
+    "scored_at": "2026-10-15T18:48:47.516Z"
+  },
+  {
+    "job_id": "8e6f4d060ca6a115",
+    "title": "Business Development Representative, Italian Speaking",
+    "company": "gitlab",
+    "location": "Remote Ireland; Remote, France; Remote, Netherlands; Remote, United Kingdom",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8882365002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-10-15T11:01:26-04:00",
+    "fit_score": 15,
+    "reasoning": "The candidate's background is heavily technical, focusing on software development, cloud, and AI, with no demonstrated experience in sales or business development. Additionally, the resume does not indicate Italian language proficiency, which is a core requirement for the role. Therefore the match is weak.",
+    "cover_letter_opener": "I am excited to bring my passion for technology and strong communication skills to help GitLab expand its market reach as a Business Development Representative.",
+    "scored_at": "2026-10-15T18:48:47.515Z"
+  },
+  {
+    "job_id": "674723f9de044ad8",
+    "title": "Threat Research Engineer",
+    "company": "gitlab",
+    "location": "Bangalore, India",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8867649002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-10-15T10:29:47-04:00",
+    "fit_score": 45,
+    "reasoning": "The candidate has solid experience in automotive cybersecurity and threat modeling, which aligns with the core responsibilities of a Threat Research Engineer. However, their career focus on AI solutions architecture, preference for part‑time roles in Germany, and the job’s location in Bangalore reduce the overall match. Therefore the fit is moderate.",
+    "cover_letter_opener": "I’m excited to bring my cybersecurity research experience to GitLab’s innovative DevSecOps team and help drive smarter threat detection worldwide.",
+    "scored_at": "2026-10-15T18:48:47.516Z"
+  },
+  {
     "job_id": "00e6053cd18648e7",
     "title": "Technical Program Manager, Extensibility Platform",
     "company": "stripe",
