@@ -1,5 +1,47 @@
 [
   {
+    "job_id": "22850782a583081b",
+    "title": "Commercial Account Executive - South Korea",
+    "company": "gitlab",
+    "location": "Remote, South Korea",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8887241002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-10-16T03:13:37-04:00",
+    "fit_score": 15,
+    "reasoning": "The candidate's background is heavily technical, focusing on software development, cloud, and AI architecture, whereas the role is a sales-oriented Commercial Account Executive targeting South Korean customers. Additionally, the resume lacks experience in sales, account management, and Korean market knowledge, resulting in a poor fit.",
+    "cover_letter_opener": "I am excited about GitLab’s AI‑driven DevSecOps platform and eager to help South Korean customers unlock its full potential.",
+    "scored_at": "2026-10-16T07:44:16.847Z"
+  },
+  {
+    "job_id": "db387cc4591ec99a",
+    "title": "Commercial Account Executive - Australia",
+    "company": "gitlab",
+    "location": "Remote, Australia",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8887265002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-10-16T03:02:03-04:00",
+    "fit_score": 15,
+    "reasoning": "The candidate’s background is heavily technical, focusing on software development, cloud, and AI, while the role is a commercial sales position requiring account management and business development experience. Additionally, the candidate is based in Germany and seeks part‑time roles, whereas the job targets a full‑time remote position for the Australian market. However, their knowledge of GitLab’s DevSecOps ecosystem could provide some relevance.",
+    "cover_letter_opener": "I’m excited about GitLab’s AI‑driven DevSecOps platform and eager to leverage my technical expertise to help Australian customers achieve faster, more secure software delivery.",
+    "scored_at": "2026-10-16T07:44:16.846Z"
+  },
+  {
+    "job_id": "7a97bb7e86e04b35",
+    "title": "Customer Success Architect, Japan",
+    "company": "gitlab",
+    "location": "Remote, Japan",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8880999002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-10-15T22:43:26-04:00",
+    "fit_score": 30,
+    "reasoning": "The candidate’s strong cloud, backend, and security experience aligns with GitLab’s DevSecOps focus, and their AI interest matches the company’s AI emphasis. However, they lack direct customer‑success or client‑facing experience, do not mention Japanese language skills, and are seeking a student/part‑time role rather than a senior architect position. These gaps lower the overall suitability for the Customer Success Architect role.",
+    "cover_letter_opener": "I am excited to bring my cloud‑native security expertise and passion for AI‑driven DevSecOps to help GitLab’s Japanese customers achieve seamless success.",
+    "scored_at": "2026-10-16T07:44:16.848Z"
+  },
+  {
     "job_id": "7600bf3f4701b0c2",
     "title": "Manager, Customer Success Engineering",
     "company": "gitlab",
