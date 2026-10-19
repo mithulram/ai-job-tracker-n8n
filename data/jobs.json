@@ -1,5 +1,19 @@
 [
   {
+    "job_id": "f0942489a3482b0c",
+    "title": "Solutions Architect Manager, Platforms (APAC)",
+    "company": "stripe",
+    "location": "Singapore",
+    "url": "https://stripe.com/jobs/search?gh_jid=8064171",
+    "description": "&lt;h2&gt;Who We Are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;At Stripe, you have an unprecedented opportunity to put the global economy within everyone’s reach. Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead.&lt;/p&gt; &lt;h3&gt;About The Team&lt;/h3&gt; &lt;p&gt;The Solutions Architecture Team partners with our users to realize their full potential through the adoption of prescriptive solutions that drive their growth and success. We work with C-level executives, finance leaders, product design and engineering teams at large global brands and platforms who are building financial services solutions with Stripe.&amp;nbsp; Our SA team works closely with Account Executives, Professional Services, Customer Success Managers, Partners, Technical Account Managers and Product Team to develop and execute on the account strategy for Stripe’s large users and enterprise prospects.&lt;/p&g",
+    "source": "greenhouse",
+    "posted_at": "2026-10-19T02:56:42-04:00",
+    "fit_score": 30,
+    "reasoning": "The candidate has solid backend and cloud experience with Spring Boot, Azure, and Python, which aligns with the technical aspects of a Solutions Architect role. However, the position is a senior managerial role focused on payments platforms in APAC, requiring extensive leadership and domain expertise that the candidate's 3+ years of experience and current student status do not demonstrate. Additionally, the location mismatch (Singapore vs. Germany) further reduces the fit.",
+    "cover_letter_opener": "I am thrilled by Stripe’s mission to expand the internet economy, and I am eager to bring my cloud‑native development and architectural skills to help power innovative payment solutions for the APAC region.",
+    "scored_at": "2026-10-19T08:20:20.180Z"
+  },
+  {
     "job_id": "bc866b6511558ad1",
     "title": "Strategic Account Executive, Northeast",
     "company": "gitlab",
