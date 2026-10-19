@@ -1,5 +1,33 @@
 [
   {
+    "job_id": "c50baeae29db315b",
+    "title": "Security Engineer, Bridge",
+    "company": "stripe",
+    "location": "Luxembourg",
+    "url": "https://stripe.com/jobs/search?gh_jid=8209307",
+    "description": "&lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world&#39;s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;About the team&lt;/h3&gt; &lt;p&gt;We&#39;re creating an entirely new payments platform, built with stablecoins, to simplify global money movement. Bridge enables faster, cheaper payments and borderless access to dollars via stablecoins. Through our APIs, businesses can send and receive funds across borders faster and cheaper vs. SWIFT and other fiat-only rails. Our virtual accounts enable international consumers and businesses to easily access, store, and spend US dollars. Our payouts infrastructure enables platforms to disburse USD to anyone globally. We believe many trillions of dollars will",
+    "source": "greenhouse",
+    "posted_at": "2026-10-19T11:36:24-04:00",
+    "fit_score": 60,
+    "reasoning": "The candidate has solid software engineering experience and a background in automotive cybersecurity and threat modeling, which aligns with security engineering fundamentals. However, the role at Stripe focuses on financial payments security and likely requires deep experience with cloud platforms like AWS and large‑scale payment systems, which the resume does not explicitly demonstrate, resulting in a moderate fit.",
+    "cover_letter_opener": "I am excited to bring my cybersecurity and cloud expertise to Stripe’s Security Engineer team and help protect the global payment ecosystem.",
+    "scored_at": "2026-10-19T16:04:37.684Z"
+  },
+  {
+    "job_id": "1e696ad3457c4487",
+    "title": "Backend Engineer (Ruby), Create: Change Record",
+    "company": "gitlab",
+    "location": "Remote, Poland; Remote, United Kingdom",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8891301002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-10-19T05:22:09-04:00",
+    "fit_score": 40,
+    "reasoning": "The candidate has strong backend development experience with Java and Spring Boot, as well as cloud expertise in Azure, which aligns with GitLab's DevSecOps focus. However, the lack of Ruby experience and direct exposure to GitLab's ecosystem reduces the match, resulting in a moderate fit.",
+    "cover_letter_opener": "I am excited to bring my backend and cloud security expertise to GitLab’s innovative Ruby engineering team and help drive the next generation of DevSecOps solutions.",
+    "scored_at": "2026-10-19T16:04:37.683Z"
+  },
+  {
     "job_id": "f0942489a3482b0c",
     "title": "Solutions Architect Manager, Platforms (APAC)",
     "company": "stripe",
