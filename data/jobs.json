@@ -1,5 +1,47 @@
 [
   {
+    "job_id": "8b6001bc9b7f1e35",
+    "title": "Renewals Manager EMEA",
+    "company": "gitlab",
+    "location": "Remote Ireland",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8885115002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-10-20T08:44:42-04:00",
+    "fit_score": 15,
+    "reasoning": "The candidate's background is heavily technical, focusing on software development, cloud, and AI architecture, with no demonstrated experience in sales, account management, or renewals. Consequently, the skills and career goals do not align with the core responsibilities of a Renewals Manager role.",
+    "cover_letter_opener": "I am excited about GitLab’s AI‑driven DevSecOps platform and eager to bring my technical expertise to help drive customer success and renewals across EMEA.",
+    "scored_at": "2026-10-20T14:01:45.902Z"
+  },
+  {
+    "job_id": "c5e7f9246ea7f933",
+    "title": "Commercial Account Executive",
+    "company": "gitlab",
+    "location": "Remote, France",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8831322002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-10-20T08:42:47-04:00",
+    "fit_score": 12,
+    "reasoning": "The candidate's background is heavily technical, focusing on software development, cloud infrastructure, and AI integration, with no evident sales or account management experience. The Commercial Account Executive role requires strong client-facing, negotiation, and revenue-driving skills, which are not demonstrated in the resume. Consequently, the alignment between the candidate's profile and the job requirements is minimal.",
+    "cover_letter_opener": "I am excited about the opportunity to contribute to GitLab's AI‑driven DevSecOps vision and help organizations accelerate their digital transformation.",
+    "scored_at": "2026-10-20T14:01:45.901Z"
+  },
+  {
+    "job_id": "29eb46f35b53c895",
+    "title": "Software Engineer, Payin",
+    "company": "stripe",
+    "location": "Bengaluru",
+    "url": "https://stripe.com/jobs/search?gh_jid=8185012",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue and accelerate new business opportunities. Our mission is to increase the GDP of the internet and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the Organization&amp;nbsp;&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Payments is at the core of Stripe’s mission to increase the GDP of the internet. We are expanding our payments footprint in India and we are looking for Backend Engineers to own the technical architecture behind our next generation of payment offerings in India.&amp;nbsp;&lt;/p&gt; &lt;p&gt;As part of the India Payments team, you will build on top of Stripe’s robust foundational platforms, driving complex integrations and contributing to the architectural evo",
+    "source": "greenhouse",
+    "posted_at": "2026-10-20T08:31:20-04:00",
+    "fit_score": 35,
+    "reasoning": "The candidate has solid Java and Spring Boot backend experience and cloud expertise, which align with Stripe's engineering needs, but lacks direct payments or fintech experience and is based in Germany while the role is in Bengaluru. This geographic and domain mismatch reduces the overall fit.",
+    "cover_letter_opener": "I am excited to bring my backend and cloud skills to Stripe’s Payin team and help power seamless online payments worldwide.",
+    "scored_at": "2026-10-20T14:01:45.903Z"
+  },
+  {
     "job_id": "2c6192ce4bc6bbcc",
     "title": "Senior Solutions Architect - UAE",
     "company": "gitlab",
