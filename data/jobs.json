@@ -1,5 +1,33 @@
 [
   {
+    "job_id": "2c6192ce4bc6bbcc",
+    "title": "Senior Solutions Architect - UAE",
+    "company": "gitlab",
+    "location": "Remote, UAE",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8894457002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-10-20T03:37:51-04:00",
+    "fit_score": 35,
+    "reasoning": "The candidate has solid cloud and backend experience with Azure, Spring Boot, and security research, which aligns partially with a Solutions Architect role. However, they lack senior‑level DevSecOps experience, specific GitLab CI/CD expertise, and the full‑time availability typically expected for a senior position, especially given the remote UAE focus. Consequently, the overall fit is moderate but below the ideal senior profile.",
+    "cover_letter_opener": "I am thrilled by GitLab's AI‑driven DevSecOps vision and eager to bring my cloud and security expertise to help shape innovative solutions for your global customers.",
+    "scored_at": "2026-10-20T08:05:07.346Z"
+  },
+  {
+    "job_id": "9f77a2ba2e1fa25b",
+    "title": "Engineering Manager, Money as a Service (MaaS)",
+    "company": "stripe",
+    "location": "Singapore",
+    "url": "https://stripe.com/jobs/search?gh_jid=8282169",
+    "description": "&lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/span&gt;&lt;/p&gt; &lt;h3&gt;About the team&lt;/h3&gt; &lt;p&gt;Stripe&#39;s Money Management products (Financial Accounts, Treasury, Global Payouts, Issuing, and Capital) let businesses and platforms hold, move, spend, and earn on their money using the same infrastructure they already use for payments. APAC Money as a Service (MaaS) is a newly formed team, based in Singapore, responsible for bringing this product suite to Asia-Pacific markets, enabling global businesses and platforms to use these capabilities directly or offer them to their APAC users, and building the ",
+    "source": "greenhouse",
+    "posted_at": "2026-10-20T03:14:37-04:00",
+    "fit_score": 30,
+    "reasoning": "The candidate has strong backend and cloud experience with Java, Spring Boot, Azure, and Python, which are relevant to Stripe's engineering work. However, they lack senior leadership or management experience and are seeking a part‑time student role, while the position is a full‑time Engineering Manager in Singapore. Therefore the overall fit is limited.",
+    "cover_letter_opener": "I’m excited to bring my backend and cloud expertise to Stripe’s Money‑as‑a‑Service team and help power the next generation of internet commerce.",
+    "scored_at": "2026-10-20T08:05:07.347Z"
+  },
+  {
     "job_id": "0bf917557000997e",
     "title": "Field CTO",
     "company": "gitlab",
