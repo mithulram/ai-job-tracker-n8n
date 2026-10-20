@@ -1,5 +1,19 @@
 [
   {
+    "job_id": "0bf917557000997e",
+    "title": "Field CTO",
+    "company": "gitlab",
+    "location": "Remote, Australia; Remote, Singapore",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8884627002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-10-19T17:55:25-04:00",
+    "fit_score": 25,
+    "reasoning": "The candidate possesses solid backend, cloud, and AI interests, which align with GitLab’s focus on AI‑enhanced DevSecOps. However, they lack senior leadership and CTO‑level experience, and their current location in Germany may not match the remote Australia/Singapore focus, resulting in a low overall fit.",
+    "cover_letter_opener": "I am excited to bring my cloud‑native backend expertise and passion for AI‑driven DevSecOps to GitLab’s Field CTO team.",
+    "scored_at": "2026-10-20T02:44:38.055Z"
+  },
+  {
     "job_id": "10b02e362ec0a6b4",
     "title": "Account Executive, Velocity Platforms (Hunter)",
     "company": "stripe",
