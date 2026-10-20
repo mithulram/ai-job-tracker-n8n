@@ -1,5 +1,33 @@
 [
   {
+    "job_id": "17c01000c37e7210",
+    "title": "Backend / API Engineer, Radar",
+    "company": "stripe",
+    "location": "Toronto",
+    "url": "https://stripe.com/jobs/search?gh_jid=8301379",
+    "description": "&lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Radar helps businesses prevent payments fraud and abuse while enabling legitimate customers to transact with confidence. We combine machine learning and AI with the intelligence of Stripe’s global network to make sophisticated fraud prevention accessible to businesses of all sizes.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;Our work spans payments fraud detection, protection against abuse beyond the payment, enterprise APIs that bring Radar’s capabilities into businesses’ own",
+    "source": "greenhouse",
+    "posted_at": "2026-10-20T17:54:49-04:00",
+    "fit_score": 55,
+    "reasoning": "The candidate has strong backend experience with Java, Spring Boot, and REST API design, which aligns well with Stripe's engineering needs. However, they are currently based in Germany seeking part‑time roles, lack direct fintech or payment processing experience, and the position is full‑time in Toronto. These gaps lower the overall match despite solid technical skills.",
+    "cover_letter_opener": "I am excited to bring my Java and Spring Boot expertise to Stripe’s innovative backend team and help power the next generation of internet payments.",
+    "scored_at": "2026-10-20T23:34:56.687Z"
+  },
+  {
+    "job_id": "88f9b7e5c03ed713",
+    "title": "Strategic Account Executive - Chicago",
+    "company": "gitlab",
+    "location": "Remote, United States",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8895511002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-10-20T15:26:58-04:00",
+    "fit_score": 10,
+    "reasoning": "The candidate's background is heavily technical, focusing on software development, cloud infrastructure, and AI, whereas the Strategic Account Executive role is a sales-oriented position requiring business development and client relationship skills. Additionally, the candidate is based in Germany and seeking part‑time roles, while the job targets a remote US market with a focus on strategic sales. This mismatch in experience, role focus, and location results in a low fit score.",
+    "cover_letter_opener": "I am excited about the opportunity to leverage my deep technical expertise and passion for innovative cloud solutions to drive strategic growth for GitLab’s customers.",
+    "scored_at": "2026-10-20T23:34:56.686Z"
+  },
+  {
     "job_id": "6832ef17c70d7bee",
     "title": "Corporate Development Director",
     "company": "gitlab",
