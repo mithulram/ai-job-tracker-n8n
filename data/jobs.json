@@ -1,5 +1,47 @@
 [
   {
+    "job_id": "77993317daa7be13",
+    "title": "Head of Key Accounts, Customer Success",
+    "company": "stripe",
+    "location": "U.S. ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8300616",
+    "description": "&lt;h1&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h1&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;The Key Accounts Customer Success team is responsible for the growth, optimization, stakeholder engagement, and cross‑functional program delivery of Stripe’s most important users. Key Accounts often have complex multi-layered relationships, and are among our most important co-innovation partners. The team partners closely with Sales, Paid Support, Solutions Architecture, Product, and Payments Performance to drive critical outcomes for the users.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;Wha",
+    "source": "greenhouse",
+    "posted_at": "2026-10-20T20:49:47-04:00",
+    "fit_score": 10,
+    "reasoning": "The candidate’s background is heavily technical, focusing on software development, cloud, and AI, with no demonstrated experience in account management, sales, or customer success. Because the Head of Key Accounts role requires strong relationship‑building and revenue‑growth skills, the resume is a poor match.",
+    "cover_letter_opener": "I’m excited about Stripe’s mission to power the global economy and eager to bring my technical expertise to help your key customers succeed.",
+    "scored_at": "2026-10-21T08:09:53.259Z"
+  },
+  {
+    "job_id": "2af278a8491019cb",
+    "title": "Account Executive, Velocity Platforms (Hunter)",
+    "company": "stripe",
+    "location": "San Francisco, CA",
+    "url": "https://stripe.com/jobs/search?gh_jid=8304841",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are &lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/span&gt;&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;The Platform Sales team works with B2B Software Platforms to help them facilitate payments for their customers using our Stripe Connect product. Software Platforms, also known as B2B Indirect, are software platform businesses who serve other businesses. Platforms already using Stripe include Shopify, Lightspeed and Mindbody.&lt;/p&gt; &lt;p&gt;As a key member to the Stripe Platforms team, you will manage and eleva",
+    "source": "greenhouse",
+    "posted_at": "2026-10-20T20:39:07-04:00",
+    "fit_score": 12,
+    "reasoning": "The candidate’s experience is heavily technical, focusing on software development, cloud architecture, and AI, with no demonstrated sales or account management background. Additionally, the role is a full‑time sales position in San Francisco, while the candidate is seeking part‑time, Germany‑based work. These mismatches result in a low fit for the Account Executive role.",
+    "cover_letter_opener": "I am thrilled to apply for the Account Executive position at Stripe, eager to leverage my technical expertise to help accelerate growth on the Velocity Platforms.",
+    "scored_at": "2026-10-21T08:09:53.258Z"
+  },
+  {
+    "job_id": "c06d151eb5d290c2",
+    "title": "Account Executive, Velocity Platforms (Hunter)",
+    "company": "stripe",
+    "location": "New York, NY",
+    "url": "https://stripe.com/jobs/search?gh_jid=8304836",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are &lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/span&gt;&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;The Platform Sales team works with B2B Software Platforms to help them facilitate payments for their customers using our Stripe Connect product. Software Platforms, also known as B2B Indirect, are software platform businesses who serve other businesses. Platforms already using Stripe include Shopify, Lightspeed and Mindbody.&lt;/p&gt; &lt;p&gt;As a key member to the Stripe Platforms team, you will manage and eleva",
+    "source": "greenhouse",
+    "posted_at": "2026-10-20T20:37:08-04:00",
+    "fit_score": 12,
+    "reasoning": "The candidate's background is heavily technical, focusing on software development, cloud architecture, and AI, with no evident sales, account management, or business development experience. The Account Executive role at Stripe requires strong client‑facing, negotiation, and revenue‑generating skills, which are not demonstrated in the resume. Therefore, the overall fit is low.",
+    "cover_letter_opener": "I am excited to bring my passion for innovative technology and my drive for results to Stripe’s Velocity Platforms team as an Account Executive.",
+    "scored_at": "2026-10-21T08:09:53.259Z"
+  },
+  {
     "job_id": "17c01000c37e7210",
     "title": "Backend / API Engineer, Radar",
     "company": "stripe",
