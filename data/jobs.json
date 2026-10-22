@@ -1,5 +1,47 @@
 [
   {
+    "job_id": "f7e7129d4b926711",
+    "title": "Sales Manager, Europe, Enterprise Platforms",
+    "company": "stripe",
+    "location": "Berlin and Munich",
+    "url": "https://stripe.com/jobs/search?gh_jid=8299651",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;The Platform Sales team is a highly consultative, enterprise sales team that is responsible for some of Stripe’s largest and fastest growing partners. Stripe helps software platforms offer more value to their customers by embedding Stripe’s powerful payments technology and financial services into their solution. As a Platform Sales Manager, you will play a critical role on our go-to-market leadership bench-- leading a team of growth AEs to make embedded payments and financia",
+    "source": "greenhouse",
+    "posted_at": "2026-10-22T09:35:31-04:00",
+    "fit_score": 18,
+    "reasoning": "The candidate’s background is heavily technical, emphasizing software development, cloud, and AI, with no demonstrated sales or account‑management experience, which are essential for a Sales Manager role. While this technical expertise could help understand Stripe’s enterprise platform, the lack of relevant sales achievements results in a poor overall match. Consequently, the resume aligns only minimally with the job’s core responsibilities.",
+    "cover_letter_opener": "I’m thrilled by Stripe’s mission to expand the internet’s economy and eager to combine my technical expertise with a passion for enterprise solutions to drive growth across Europe.",
+    "scored_at": "2026-10-22T14:16:50.864Z"
+  },
+  {
+    "job_id": "e965cac67733a92b",
+    "title": "Enterprise Account Executive - South Korea",
+    "company": "gitlab",
+    "location": "Remote, South Korea",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8887322002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-10-22T06:11:24-04:00",
+    "fit_score": 10,
+    "reasoning": "The candidate's background is technical, focusing on software development, cloud, and AI architecture, whereas the role is a sales-oriented Enterprise Account Executive position requiring account management and business development experience. Additionally, the candidate is based in Germany and seeks part‑time engineering work, not a remote sales role targeting South Korea.",
+    "cover_letter_opener": "I am thrilled by GitLab’s AI‑driven DevSecOps vision and eager to help South Korean enterprises unlock its full potential.",
+    "scored_at": "2026-10-22T14:16:50.863Z"
+  },
+  {
+    "job_id": "9e043c43f21f5a8d",
+    "title": "Engineering Manager, Payments",
+    "company": "stripe",
+    "location": "Singapore",
+    "url": "https://stripe.com/jobs/search?gh_jid=8256027",
+    "description": "&lt;h3 id=&quot;who-we-are&quot;&gt;Who we are&lt;/h3&gt; &lt;h4 id=&quot;about-stripe&quot;&gt;About Stripe&lt;/h4&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt; &lt;h4 id=&quot;about-the-team&quot;&gt;About the team&lt;/h4&gt; &lt;p&gt;The Payments Engineering team powers the processing of hundreds of billions of dollars in card payments annually, enabling users to accept card payments across Asia Pacific, Europe, and the Middle East. As the Engineering Manager for the team, you’ll be responsible for expanding the reach of Stripe’s global payments network and delivering a best-in-class card payments experience in these regions.&lt;/p&gt; &lt;p&gt;In this role, you’ll make some of the most significant strategic, produ",
+    "source": "greenhouse",
+    "posted_at": "2026-10-22T05:39:17-04:00",
+    "fit_score": 15,
+    "reasoning": "The candidate has solid backend development experience with Java and cloud platforms, but lacks senior leadership experience and specific payments domain knowledge required for an Engineering Manager role. Additionally, the role is based in Singapore while the candidate seeks part‑time positions in Germany, further reducing fit.",
+    "cover_letter_opener": "I am excited about the opportunity to bring my strong software engineering background to Stripe’s Payments team and help power the global economy.",
+    "scored_at": "2026-10-22T14:16:50.863Z"
+  },
+  {
     "job_id": "adec27c9d93b69b6",
     "title": "Senior Solutions Architect",
     "company": "gitlab",
