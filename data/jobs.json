@@ -1,5 +1,47 @@
 [
   {
+    "job_id": "adec27c9d93b69b6",
+    "title": "Senior Solutions Architect",
+    "company": "gitlab",
+    "location": "Remote, Singapore",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8880947002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-10-21T22:59:14-04:00",
+    "fit_score": 40,
+    "reasoning": "The candidate has solid cloud and security experience and strong certifications, which align with GitLab’s focus on DevSecOps and AI integration. However, the role is senior-level and expects extensive solutions‑architect expertise and direct GitLab product experience, which the resume does not demonstrate.",
+    "cover_letter_opener": "I am excited to bring my cloud security and AI expertise to GitLab’s innovative DevSecOps platform and help accelerate intelligent software delivery worldwide!",
+    "scored_at": "2026-10-22T08:10:20.478Z"
+  },
+  {
+    "job_id": "6c936fdb74e2fdcd",
+    "title": "Operations Program Manager, Consumer Support",
+    "company": "stripe",
+    "location": "NYC",
+    "url": "https://stripe.com/jobs/search?gh_jid=8288334",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are &lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/span&gt;&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;The Consumer Support team partners closely with Product, Engineering, Legal, Compliance, Regulatory, Localisation, Operations Technology, and other Operations teams to build and scale support for Link and Crypto Onramp products.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;As part of the Consumer Support team, you will develop a deep understanding of Stripe’s consumer product",
+    "source": "greenhouse",
+    "posted_at": "2026-10-21T22:54:11-04:00",
+    "fit_score": 15,
+    "reasoning": "The candidate's background is heavily technical, focusing on software development, cloud, and AI, while the role requires operations program management and consumer support experience in a financial services context. Additionally, the candidate seeks a part‑time position in Germany, whereas the job is full‑time in NYC, leading to a poor overall match.",
+    "cover_letter_opener": "I am excited about Stripe’s mission to grow the internet economy and eager to bring my strong technical and analytical skills to support and improve consumer operations.",
+    "scored_at": "2026-10-22T08:10:20.480Z"
+  },
+  {
+    "job_id": "256c2f0829757f30",
+    "title": "Senior Solutions Architect - Japan",
+    "company": "gitlab",
+    "location": "Remote, Japan",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8890389002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-10-21T22:47:13-04:00",
+    "fit_score": 40,
+    "reasoning": "The candidate possesses strong cloud (Azure) and security experience, as well as solid backend development skills that are relevant to a solutions architect role. However, they lack senior‑level architecture experience, specific DevSecOps expertise with GitLab, and are based in Germany while the position targets Japan, limiting overall alignment.",
+    "cover_letter_opener": "I am excited to bring my cloud security and AI integration expertise to GitLab’s remote Japan team, helping accelerate intelligent DevSecOps solutions worldwide.",
+    "scored_at": "2026-10-22T08:10:20.479Z"
+  },
+  {
     "job_id": "be12f6324609d283",
     "title": "Partner Program Manager",
     "company": "gitlab",
