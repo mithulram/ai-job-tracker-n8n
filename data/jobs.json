@@ -1,5 +1,19 @@
 [
   {
+    "job_id": "0ec3f015780cbce4",
+    "title": "Software Engineer, New Grad",
+    "company": "stripe",
+    "location": "Taiwan",
+    "url": "https://stripe.com/jobs/search?gh_jid=8202299",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a technology company focused on improving the conditions for economic growth and prosperity. We build programmable financial infrastructure, rethinking from first principles how financial services should work, to make it easier and cheaper for any business to start and scale. More than 10 million &lt;a href=&quot;https://stripe.com/customers&quot;&gt;businesses&lt;/a&gt; build on Stripe, spanning the economic frontier—from solo founders to established enterprises—united by a practical focus on growth. The most ambitious companies in the world use Stripe as core infrastructure to grow faster. They process trillions of dollars a year on Stripe, equivalent to around 1.6% of global GDP. While economic growth makes everyone better off, open markets also enable greater variety. When any business can easily serve a global customer base, the quality and diversity of products in the world increase, and craft and creativity are unleashed into the smallest niches. Our own growth is wholly contingent on the success of the businesses building on Stripe. ",
+    "source": "greenhouse",
+    "posted_at": "2026-10-22T23:22:57-04:00",
+    "fit_score": 45,
+    "reasoning": "The candidate has solid backend development experience with Java, Spring Boot, and cloud platforms, which aligns with Stripe's engineering needs. However, they are based in Germany, seeking part‑time roles, and aim for an AI Solutions Architect path rather than a full‑time new‑grad software engineer position in Taiwan. This geographic and career‑focus mismatch lowers the overall fit.",
+    "cover_letter_opener": "I am excited to bring my Java and cloud expertise to Stripe’s innovative payment platform and contribute to building the next generation of financial infrastructure.",
+    "scored_at": "2026-10-23T08:08:10.397Z"
+  },
+  {
     "job_id": "974894a1c689f8d9",
     "title": "Solutions Architect - SLED (East)",
     "company": "gitlab",
