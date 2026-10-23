@@ -1,5 +1,47 @@
 [
   {
+    "job_id": "fa3b35b9a0f84887",
+    "title": "Ecosystem Operations Specialist",
+    "company": "gitlab",
+    "location": "Remote, Canada; Remote, United States",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8907694002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-10-23T19:01:59-04:00",
+    "fit_score": 45,
+    "reasoning": "The candidate has strong backend and cloud experience with Azure, Java, and Python, and a background in cybersecurity, which aligns with GitLab's DevSecOps focus. However, the resume targets a German part‑time role and lacks direct experience with GitLab's ecosystem or operations tooling, reducing overall relevance. The AI interest is a plus but not central to the specialist role.",
+    "cover_letter_opener": "I’m excited to bring my cloud‑native development and cybersecurity expertise to GitLab’s Ecosystem Operations team, helping accelerate secure, AI‑enhanced DevSecOps for users worldwide.",
+    "scored_at": "2026-10-23T23:43:38.101Z"
+  },
+  {
+    "job_id": "e637c9ff43b4745b",
+    "title": "Backend Engineer, Knowledge Graph (Rust)",
+    "company": "gitlab",
+    "location": "Remote, Canada; Remote, United States",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8771512002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-10-23T18:47:07-04:00",
+    "fit_score": 30,
+    "reasoning": "The candidate has solid backend development experience with Java, Spring Boot, and cloud platforms, which aligns with general backend engineering requirements. However, they lack Rust expertise and specific knowledge‑graph experience that are central to this role, resulting in a modest fit. Additionally, the candidate is seeking a student/part‑time position, while the posting targets a full‑time remote engineer.",
+    "cover_letter_opener": "I am excited about the opportunity to contribute my backend expertise to GitLab’s Knowledge Graph team and help drive innovative AI‑powered solutions.",
+    "scored_at": "2026-10-23T23:43:38.100Z"
+  },
+  {
+    "job_id": "148185ca32a690a4",
+    "title": "Senior Product Manager, Switchboard",
+    "company": "gitlab",
+    "location": "Remote, United States",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8894806002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-10-23T15:37:00-04:00",
+    "fit_score": 20,
+    "reasoning": "The candidate has strong software engineering and cloud experience, but lacks product management background and senior‑level experience required for a Senior Product Manager role. Additionally, the resume focuses on development and AI aspirations rather than the DevSecOps and product strategy expertise emphasized by GitLab.",
+    "cover_letter_opener": "I am excited about the opportunity to bring my cloud‑native development expertise and passion for AI‑driven solutions to GitLab’s Switchboard team.",
+    "scored_at": "2026-10-23T23:43:38.102Z"
+  },
+  {
     "job_id": "18e351998628c0ad",
     "title": "Account Executive - Platforms (LFC) - Spanish Speaking",
     "company": "stripe",
