@@ -1,5 +1,19 @@
 [
   {
+    "job_id": "097255e4c1c525e3",
+    "title": "Staff Product Manager, Agentic Planning",
+    "company": "gitlab",
+    "location": "Remote, United States",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8909618002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-10-23T09:50:45-04:00",
+    "fit_score": 20,
+    "reasoning": "The candidate has solid software engineering and cloud experience but lacks product management background and senior-level leadership required for a Staff Product Manager role. Additionally, the position is a full-time remote US role, while the candidate is seeking part‑time work in Germany, creating a significant mismatch.",
+    "cover_letter_opener": "I am excited to bring my strong background in cloud‑native software development and AI integration to GitLab’s innovative Agentic Planning team.",
+    "scored_at": "2026-10-23T14:00:00.930Z"
+  },
+  {
     "job_id": "0ec3f015780cbce4",
     "title": "Software Engineer, New Grad",
     "company": "stripe",
