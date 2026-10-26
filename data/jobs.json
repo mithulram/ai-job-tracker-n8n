@@ -1,5 +1,33 @@
 [
   {
+    "job_id": "da371a7c88ef3123",
+    "title": "Head of Marketing, Japan",
+    "company": "stripe",
+    "location": "Tokyo",
+    "url": "https://stripe.com/jobs/search?gh_jid=8273853",
+    "description": "&lt;p&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Our Japan Marketing team’s mission is to engage priority audiences through impactful and relevant marketing campaigns and events, to drive growth in adoption of Stripe’s solution offerings. Japan Marketing is a sales-aligned team, partnering closely with the Japan GTM organization, including Sales, Sales Development, Solutions Architects, Partnerships, and others. Our team works across all customer segments, and at each stage of the customer lifecycle journey. As a member of the Japan",
+    "source": "greenhouse",
+    "posted_at": "2026-10-26T00:56:58-04:00",
+    "fit_score": 5,
+    "reasoning": "The candidate's background is in software engineering, cloud, and AI, with no marketing experience or Japanese market expertise. Additionally, the role is a senior leadership position in marketing, while the candidate seeks part‑time technical roles in Germany.",
+    "cover_letter_opener": "I am thrilled by Stripe’s mission to expand the internet economy and would love to contribute my passion for innovative growth to the Head of Marketing role in Japan.",
+    "scored_at": "2026-10-26T08:19:48.070Z"
+  },
+  {
+    "job_id": "708be7958d22831e",
+    "title": "Software Engineer",
+    "company": "stripe",
+    "location": "Taiwan",
+    "url": "https://stripe.com/jobs/search?gh_jid=8318509",
+    "description": "&lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;About the team&lt;/h3&gt; &lt;p&gt;Stripe Terminal helps businesses extend their online presence into the physical world by making it easy to accept in-person payments.&lt;/p&gt; &lt;p&gt;The Logistics Engineering team builds the systems and web experiences that support the end-to-end lifecycle of Stripe Terminal devices - from manufacturing and inventory to ordering, fulfillment, returns, warranties, and repairs. We develop web interfaces, infrastructure, APIs, integrations, and internal tools that connect Stripe with manufacturers, logistics providers, repair centers, and Terminal users around th",
+    "source": "greenhouse",
+    "posted_at": "2026-10-25T22:42:49-04:00",
+    "fit_score": 45,
+    "reasoning": "The candidate has solid Java backend and cloud experience with Spring Boot and Azure, which aligns with many software engineering tasks at Stripe. However, the candidate is focused on AI/LLM roles, seeks part‑time work in Germany, and lacks direct payments or Stripe‑specific technology experience, reducing overall fit. Additionally, the location mismatch (Taiwan vs. Germany) further lowers suitability.",
+    "cover_letter_opener": "I am excited about the opportunity to bring my backend and cloud expertise to Stripe and help power the financial infrastructure that fuels the internet’s economy.",
+    "scored_at": "2026-10-26T08:19:48.071Z"
+  },
+  {
     "job_id": "fa3b35b9a0f84887",
     "title": "Ecosystem Operations Specialist",
     "company": "gitlab",
