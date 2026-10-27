@@ -1,5 +1,19 @@
 [
   {
+    "job_id": "b8c98c2ec9431e06",
+    "title": "Technical Operations Engineer",
+    "company": "stripe",
+    "location": "South San Francisco, CA",
+    "url": "https://stripe.com/jobs/search?gh_jid=8325807",
+    "description": "&lt;h3&gt;&lt;strong&gt;About Stripe&amp;nbsp;&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe, LLC. is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Become a domain expert in Connect and Risk and Compliance areas of Connect.&amp;nbsp;&lt;/li&gt; &lt;li&gt;Handle inquiries from internal Stripes and external partners&#39; technical teams with detailed investigation and sometimes code changes.&amp;nbsp;&lt;/li&gt; &lt;li&gt;Organize and direct complex technical changes as part of product releases and merchant onboarding and migrations.&amp;nbsp;&lt;/li&gt; &lt;li&gt;Identify and automate in",
+    "source": "greenhouse",
+    "posted_at": "2026-10-26T19:41:13-04:00",
+    "fit_score": 30,
+    "reasoning": "The candidate has solid backend and cloud experience with Java, Spring Boot, and Azure, which are relevant to a technical operations role, but the position at Stripe focuses on infrastructure and operations in a US‑based environment, typically using AWS and other technologies not highlighted in the resume. Additionally, the candidate is currently based in Germany and seeking part‑time roles, which does not align with the full‑time on‑site expectations for this role. Therefore the overall fit is limited.",
+    "cover_letter_opener": "I am thrilled by Stripe’s mission to power the internet economy and eager to bring my cloud and backend expertise to help ensure seamless technical operations.",
+    "scored_at": "2026-10-27T03:01:30.979Z"
+  },
+  {
     "job_id": "ae11349696191cac",
     "title": "Senior Manager, Total Rewards Operations",
     "company": "gitlab",
