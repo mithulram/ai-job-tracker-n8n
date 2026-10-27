@@ -1,5 +1,47 @@
 [
   {
+    "job_id": "cf91aac86de33109",
+    "title": "Intermediate Backend Engineer, Pipeline Authoring",
+    "company": "gitlab",
+    "location": "Remote, Poland",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8773028002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-10-27T06:03:43-04:00",
+    "fit_score": 55,
+    "reasoning": "The candidate brings solid Java/Spring Boot backend experience and cloud expertise that align with many backend engineering requirements. However, the role emphasizes pipeline authoring and DevSecOps tooling specific to GitLab’s stack, which the resume does not demonstrate, lowering the overall match. Additionally, the candidate’s career focus on AI solutions diverges from the immediate pipeline focus.",
+    "cover_letter_opener": "I am excited to apply my backend and cloud expertise to help GitLab’s Pipeline Authoring team deliver smarter, AI‑enhanced DevSecOps solutions.",
+    "scored_at": "2026-10-27T15:05:16.367Z"
+  },
+  {
+    "job_id": "5b4fe624f0c8c862",
+    "title": "Backend Engineer, UI Platform",
+    "company": "stripe",
+    "location": "Barcelona, Spain",
+    "url": "https://stripe.com/jobs/search?gh_jid=8212319",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&amp;nbsp;&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;The UI Platform team, known as Sail, builds the foundations behind Stripe’s Dashboard and many other user interfaces. Sail Services owns the systems that evaluate feature flags and experiments, ingest frontend analytics, and improve Dashboard load times for Stripe’s largest merchants.&lt;/p&gt; &lt;p&gt;We build backend-for-frontend capabilities that connect Stripe’s backend systems to its UI platform. This gives product teams a consistent way to build and operate user exp",
+    "source": "greenhouse",
+    "posted_at": "2026-10-27T05:37:14-04:00",
+    "fit_score": 55,
+    "reasoning": "The candidate has solid backend experience with Java, Spring Boot, and REST API design, which aligns with many of the core responsibilities of a Backend Engineer. However, they lack specific experience with Stripe's typical tech stack and UI platform development, and they are seeking a part‑time role in Germany while the position is full‑time in Barcelona, reducing overall fit.",
+    "cover_letter_opener": "I am excited to bring my Java and cloud backend expertise to Stripe’s UI Platform team and help power the next generation of internet commerce.",
+    "scored_at": "2026-10-27T15:05:16.368Z"
+  },
+  {
+    "job_id": "a2507f6ac0a43631",
+    "title": "Frontend Engineer, UI Platform",
+    "company": "stripe",
+    "location": "Barcelona",
+    "url": "https://stripe.com/jobs/search?gh_jid=8226890",
+    "description": "&lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;About the team&lt;/h3&gt; &lt;p&gt;The UI Platform team, known as Sail, builds the foundations that support Stripe’s Dashboard and many of Stripe’s other user interfaces. The Sail UI team owns Stripe’s design system, helping Stripe engineers create consistent, accessible, performant, and high-quality experiences at scale.&lt;/p&gt; &lt;p&gt;We build and maintain reusable components, design tokens, theming capabilities, documentation, and developer tooling used by engineers and designers across Stripe. We are currently focused on two major projects. First, we are building Sail for Agents: the generation",
+    "source": "greenhouse",
+    "posted_at": "2026-10-27T05:21:13-04:00",
+    "fit_score": 30,
+    "reasoning": "The candidate has strong backend and mobile development experience, especially with Flutter, but lacks explicit web frontend technologies commonly required for a UI platform role at Stripe. Additionally, the candidate is seeking part‑time positions in Germany, while the role is a full‑time position in Barcelona, reducing geographic and employment‑type alignment. These gaps lower the overall fit.",
+    "cover_letter_opener": "I’m excited to bring my passion for building intuitive, high‑performance user interfaces to Stripe’s UI Platform team in Barcelona.",
+    "scored_at": "2026-10-27T15:05:16.369Z"
+  },
+  {
     "job_id": "b8c98c2ec9431e06",
     "title": "Technical Operations Engineer",
     "company": "stripe",
