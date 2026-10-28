@@ -1,5 +1,47 @@
 [
   {
+    "job_id": "3084580d3332e2d7",
+    "title": "Technical Solutions Consultant, Crypto",
+    "company": "stripe",
+    "location": "New York, San Francisco",
+    "url": "https://stripe.com/jobs/search?gh_jid=8329116",
+    "description": "&lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world&#39;s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;About the team&lt;/h3&gt; &lt;p&gt;Technical Solutions Consultants are responsible for the technical relationship of Stripe Crypto&#39;s largest and most complex users. We lead cross-functional efforts across Engineering, Product, and go-to-market teams—balancing our users&#39; business needs with technical constraints—and act as trusted partners and consultants who help businesses deliver more value to their customers, optimize their technical operations, and accelerate their global growth with Stripe.&lt;/p&gt; &lt;h2&gt;What you&#39;ll do&lt;/h2&gt; &lt;p&gt;As a Technical Solutions Consulta",
+    "source": "greenhouse",
+    "posted_at": "2026-10-28T16:19:38-04:00",
+    "fit_score": 25,
+    "reasoning": "The candidate has solid backend and cloud engineering skills and cybersecurity experience, but lacks direct experience with crypto payments and the specific consulting focus of the role. Additionally, they are seeking part‑time work in Germany, while the position is based in the US, reducing overall fit.",
+    "cover_letter_opener": "I am excited to bring my cloud‑native backend expertise and security background to help Stripe’s crypto solutions empower businesses worldwide.",
+    "scored_at": "2026-10-28T22:04:14.047Z"
+  },
+  {
+    "job_id": "a432d75c2e9bcef3",
+    "title": "Staff Software Engineer, Link - Consumer Identity",
+    "company": "stripe",
+    "location": "San Francisco, Seattle, New York",
+    "url": "https://stripe.com/jobs/search?gh_jid=8304788",
+    "description": "&lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world&#39;s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;&lt;a href=&quot;https://stripe.com/payments/link&quot;&gt;Link&lt;/a&gt; helps Stripe&#39;s merchants deliver frictionless and secure checkout experiences by auto-filling customers&#39; payment information, letting customers check out in seconds and pay in one click across the Link merchant network.&amp;nbsp;&lt;/p&gt; &lt;h2&gt;What you&#39;ll do&lt;/h2&gt; &lt;p&gt;We’re hiring a Staff Software Engineer to lead the design and delivery of new money-movement capabilities in Link. You will take ambiguou",
+    "source": "greenhouse",
+    "posted_at": "2026-10-28T14:28:39-04:00",
+    "fit_score": 30,
+    "reasoning": "The candidate has solid Java and Spring Boot backend experience and a security research background, which aligns partially with Stripe's consumer identity work. However, the role is a senior staff position focused on payments and large‑scale identity systems, requires extensive industry experience and is US‑based, while the candidate seeks part‑time work in Germany and aims for AI architect roles.",
+    "cover_letter_opener": "I’m thrilled by Stripe’s mission to power the internet economy and eager to bring my security‑focused backend expertise to help build the next generation of consumer identity solutions.",
+    "scored_at": "2026-10-28T22:04:14.046Z"
+  },
+  {
+    "job_id": "c073d632e4793b18",
+    "title": "Program Manager, Go-to-Market Experience and Productivity",
+    "company": "stripe",
+    "location": "Dublin ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8311067",
+    "description": "&lt;h3&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h3&gt; &lt;h4&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h4&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies from the world’s largest enterprises to the most ambitious startups use Stripe to accept payments, grow their revenue and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt; &lt;h4&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h4&gt; &lt;p&gt;The Seller Experience &amp;amp; Insights team is responsible for ensuring Stripe’s Go-to-Market teams have the tools, systems, processes and policies they need to sell effectively. We identify friction in how sellers get work done, translate seller needs into scalable solutions and partner across Product, Engineering, Data Science, Sales Operations and Enablement to improve productivity and the quality of Stripe’s customer engagement.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;What you’ll do&",
+    "source": "greenhouse",
+    "posted_at": "2026-10-28T13:53:45-04:00",
+    "fit_score": 20,
+    "reasoning": "The candidate’s background is heavily technical, focusing on Java, Flutter, Azure, and cybersecurity, with no evident program‑management or go‑to‑market experience. Stripe’s Program Manager role emphasizes product strategy, cross‑functional coordination, and fintech domain knowledge, which are not reflected in the resume. However, the candidate’s strong cloud and software engineering skills could be a foundation for future growth in such roles.",
+    "cover_letter_opener": "I’m thrilled by Stripe’s mission to expand the internet’s economy and eager to bring my technical expertise to the Program Manager, Go‑to‑Market Experience and Productivity team.",
+    "scored_at": "2026-10-28T22:04:14.045Z"
+  },
+  {
     "job_id": "2a79c192427ac71b",
     "title": "Engineering Manager, Architecture Engineering: Async",
     "company": "gitlab",
