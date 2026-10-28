@@ -1,5 +1,33 @@
 [
   {
+    "job_id": "8946d7cd4a6e2384",
+    "title": "Manager, Solutions Architecture Transformation",
+    "company": "stripe",
+    "location": "USA",
+    "url": "https://stripe.com/jobs/search?gh_jid=8175637",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are &lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;The Solutions Architecture (SA) Transformation team makes focused global investments that turn SA strategy and innovation into scalable capabilities—elevating technical excellence and compounding impact for SAs, users, and Stripe. We partner with global SA leadership, GTM, Product, and Engineering to bring strategy to life, develop better ways for SAs to work, and scale promising innovation from the field. We combine field and user insight, disciplined experimentation, and emerging",
+    "source": "greenhouse",
+    "posted_at": "2026-10-27T22:36:49-04:00",
+    "fit_score": 20,
+    "reasoning": "The candidate has solid cloud and backend development experience, but the role is a senior managerial position focused on solutions architecture transformation at Stripe, which requires extensive industry experience and leadership. Additionally, the candidate is seeking part‑time work in Germany, while the job is a full‑time US‑based role, leading to a poor overall fit.",
+    "cover_letter_opener": "I am thrilled by Stripe’s mission to expand the internet’s GDP and eager to bring my cloud‑focused architecture expertise to help drive transformative solutions.",
+    "scored_at": "2026-10-28T03:11:33.212Z"
+  },
+  {
+    "job_id": "ac85dffeeaf15c66",
+    "title": "Staff Software Engineer, Dashboard Product",
+    "company": "stripe",
+    "location": "Seattle",
+    "url": "https://stripe.com/jobs/search?gh_jid=8329718",
+    "description": "&lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world&#39;s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;The Dashboard Product team is committed to providing world-class user experiences for Stripe merchants. We focus on perfecting the Dashboard Stripe’s main interface for merchants - by infusing meticulous attention to detail and craft. We take immense pride in our work and deeply care about the quality of the products we deliver. We’re dedicated to building a team with an acute focus on detail, nurturing a level of craftsmanship that makes us proud to share our work with the world.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-10-27T21:21:27-04:00",
+    "fit_score": 30,
+    "reasoning": "The candidate has solid Java and Spring Boot experience and cloud knowledge that align with backend development for a dashboard product, but they lack senior‑level experience, specific payments or Stripe domain expertise, and are based in Germany while the role is a staff position in Seattle. Consequently, the overall match is modest.",
+    "cover_letter_opener": "I’m thrilled by Stripe’s mission to power the internet economy and eager to contribute my backend expertise to building the next‑generation Dashboard product.",
+    "scored_at": "2026-10-28T03:11:33.213Z"
+  },
+  {
     "job_id": "145f44e4e5db555c",
     "title": "Design Engineer, Brand Studio",
     "company": "stripe",
