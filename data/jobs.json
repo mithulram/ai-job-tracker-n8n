@@ -1,5 +1,47 @@
 [
   {
+    "job_id": "d0e18af4b776ea66",
+    "title": "Software Engineer, Fraud System Interventions",
+    "company": "stripe",
+    "location": "South San Francisco, CA",
+    "url": "https://stripe.com/jobs/search?gh_jid=8332718",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe, LLC. is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Develop and manage platforms and solutions to minimize financial and regulatory risk while maintaining excellent user experience.&amp;nbsp;&lt;/li&gt; &lt;li&gt;Diagnose and resolve production issues across various services and throughout the tech stack.&amp;nbsp;&lt;/li&gt; &lt;li&gt;Proactively identify, analyze, and swiftly mitigate emerging risk patterns.&amp;nbsp;&lt;/li&gt; &lt;li&gt;P",
+    "source": "greenhouse",
+    "posted_at": "2026-10-28T20:01:17-04:00",
+    "fit_score": 35,
+    "reasoning": "The candidate has solid Java backend and security experience, which aligns with the technical demands of a fraud detection system, but lacks direct payments or fraud domain exposure. Additionally, the candidate is based in Germany and seeking part‑time roles, while the Stripe position is a full‑time role in the US, creating a significant location and employment‑type mismatch.",
+    "cover_letter_opener": "I am excited to bring my strong backend and cybersecurity background to Stripe’s fraud system team and help protect merchants worldwide.",
+    "scored_at": "2026-10-29T03:38:04.972Z"
+  },
+  {
+    "job_id": "6e3fff35c0faba85",
+    "title": "Software Engineer - Full stack",
+    "company": "stripe",
+    "location": "Seattle, WA",
+    "url": "https://stripe.com/jobs/search?gh_jid=8332676",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe, LLC. is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Design, build, productionize, and maintain APls, services, and systems across Stripe&#39;s engineering teams using Ruby, React, Typescript, and other programming languages.&lt;/li&gt; &lt;li&gt;Predict and measure the performance and outcomes of designed systems.&lt;/li&gt; &lt;li&gt;Collaborate with engineers and other cross-functional roles across the company to build new billing features ",
+    "source": "greenhouse",
+    "posted_at": "2026-10-28T19:38:42-04:00",
+    "fit_score": 40,
+    "reasoning": "The candidate brings solid Java backend and cloud experience with Spring Boot and Azure, which aligns with Stripe's engineering needs. However, they lack explicit front‑end web technologies commonly used for full‑stack roles, and their current location and part‑time focus in Germany do not match a full‑time Seattle position. Additionally, their career focus on AI solutions diverges from the core responsibilities of this role.",
+    "cover_letter_opener": "I’m thrilled by Stripe’s mission to power the internet economy and eager to contribute my backend expertise to help build the next generation of seamless payment experiences.",
+    "scored_at": "2026-10-29T03:38:04.974Z"
+  },
+  {
+    "job_id": "fa1208e22158ce54",
+    "title": "Technical Curriculum Developer, Technical Enablement",
+    "company": "stripe",
+    "location": "San Francisco; Seattle; Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8164666",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About The Team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;The Global Technical enablement team helps Stripe’s user-facing technical teams, partners, and users learn how to build on Stripe and demonstrate their skills. Our &lt;a href=&quot;https://stripe.training&quot;&gt;stripe.training&lt;/a&gt; site complements Stripe’s documentation with structured learning paths, hands-on practice, and technical certifications. We develop applied learning experiences that help people understand Stripe’s products and use them effectively.&lt;/p&gt; &lt;",
+    "source": "greenhouse",
+    "posted_at": "2026-10-28T18:31:30-04:00",
+    "fit_score": 35,
+    "reasoning": "The candidate possesses strong backend and cloud engineering skills that align with Stripe's technical focus, but they have limited experience in curriculum development or payments-specific technologies. Their background in automotive cybersecurity and AI aspirations does not directly match the enablement and instructional design requirements of the role. Consequently, the overall fit is modest.",
+    "cover_letter_opener": "I’m excited to bring my cloud‑native development expertise to Stripe’s Technical Enablement team and help craft cutting‑edge curricula that empower developers worldwide.",
+    "scored_at": "2026-10-29T03:38:04.975Z"
+  },
+  {
     "job_id": "3084580d3332e2d7",
     "title": "Technical Solutions Consultant, Crypto",
     "company": "stripe",
