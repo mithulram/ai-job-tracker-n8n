@@ -1,5 +1,33 @@
 [
   {
+    "job_id": "67142869e178cffb",
+    "title": "Software Engineer, Supportability Decisions",
+    "company": "stripe",
+    "location": "Dublin",
+    "url": "https://stripe.com/jobs/search?gh_jid=8335426",
+    "description": "&lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/span&gt;&lt;/p&gt; &lt;h3&gt;About the team&lt;/h3&gt; &lt;p&gt;Supportability Decisions is a Dublin-based engineering team within Supportability Engineering, part of Risk Engineering. We own the “how a business sells” side of Supportability: determining whether a user’s declared business, web presence, account configuration, and observed transaction behaviour align with Stripe’s standards.&lt;/p&gt; &lt;p&gt;Our core domain includes transaction-laundering detection and decisioning, web-presence and URL-policy controls, and low-quality e-commerce detection. We consume th",
+    "source": "greenhouse",
+    "posted_at": "2026-11-02T05:07:24-05:00",
+    "fit_score": 55,
+    "reasoning": "The candidate has strong backend development experience with Java and Spring Boot, as well as cloud expertise in Azure, which aligns with Stripe’s engineering needs. However, the resume lacks direct experience in payment systems, supportability engineering, and the Dublin location, lowering the overall match.",
+    "cover_letter_opener": "I’m excited to bring my backend and cloud expertise to Stripe’s Supportability Decisions team and help power the financial infrastructure that fuels the internet’s economy.",
+    "scored_at": "2026-11-02T10:21:20.533Z"
+  },
+  {
+    "job_id": "6b0dd22182bd0666",
+    "title": "Intermediate Data Engineer",
+    "company": "gitlab",
+    "location": "Bangalore, India",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8924923002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-11-02T01:44:11-05:00",
+    "fit_score": 30,
+    "reasoning": "The candidate has strong backend and cloud experience with Python and Azure, which are relevant to data engineering tasks, but lacks specific data pipeline or big‑data tool expertise. Additionally, the candidate is seeking part‑time roles in Germany, while the position is a full‑time role based in Bangalore, India, creating a significant location and employment type mismatch. Consequently, the overall alignment with the Intermediate Data Engineer role is limited.",
+    "cover_letter_opener": "I am excited about the opportunity to contribute to GitLab's AI‑driven DevSecOps platform and help build powerful data solutions that empower developers worldwide.",
+    "scored_at": "2026-11-02T10:21:20.532Z"
+  },
+  {
     "job_id": "1384afc9dd380292",
     "title": "Data Scientist, Enterprise Analytics",
     "company": "gitlab",
