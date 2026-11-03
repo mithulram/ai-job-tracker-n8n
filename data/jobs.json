@@ -1,5 +1,19 @@
 [
   {
+    "job_id": "8af2ee1a60cb852a",
+    "title": "Senior Ecosystems Sales Manager: Scale, India",
+    "company": "gitlab",
+    "location": "Remote, India",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8926435002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-11-02T17:15:51-05:00",
+    "fit_score": 15,
+    "reasoning": "The candidate's background is technical, focusing on software development, cloud, and AI, whereas the role is a senior sales manager requiring extensive ecosystem partnership and revenue generation experience. Additionally, the candidate is based in Germany and seeks part‑time positions, which does not align with the senior, remote‑India sales focus.",
+    "cover_letter_opener": "I am excited about GitLab’s AI‑driven DevSecOps platform and eager to help expand its ecosystem partnerships worldwide.",
+    "scored_at": "2026-11-03T04:42:00.125Z"
+  },
+  {
     "job_id": "98eec674bee7e477",
     "title": "Engineering Manager, Infrastructure (Privy)",
     "company": "stripe",
