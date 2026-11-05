@@ -1,5 +1,47 @@
 [
   {
+    "job_id": "9b3eb191580b033c",
+    "title": "Senior Manager - Solutions Architecture SME",
+    "company": "gitlab",
+    "location": "Remote, United Kingdom",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8859960002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-11-05T03:58:07-05:00",
+    "fit_score": 38,
+    "reasoning": "The candidate has solid cloud and security experience and relevant certifications, but the role is a senior managerial position requiring extensive solutions‑architecture leadership and deep DevSecOps expertise, which the resume does not demonstrate. Additionally, the candidate is still a student seeking part‑time work, which does not align with a full‑time senior manager role.",
+    "cover_letter_opener": "I am excited to bring my cloud‑security expertise and passion for AI‑driven DevSecOps to GitLab’s innovative Solutions Architecture team.",
+    "scored_at": "2026-11-05T10:06:54.341Z"
+  },
+  {
+    "job_id": "5888af36e78a4cc1",
+    "title": "Demo Engineer",
+    "company": "stripe",
+    "location": "Chicago",
+    "url": "https://stripe.com/jobs/search?gh_jid=8338344",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are &lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/span&gt;&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Demo Engineering shows customers how Stripe works instead of just telling them. AI has made demos faster to build, which raises the bar on everything around the build: picking the right story, scoping it to what a customer needs to see, and keeping it current as Stripe ships. We&#39;re looking for technically fluent storytellers who know Stripe&#39;s products deeply and can turn positioning into demos that land in",
+    "source": "greenhouse",
+    "posted_at": "2026-11-04T23:18:36-05:00",
+    "fit_score": 30,
+    "reasoning": "The candidate has strong backend and cloud engineering experience, but the Demo Engineer role at Stripe focuses on product demonstrations and payments infrastructure, which are not directly reflected in the resume. Additionally, the candidate is based in Germany and seeking part‑time roles, while the position is full‑time in Chicago, further reducing fit.",
+    "cover_letter_opener": "I’m thrilled by Stripe’s mission to increase the GDP of the internet and eager to bring my cloud‑native development expertise to create compelling demos for your platform.",
+    "scored_at": "2026-11-05T10:06:54.343Z"
+  },
+  {
+    "job_id": "08c844e1dca58d30",
+    "title": "Senior Staff Engineer, Big Data Infrastructure",
+    "company": "stripe",
+    "location": "San Francsico",
+    "url": "https://stripe.com/jobs/search?gh_jid=8317306",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;In this role, you’d be joining the Big Data Infrastructure team. Our team builds and maintains the platforms that power data work across Stripe, managing three core layers:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Data Orchestration (Airflow)&lt;/li&gt; &lt;li&gt;Batch Compute (Spark, Celeborn)&lt;/li&gt; &lt;li&gt;Data Lake (Iceberg, Hive, S3, Azure Blob Storage)&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;We support over 2,000 engineers and 600+ internal teams, processing workloads that organically",
+    "source": "greenhouse",
+    "posted_at": "2026-11-04T20:19:27-05:00",
+    "fit_score": 15,
+    "reasoning": "",
+    "cover_letter_opener": "I’m excited about the opportunity to help Stripe’s big‑data infrastructure scale globally and deliver innovative financial services.",
+    "scored_at": "2026-11-05T10:06:54.344Z"
+  },
+  {
     "job_id": "24db64dc99103dee",
     "title": "Public Sector Account Executive, Canada - Local Governments",
     "company": "gitlab",
