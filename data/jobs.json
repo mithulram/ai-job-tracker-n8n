@@ -1,5 +1,33 @@
 [
   {
+    "job_id": "db7579e9f8db7b6d",
+    "title": "Solutions Architect (ANZ)",
+    "company": "stripe",
+    "location": "Australia",
+    "url": "https://stripe.com/jobs/search?gh_jid=8325009",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;The Solutions Architecture Team partners with our users to realize their full potential through the adoption of prescriptive solutions that drive their growth and success. We influence revenue growth across Stripe’s product portfolio, and collaborate with sales, support, product management, and Stripe’s executive team to provide the best experience to our most valued customers.&amp;nbsp;&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;As a",
+    "source": "greenhouse",
+    "posted_at": "2026-11-05T22:16:59-05:00",
+    "fit_score": 30,
+    "reasoning": "The candidate has strong backend and cloud skills with Java, Spring Boot, Azure, and Python, which are relevant to a Solutions Architect role. However, the resume focuses on academic research and part‑time work in Germany, while the Stripe position is a full‑time senior role in ANZ requiring payments industry experience. The location mismatch and the candidate’s current career goal toward AI solutions further reduce the fit.",
+    "cover_letter_opener": "I am excited about the opportunity to bring my cloud‑native backend expertise to Stripe’s innovative payments platform and help shape the future of internet commerce in ANZ.",
+    "scored_at": "2026-11-06T10:11:40.136Z"
+  },
+  {
+    "job_id": "ce9a004e31abf134",
+    "title": "Customer Success Engineer",
+    "company": "gitlab",
+    "location": "Remote, United States",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8931347002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-11-05T20:19:13-05:00",
+    "fit_score": 30,
+    "reasoning": "The candidate has strong backend and cloud engineering experience, especially with Azure, which aligns with GitLab's DevSecOps platform, but lacks direct customer success or GitLab-specific expertise. Their career focus on AI solutions and automotive cybersecurity does not closely match the customer‑facing responsibilities of a Customer Success Engineer. Additionally, the candidate is based in Germany while the role targets the US market, further reducing fit.",
+    "cover_letter_opener": "I’m excited to bring my cloud‑native development and security background to GitLab’s Customer Success team, helping users unlock the full power of your DevSecOps platform.",
+    "scored_at": "2026-11-06T10:11:40.135Z"
+  },
+  {
     "job_id": "62e6b119076a8288",
     "title": "Principal Field Security Engineer (US)",
     "company": "gitlab",
@@ -82,6 +110,34 @@
     "reasoning": "The candidate has relevant experience in automotive cybersecurity research and solid backend development skills, which align partially with Stripe's security focus. However, the role is a senior staff position requiring extensive security engineering experience, and the candidate is seeking a part‑time student role in Germany, making the overall fit low.",
     "cover_letter_opener": "I am excited about the opportunity to bring my cybersecurity research and cloud‑native development expertise to Stripe’s Abuse Control team in Barcelona.",
     "scored_at": "2026-11-06T01:20:38.904Z"
+  },
+  {
+    "job_id": "726206e0630aaab3",
+    "title": "Staff Security Engineer, Abuse Control",
+    "company": "stripe",
+    "location": "Berlin",
+    "url": "https://stripe.com/jobs/search?gh_jid=8356916",
+    "description": "&lt;h2 id=&quot;who-we-are&quot;&gt;Who we are&lt;/h2&gt; &lt;h3 id=&quot;about-stripe&quot;&gt;About Stripe&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3 id=&quot;about-the-team&quot;&gt;About the team&lt;/h3&gt; &lt;p&gt;Abuse Control Engineering (ACE) is Stripe’s rapid-response technical defense and control incubator. When urgent abuse vectors emerge, ACE uses real-world attacker telemetry to prototype, test, and deploy software safeguards before vulnerabilities can be exploited at scale.&lt;/p&gt; &lt;p&gt;We partner closely with Fraud, Risk, Abuse Research, and Product Engineering to run rigorous experiments that balance effective risk mitigation with legitimate user activity and conversion. Operati",
+    "source": "greenhouse",
+    "posted_at": "2026-11-05T15:46:38-05:00",
+    "fit_score": 48,
+    "reasoning": "The candidate has solid software engineering experience and research in automotive cybersecurity and threat modeling, which aligns with security fundamentals. However, they lack direct experience in abuse control, payment systems, and large‑scale security operations typical for a Staff Security Engineer at Stripe, resulting in a moderate fit.",
+    "cover_letter_opener": "I am excited to bring my cybersecurity research and backend expertise to Stripe’s Abuse Control team, helping protect the global economy from emerging threats.",
+    "scored_at": "2026-11-06T10:11:40.139Z"
+  },
+  {
+    "job_id": "d399db43026a5fe8",
+    "title": "Staff Security Engineer, Abuse Control",
+    "company": "stripe",
+    "location": "Bucharest",
+    "url": "https://stripe.com/jobs/search?gh_jid=8356912",
+    "description": "&lt;h2 id=&quot;who-we-are&quot;&gt;Who we are&lt;/h2&gt; &lt;h3 id=&quot;about-stripe&quot;&gt;About Stripe&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3 id=&quot;about-the-team&quot;&gt;About the team&lt;/h3&gt; &lt;p&gt;Abuse Control Engineering (ACE) is Stripe’s rapid-response technical defense and control incubator. When urgent abuse vectors emerge, ACE uses real-world attacker telemetry to prototype, test, and deploy software safeguards before vulnerabilities can be exploited at scale.&lt;/p&gt; &lt;p&gt;We partner closely with Fraud, Risk, Abuse Research, and Product Engineering to run rigorous experiments that balance effective risk mitigation with legitimate user activity and conversion. Operati",
+    "source": "greenhouse",
+    "posted_at": "2026-11-05T15:46:02-05:00",
+    "fit_score": 35,
+    "reasoning": "The candidate has solid software development and automotive cybersecurity research experience, and strong cloud skills, which align partially with Stripe's security needs. However, the role requires senior-level abuse control expertise and experience in large‑scale financial security, which the resume does not demonstrate, and the candidate is seeking a student/part‑time position in Germany rather than a staff role in Bucharest.",
+    "cover_letter_opener": "I’m excited to bring my cybersecurity research and cloud engineering background to Stripe’s mission of securing the internet’s financial infrastructure.",
+    "scored_at": "2026-11-06T10:11:40.138Z"
   },
   {
     "job_id": "7f0e864e14c4fd7e",
