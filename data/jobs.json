@@ -1,5 +1,33 @@
 [
   {
+    "job_id": "609da10ef48c0561",
+    "title": "Solutions Architect, Metronome (AI Native)",
+    "company": "stripe",
+    "location": "San Francisco, Seattle, US-Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8368260",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are &lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/span&gt;&lt;/p&gt; &lt;h3&gt;About the team&lt;/h3&gt; &lt;p&gt;Metronome is the leading usage-based billing platform built for modern software companies. With Metronome, now a Stripe product, companies can launch products faster, offer any pricing model, and streamline finance workflows without writing code.&lt;/p&gt; &lt;p&gt;Our platform computes hundreds of millions of invoices per billing period and continues to scale rapidly to accommodate new customers. We save them days of development time and man",
+    "source": "greenhouse",
+    "posted_at": "2026-11-09T17:53:24-05:00",
+    "fit_score": 45,
+    "reasoning": "The candidate brings solid cloud architecture experience with Azure certifications and strong backend development skills, which align with the architectural aspects of the role. However, they lack direct AI/ML or LLM experience and specific fintech exposure that Stripe seeks, and their current focus is on a part‑time role in Germany, reducing overall fit.",
+    "cover_letter_opener": "I’m thrilled by Stripe’s mission to power the internet’s economy and eager to help build AI‑native solutions that accelerate global commerce.",
+    "scored_at": "2026-11-10T05:21:51.871Z"
+  },
+  {
+    "job_id": "eafcde5163100d8b",
+    "title": "Head of Strategic Accounts, Solutions Architecture",
+    "company": "stripe",
+    "location": "San Francisco, CA or New York, NY or Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8361184",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who We Are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the Team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;The Solutions Architecture team partners with Stripe’s users to design and build transformative solutions that unlock growth, modernize business models, and shape the future of commerce. We work with executives, product leaders, and engineering teams at the world’s largest and most innovative companies, helping them translate ambitious strategies into scalable solutions on Stripe.&lt;/p&gt; &lt;p&gt;Strategic Accounts Solutions Architecture serves Stripe’s most complex and consequen",
+    "source": "greenhouse",
+    "posted_at": "2026-11-09T16:54:55-05:00",
+    "fit_score": 20,
+    "reasoning": "The candidate has solid technical experience with Java, Spring Boot, cloud (Azure), and software development, which aligns with some solutions architecture skills. However, the Head of Strategic Accounts role at Stripe demands extensive senior-level experience in strategic account management, payments infrastructure, and leadership, which the resume does not demonstrate. Consequently, the overall fit is limited.",
+    "cover_letter_opener": "I am thrilled by the opportunity to bring my cloud and backend expertise to Stripe’s innovative solutions architecture team and help drive strategic growth for our enterprise partners.",
+    "scored_at": "2026-11-10T05:21:51.862Z"
+  },
+  {
     "job_id": "419d3a48f1b7f63a",
     "title": "Regional Sales Director, Canada",
     "company": "gitlab",
