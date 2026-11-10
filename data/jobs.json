@@ -1,5 +1,47 @@
 [
   {
+    "job_id": "4b43ac555dbc8d47",
+    "title": "Manager, Sales Development (Japan)",
+    "company": "stripe",
+    "location": "Tokyo, Japan",
+    "url": "https://stripe.com/jobs/search?gh_jid=8370799",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;As a Sales Development Manager at Stripe, you will architect the next phase of our growth strategy by leading an elite team of SDRs in Japan. In this pivotal role, you&#39;ll collaborate with Stripe&#39;s Sales teams to design and execute pipeline strategies that drive sustainable revenue growth for the Japan team.&lt;/p&gt; &lt;p&gt;We&#39;re seeking a visionary sales leader who combines tactical excellence with strategic depth. The ideal candidate possesses exceptional coaching ab",
+    "source": "greenhouse",
+    "posted_at": "2026-11-10T05:09:38-05:00",
+    "fit_score": 12,
+    "reasoning": "The candidate’s experience is heavily focused on software engineering, cloud, and AI, with no demonstrated sales, business development, or Japanese language skills. Additionally, the candidate is based in Germany and seeking part‑time roles, which does not align with a full‑time managerial sales position in Tokyo. Consequently, the overall match to the Stripe Sales Development Manager role is very low.",
+    "cover_letter_opener": "I am thrilled by Stripe’s mission to grow the internet economy and eager to contribute my technical insight and enthusiasm to the Sales Development team in Tokyo.",
+    "scored_at": "2026-11-10T14:01:17.321Z"
+  },
+  {
+    "job_id": "84bbe955e13ff708",
+    "title": "Solutions Architect, Enterprise (French Speaking)",
+    "company": "stripe",
+    "location": "France",
+    "url": "https://stripe.com/jobs/search?gh_jid=8336717",
+    "description": "&lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;About the team&lt;/h3&gt; &lt;p&gt;The Solutions Architecture Team partners with our users to realize their full potential through the adoption of prescriptive solutions that drive their growth and success. We influence revenue growth across Stripe’s product portfolio, and collaborate with sales, support, product management, and Stripe’s executive team to provide the best experience to our most valued customers.&amp;nbsp;&lt;/p&gt; &lt;h2&gt;What you’ll do&lt;/h2&gt; &lt;p&gt;As a member of the team, the Solutions Architect will build highly consultative trusted relationships with c-level executives an",
+    "source": "greenhouse",
+    "posted_at": "2026-11-10T04:52:13-05:00",
+    "fit_score": 35,
+    "reasoning": "The candidate possesses solid cloud and backend engineering skills, including Azure certifications and Java/Spring experience, which are relevant to a Solutions Architect role. However, the job requires French language proficiency, enterprise‑level payments expertise, and a focus on Stripe's financial platform, areas not demonstrated in the resume. Additionally, the candidate is currently based in Germany and seeking a part‑time student role, which misaligns with the full‑time senior position in France.",
+    "cover_letter_opener": "I am thrilled by Stripe’s mission to power the global economy and eager to bring my cloud architecture expertise to help build the next generation of enterprise payment solutions.",
+    "scored_at": "2026-11-10T14:01:17.322Z"
+  },
+  {
+    "job_id": "7aea95deac7ab2ae",
+    "title": "Engineering Manager, Security Platform: Authentication",
+    "company": "gitlab",
+    "location": "Bangalore, India",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8929723002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-11-10T02:56:57-05:00",
+    "fit_score": 25,
+    "reasoning": "The candidate possesses relevant security and backend development experience, especially with Java, Spring Boot, and cloud platforms, which aligns partially with GitLab's authentication focus. However, the role requires senior engineering management experience, deep authentication expertise, and location in Bangalore, which the candidate does not currently meet.",
+    "cover_letter_opener": "I am thrilled at the prospect of applying my cybersecurity and cloud engineering skills to strengthen GitLab’s Authentication platform and drive innovative, secure DevSecOps solutions.",
+    "scored_at": "2026-11-10T14:01:17.320Z"
+  },
+  {
     "job_id": "609da10ef48c0561",
     "title": "Solutions Architect, Metronome (AI Native)",
     "company": "stripe",
