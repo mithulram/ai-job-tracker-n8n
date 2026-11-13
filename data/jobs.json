@@ -1,5 +1,47 @@
 [
   {
+    "job_id": "ecf4d1398c44b82a",
+    "title": "Integration Reliability Engineer, Technical Operations",
+    "company": "stripe",
+    "location": "Singapore",
+    "url": "https://stripe.com/jobs/search?gh_jid=8282171",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies, from the world&#39;s largest enterprises to the most ambitious startups, use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Stripe&#39;s Money Management products (Financial Accounts, Treasury, Global Payouts, Issuing, and Capital) let businesses and platforms hold, move, spend, and earn on their money using the same infrastructure they already use for payments. APAC Money as a Service (MaaS) is a newly formed team, based in Singapore, responsible for bringing this product suite to Asia-Pacific markets, enabling global businesses and platforms to use these capabilities directly or offer them to the",
+    "source": "greenhouse",
+    "posted_at": "2026-11-12T21:43:56-05:00",
+    "fit_score": 30,
+    "reasoning": "The candidate has strong backend and cloud experience, but most of it is focused on Java, Spring Boot, and Azure rather than the reliability engineering and payment integration expertise Stripe seeks. Additionally, the candidate is looking for part‑time roles in Germany, while the position is a full‑time role in Singapore, creating a significant location and employment‑type mismatch. Consequently, the overall alignment with the Integration Reliability Engineer role is limited.",
+    "cover_letter_opener": "I am excited about Stripe’s mission to power the global economy and eager to contribute my backend and cloud expertise to ensure seamless, reliable integrations for your platform.",
+    "scored_at": "2026-11-13T04:14:36.086Z"
+  },
+  {
+    "job_id": "91e6fcd2c72ba598",
+    "title": "Solutions Architect (Korea Market)",
+    "company": "stripe",
+    "location": "Singapore",
+    "url": "https://stripe.com/jobs/search?gh_jid=8354762",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;At Stripe, you have an unprecedented opportunity to put the global economy within everyone’s reach. Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead.&amp;nbsp;&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;The Solutions Architecture Team partners with our users to realize their full potential through the adoption of prescriptive solutions that drive their growth and success.&amp;nbsp;&lt;/p&gt; &lt;p&gt;We work with founders, C-level executives, finance leaders, product design and engineering teams at large global brands and platforms who are building financial services solutions with Stripe.&amp;nbsp; We work closely with Account Executives, Professional Services, Customer Success Managers, Partners, Technical Account Manag",
+    "source": "greenhouse",
+    "posted_at": "2026-11-12T20:25:37-05:00",
+    "fit_score": 35,
+    "reasoning": "The candidate has strong backend and cloud experience with Spring Boot, Azure, and Python, which aligns with the technical foundation of a Solutions Architect role. However, they lack direct experience in payments, financial services, and the Korean market, and their current focus is on AI and automotive cybersecurity rather than Stripe's core domain. Consequently, the overall fit is moderate but limited.",
+    "cover_letter_opener": "I am excited about the opportunity to bring my cloud architecture expertise to Stripe and help shape innovative payment solutions for the Korean market.",
+    "scored_at": "2026-11-13T04:14:36.087Z"
+  },
+  {
+    "job_id": "b089cfd673cd7fc5",
+    "title": "Staff Software Engineer, Code Forge",
+    "company": "stripe",
+    "location": "San Francisco, Seattle, US-Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8293644",
+    "description": "&lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;About the team&lt;/h3&gt; &lt;p&gt;The Developer Productivity organization works to make Stripe the most productive place of an engineer’s career. The Code Review team builds the tools and processes that help Stripe engineers review and ship code safely and efficiently. We treat engineers’ attention as a valuable resource, building tools that help them understand changes and focus on the decisions that need human judgment.&lt;/p&gt; &lt;p&gt;Our goal is to build an AI review agent that outperforms human review at preventing problems after changes merge, while helping developers move quickly. We are als",
+    "source": "greenhouse",
+    "posted_at": "2026-11-12T17:21:09-05:00",
+    "fit_score": 30,
+    "reasoning": "The candidate has solid backend experience with Java, Spring Boot, and cloud platforms, which aligns with Stripe's engineering needs. However, the role is a senior staff position requiring extensive experience, payments domain knowledge, and likely full-time availability, which the candidate's current part-time, academic focus does not meet. Additionally, the candidate is based in Germany and seeking Werkstudent roles, further reducing fit.",
+    "cover_letter_opener": "I am excited about the opportunity to bring my backend and cloud expertise to Stripe's Code Forge team and help power the next generation of internet finance.",
+    "scored_at": "2026-11-13T04:14:36.088Z"
+  },
+  {
     "job_id": "86f6aa1fefb7f045",
     "title": "Software Engineer – Backend Engineer – Tax Engineering",
     "company": "stripe",
