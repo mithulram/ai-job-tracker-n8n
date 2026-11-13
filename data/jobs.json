@@ -1,5 +1,33 @@
 [
   {
+    "job_id": "08f1772bc104469c",
+    "title": "Software Engineer, Vulnerability Management",
+    "company": "stripe",
+    "location": "na",
+    "url": "https://stripe.com/jobs/search?gh_jid=8384567",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are &lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/span&gt;&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;In this role, you would join Stripe&#39;s Vulnerability Management team, whose mission is to &quot;Surface vulnerabilities at scale across Stripe.&quot; By joining our team, you will have an unprecedented opportunity to put the global economy within everyone’s reach, securely.&lt;/p&gt; &lt;p&gt;Our vision is to create a culture of continuous excellence in managing vulnerabilities. We want to enhance customer trus",
+    "source": "greenhouse",
+    "posted_at": "2026-11-13T13:29:47-05:00",
+    "fit_score": 35,
+    "reasoning": "The candidate has strong Java and backend experience and some cybersecurity research, which aligns partially with vulnerability management tasks. However, the role focuses on payment infrastructure security at Stripe and prefers experience with cloud security in a production finance environment, which the resume does not demonstrate, and the candidate is seeking a part‑time position in Germany while the job is likely full‑time in North America.",
+    "cover_letter_opener": "I’m excited to bring my automotive cybersecurity research and Java backend expertise to help Stripe strengthen its vulnerability management platform.",
+    "scored_at": "2026-11-13T21:08:32.200Z"
+  },
+  {
+    "job_id": "79929379b2cd2b94",
+    "title": "Senior Backend Engineer (Go), Tenant Scales: Gitaly",
+    "company": "gitlab",
+    "location": "Remote, Canada",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8937425002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-11-13T09:29:07-05:00",
+    "fit_score": 38,
+    "reasoning": "The candidate has solid backend experience with Java, Spring Boot, and cloud platforms, which aligns with GitLab's focus on scalable services. However, they lack Go expertise and senior-level experience, and are currently seeking part‑time student roles rather than a senior full‑time position. These gaps reduce the overall fit for the Senior Backend Engineer role.",
+    "cover_letter_opener": "I am excited to bring my strong backend and cloud security background to GitLab’s innovative DevSecOps team!",
+    "scored_at": "2026-11-13T21:08:32.199Z"
+  },
+  {
     "job_id": "c33892f422b871c8",
     "title": "Renewals Manager - Italy/ Spain",
     "company": "gitlab",
