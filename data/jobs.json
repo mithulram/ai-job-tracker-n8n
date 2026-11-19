@@ -1,5 +1,47 @@
 [
   {
+    "job_id": "fc69d99930854401",
+    "title": "Senior Recruiter, Public Sector GTM",
+    "company": "gitlab",
+    "location": "Remote, United States",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8945990002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-11-18T20:54:18-05:00",
+    "fit_score": 12,
+    "reasoning": "The candidate's background is heavily technical, focusing on software development, cloud, and AI, whereas the role is a senior recruiting position requiring talent acquisition expertise. Additionally, the job is remote US-focused while the candidate seeks part‑time work in Germany, creating a significant mismatch in both skill set and location.",
+    "cover_letter_opener": "I am excited about GitLab’s innovative culture and would love to leverage my passion for technology to help attract top talent for the Public Sector GTM team.",
+    "scored_at": "2026-11-19T02:10:14.984Z"
+  },
+  {
+    "job_id": "cf993f9baecabb74",
+    "title": "Executive Assistant, Office of the CTO",
+    "company": "gitlab",
+    "location": "Remote, Canada; Remote, United States",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8940703002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-11-18T19:55:09-05:00",
+    "fit_score": 15,
+    "reasoning": "The candidate's experience is focused on software development, cloud, and cybersecurity, while the role is an executive assistant supporting the CTO, requiring administrative, coordination, and communication skills rather than technical coding expertise. Consequently, there is minimal overlap between the resume and the job requirements.",
+    "cover_letter_opener": "I am excited about the opportunity to support GitLab’s CTO team by leveraging my strong organizational skills and passion for tech-driven productivity.",
+    "scored_at": "2026-11-19T02:10:14.983Z"
+  },
+  {
+    "job_id": "6da7905403857dbd",
+    "title": "Strategic Account Executive, Financial Services - US Central",
+    "company": "gitlab",
+    "location": "Remote, United States",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8897543002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-11-18T16:10:44-05:00",
+    "fit_score": 12,
+    "reasoning": "The candidate’s experience is focused on software development, cloud engineering, and AI research, with no demonstrated sales or account management background. Additionally, the candidate is seeking part‑time roles in Germany, while the position is a senior, full‑time Strategic Account Executive role targeting US financial services customers.",
+    "cover_letter_opener": "I am thrilled by GitLab’s AI‑driven DevSecOps platform and eager to bring my passion for technology and customer success to the Strategic Account Executive role.",
+    "scored_at": "2026-11-19T02:10:14.985Z"
+  },
+  {
     "job_id": "bff6c0afbbb366f6",
     "title": "Senior Manager, Enterprise Application Development Engineering",
     "company": "gitlab",
