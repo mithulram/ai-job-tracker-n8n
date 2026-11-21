@@ -1,5 +1,19 @@
 [
   {
+    "job_id": "10f61f6f9b2526ca",
+    "title": "Staff Data Scientist, Fraud",
+    "company": "stripe",
+    "location": "N/A",
+    "url": "https://stripe.com/jobs/search?gh_jid=8323907",
+    "description": "&lt;div class=&quot;ace-line gutter-author-p-118095 emptyGutter&quot;&gt; &lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/span&gt;&lt;/p&gt; &lt;h3&gt;About the team&lt;/h3&gt; &lt;p&gt;The Fraud Data Science team focuses on merchant fraud detection, account reviews, and interventions to protect Stripe and its users. We partner with Fraud Engineering and Risk Operations to turn data science into production systems and measurable improvements in fraud prevention. Our work includes evaluating how AI agents can support fraud investigations and review decisions while maintaining decision quality.&lt;/p&gt; &lt;h2&gt;What ",
+    "source": "greenhouse",
+    "posted_at": "2026-11-20T15:40:04-05:00",
+    "fit_score": 20,
+    "reasoning": "The candidate’s background is strong in software engineering, cloud infrastructure, and Java/Flutter development, but the role requires senior-level data science expertise in fraud detection, statistical modeling, and machine learning, which are not demonstrated in the resume. Additionally, the position is a staff-level role, whereas the candidate is still a student seeking entry‑level positions. Therefore the overall fit is low.",
+    "cover_letter_opener": "I’m excited to bring my strong cloud and backend engineering skills to Stripe’s fraud detection team and help build cutting‑edge data‑driven solutions.",
+    "scored_at": "2026-11-21T01:54:50.578Z"
+  },
+  {
     "job_id": "c998c6a2543ab2c1",
     "title": "Principal Revenue Strategist",
     "company": "gitlab",
