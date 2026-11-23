@@ -1,5 +1,19 @@
 [
   {
+    "job_id": "545ffd724a4ac210",
+    "title": "Engineering Manager - Developer Tooling",
+    "company": "stripe",
+    "location": "Dublin ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8407180",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;The Developer Productivity group is responsible for making Stripe’s developers happy and productive. We work on tools, processes, and code refactoring to accelerate Stripe engineering as Stripe scales.&lt;/p&gt; &lt;p&gt;We’re looking for people with an interest in building the tools to improve the day to day experience of Engineers in Stripe. The ideal candidate will have a mix of technical expertise in either language processing tools, version control systems, contract testing, bu",
+    "source": "greenhouse",
+    "posted_at": "2026-11-22T15:55:37-05:00",
+    "fit_score": 30,
+    "reasoning": "The candidate has strong backend and cloud experience with Java, Spring Boot, and Azure, which are relevant to engineering at Stripe, but lacks specific experience in developer tooling, payments infrastructure, and managerial responsibilities required for an Engineering Manager role. Additionally, the candidate is currently a student seeking part‑time work, whereas the position is a senior full‑time managerial role, reducing overall fit.",
+    "cover_letter_opener": "I am thrilled by Stripe’s mission to power the internet economy and eager to bring my backend and cloud expertise to help build world‑class developer tooling for your platform.",
+    "scored_at": "2026-11-23T01:17:09.094Z"
+  },
+  {
     "job_id": "10f61f6f9b2526ca",
     "title": "Staff Data Scientist, Fraud",
     "company": "stripe",
