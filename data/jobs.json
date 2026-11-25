@@ -1,5 +1,19 @@
 [
   {
+    "job_id": "d4e789795302f816",
+    "title": "Analytics Engineer",
+    "company": "stripe",
+    "location": "New York",
+    "url": "https://stripe.com/jobs/search?gh_jid=8415333",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Privy&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Our mission is to make privacy and user ownership the default online. We build simple, flexible developer tooling that make it easy to build products that put users first. By leveraging modern cryptography, we shift the status quo around digital ownership and protect the accounts and assets of millions of users.&lt;/p&gt; &lt;p&gt;Learn more about Privy:&lt;a href=&quot;https://privy.io/blog/announcing-our-acquisition-by-stripe&quot;&gt; Privy and Stripe: Bringing crypto to everyone&lt;/a&gt;&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the Team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Data at Privy is not just about running queries or building reports. We transform messy, high-volume data into scalable systems and clear insights that guide product decisions and business strategy. We design pipelines that are resilient, models that are intuitive, and tools that make data accessible and trustworthy for everyone across the company. We believe in clean abstractions, transparency, and sharing our work so teammates can build on top of it. We push each other to ask sha",
+    "source": "greenhouse",
+    "posted_at": "2026-11-24T17:35:42-05:00",
+    "fit_score": 35,
+    "reasoning": "The candidate has strong backend and cloud engineering experience with Java, Spring Boot, Azure, and Python, which are useful for building data services. However, the resume lacks specific analytics, data pipeline, or SQL expertise typically required for an Analytics Engineer role, and there is no mention of experience with Stripe or related fintech products. Consequently, the overall alignment with the job’s core responsibilities is limited.",
+    "cover_letter_opener": "I am thrilled by Privy's mission to empower user privacy and am eager to apply my cloud‑native engineering skills to build robust analytics solutions for Stripe’s innovative platform.",
+    "scored_at": "2026-11-25T03:54:05.643Z"
+  },
+  {
     "job_id": "bd855e6d0d6f458b",
     "title": "Infrastructure Engineer, Workflow Engine",
     "company": "stripe",
