@@ -1,5 +1,47 @@
 [
   {
+    "job_id": "c38b1c436231ea49",
+    "title": "Solutions Architect, Enterprise, UK",
+    "company": "stripe",
+    "location": "N/A",
+    "url": "https://stripe.com/jobs/search?gh_jid=8336697",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are &lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/span&gt;&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;The Solutions Architecture team works with our largest, most complex users to understand their technical requirements and map those to Stripe technology.&lt;/p&gt; &lt;p&gt;As a Solutions Architect, you&#39;ll partner with Sales to technically qualify new business opportunities, demonstrate the art of the possible with the Stripe Platform, and design robust technical solutions to enable payment transactions, manag",
+    "source": "greenhouse",
+    "posted_at": "2026-11-25T10:44:22-05:00",
+    "fit_score": 45,
+    "reasoning": "The candidate brings solid backend development experience with Java, Spring Boot, and cloud expertise on Azure, which aligns with many technical aspects of a Solutions Architect role. However, they lack direct experience in payments platforms, enterprise-scale architecture, and are seeking a part‑time student position in Germany rather than a full‑time UK role at Stripe. This gap reduces the overall fit for the specific enterprise solutions architect position.",
+    "cover_letter_opener": "I am thrilled by Stripe’s mission to boost the internet’s GDP and eager to apply my cloud and backend expertise to help shape innovative enterprise solutions for your global customers.",
+    "scored_at": "2026-11-25T16:31:53.684Z"
+  },
+  {
+    "job_id": "6e19dc0f20898934",
+    "title": "Solutions Architect, Platforms",
+    "company": "stripe",
+    "location": "Dublin",
+    "url": "https://stripe.com/jobs/search?gh_jid=8396176",
+    "description": "&lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;At Stripe, you have an unprecedented opportunity to put the global economy within everyone’s reach. Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead.&amp;nbsp;&lt;/p&gt; &lt;h3&gt;About the team&lt;/h3&gt; &lt;p&gt;The Solutions Architecture Team partners with our users to realise their full potential through the adoption of prescriptive solutions that drive their growth and success.&lt;/p&gt; &lt;p&gt;We work with C-level executives, finance leaders, product design and engineering teams at large global brands and platforms who are building financial services solutions with Stripe.&amp;nbsp; We work closely with Account Executives, Professional Services, Customer Success Managers, Partners, Technical Account Managers and Product Teams to develop and execute on the account strategy for Stripe’s platform prospects.&amp;n",
+    "source": "greenhouse",
+    "posted_at": "2026-11-25T09:07:24-05:00",
+    "fit_score": 55,
+    "reasoning": "The candidate brings solid backend development experience with Java, Spring Boot, and cloud expertise demonstrated by multiple Azure certifications, which aligns with the architectural focus of the role. However, they lack direct payments or Stripe-specific platform experience and are currently based in Germany seeking part‑time work, which reduces the overall match.",
+    "cover_letter_opener": "I am thrilled at the prospect of contributing my cloud architecture and backend expertise to Stripe’s innovative payments platform and helping accelerate the internet’s global economy.",
+    "scored_at": "2026-11-25T16:31:53.684Z"
+  },
+  {
+    "job_id": "cbd0823a99a8173d",
+    "title": "Business Development Representative, Australia",
+    "company": "gitlab",
+    "location": "Remote, Australia",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8959549002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-11-25T00:15:42-05:00",
+    "fit_score": 20,
+    "reasoning": "The candidate's experience is heavily technical, focusing on software development, cloud, and cybersecurity, with no evident sales or business development background. The role requires strong communication, client outreach, and revenue generation skills, which are not demonstrated in the resume. Therefore, the alignment with a Business Development Representative position is limited.",
+    "cover_letter_opener": "I am thrilled by GitLab’s AI‑driven DevSecOps vision and eager to help expand its impact across Australia as a Business Development Representative.",
+    "scored_at": "2026-11-25T16:31:53.683Z"
+  },
+  {
     "job_id": "d4e789795302f816",
     "title": "Analytics Engineer",
     "company": "stripe",
