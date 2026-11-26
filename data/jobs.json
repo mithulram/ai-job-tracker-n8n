@@ -1,5 +1,19 @@
 [
   {
+    "job_id": "ffd8476a7278eedf",
+    "title": "Staff Software Engineer, Batch Compute",
+    "company": "stripe",
+    "location": "Seattle",
+    "url": "https://stripe.com/jobs/search?gh_jid=8417797",
+    "description": "&lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;The Batch Compute Experience team owns the platform that Stripe engineers use to build, run, debug and optimize Apache Spark jobs. Those jobs handle large-scale data processing for analytics, machine learning, finance and core product data pipelines. Hundreds of engineers and thousands of production jobs driving critical business processes, such as payouts and reconciliations, run on this platform.&amp;nbsp;&lt;/p&gt; &lt;p&gt;Today, diagnosing and tuning a job means reasoning by hand across scattered telemetry",
+    "source": "greenhouse",
+    "posted_at": "2026-11-25T13:51:00-05:00",
+    "fit_score": 30,
+    "reasoning": "The candidate has solid backend experience with Java and Spring Boot and cloud expertise in Azure, which aligns with Stripe's need for scalable systems. However, the role is a senior staff position focused on batch compute at Stripe in Seattle, while the candidate is a student in Germany seeking part‑time work and lacks specific batch processing or large‑scale distributed systems experience. Therefore the overall match is limited.",
+    "cover_letter_opener": "I am thrilled by Stripe’s mission to power the internet economy and eager to contribute my backend and cloud expertise to the innovative batch compute team.",
+    "scored_at": "2026-11-26T01:22:26.366Z"
+  },
+  {
     "job_id": "c38b1c436231ea49",
     "title": "Solutions Architect, Enterprise, UK",
     "company": "stripe",
