@@ -1,5 +1,19 @@
 [
   {
+    "job_id": "6311448a4720c3f2",
+    "title": "Solutions Architect, Velocity",
+    "company": "stripe",
+    "location": "Dublin",
+    "url": "https://stripe.com/jobs/search?gh_jid=8417067",
+    "description": "&lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;About the team&lt;/h3&gt; &lt;p&gt;Stripe’s (Startups + Small and Medium Businesses) SSMB Solutions Architecture (SA) team works with technical and business leaders (CTO/ CIO/ CEO/ Founders etc.), payments leaders and product engineering teams in the mid-market segment to evangelize Stripe’s solutions in the market. A solutions architect’s role is to build relationships with decision makers and think strategically about the business needs of Stripe’s customers. Solution Architects identify and propose Stripe solutions to solve complex business challenges and drive growth for our customers. SSMB SAs est",
+    "source": "greenhouse",
+    "posted_at": "2026-11-26T08:56:37-05:00",
+    "fit_score": 55,
+    "reasoning": "The candidate brings solid cloud architecture credentials and extensive Java/Spring backend experience, which align with the architectural demands of a Solutions Architect role. However, they lack direct payments industry exposure, specific Stripe technology experience, and are currently based in Germany seeking part‑time work, reducing overall fit.",
+    "cover_letter_opener": "I am excited to bring my Azure‑certified architecture expertise and passion for building scalable, secure solutions to Stripe’s Velocity team in Dublin.",
+    "scored_at": "2026-11-26T20:45:17.812Z"
+  },
+  {
     "job_id": "ffd8476a7278eedf",
     "title": "Staff Software Engineer, Batch Compute",
     "company": "stripe",
