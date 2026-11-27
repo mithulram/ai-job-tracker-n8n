@@ -1,5 +1,19 @@
 [
   {
+    "job_id": "22340c06e12e8fc0",
+    "title": "Enterprise Applications Engineer, Zendesk",
+    "company": "gitlab",
+    "location": "Remote, United States",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8961167002",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt",
+    "source": "greenhouse",
+    "posted_at": "2026-11-26T18:18:03-05:00",
+    "fit_score": 30,
+    "reasoning": "The candidate has strong backend and cloud experience with Java, Spring Boot, and Azure, which aligns partially with enterprise application development. However, the role focuses on Zendesk integration within GitLab’s DevSecOps platform and expects experience with relevant technologies and a full-time remote US commitment, which the candidate’s current part‑time, Germany‑based status and AI‑focused career goal do not match.",
+    "cover_letter_opener": "I am excited to bring my expertise in scalable backend services and cloud architecture to GitLab’s Enterprise Applications Engineer role, helping to enhance Zendesk integrations for customers worldwide.",
+    "scored_at": "2026-11-27T03:24:48.873Z"
+  },
+  {
     "job_id": "6311448a4720c3f2",
     "title": "Solutions Architect, Velocity",
     "company": "stripe",
